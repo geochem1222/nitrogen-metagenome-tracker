@@ -1,0 +1,1406 @@
+#!/usr/bin/env python3
+"""Update paper metadata for the nitrogen metagenomics tracker."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import Any
+
+
+FULL_LIBRARY_TARGET = 5000
+DEFAULT_DAILY_CANDIDATES = 800
+DEFAULT_CACHE_DAYS = 30
+PUBMED_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+OPENALEX_BASE = "https://api.openalex.org/works"
+CROSSREF_BASE = "https://api.crossref.org/works"
+SEMANTIC_SCHOLAR_BASE = "https://api.semanticscholar.org/graph/v1/paper/search"
+SEMANTIC_SCHOLAR_BULK_BASE = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
+SEMANTIC_SCHOLAR_BATCH_BASE = "https://api.semanticscholar.org/graph/v1/paper/batch"
+SEMANTIC_SCHOLAR_RECOMMENDATIONS_BASE = "https://api.semanticscholar.org/recommendations/v1/papers"
+
+ENVIRONMENT_TERMS = [
+    "soil",
+    "soils",
+    "water",
+    "waters",
+    "waterbody",
+    "waterbodies",
+    "water body",
+    "water bodies",
+    "aquatic",
+    "freshwater",
+    "river",
+    "rivers",
+    "stream",
+    "streams",
+    "creek",
+    "creeks",
+    "ditch",
+    "ditches",
+    "canal",
+    "canals",
+    "channel",
+    "channels",
+    "drainage ditch",
+    "drainage channel",
+    "lake",
+    "lakes",
+    "reservoir",
+    "reservoirs",
+    "pond",
+    "ponds",
+    "wetland",
+    "wetlands",
+    "marsh",
+    "swamp",
+    "sediment",
+    "sediments",
+    "sedimentary",
+    "benthic",
+    "groundwater",
+    "estuary",
+]
+
+GENOME_TERMS = [
+    "metagenome",
+    "metagenomes",
+    "metagenomic",
+    "metagenomics",
+    "metatranscriptome",
+    "metatranscriptomic",
+    "metatranscriptomics",
+    "microbiome",
+    "microbial community",
+    "microbial communities",
+    "shotgun sequencing",
+    "functional gene",
+    "functional genes",
+    "nitrogen cycling gene",
+    "nitrogen cycling genes",
+    "amoA",
+    "nirK",
+    "nirS",
+    "nosZ",
+    "nifH",
+    "hzsA",
+    "hao",
+    "nxrA",
+    "narG",
+    "napA",
+    "nrfA",
+    "ureC",
+]
+
+NITROGEN_TERMS = [
+    "nitrogen cycle",
+    "nitrogen cycling",
+    "nitrogen",
+    "nitrification",
+    "denitrification",
+    "nitrogen fixation",
+    "anammox",
+    "dissimilatory nitrate reduction",
+    "DNRA",
+    "nitrate reduction",
+    "ammonia oxidation",
+    "ammonium oxidation",
+    "nitrite oxidation",
+    "nitrous oxide",
+    "N2O",
+    "nitrate",
+    "nitrite",
+    "ammonia",
+    "ammonium",
+    "urea hydrolysis",
+]
+
+ENVIRONMENT_GROUPS = [
+    "soil soils",
+    "water waters aquatic freshwater waterbody waterbodies",
+    "river rivers stream streams creek creeks",
+    "ditch ditches canal canals channel channels drainage ditch",
+    "lake lakes reservoir reservoirs pond ponds",
+    "wetland wetlands marsh swamp",
+    "sediment sediments benthic",
+    "groundwater estuary",
+]
+
+GENOME_GROUPS = [
+    "metagenome metagenomic metagenomics",
+    "metatranscriptome metatranscriptomic metatranscriptomics",
+    "microbiome microbial community functional genes",
+    "amoA nirK nirS nosZ nifH",
+    "hzsA hao nxrA narG napA nrfA ureC",
+]
+
+NITROGEN_GROUPS = [
+    "nitrogen cycle nitrogen cycling",
+    "nitrification ammonia oxidation nitrite oxidation",
+    "denitrification nitrous oxide nitrate reduction",
+    "nitrogen fixation nifH",
+    "anammox hzsA",
+    "DNRA nrfA dissimilatory nitrate reduction",
+]
+
+SEARCH_QUERIES = [
+    f"{environment} {genome} {nitrogen}"
+    for i, environment in enumerate(ENVIRONMENT_GROUPS)
+    for j, genome in enumerate(GENOME_GROUPS)
+    for k, nitrogen in enumerate(NITROGEN_GROUPS)
+]
+
+SEMANTIC_BULK_QUERY = """
+(
+  soil OR soils OR water OR aquatic OR freshwater
+  OR river OR rivers OR stream OR streams OR creek OR creeks
+  OR ditch OR ditches OR canal OR canals OR channel OR channels
+  OR lake OR lakes OR reservoir OR reservoirs OR pond OR ponds
+  OR wetland OR wetlands OR marsh OR swamp
+  OR sediment OR sediments OR sedimentary OR benthic
+  OR groundwater OR estuary
+)
+AND
+(
+  metagenome OR metagenomes OR metagenomic OR metagenomics
+  OR metatranscriptome OR metatranscriptomic OR metatranscriptomics
+  OR microbiome OR "microbial community" OR "microbial communities"
+  OR "shotgun sequencing" OR "functional gene" OR "functional genes"
+  OR "nitrogen cycling gene" OR "nitrogen cycling genes"
+  OR amoA OR nirK OR nirS OR nosZ OR nifH OR hzsA OR hao
+  OR nxrA OR narG OR napA OR nrfA OR ureC
+)
+AND
+(
+  "nitrogen cycle" OR "nitrogen cycling" OR nitrogen
+  OR nitrification OR denitrification OR "nitrogen fixation"
+  OR anammox OR "dissimilatory nitrate reduction" OR DNRA
+  OR "nitrate reduction" OR "ammonia oxidation" OR "ammonium oxidation"
+  OR "nitrite oxidation" OR "nitrous oxide" OR N2O
+  OR nitrate OR nitrite OR ammonia OR ammonium OR "urea hydrolysis"
+)
+""".replace("\n", " ")
+
+SEMANTIC_BULK_QUERIES = [
+    "soil metagenomics nitrogen cycling",
+    "soil metagenome nitrification denitrification",
+    "soil microbiome nitrogen cycling genes",
+    "soil amoA nirK nirS nosZ nifH",
+    "water metagenomics nitrogen cycle",
+    "freshwater metagenomics nitrogen cycling",
+    "lake metagenome nitrification denitrification",
+    "river metagenomics nitrogen cycling",
+    "stream metagenomics nitrogen cycle",
+    "reservoir metagenomics nitrogen cycling",
+    "pond metagenomics nitrogen cycle",
+    "wetland water metagenomics nitrogen cycling",
+    "sediment metagenomics nitrogen cycling",
+    "sediment metatranscriptomics nitrification denitrification",
+    "benthic metagenomics nitrogen cycle",
+    "groundwater metagenomics nitrogen cycling",
+    "estuary sediment metagenomics nitrogen cycling",
+    "metagenomics anammox hzsA sediment",
+    "metagenomics DNRA nrfA sediment",
+    "metagenomics nitrogen fixation nifH soil",
+]
+
+PUBMED_QUERY = """
+(
+  virus[Title/Abstract] OR viruses[Title/Abstract]
+  OR "viral ecology"[Title/Abstract] OR phage[Title/Abstract]
+  OR bacteriophage[Title/Abstract] OR bacteriophages[Title/Abstract]
+  OR virome[Title/Abstract] OR viromes[Title/Abstract]
+  OR "auxiliary metabolic gene"[Title/Abstract]
+  OR "auxiliary metabolic genes"[Title/Abstract] OR AMG[Title/Abstract] OR AMGs[Title/Abstract]
+)
+AND
+(
+  biogeochemistry[Title/Abstract] OR biogeochemical[Title/Abstract]
+  OR carbon[Title/Abstract] OR nitrogen[Title/Abstract]
+  OR sulfur[Title/Abstract] OR sulphur[Title/Abstract]
+  OR phosphorus[Title/Abstract] OR phosphate[Title/Abstract]
+  OR methane[Title/Abstract] OR nitrification[Title/Abstract]
+  OR denitrification[Title/Abstract] OR "carbon cycle"[Title/Abstract]
+  OR "nitrogen cycle"[Title/Abstract] OR "sulfur cycle"[Title/Abstract]
+  OR "phosphorus cycle"[Title/Abstract]
+)
+AND
+(
+  microbial[Title/Abstract] OR microbiome[Title/Abstract] OR metagenome[Title/Abstract]
+  OR metagenomic[Title/Abstract] OR ecosystem[Title/Abstract] OR environmental[Title/Abstract]
+  OR marine[Title/Abstract] OR ocean[Title/Abstract] OR seawater[Title/Abstract]
+  OR freshwater[Title/Abstract] OR aquatic[Title/Abstract] OR lake[Title/Abstract]
+  OR lakes[Title/Abstract] OR river[Title/Abstract] OR rivers[Title/Abstract]
+  OR stream[Title/Abstract] OR streams[Title/Abstract] OR creek[Title/Abstract]
+  OR creeks[Title/Abstract] OR ditch[Title/Abstract] OR ditches[Title/Abstract]
+  OR canal[Title/Abstract] OR canals[Title/Abstract] OR channel[Title/Abstract]
+  OR channels[Title/Abstract] OR reservoir[Title/Abstract] OR reservoirs[Title/Abstract]
+  OR pond[Title/Abstract] OR ponds[Title/Abstract] OR wetland[Title/Abstract] OR wetlands[Title/Abstract] OR marsh[Title/Abstract]
+  OR swamp[Title/Abstract] OR soil[Title/Abstract] OR sediment[Title/Abstract]
+  OR sediments[Title/Abstract] OR sedimentary[Title/Abstract] OR benthic[Title/Abstract]
+  OR groundwater[Title/Abstract] OR estuary[Title/Abstract] OR wastewater[Title/Abstract]
+)
+NOT
+(
+  patient[Title/Abstract] OR clinical[Title/Abstract] OR vaccine[Title/Abstract]
+  OR cancer[Title/Abstract] OR tumor[Title/Abstract] OR tumour[Title/Abstract]
+  OR transgenic[Title/Abstract] OR GMO[Title/Abstract] OR soybean[Title/Abstract]
+)
+""".replace("\n", " ")
+
+TAG_RULES = {
+    "soil": ["soil", "soils"],
+    "water": [
+        "water",
+        "waters",
+        "waterbody",
+        "waterbodies",
+        "water body",
+        "water bodies",
+        "aquatic",
+        "freshwater",
+        "river",
+        "rivers",
+        "stream",
+        "streams",
+        "creek",
+        "creeks",
+        "ditch",
+        "ditches",
+        "canal",
+        "canals",
+        "channel",
+        "channels",
+        "lake",
+        "lakes",
+        "reservoir",
+        "reservoirs",
+        "pond",
+        "ponds",
+        "wetland",
+        "wetlands",
+        "marsh",
+        "swamp",
+    ],
+    "metagenome": [
+        "metagenome",
+        "metagenomes",
+        "metagenomic",
+        "metagenomics",
+        "shotgun sequencing",
+    ],
+    "metatranscriptome": [
+        "metatranscriptome",
+        "metatranscriptomes",
+        "metatranscriptomic",
+        "metatranscriptomics",
+    ],
+    "microbiome": ["microbiome", "microbiomes", "microbial community", "microbial communities"],
+    "functional_gene": [
+        "functional gene",
+        "functional genes",
+        "nitrogen cycling gene",
+        "nitrogen cycling genes",
+        " amoa",
+        " nirk",
+        " nirs",
+        " nosz",
+        " nifh",
+        " hzsa",
+        " hao ",
+        " nxra",
+        " narg",
+        " napa",
+        " nrfa",
+        " urec",
+    ],
+    "nitrogen": [
+        "nitrogen",
+        "nitrification",
+        "denitrification",
+        "nitrogen fixation",
+        "anammox",
+        "dnra",
+        "nitrate",
+        "nitrite",
+        "ammonia",
+        "ammonium",
+        "nitrous oxide",
+        " n2o",
+    ],
+    "nitrification": ["nitrification", "ammonia oxidation", "ammonium oxidation", "nitrite oxidation", "amoa", "hao", "nxra"],
+    "denitrification": ["denitrification", "nitrate reduction", "nitrous oxide", " n2o", "nirk", "nirs", "nosz", "narg", "napa"],
+    "nitrogen_fixation": ["nitrogen fixation", "nifh", "diazotroph", "diazotrophic"],
+    "anammox": ["anammox", "anaerobic ammonium oxidation", "hzsa"],
+    "dnra": ["dnra", "dissimilatory nitrate reduction", "nrfa"],
+    "sediment": ["sediment", "sediments", "sedimentary", "benthic"],
+    "urban": ["urban", "city", "cities", "municipal", "stormwater", "sewer", "constructed wetland"],
+    "agriculture": ["agriculture", "agricultural", "paddy", "rice paddy", "cropland", "farmland", "fertilizer", "manure"],
+    "forest": ["forest", "forests", "forested", "woodland", "riparian forest"],
+}
+
+NOISE_TERMS = [
+    "patient",
+    "clinical",
+    "vaccine",
+    "cancer",
+    "tumor",
+    "tumour",
+    "transgenic",
+    "gmo",
+    "soybean",
+    "human gut",
+    "mouse gut",
+    "rat gut",
+    "oral microbiome",
+    "skin microbiome",
+    "wastewater treatment plant",
+    "wastewater treatment",
+    "wastewater",
+    "activated sludge",
+    "anaerobic digester",
+    "bioreactor",
+    "fermentation",
+    "composting",
+    "rare earth",
+    "disease resistance",
+    "probiotic",
+    "probiotics",
+]
+
+ENVIRONMENT_KEYWORDS = [
+    "soil",
+    "soils",
+    "water",
+    "waters",
+    "waterbody",
+    "waterbodies",
+    "water body",
+    "water bodies",
+    "aquatic",
+    "freshwater",
+    "river",
+    "rivers",
+    "stream",
+    "streams",
+    "creek",
+    "creeks",
+    "ditch",
+    "ditches",
+    "canal",
+    "canals",
+    "channel",
+    "channels",
+    "drainage ditch",
+    "drainage channel",
+    "lake",
+    "lakes",
+    "reservoir",
+    "reservoirs",
+    "pond",
+    "ponds",
+    "wetland",
+    "wetlands",
+    "marsh",
+    "swamp",
+    "sediment",
+    "sediments",
+    "sedimentary",
+    "benthic",
+    "groundwater",
+    "estuary",
+]
+
+
+def request_json(
+    url: str,
+    params: dict[str, str | int],
+    email: str | None = None,
+    api_key: str | None = None,
+) -> dict[str, Any]:
+    headers = {"User-Agent": build_user_agent(email)}
+    if api_key:
+        headers["x-api-key"] = api_key
+    full_url = f"{url}?{urllib.parse.urlencode(params)}"
+    request = urllib.request.Request(full_url, headers=headers)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=50) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except urllib.error.HTTPError as error:
+            if error.code == 429 and attempt < 2:
+                retry_after = int(error.headers.get("Retry-After", "8"))
+                time.sleep(retry_after + attempt * 4)
+                continue
+            raise
+        except urllib.error.URLError:
+            if attempt < 2:
+                time.sleep(3 + attempt * 4)
+                continue
+            raise
+
+
+def request_json_post(
+    url: str,
+    params: dict[str, str | int],
+    payload: dict[str, Any],
+    email: str | None = None,
+    api_key: str | None = None,
+) -> dict[str, Any] | list[Any]:
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": build_user_agent(email),
+    }
+    if api_key:
+        headers["x-api-key"] = api_key
+    full_url = f"{url}?{urllib.parse.urlencode(params)}"
+    body = json.dumps(payload).encode("utf-8")
+    request = urllib.request.Request(full_url, data=body, headers=headers, method="POST")
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=60) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except urllib.error.HTTPError as error:
+            if error.code == 429 and attempt < 2:
+                retry_after = int(error.headers.get("Retry-After", "8"))
+                time.sleep(retry_after + attempt * 4)
+                continue
+            raise
+        except urllib.error.URLError:
+            if attempt < 2:
+                time.sleep(3 + attempt * 4)
+                continue
+            raise
+
+
+def request_xml(url: str, params: dict[str, str | int], email: str | None = None) -> ET.Element:
+    headers = {"User-Agent": build_user_agent(email)}
+    full_url = f"{url}?{urllib.parse.urlencode(params)}"
+    request = urllib.request.Request(full_url, headers=headers)
+    with urllib.request.urlopen(request, timeout=60) as response:
+        return ET.fromstring(response.read())
+
+
+def build_user_agent(email: str | None) -> str:
+    contact = f" mailto:{email}" if email else ""
+    return f"viral-biogeochemistry-tracker/1.0{contact}"
+
+
+def fetch_openalex(retmax: int, email: str | None, query_limit: int | None = None) -> list[dict[str, Any]]:
+    queries = SEARCH_QUERIES[:query_limit] if query_limit else SEARCH_QUERIES
+    per_query = max(8, min(50, retmax // max(1, len(queries)) + 5))
+    papers: list[dict[str, Any]] = []
+    for query in queries:
+        params: dict[str, str | int] = {
+            "search": query,
+            "per-page": per_query,
+            "sort": "publication_date:desc",
+        }
+        if email:
+            params["mailto"] = email
+        try:
+            data = request_json(OPENALEX_BASE, params, email)
+        except urllib.error.URLError:
+            print(f"OpenAlex request failed for query: {query}")
+            continue
+        query_tags = classify(query)
+        papers.extend(enrich_query_tags(parse_openalex_work(item), query_tags) for item in data.get("results", []))
+        time.sleep(0.12)
+    return [paper for paper in papers if paper and is_relevant(paper)]
+
+
+def fetch_semantic_scholar(
+    retmax: int,
+    email: str | None,
+    api_key: str | None,
+    query_limit: int | None = None,
+) -> list[dict[str, Any]]:
+    queries = SEARCH_QUERIES[:query_limit] if query_limit else SEARCH_QUERIES
+    per_query = max(8, min(50, retmax // max(1, len(queries)) + 6))
+    papers: list[dict[str, Any]] = []
+    fields = semantic_fields()
+    for query in queries:
+        params: dict[str, str | int] = {
+            "query": query,
+            "limit": per_query,
+            "fields": fields,
+        }
+        try:
+            data = request_json(SEMANTIC_SCHOLAR_BASE, params, email, api_key)
+        except urllib.error.HTTPError as error:
+            if error.code == 429:
+                print("Semantic Scholar rate limit reached; continuing with collected and fallback sources.")
+                break
+            raise
+        query_tags = classify(query)
+        papers.extend(enrich_query_tags(parse_semantic_scholar_paper(item), query_tags) for item in data.get("data", []))
+        time.sleep(0.35 if api_key else 1.05)
+    return [paper for paper in papers if paper and is_relevant(paper)]
+
+
+def fetch_semantic_scholar_bulk(
+    retmax: int,
+    email: str | None,
+    api_key: str | None,
+) -> list[dict[str, Any]]:
+    fields = ",".join(
+        [
+            "paperId",
+            "title",
+            "abstract",
+            "year",
+            "publicationDate",
+            "venue",
+            "journal",
+            "authors",
+            "externalIds",
+            "url",
+            "citationCount",
+            "openAccessPdf",
+            "fieldsOfStudy",
+            "publicationTypes",
+        ]
+    )
+    per_query_target = max(100, retmax // max(1, len(SEMANTIC_BULK_QUERIES)) + 100)
+    papers: list[dict[str, Any]] = []
+    for query in SEMANTIC_BULK_QUERIES:
+        token = ""
+        query_count = 0
+        while len(papers) < retmax and query_count < per_query_target:
+            limit = min(1000, retmax - len(papers), per_query_target - query_count)
+            params: dict[str, str | int] = {
+                "query": query,
+                "fields": fields,
+                "limit": limit,
+                "sort": "publicationDate:desc",
+            }
+            if token:
+                params["token"] = token
+            try:
+                data = request_json(SEMANTIC_SCHOLAR_BULK_BASE, params, email, api_key)
+            except urllib.error.HTTPError as error:
+                print(f"Semantic Scholar bulk search failed for query '{query}': {error}")
+                break
+            items = data.get("data", [])
+            batch = [
+                enrich_query_tags(paper, classify(query))
+                for paper in (parse_semantic_scholar_paper(item) for item in items)
+                if paper and is_relevant(paper)
+            ]
+            papers.extend(batch)
+            query_count += len(items)
+            token = data.get("token") or ""
+            if not token or not items:
+                break
+            time.sleep(0.35 if api_key else 1.05)
+        if len(papers) >= retmax:
+            break
+    return papers[:retmax]
+
+
+def parse_semantic_scholar_paper(item: dict[str, Any]) -> dict[str, Any]:
+    external_ids = item.get("externalIds") or {}
+    journal = item.get("venue") or (item.get("journal") or {}).get("name", "")
+    publication_date = item.get("publicationDate") or (f"{item.get('year')}-01-01" if item.get("year") else "")
+    doi = normalize_doi(external_ids.get("DOI", ""))
+    open_pdf = item.get("openAccessPdf") or {}
+    title = item.get("title") or ""
+    abstract = item.get("abstract") or ""
+    tags = classify(" ".join([title, abstract, journal]))
+    return {
+        "id": item.get("paperId", ""),
+        "semantic_scholar_id": item.get("paperId", ""),
+        "source": "Semantic Scholar",
+        "pmid": external_ids.get("PubMed", ""),
+        "doi": doi,
+        "title": title,
+        "authors": [author.get("name", "") for author in item.get("authors", []) if author.get("name")],
+        "journal": journal,
+        "publication_date": publication_date,
+        "abstract": abstract,
+        "url": item.get("url", "") or (f"https://doi.org/{doi}" if doi else ""),
+        "semantic_scholar_url": item.get("url", ""),
+        "pdf_url": open_pdf.get("url", ""),
+        "citation_count": item.get("citationCount", 0),
+        "influential_citation_count": item.get("influentialCitationCount", 0),
+        "reference_count": item.get("referenceCount", 0),
+        "references": parse_semantic_references(item.get("references", [])),
+        "similar_papers": [],
+        "fields_of_study": item.get("fieldsOfStudy") or [],
+        "publication_types": item.get("publicationTypes") or [],
+        "tldr": (item.get("tldr") or {}).get("text", ""),
+        "metrics_source": "Semantic Scholar",
+        "tags": tags,
+    }
+
+
+def semantic_fields() -> str:
+    return ",".join(
+        [
+            "paperId",
+            "title",
+            "abstract",
+            "year",
+            "publicationDate",
+            "venue",
+            "journal",
+            "authors",
+            "externalIds",
+            "fieldsOfStudy",
+            "publicationTypes",
+            "tldr",
+            "url",
+            "citationCount",
+            "influentialCitationCount",
+            "referenceCount",
+            "references.title",
+            "references.year",
+            "references.url",
+            "references.externalIds",
+            "openAccessPdf",
+        ]
+    )
+
+
+def enrich_with_semantic_metadata(
+    papers: list[dict[str, Any]],
+    email: str | None,
+    api_key: str | None,
+    limit: int | None = None,
+    cache_days: int = DEFAULT_CACHE_DAYS,
+) -> list[dict[str, Any]]:
+    now = utc_now()
+    candidates = [
+        paper
+        for paper in papers
+        if (paper.get("doi") or paper.get("pmid") or paper.get("semantic_scholar_id") or paper.get("id"))
+        and not is_recently_enriched(paper, "detail_enriched_at", cache_days, now)
+    ]
+    if limit:
+        candidates = candidates[:limit]
+
+    by_lookup_id: dict[str, dict[str, Any]] = {}
+    ids: list[str] = []
+    for paper in candidates:
+        lookup_id = semantic_lookup_id(paper)
+        if lookup_id and lookup_id not in by_lookup_id:
+            by_lookup_id[lookup_id] = paper
+            ids.append(lookup_id)
+
+    for batch_ids in chunks(ids, 100):
+        try:
+            results = request_json_post(
+                SEMANTIC_SCHOLAR_BATCH_BASE,
+                {"fields": semantic_fields()},
+                {"ids": batch_ids},
+                email,
+                api_key,
+            )
+        except (urllib.error.HTTPError, urllib.error.URLError) as error:
+            print(f"Semantic Scholar metadata enrichment failed for a batch: {error}")
+            continue
+        for lookup_id, result in zip(batch_ids, results if isinstance(results, list) else []):
+            if not result:
+                continue
+            apply_semantic_metadata(by_lookup_id[lookup_id], result, now)
+        time.sleep(0.35 if api_key else 1.05)
+
+    return papers
+
+
+def semantic_lookup_id(paper: dict[str, Any]) -> str:
+    if paper.get("doi"):
+        return f"DOI:{paper['doi']}"
+    if paper.get("pmid"):
+        return f"PMID:{paper['pmid']}"
+    if paper.get("semantic_scholar_id"):
+        return paper["semantic_scholar_id"]
+    if paper.get("source") == "Semantic Scholar" and paper.get("id"):
+        return paper["id"]
+    return ""
+
+
+def apply_semantic_metadata(paper: dict[str, Any], item: dict[str, Any], enriched_at: datetime | None = None) -> None:
+    external_ids = item.get("externalIds") or {}
+    open_pdf = item.get("openAccessPdf") or {}
+    doi = normalize_doi(external_ids.get("DOI", ""))
+    paper["semantic_scholar_id"] = item.get("paperId", paper.get("semantic_scholar_id", ""))
+    paper["semantic_scholar_url"] = item.get("url", paper.get("semantic_scholar_url", ""))
+    paper["citation_count"] = item.get("citationCount") or 0
+    paper["influential_citation_count"] = item.get("influentialCitationCount") or 0
+    paper["reference_count"] = item.get("referenceCount") or 0
+    paper["references"] = parse_semantic_references(item.get("references"))
+    paper["fields_of_study"] = item.get("fieldsOfStudy") or paper.get("fields_of_study", [])
+    paper["publication_types"] = item.get("publicationTypes") or paper.get("publication_types", [])
+    paper["tldr"] = (item.get("tldr") or {}).get("text", paper.get("tldr", ""))
+    paper["metrics_source"] = "Semantic Scholar"
+    if doi and not paper.get("doi"):
+        paper["doi"] = doi
+    if external_ids.get("PubMed") and not paper.get("pmid"):
+        paper["pmid"] = external_ids["PubMed"]
+    if open_pdf.get("url"):
+        paper["pdf_url"] = open_pdf["url"]
+    paper["detail_enriched_at"] = format_timestamp(enriched_at or utc_now())
+
+
+def parse_semantic_references(references: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
+    if not references:
+        return []
+    parsed = []
+    for reference in references[:8]:
+        external_ids = reference.get("externalIds") or {}
+        doi = normalize_doi(external_ids.get("DOI", ""))
+        parsed.append(
+            {
+                "title": reference.get("title", ""),
+                "year": reference.get("year", ""),
+                "url": reference.get("url", "") or (f"https://doi.org/{doi}" if doi else ""),
+                "doi": doi,
+            }
+        )
+    return [reference for reference in parsed if reference["title"]]
+
+
+def enrich_with_semantic_recommendations(
+    papers: list[dict[str, Any]],
+    email: str | None,
+    api_key: str | None,
+    limit: int,
+    per_paper: int,
+    cache_days: int = DEFAULT_CACHE_DAYS,
+) -> list[dict[str, Any]]:
+    if limit <= 0 or per_paper <= 0:
+        return papers
+
+    now = utc_now()
+    candidates = [
+        paper
+        for paper in papers
+        if (paper.get("semantic_scholar_id") or paper.get("id", "").startswith("S2"))
+        and not is_recently_enriched(paper, "edges_enriched_at", cache_days, now)
+    ][:limit]
+    fields = ",".join(["paperId", "title", "year", "venue", "authors", "externalIds", "url", "citationCount"])
+
+    for paper in candidates:
+        paper_id = paper.get("semantic_scholar_id") or paper.get("id")
+        try:
+            result = request_json_post(
+                SEMANTIC_SCHOLAR_RECOMMENDATIONS_BASE,
+                {"fields": fields, "limit": per_paper},
+                {"positivePaperIds": [paper_id]},
+                email,
+                api_key,
+            )
+        except (urllib.error.HTTPError, urllib.error.URLError) as error:
+            print(f"Semantic Scholar recommendations failed for {paper_id}: {error}")
+            continue
+        recommended = result.get("recommendedPapers", []) if isinstance(result, dict) else []
+        paper["similar_papers"] = parse_semantic_recommended_papers(recommended, paper_id)
+        paper["edges_enriched_at"] = format_timestamp(now)
+        time.sleep(0.35 if api_key else 1.05)
+
+    return papers
+
+
+def parse_semantic_recommended_papers(items: list[dict[str, Any]], seed_id: str) -> list[dict[str, Any]]:
+    similar = []
+    for item in items:
+        if item.get("paperId") == seed_id:
+            continue
+        external_ids = item.get("externalIds") or {}
+        doi = normalize_doi(external_ids.get("DOI", ""))
+        similar.append(
+            {
+                "id": item.get("paperId", ""),
+                "title": item.get("title", ""),
+                "year": item.get("year", ""),
+                "journal": item.get("venue", ""),
+                "authors": [author.get("name", "") for author in item.get("authors", [])[:3] if author.get("name")],
+                "doi": doi,
+                "url": item.get("url", "") or (f"https://doi.org/{doi}" if doi else ""),
+                "citation_count": item.get("citationCount", 0),
+            }
+        )
+    return [paper for paper in similar if paper["title"]]
+
+
+def parse_openalex_work(item: dict[str, Any]) -> dict[str, Any]:
+    title = item.get("title") or item.get("display_name") or ""
+    abstract = abstract_from_inverted_index(item.get("abstract_inverted_index"))
+    primary_location = item.get("primary_location") or {}
+    journal = (primary_location.get("source") or {}).get("display_name", "")
+    authors = [
+        authorship.get("author", {}).get("display_name", "")
+        for authorship in item.get("authorships", [])
+        if authorship.get("author", {}).get("display_name")
+    ]
+    doi = normalize_doi(item.get("doi", ""))
+    tags = classify(" ".join([title, abstract, journal]))
+    openalex_id = item.get("id", "")
+    return {
+        "id": openalex_id,
+        "source": "OpenAlex",
+        "pmid": "",
+        "doi": doi,
+        "title": title,
+        "authors": authors,
+        "journal": journal,
+        "publication_date": item.get("publication_date") or "",
+        "abstract": abstract,
+        "url": item.get("landing_page_url") or item.get("doi") or openalex_id,
+        "pdf_url": "",
+        "citation_count": item.get("cited_by_count", 0),
+        "influential_citation_count": 0,
+        "reference_count": 0,
+        "references": [],
+        "metrics_source": "",
+        "tags": tags,
+    }
+
+
+def abstract_from_inverted_index(index: dict[str, list[int]] | None) -> str:
+    if not index:
+        return ""
+    words: list[tuple[int, str]] = []
+    for word, positions in index.items():
+        words.extend((position, word) for position in positions)
+    return " ".join(word for _, word in sorted(words))
+
+
+def fetch_crossref(retmax: int, email: str | None, query_limit: int | None = None) -> list[dict[str, Any]]:
+    queries = SEARCH_QUERIES[:query_limit] if query_limit else SEARCH_QUERIES
+    per_query = max(5, min(30, retmax // max(1, len(queries)) + 3))
+    papers: list[dict[str, Any]] = []
+    for query in queries:
+        params: dict[str, str | int] = {
+            "query.bibliographic": query,
+            "rows": per_query,
+            "sort": "published",
+            "order": "desc",
+            "filter": "type:journal-article",
+        }
+        if email:
+            params["mailto"] = email
+        try:
+            data = request_json(CROSSREF_BASE, params, email)
+        except urllib.error.URLError:
+            print(f"Crossref request failed for query: {query}")
+            continue
+        items = data.get("message", {}).get("items", [])
+        query_tags = classify(query)
+        papers.extend(enrich_query_tags(parse_crossref_work(item), query_tags) for item in items)
+        time.sleep(0.12)
+    return [paper for paper in papers if paper and is_relevant(paper)]
+
+
+def parse_crossref_work(item: dict[str, Any]) -> dict[str, Any]:
+    title = first(item.get("title")) or ""
+    abstract = clean_crossref_abstract(item.get("abstract", ""))
+    journal = first(item.get("container-title")) or ""
+    authors = [
+        " ".join(part for part in [author.get("given", ""), author.get("family", "")] if part).strip()
+        for author in item.get("author", [])
+    ]
+    authors = [author for author in authors if author]
+    doi = normalize_doi(item.get("DOI", ""))
+    tags = classify(" ".join([title, abstract, journal]))
+    return {
+        "id": f"https://doi.org/{doi}" if doi else item.get("URL", ""),
+        "source": "Crossref",
+        "pmid": "",
+        "doi": doi,
+        "title": title,
+        "authors": authors,
+        "journal": journal,
+        "publication_date": parse_crossref_date(item),
+        "abstract": abstract,
+        "url": item.get("URL", "") or (f"https://doi.org/{doi}" if doi else ""),
+        "pdf_url": "",
+        "citation_count": item.get("is-referenced-by-count", 0),
+        "influential_citation_count": 0,
+        "reference_count": 0,
+        "references": [],
+        "metrics_source": "",
+        "tags": tags,
+    }
+
+
+def fetch_pubmed(retmax: int, email: str | None) -> list[dict[str, Any]]:
+    params: dict[str, str | int] = {
+        "db": "pubmed",
+        "term": PUBMED_QUERY,
+        "retmode": "json",
+        "sort": "pub date",
+        "retmax": retmax,
+    }
+    if email:
+        params["email"] = email
+    data = request_json(f"{PUBMED_BASE}/esearch.fcgi", params, email)
+    pmids = data.get("esearchresult", {}).get("idlist", [])
+    if not pmids:
+        return []
+    time.sleep(0.34)
+    return fetch_pubmed_details(pmids, email)
+
+
+def fetch_pubmed_details(pmids: list[str], email: str | None) -> list[dict[str, Any]]:
+    papers: list[dict[str, Any]] = []
+    for chunk in chunks(pmids, 100):
+        params: dict[str, str | int] = {
+            "db": "pubmed",
+            "id": ",".join(chunk),
+            "retmode": "xml",
+        }
+        if email:
+            params["email"] = email
+        root = request_xml(f"{PUBMED_BASE}/efetch.fcgi", params, email)
+        papers.extend(
+            paper
+            for paper in (parse_pubmed_article(article) for article in root.findall(".//PubmedArticle"))
+            if paper and is_relevant(paper)
+        )
+        time.sleep(0.34)
+    return papers
+
+
+def chunks(values: list[str], size: int) -> list[list[str]]:
+    return [values[index : index + size] for index in range(0, len(values), size)]
+
+
+def parse_pubmed_article(article: ET.Element) -> dict[str, Any] | None:
+    pmid = text(article.find(".//PMID"))
+    citation = article.find(".//MedlineCitation")
+    article_node = citation.find("Article") if citation is not None else None
+    if article_node is None or not pmid:
+        return None
+
+    title = flatten_text(article_node.find("ArticleTitle"))
+    journal = text(article_node.find("Journal/Title")) or text(article_node.find("Journal/ISOAbbreviation"))
+    abstract = " ".join(
+        flatten_text(node) for node in article_node.findall("Abstract/AbstractText") if flatten_text(node)
+    )
+    doi = find_pubmed_doi(article)
+    tags = classify(" ".join([title, abstract, journal or ""]))
+    return {
+        "id": f"PMID:{pmid}",
+        "source": "PubMed",
+        "pmid": pmid,
+        "doi": doi,
+        "title": title,
+        "authors": parse_pubmed_authors(article_node),
+        "journal": journal,
+        "publication_date": parse_pubmed_publication_date(article, article_node),
+        "abstract": abstract,
+        "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+        "pdf_url": "",
+        "citation_count": 0,
+        "influential_citation_count": 0,
+        "reference_count": 0,
+        "references": [],
+        "metrics_source": "",
+        "tags": tags,
+    }
+
+
+def deduplicate(papers: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    by_key: dict[str, dict[str, Any]] = {}
+    unique: list[dict[str, Any]] = []
+    for paper in sorted(papers, key=lambda item: item.get("publication_date", ""), reverse=True):
+        key = paper_key(paper)
+        if key in by_key:
+            merge_paper_records(by_key[key], paper)
+            continue
+        by_key[key] = paper
+        unique.append(paper)
+    return unique
+
+
+def merge_paper_records(target: dict[str, Any], incoming: dict[str, Any]) -> None:
+    target["tags"] = sorted(set(target.get("tags", []) + incoming.get("tags", [])))
+
+    for field in ["authors", "fields_of_study", "publication_types"]:
+        if not target.get(field) and incoming.get(field):
+            target[field] = incoming[field]
+
+    for field in ["references", "similar_papers"]:
+        if len(incoming.get(field, []) or []) > len(target.get(field, []) or []):
+            target[field] = incoming[field]
+
+    for field in ["citation_count", "influential_citation_count", "reference_count"]:
+        target[field] = max(safe_int(target.get(field)), safe_int(incoming.get(field)))
+
+    for field in [
+        "id",
+        "semantic_scholar_id",
+        "semantic_scholar_url",
+        "source",
+        "pmid",
+        "doi",
+        "title",
+        "journal",
+        "publication_date",
+        "abstract",
+        "url",
+        "pdf_url",
+        "metrics_source",
+        "tldr",
+    ]:
+        if incoming.get(field) and not target.get(field):
+            target[field] = incoming[field]
+
+    for field in ["detail_enriched_at", "edges_enriched_at"]:
+        if is_newer_timestamp(incoming.get(field), target.get(field)):
+            target[field] = incoming[field]
+
+
+def utc_now() -> datetime:
+    return datetime.now(timezone.utc)
+
+
+def format_timestamp(value: datetime) -> str:
+    return value.astimezone(timezone.utc).isoformat()
+
+
+def parse_timestamp(value: Any) -> datetime | None:
+    if not value:
+        return None
+    try:
+        text_value = str(value).replace("Z", "+00:00")
+        parsed = datetime.fromisoformat(text_value)
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        return parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def is_recently_enriched(
+    paper: dict[str, Any],
+    field: str,
+    cache_days: int,
+    now: datetime | None = None,
+) -> bool:
+    if cache_days <= 0:
+        return False
+    timestamp = parse_timestamp(paper.get(field))
+    if not timestamp:
+        return False
+    current_time = now or utc_now()
+    age = current_time - timestamp
+    return age.days < cache_days
+
+
+def is_newer_timestamp(left: Any, right: Any) -> bool:
+    left_time = parse_timestamp(left)
+    right_time = parse_timestamp(right)
+    if not left_time:
+        return False
+    return not right_time or left_time > right_time
+
+
+def safe_int(value: Any) -> int:
+    try:
+        return int(value or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
+def enrich_query_tags(paper: dict[str, Any], query_tags: list[str]) -> dict[str, Any]:
+    paper["tags"] = sorted(set(paper.get("tags", []) + query_tags))
+    return paper
+
+
+def paper_key(paper: dict[str, Any]) -> str:
+    if paper.get("doi"):
+        return f"doi:{paper['doi'].lower()}"
+    title = " ".join((paper.get("title") or "").lower().split())
+    return f"title:{title[:160]}"
+
+
+def is_relevant(paper: dict[str, Any]) -> bool:
+    title_value = (paper.get("title") or "").lower()
+    text_value = " ".join(
+        [
+            paper.get("title", ""),
+            paper.get("abstract", ""),
+            paper.get("journal", ""),
+        ]
+    ).lower()
+    if any(term in text_value for term in NOISE_TERMS):
+        return False
+    text_tags = classify(text_value)
+    title_tags = classify(title_value)
+    has_title_environment = any(term in title_value for term in ENVIRONMENT_KEYWORDS)
+    has_genome = any(tag in text_tags for tag in ["metagenome", "metatranscriptome", "microbiome", "functional_gene"])
+    has_title_nitrogen = any(
+        tag in title_tags
+        for tag in ["nitrogen", "nitrification", "denitrification", "nitrogen_fixation", "anammox", "dnra"]
+    ) or any(tag in title_tags for tag in ["functional_gene"])
+    return bool(paper.get("title")) and has_title_environment and has_genome and has_title_nitrogen
+
+
+def classify(text_value: str) -> list[str]:
+    haystack = f" {text_value.lower()} "
+    tags = [
+        tag
+        for tag, needles in TAG_RULES.items()
+        if any(needle in haystack for needle in needles)
+    ]
+    return tags or ["nitrogen"]
+
+
+def parse_crossref_date(item: dict[str, Any]) -> str:
+    for key in ["published-print", "published-online", "published", "created"]:
+        date_parts = item.get(key, {}).get("date-parts", [])
+        if date_parts and date_parts[0]:
+            parts = date_parts[0]
+            year = str(parts[0])
+            month = str(parts[1]).zfill(2) if len(parts) > 1 else "01"
+            day = str(parts[2]).zfill(2) if len(parts) > 2 else "01"
+            return f"{year}-{month}-{day}"
+    return ""
+
+
+def clean_crossref_abstract(value: str) -> str:
+    return (
+        value.replace("<jats:p>", "")
+        .replace("</jats:p>", " ")
+        .replace("<p>", "")
+        .replace("</p>", " ")
+        .strip()
+    )
+
+
+def first(value: Any) -> str:
+    if isinstance(value, list) and value:
+        return str(value[0])
+    if isinstance(value, str):
+        return value
+    return ""
+
+
+def normalize_doi(value: Any) -> str:
+    if not value:
+        return ""
+    return str(value).replace("https://doi.org/", "").replace("http://dx.doi.org/", "").strip()
+
+
+def parse_pubmed_authors(article_node: ET.Element) -> list[str]:
+    authors = []
+    for author in article_node.findall("AuthorList/Author"):
+        collective = text(author.find("CollectiveName"))
+        if collective:
+            authors.append(collective)
+            continue
+        last = text(author.find("LastName"))
+        initials = text(author.find("Initials"))
+        if last:
+            authors.append(f"{last} {initials}".strip())
+    return authors
+
+
+def parse_pubmed_publication_date(article: ET.Element, article_node: ET.Element) -> str:
+    article_date = article_node.find("ArticleDate")
+    if article_date is not None:
+        parsed = parse_date_node(article_date)
+        if parsed:
+            return parsed
+
+    for history_date in article.findall(".//PubMedPubDate"):
+        if history_date.attrib.get("PubStatus") in {"epublish", "pubmed", "entrez"}:
+            parsed = parse_date_node(history_date)
+            if parsed:
+                return parsed
+
+    return parse_date_node(article_node.find("Journal/JournalIssue/PubDate"))
+
+
+def parse_date_node(node: ET.Element | None) -> str:
+    if node is None:
+        return ""
+    year = text(node.find("Year")) or text(node.find("MedlineDate"))[:4]
+    month = normalize_month(text(node.find("Month")))
+    day = text(node.find("Day")) or "01"
+    if not year:
+        return ""
+    return f"{year}-{month}-{day.zfill(2)}"
+
+
+def normalize_month(value: str) -> str:
+    months = {
+        "jan": "01",
+        "feb": "02",
+        "mar": "03",
+        "apr": "04",
+        "may": "05",
+        "jun": "06",
+        "jul": "07",
+        "aug": "08",
+        "sep": "09",
+        "oct": "10",
+        "nov": "11",
+        "dec": "12",
+    }
+    if value.isdigit():
+        return value.zfill(2)
+    return months.get(value[:3].lower(), "01")
+
+
+def find_pubmed_doi(article: ET.Element) -> str:
+    for node in article.findall(".//ArticleId"):
+        if node.attrib.get("IdType") == "doi" and node.text:
+            return node.text.strip()
+    return ""
+
+
+def text(node: ET.Element | None) -> str:
+    return "".join(node.itertext()).strip() if node is not None else ""
+
+
+def flatten_text(node: ET.Element | None) -> str:
+    if node is None:
+        return ""
+    return " ".join("".join(node.itertext()).split())
+
+
+def write_data(
+    papers: list[dict[str, Any]],
+    output: Path,
+    sources: list[str],
+) -> None:
+    output.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "sources": sources,
+        "queries": SEARCH_QUERIES,
+        "papers": papers,
+    }
+    output.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def load_existing_papers(output: Path) -> list[dict[str, Any]]:
+    if not output.exists():
+        return []
+    data = json.loads(output.read_text(encoding="utf-8"))
+    return data.get("papers", [])
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--retmax", type=int, default=FULL_LIBRARY_TARGET)
+    parser.add_argument(
+        "--daily-retmax",
+        type=int,
+        default=DEFAULT_DAILY_CANDIDATES,
+        help="Fresh candidates to fetch once the local cache has reached retmax.",
+    )
+    parser.add_argument(
+        "--cache-days",
+        type=int,
+        default=DEFAULT_CACHE_DAYS,
+        help="Days to reuse Semantic Scholar detail and recommendation metadata.",
+    )
+    parser.add_argument("--email", default=None)
+    parser.add_argument("--output", default="data/papers.json")
+    parser.add_argument(
+        "--sources",
+        default="semantic,openalex",
+        help="Comma-separated list: semantic,openalex,crossref,pubmed",
+    )
+    parser.add_argument(
+        "--semantic-search-mode",
+        choices=["bulk", "ranked"],
+        default="bulk",
+        help="Use Semantic Scholar bulk search for broader backfills, or ranked search for top relevant results.",
+    )
+    parser.add_argument("--semantic-api-key", default=None)
+    parser.add_argument(
+        "--semantic-enrich-limit",
+        type=int,
+        default=800,
+        help="Maximum number of DOI/PMID records to enrich with Semantic Scholar metrics.",
+    )
+    parser.add_argument(
+        "--skip-semantic-enrichment",
+        action="store_true",
+        help="Do not backfill citation/reference metadata through Semantic Scholar.",
+    )
+    parser.add_argument(
+        "--similar-limit",
+        type=int,
+        default=60,
+        help="Number of papers to enrich with Semantic Scholar recommendations.",
+    )
+    parser.add_argument(
+        "--similar-per-paper",
+        type=int,
+        default=5,
+        help="Recommended similar papers to store per paper.",
+    )
+    parser.add_argument(
+        "--merge-existing",
+        action="store_true",
+        help="Merge fresh results into the existing data file instead of replacing it.",
+    )
+    parser.add_argument("--query-limit", type=int, default=36)
+    args = parser.parse_args()
+
+    output = Path(args.output)
+    sources = [source.strip().lower() for source in args.sources.split(",") if source.strip()]
+    existing_papers = load_existing_papers(output) if args.merge_existing else []
+    fetch_retmax = args.retmax
+    if args.merge_existing and len(existing_papers) >= args.retmax:
+        fetch_retmax = min(args.daily_retmax, args.retmax)
+    elif args.merge_existing:
+        fetch_retmax = args.retmax
+
+    all_papers: list[dict[str, Any]] = []
+    if "semantic" in sources or "semanticscholar" in sources:
+        if args.semantic_search_mode == "bulk":
+            all_papers.extend(fetch_semantic_scholar_bulk(fetch_retmax, args.email, args.semantic_api_key))
+        else:
+            all_papers.extend(fetch_semantic_scholar(fetch_retmax, args.email, args.semantic_api_key, args.query_limit))
+    if "openalex" in sources:
+        all_papers.extend(fetch_openalex(fetch_retmax, args.email, args.query_limit))
+    if "crossref" in sources:
+        all_papers.extend(fetch_crossref(fetch_retmax, args.email, args.query_limit))
+    if "pubmed" in sources:
+        all_papers.extend(fetch_pubmed(max(20, fetch_retmax // 2), args.email))
+
+    if args.merge_existing:
+        all_papers.extend(existing_papers)
+
+    papers = deduplicate(all_papers)[: args.retmax]
+    if not args.skip_semantic_enrichment:
+        papers = enrich_with_semantic_metadata(
+            papers,
+            args.email,
+            args.semantic_api_key,
+            args.semantic_enrich_limit,
+            args.cache_days,
+        )
+        papers = enrich_with_semantic_recommendations(
+            papers,
+            args.email,
+            args.semantic_api_key,
+            args.similar_limit,
+            args.similar_per_paper,
+            args.cache_days,
+        )
+    if not papers and output.exists():
+        print("No fresh papers were fetched; keeping the existing data file.")
+        return
+    source_labels = sorted({paper.get("source", "") for paper in papers if paper.get("source")})
+    write_data(papers, output, source_labels)
+    print(f"Updated {len(papers)} papers from {', '.join(source_labels)} at {output}")
+
+
+if __name__ == "__main__":
+    main()
