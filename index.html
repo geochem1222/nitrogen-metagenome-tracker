@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>氮循环宏基因组论文追踪</title>
+    <meta
+      name="description"
+      content="自动追踪水、土壤、沉积物环境中宏基因组、功能基因与氮循环相关论文。"
+    >
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="topbar" aria-label="页面导航">
+        <a class="brand" href="./" aria-label="回到首页">
+          <span class="brand-mark">N</span>
+          <span>Nitrogen Metagenomics Tracker</span>
+        </a>
+        <div class="nav-actions">
+          <a href="#papers">论文</a>
+          <a href="#about">方向</a>
+          <a href="data/papers.json">数据</a>
+        </div>
+      </nav>
+
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">自动更新的研究文献表</p>
+          <h1>水、土与沉积物中的氮循环宏基因组文献追踪</h1>
+          <p class="lead">
+            聚焦土壤、水体、沉积物中的宏基因组、宏转录组、微生物群落和氮循环功能基因，追踪硝化、反硝化、固氮、厌氧氨氧化和 DNRA 等过程。默认使用 Semantic Scholar 检索与回填引用、参考文献和相似文章。
+          </p>
+        </div>
+        <aside class="hero-panel" aria-label="追踪状态">
+          <span class="status-dot" aria-hidden="true"></span>
+          <div>
+            <p class="panel-label">最近更新</p>
+            <strong id="last-updated">读取中</strong>
+          </div>
+          <div>
+            <p class="panel-label">已收录论文</p>
+            <strong id="paper-count">0</strong>
+          </div>
+          <div>
+            <p class="panel-label">数据来源</p>
+            <strong id="source-count">Semantic Scholar</strong>
+          </div>
+          <div>
+            <p class="panel-label">联系我们</p>
+            <strong>dinghu#tju.edu.cn</strong>
+          </div>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section class="focus-strip" id="about" aria-label="研究方向">
+        <article>
+          <span>01</span>
+          <h2>环境介质</h2>
+          <p>覆盖土壤、水体、湿地水体、沉积物、地下水和河湖库塘溪沟等环境。</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h2>宏基因组与功能基因</h2>
+          <p>追踪 metagenomics、metatranscriptomics、microbiome 及 amoA、nirK、nirS、nosZ、nifH、hzsA 等氮循环基因。</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h2>氮循环过程</h2>
+          <p>覆盖硝化、反硝化、固氮、厌氧氨氧化、DNRA、氨氧化、硝酸盐还原和 N2O 相关过程。</p>
+        </article>
+      </section>
+
+      <section class="toolbar" id="papers" aria-label="论文筛选">
+        <div class="search-box">
+          <label for="search">搜索论文</label>
+          <input id="search" type="search" placeholder="输入关键词、作者、期刊、DOI 或数据库 ID">
+        </div>
+        <div class="search-box">
+          <label for="source-filter">数据来源</label>
+          <select id="source-filter">
+            <option value="all">全部来源</option>
+          </select>
+        </div>
+        <div class="filter-row" aria-label="按主题筛选">
+          <button class="chip active" type="button" data-filter="all">全部</button>
+          <button class="chip" type="button" data-filter="soil">土壤</button>
+          <button class="chip" type="button" data-filter="water">水体/水生</button>
+          <button class="chip" type="button" data-filter="metagenome">宏基因组</button>
+          <button class="chip" type="button" data-filter="metatranscriptome">宏转录组</button>
+          <button class="chip" type="button" data-filter="microbiome">微生物群落</button>
+          <button class="chip" type="button" data-filter="functional_gene">功能基因</button>
+          <button class="chip" type="button" data-filter="nitrogen">氮循环</button>
+          <button class="chip" type="button" data-filter="nitrification">硝化</button>
+          <button class="chip" type="button" data-filter="denitrification">反硝化</button>
+          <button class="chip" type="button" data-filter="nitrogen_fixation">固氮</button>
+          <button class="chip" type="button" data-filter="anammox">厌氧氨氧化</button>
+          <button class="chip" type="button" data-filter="dnra">DNRA</button>
+          <button class="chip" type="button" data-filter="sediment">沉积物</button>
+          <button class="chip" type="button" data-filter="urban">城市</button>
+          <button class="chip" type="button" data-filter="agriculture">农业</button>
+          <button class="chip" type="button" data-filter="forest">森林</button>
+        </div>
+      </section>
+
+      <section class="summary-grid" aria-label="论文统计">
+        <div>
+          <p>近一周发表</p>
+          <strong id="week-count">0</strong>
+        </div>
+        <div>
+          <p>近一月发表</p>
+          <strong id="month-count">0</strong>
+        </div>
+        <div>
+          <p>近一年发表</p>
+          <strong id="year-count">0</strong>
+        </div>
+        <div>
+          <p>总引用数</p>
+          <strong id="citation-total">0</strong>
+        </div>
+        <div>
+          <p>开放 PDF</p>
+          <strong id="pdf-count">0</strong>
+        </div>
+        <div>
+          <p>功能基因相关</p>
+          <strong id="gene-count">0</strong>
+        </div>
+      </section>
+
+      <section class="paper-list" aria-live="polite">
+        <div class="list-header">
+          <h2>最新论文表格</h2>
+          <div class="list-tools">
+            <p id="result-count">正在读取数据</p>
+            <label for="page-size">每页</label>
+            <select id="page-size" aria-label="每页显示论文数">
+              <option value="25">25</option>
+              <option value="50" selected>50</option>
+              <option value="100">100</option>
+            </select>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th><button type="button" data-sort="publication_date">日期 <span></span></button></th>
+                <th><button type="button" data-sort="title">题名 <span></span></button></th>
+                <th><button type="button" data-sort="authors">作者 <span></span></button></th>
+                <th><button type="button" data-sort="journal">期刊 <span></span></button></th>
+                <th><button type="button" data-sort="citation_count">引用 <span></span></button></th>
+                <th><button type="button" data-sort="reference_count">参考 <span></span></button></th>
+                <th><button type="button" data-sort="source">来源 <span></span></button></th>
+                <th>链接</th>
+              </tr>
+            </thead>
+            <tbody id="papers-body"></tbody>
+          </table>
+        </div>
+        <nav class="pagination" aria-label="论文分页">
+          <button id="first-page" type="button">首页</button>
+          <button id="prev-page" type="button">上一页</button>
+          <span id="pagination-status">0-0 / 0 篇 · 第 1 / 1 页</span>
+          <button id="next-page" type="button">下一页</button>
+          <button id="last-page" type="button">末页</button>
+        </nav>
+        <p id="empty-state" class="empty-state" hidden>没有匹配的论文，换一个关键词试试。</p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>由 GitHub Actions 定期更新，适合部署到 GitHub Pages、Netlify 或 Cloudflare Pages。</p>
+      <a href="data/papers.json">下载 JSON 数据</a>
+    </footer>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>
