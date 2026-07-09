@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T22:18:57.852581+00:00",
+  "updated_at": "2026-07-09T22:44:26.260848+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -6128,126 +6128,6 @@
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
     },
     {
-      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "source": "Semantic Scholar",
-      "pmid": "41564488",
-      "doi": "10.1016/j.jenvman.2026.128688",
-      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
-      "authors": [
-        "Zhongqing Huang",
-        "Jian Shen",
-        "Jinhui Wang",
-        "Chen Wang",
-        "Huaji Liu",
-        "Chunmei Tian",
-        "Jimeng Feng",
-        "Xinze Wang"
-      ],
-      "journal": "Journal of Environmental Management",
-      "publication_date": "2026-01-20",
-      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
-      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 49,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
-          "title": "From Microbes to Molecules: Biodegradable Microplastics Reshape Soil Carbon Metabolism and Composition of Dissolved Organic Matter.",
-          "year": 2026,
-          "journal": "Journal of Agricultural and Food Chemistry",
-          "authors": [
-            "Xiaojing Hu",
-            "Lin Han",
-            "R. Ochoa-Hueso"
-          ],
-          "doi": "10.1021/acs.jafc.6c01030",
-          "url": "https://www.semanticscholar.org/paper/7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
-          "citation_count": 0
-        },
-        {
-          "id": "a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
-          "title": "Nexus between influent organic carbon fractions and carbon capture patterns in high-rate contact stabilization process: Insights from dissolved organic matter fate.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Xue Fan",
-            "Jingbo Guo",
-            "Yue Li"
-          ],
-          "doi": "10.1016/j.biortech.2026.135061",
-          "url": "https://www.semanticscholar.org/paper/a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
-          "citation_count": 0
-        },
-        {
-          "id": "abf8fedfef12ebfd55c79acf322490cced08898a",
-          "title": "High-Resolution Molecular Analyses Reveal Non-additive Impacts of Chronic Warming and Nitrogen Addition on Soil-Derived Dissolved Organic Matter.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Atzín X San Román",
-            "Guoping Chen",
-            "K. Ronda"
-          ],
-          "doi": "10.1021/acs.est.6c04800",
-          "url": "https://www.semanticscholar.org/paper/abf8fedfef12ebfd55c79acf322490cced08898a",
-          "citation_count": 0
-        },
-        {
-          "id": "d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
-          "title": "Hydrology-driven soil microbial responses: Inundation effects on soil microbial community succession and co-occurrence network stability in the lakeshore zone of Qinghai Lake.",
-          "year": 2026,
-          "journal": "Journal of Environmental Management",
-          "authors": [
-            "Xiaohui Li",
-            "Xiong Xiong",
-            "Xiaoyan Xi"
-          ],
-          "doi": "10.1016/j.jenvman.2026.130120",
-          "url": "https://www.semanticscholar.org/paper/d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
-          "citation_count": 0
-        },
-        {
-          "id": "9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
-          "title": "Dissolved Organic Matter (DOM) Dynamics at the Sediment‐Water Interface in the North Sea: Implications for Global Benthic DOM Fluxes",
-          "year": 2026,
-          "journal": "Global Biogeochemical Cycles",
-          "authors": [
-            "Bingbing Wei",
-            "Hannelore Waska",
-            "Zhe Zhou"
-          ],
-          "doi": "10.1029/2025gb008980",
-          "url": "https://www.semanticscholar.org/paper/9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "forest",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrogen",
-        "sediment",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
-    },
-    {
       "id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "source": "Semantic Scholar",
@@ -6406,6 +6286,126 @@
         "microbiome",
         "nitrification",
         "nitrogen",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
+      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "source": "Semantic Scholar",
+      "pmid": "41564488",
+      "doi": "10.1016/j.jenvman.2026.128688",
+      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
+      "authors": [
+        "Zhongqing Huang",
+        "Jian Shen",
+        "Jinhui Wang",
+        "Chen Wang",
+        "Huaji Liu",
+        "Chunmei Tian",
+        "Jimeng Feng",
+        "Xinze Wang"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2026-01-20",
+      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
+      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 49,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
+          "title": "From Microbes to Molecules: Biodegradable Microplastics Reshape Soil Carbon Metabolism and Composition of Dissolved Organic Matter.",
+          "year": 2026,
+          "journal": "Journal of Agricultural and Food Chemistry",
+          "authors": [
+            "Xiaojing Hu",
+            "Lin Han",
+            "R. Ochoa-Hueso"
+          ],
+          "doi": "10.1021/acs.jafc.6c01030",
+          "url": "https://www.semanticscholar.org/paper/7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
+          "citation_count": 0
+        },
+        {
+          "id": "a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
+          "title": "Nexus between influent organic carbon fractions and carbon capture patterns in high-rate contact stabilization process: Insights from dissolved organic matter fate.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Xue Fan",
+            "Jingbo Guo",
+            "Yue Li"
+          ],
+          "doi": "10.1016/j.biortech.2026.135061",
+          "url": "https://www.semanticscholar.org/paper/a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
+          "citation_count": 0
+        },
+        {
+          "id": "abf8fedfef12ebfd55c79acf322490cced08898a",
+          "title": "High-Resolution Molecular Analyses Reveal Non-additive Impacts of Chronic Warming and Nitrogen Addition on Soil-Derived Dissolved Organic Matter.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Atzín X San Román",
+            "Guoping Chen",
+            "K. Ronda"
+          ],
+          "doi": "10.1021/acs.est.6c04800",
+          "url": "https://www.semanticscholar.org/paper/abf8fedfef12ebfd55c79acf322490cced08898a",
+          "citation_count": 0
+        },
+        {
+          "id": "d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
+          "title": "Hydrology-driven soil microbial responses: Inundation effects on soil microbial community succession and co-occurrence network stability in the lakeshore zone of Qinghai Lake.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Xiaohui Li",
+            "Xiong Xiong",
+            "Xiaoyan Xi"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130120",
+          "url": "https://www.semanticscholar.org/paper/d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
+          "citation_count": 0
+        },
+        {
+          "id": "9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
+          "title": "Dissolved Organic Matter (DOM) Dynamics at the Sediment‐Water Interface in the North Sea: Implications for Global Benthic DOM Fluxes",
+          "year": 2026,
+          "journal": "Global Biogeochemical Cycles",
+          "authors": [
+            "Bingbing Wei",
+            "Hannelore Waska",
+            "Zhe Zhou"
+          ],
+          "doi": "10.1029/2025gb008980",
+          "url": "https://www.semanticscholar.org/paper/9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "forest",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "sediment",
         "urban",
         "water"
       ],
@@ -17042,7 +17042,7 @@
       "url": "https://www.semanticscholar.org/paper/1dae57ceb0a024356d15b491bfd556e2c97c409f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1dae57ceb0a024356d15b491bfd556e2c97c409f",
       "pdf_url": "",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -22403,7 +22403,7 @@
       "url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "pdf_url": "",
-      "citation_count": 37,
+      "citation_count": 38,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -30410,7 +30410,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 175,
+      "citation_count": 176,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -44021,7 +44021,7 @@
       "url": "https://www.semanticscholar.org/paper/7c18e65b4c10ccb90843091e0849d1be1e38c493",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7c18e65b4c10ccb90843091e0849d1be1e38c493",
       "pdf_url": "",
-      "citation_count": 68,
+      "citation_count": 69,
       "influential_citation_count": 1,
       "reference_count": 85,
       "references": [],
@@ -46612,7 +46612,7 @@
       "url": "https://www.semanticscholar.org/paper/10a8645a0154dbcbc26d40cd4b6ff2207cbde16f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/10a8645a0154dbcbc26d40cd4b6ff2207cbde16f",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2012.00210/pdf",
-      "citation_count": 165,
+      "citation_count": 166,
       "influential_citation_count": 11,
       "reference_count": 127,
       "references": [
