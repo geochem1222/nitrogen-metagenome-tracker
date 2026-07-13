@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T22:08:38.364583+00:00",
+  "updated_at": "2026-07-13T22:12:37.989152+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,98 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
+      "semantic_scholar_id": "6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
+      "source": "Semantic Scholar",
+      "pmid": "42430987",
+      "doi": "10.1016/j.jenvman.2026.130418",
+      "title": "Spotted knapweed (Centaurea stoebe) invasion linked with disruption of soil nitrogen-cycling processes.",
+      "authors": [
+        "Kaitlyn M Van der Zwan",
+        "J. Singh",
+        "Matthew Coghill",
+        "M. Akin‐Fajiye",
+        "Lauchlan H. Fraser"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2026-07-10",
+      "abstract": "Previous research has demonstrated the negative impacts Centaurea stoebe has on both carbon and nitrogen availability in soils. However, its impact on nitrogen cycling remains poorly understood. This project investigates the effects of C. stoebe on genes associated with nitrogen cycling in grasslands, where soil nitrogen is limited. Uninvaded soil - free of any invasive plant species - was collected from the upper elevation grasslands of the Lac du Bois Grasslands Protected Area, British Columbia, Canada, and used to set up a microcosm experiment with four treatments. Each treatment consisted of planting with either spotted knapweed (C. stoebe), yarrow (Achillea millefolium), hairy vetch (Vicia villosa), or no treatment (control). All treatments were replicated nine times for a total of 36 microcosm units. Plants were grown for six months before the soil samples were collected for analysis. Soil and plant nitrogen content were quantified at the end of the experiment. The abundance of seven key nitrogen-cycling functional genes, including nitrogen fixation genes (nifH), nitrification genes (AOB-amoA, AOA-amoA), and denitrification genes (narG, nirK, nosZ, and nirS) was assessed using quantitative PCR (qPCR) to determine how C. stoebe influences the quantities of these genes compared to uninvaded soils and other plant species. In addition, nitrogen cycling-related soil enzyme activities were measured by quantifying leucine-aminopeptidase (LAP) and N-acetyl-β-glucosaminidase (NAG) activities. The results indicate that C. stoebe invasion significantly impacted the soil nitrogen content. C. stoebe invasion was associated with a broad suppression of nitrogen-cycling genes, including nifH, AOB-amoA, nirK, and nirS, as well as elevated NAG activity, an N-acquiring enzyme. Further, its nitrogen requirements and uptake efficiency are higher than those of a non-leguminous plant (A. millefolium), while suppressing nitrogen fixation, resulting in a decline in soil nitrogen content. Overall, our results show that C. stoebe disrupts soil nitrogen cycling, likely increasing nitrogen availability for itself and enabling C. stoebe to efficiently uptake the labile nitrogen. These findings highlight the need for early management interventions to control the spread of C. stoebe.",
+      "url": "https://www.semanticscholar.org/paper/6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0301479726018785/pdf",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 51,
+      "references": [
+        {
+          "title": "Nitrogen Acquisition by Invasive Plants: Species Preferential N Uptake Matching with Soil N Dynamics Contribute to Its Fitness and Domination",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/fe0096eb447eadc3a73629e293a20cd8afb4204f",
+          "doi": "10.3390/plants14050748"
+        },
+        {
+          "title": "Severe nitrogen leaching and marked decline of nitrogen cycle-related genes during the cultivation of apple orchard on barren mountain",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/9f950699166898e2794af96b5649b566f8a1b7bc",
+          "doi": "10.1016/j.agee.2024.108998"
+        },
+        {
+          "title": "Revisiting process-based simulations of soil nitrite dynamics: Tighter cycling between nitrite and nitrate than considered previously",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/f51fb28d403e7e1be730c7ad98c34ef2e04eead9",
+          "doi": "10.1016/j.soilbio.2023.108958"
+        },
+        {
+          "title": "Spotted knapweed (Centaurea stoebe) creates a soil legacy effect by modulating soil elemental composition in a semi-arid grassland ecosystem.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/9d454062ba0963d056d6511b9668c8545c9cc281",
+          "doi": "10.1016/j.jenvman.2022.115391"
+        },
+        {
+          "title": "Unexpected complexity of the ammonia monooxygenase in archaea",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/9854cd398c3c6a264f7417400b63b747e376165d",
+          "doi": "10.1038/s41396-023-01367-3"
+        },
+        {
+          "title": "Environmental and Economic Impacts of Noxious Range Weeds",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/f317a2acbdac0b7394aa06131f7ef5495a4c8268",
+          "doi": "10.1201/9780429046483-2"
+        },
+        {
+          "title": "Nitrogen Use Efficiency Definitions of Today and Tomorrow",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/b25427243b5b4949a6697c0cb06a1545628a40b4",
+          "doi": "10.3389/fpls.2021.637108"
+        },
+        {
+          "title": "Soil Health Management Enhances Microbial Nitrogen Cycling Capacity and Activity",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/447fcec989d80d920ee4d11c0b101d64e247dacc",
+          "doi": "10.1128/mSphere.01237-20"
+        }
+      ],
+      "similar_papers": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Results show that C. stoebe disrupts soil nitrogen cycling, likely increasing nitrogen availability for itself and enabling C. stoebe to efficiently uptake the labile nitrogen, and highlight the need for early management interventions to control the spread of C. stoebe.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "functional_gene",
+        "nitrification",
+        "nitrogen",
+        "nitrogen_fixation",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-07-13T22:12:17.045046+00:00"
+    },
     {
       "id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
       "semantic_scholar_id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
@@ -15119,7 +15211,7 @@
       "url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "pdf_url": "https://doi.org/10.1016/j.biotechadv.2025.108580",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 1,
       "reference_count": 372,
       "references": [
@@ -22403,7 +22495,7 @@
       "url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "pdf_url": "",
-      "citation_count": 39,
+      "citation_count": 40,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -25579,7 +25671,7 @@
       "url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "pdf_url": "",
-      "citation_count": 52,
+      "citation_count": 53,
       "influential_citation_count": 3,
       "reference_count": 84,
       "references": [],
@@ -31360,7 +31452,7 @@
       "url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "pdf_url": "",
-      "citation_count": 138,
+      "citation_count": 139,
       "influential_citation_count": 4,
       "reference_count": 85,
       "references": [],
