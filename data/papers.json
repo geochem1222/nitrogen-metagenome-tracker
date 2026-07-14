@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T22:12:37.989152+00:00",
+  "updated_at": "2026-07-14T22:15:09.167422+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -319,7 +319,77 @@
           "doi": "10.1128/mSphere.01237-20"
         }
       ],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "9069a83aa832fe1178d0e2c4f60298664ae38726",
+          "title": "The Composition of Native Plant Species and Nitrogen Availability Jointly Influence the Invasion Success of Cenchrus spinifex",
+          "year": 2026,
+          "journal": "Plants",
+          "authors": [
+            "Jiyun Yang",
+            "Long Yan",
+            "Chuan Lu"
+          ],
+          "doi": "10.3390/plants15132016",
+          "url": "https://www.semanticscholar.org/paper/9069a83aa832fe1178d0e2c4f60298664ae38726",
+          "citation_count": 0
+        },
+        {
+          "id": "316233af0c1b90b949209b2833cea218d2271c02",
+          "title": "Applying Biochar to Calcareous Soil Promotes Maize Growth and Reduces Soil N2O Emissions by Enhancing Mycorrhizal Symbiosis",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "Yanfang Wang",
+            "Jinzhao Liu",
+            "C. Xie"
+          ],
+          "doi": "10.3390/agronomy16111070",
+          "url": "https://www.semanticscholar.org/paper/316233af0c1b90b949209b2833cea218d2271c02",
+          "citation_count": 0
+        },
+        {
+          "id": "7d4168287021d0671a4352c60eec16487e746017",
+          "title": "Long-Term Fertilizer Postponing Reshapes Spatial and Temporal Patterns of Bacterial Communities and N-Cycling Potential in Paddy Soils",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "Yan Zhou",
+            "Lei Xu",
+            "Junhui Chen"
+          ],
+          "doi": "10.3390/agronomy16131290",
+          "url": "https://www.semanticscholar.org/paper/7d4168287021d0671a4352c60eec16487e746017",
+          "citation_count": 0
+        },
+        {
+          "id": "3958f5b900a28bc80b7987f04f0787119e50462d",
+          "title": "Differential Effects of Cover Crops on Soil Nutrients and Microbial Communities in Marselan Vineyards",
+          "year": 2026,
+          "journal": "Land Degradation &amp; Development",
+          "authors": [
+            "Min Cao",
+            "Jin Fan",
+            "Ming Li"
+          ],
+          "doi": "10.1002/ldr.70626",
+          "url": "https://www.semanticscholar.org/paper/3958f5b900a28bc80b7987f04f0787119e50462d",
+          "citation_count": 0
+        },
+        {
+          "id": "8b635e885059930e9c69850f471f624a5252450a",
+          "title": "Suppression of soil microbiota rather than neighbours facilitates absinthe\n Artemisia absinthium\n invasion in native grasslands",
+          "year": 2026,
+          "journal": "Oikos",
+          "authors": [
+            "J. P. Wasan",
+            "Jonathan A. Bennett"
+          ],
+          "doi": "10.1002/oik.12015",
+          "url": "https://www.semanticscholar.org/paper/8b635e885059930e9c69850f471f624a5252450a",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [
         "Medicine"
       ],
@@ -336,7 +406,8 @@
         "nitrogen_fixation",
         "soil"
       ],
-      "detail_enriched_at": "2026-07-13T22:12:17.045046+00:00"
+      "detail_enriched_at": "2026-07-13T22:12:17.045046+00:00",
+      "edges_enriched_at": "2026-07-14T22:15:05.881589+00:00"
     },
     {
       "id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
@@ -16726,7 +16797,7 @@
       "url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "pdf_url": "",
-      "citation_count": 50,
+      "citation_count": 51,
       "influential_citation_count": 2,
       "reference_count": 64,
       "references": [],
@@ -16968,7 +17039,7 @@
       "url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "pdf_url": "https://doi.org/10.5194/soil-11-1-2025",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 130,
       "references": [
@@ -30613,12 +30684,12 @@
         "F. Klotz",
         "M. Chiriac",
         "Danny Ionescu",
-        "P. Büsing",
+        "Petra Büsing",
         "H. Grossart",
         "Peng Xing",
         "J. Priscu",
         "S. Alymkulov",
-        "M. Pester"
+        "Michael Pester"
       ],
       "journal": "Science Advances",
       "publication_date": "2023-02-01",
@@ -36187,11 +36258,11 @@
         "F. Klotz",
         "Katharina Kitzinger",
         "D. Ngugi",
-        "P. Büsing",
+        "Petra Büsing",
         "S. Littmann",
         "M. Kuypers",
         "B. Schink",
-        "M. Pester"
+        "Michael Pester"
       ],
       "journal": "The ISME Journal",
       "publication_date": "2021-07-22",
