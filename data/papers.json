@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T22:15:05.957131+00:00",
+  "updated_at": "2026-07-16T22:16:11.204644+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,123 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "720d98fd068b33d558761a029f660fceee26e4c9",
+      "semantic_scholar_id": "720d98fd068b33d558761a029f660fceee26e4c9",
+      "source": "Semantic Scholar",
+      "pmid": "42447281",
+      "doi": "10.1021/acs.est.5c17815",
+      "title": "Nitrification Couples Microbial CO2 Fixation to Warming and Drought Responses in Alpine Grassland Soils.",
+      "authors": [
+        "Yirui Su",
+        "Lianlian Fan",
+        "Zhengxing Chen",
+        "Xiufeng Tang",
+        "Jiayi Wang",
+        "U. Klümper",
+        "Guitao Shi",
+        "P. Han"
+      ],
+      "journal": "Environmental Science and Technology",
+      "publication_date": "2026-07-14",
+      "abstract": "Microbial CO2 fixation in alpine grassland soils is highly sensitive to warming and drought. Nitrogen inputs from grazing may stimulate autotrophic nitrifiers, including ammonia-oxidizing archaea (AOA), ammonia-oxidizing bacteria (AOB), and nitrite-oxidizing bacteria (NOB). These nitrifiers assimilate carbon through CO2 fixation, but how their activity is associated with microbial CO2 fixation under warming and drought remains unclear. Here, we investigated microbial CO2 fixation and nitrification under altered temperature and moisture using urea-amended soil microcosms with 13CO2 labeling, DNA-stable isotope probing (DNA-SIP), metagenomics, and quantitative PCR. Warming increased CO2 fixation rates to 1.48-2.58 times those at 15 °C under moist conditions, whereas drought reduced it by 59-91%. Nitrification rates were positively correlated with CO2 fixation, whereas the CO2 fixation offset only 1.3-12.1% of associated N2O emissions (measured as CO2 equivalents). DNA-SIP and metagenomics indicated that nitrifiers contributed to microbial CO2 fixation, with AOA showing more pronounced 13C-labeling under combined warming and drought. Co-occurrence network indicated that AOA occupied more highly connected positions than AOB and NOB. This study provides microbial evidence that warming and drought reshape the linkage between nitrification and microbial CO2 fixation in urea-amended alpine grassland soil microcosms, with implications for carbon-nitrogen cycling and greenhouse-gas feedbacks.",
+      "url": "https://www.semanticscholar.org/paper/720d98fd068b33d558761a029f660fceee26e4c9",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/720d98fd068b33d558761a029f660fceee26e4c9",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 89,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "50c9294aaadaf542648c76ec43d6d2d12681ea88",
+          "title": "Disturbance reshapes functional redundancy and accelerates nitrification in soil nitrifying communities.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Jun Zhao",
+            "Shannon M Brown",
+            "Jonathan Rodriguez"
+          ],
+          "doi": "10.1093/ismejo/wrag154",
+          "url": "https://www.semanticscholar.org/paper/50c9294aaadaf542648c76ec43d6d2d12681ea88",
+          "citation_count": 0
+        },
+        {
+          "id": "053050f64e815653a59c6a98e387c8a1e41239c5",
+          "title": "Response of ammonia-oxidizing archaea to experimental warming in high-N2O-emitting permafrost peatland habitats",
+          "year": 2026,
+          "journal": "Arctic Science",
+          "authors": [
+            "R. E. Lamprecht",
+            "M. Marushchak",
+            "C. Voigt"
+          ],
+          "doi": "10.1139/as-2025-0075",
+          "url": "https://www.semanticscholar.org/paper/053050f64e815653a59c6a98e387c8a1e41239c5",
+          "citation_count": 0
+        },
+        {
+          "id": "5a4a9b02ce6b1f83b84c69c3813d52eec5ee9e34",
+          "title": "The Important Role of nosZII Clade N2O Reducers in Reducing N2O Emissions After Soil Rewetting in a Neutral Vegetable Soil",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "Lei Yu",
+            "Qiumei Li",
+            "Yunxuan Han"
+          ],
+          "doi": "10.3390/agronomy16131263",
+          "url": "https://www.semanticscholar.org/paper/5a4a9b02ce6b1f83b84c69c3813d52eec5ee9e34",
+          "citation_count": 0
+        },
+        {
+          "id": "539f9080b7aa4ff1563e3092c74635f985d65ce4",
+          "title": "Resolving Nitrous Oxide Source Ambiguity in Ammonia-Oxidizing Archaea-Dominated Nitrification: Mechanistic Modeling of the Hybrid Pathway and Coupled Denitrification.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Shi Chen",
+            "Lai Peng",
+            "Yifeng Xu"
+          ],
+          "doi": "10.1021/acs.est.6c03366",
+          "url": "https://www.semanticscholar.org/paper/539f9080b7aa4ff1563e3092c74635f985d65ce4",
+          "citation_count": 0
+        },
+        {
+          "id": "26b4c1ecd90b5eecca61e9f443b4124f26ab0f40",
+          "title": "Effect of Nicotine on Soil Microbiota and Nitrification in a Microcosm Experiment",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "Lin Zhang",
+            "Qing X. Li",
+            "Guitong Li"
+          ],
+          "doi": "10.3390/agronomy16111082",
+          "url": "https://www.semanticscholar.org/paper/26b4c1ecd90b5eecca61e9f443b4124f26ab0f40",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-07-16T22:15:47.309027+00:00",
+      "edges_enriched_at": "2026-07-16T22:15:55.975785+00:00"
+    },
     {
       "id": "6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
       "semantic_scholar_id": "6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
@@ -772,6 +889,124 @@
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
+      "id": "53c5bcc82e8a2f6c407476532f8d163c88d7fa36",
+      "semantic_scholar_id": "53c5bcc82e8a2f6c407476532f8d163c88d7fa36",
+      "source": "Semantic Scholar",
+      "pmid": "42448275",
+      "doi": "10.1016/j.envpol.2026.128777",
+      "title": "Process-specific inhibition of sediment denitrification by metal oxide nanoparticles.",
+      "authors": [
+        "Qiong Wang",
+        "Junxiang Cui",
+        "Xiaojing Zhang",
+        "Haoran Zhao",
+        "Xinyue Xu"
+      ],
+      "journal": "Environmental Pollution",
+      "publication_date": "2026-07-01",
+      "abstract": "The continuous accumulation of nanoparticles (NPs) in river sediments poses a potential threat to benthic nitrogen cycling. However, systematic comparisons of their effects on denitrification pathways driven by different electron donors are lacking. This study investigated the impacts of nZVI, nCuO, and nZnO on heterotrophic denitrification (H-DN), iron-based autotrophic denitrification (Fe-AD), and sulfur-based autotrophic denitrification (S-AD) in sediment. An integrated analysis was conducted including denitrification performance, key enzyme activities, extracellular polymeric substance (EPS) responses, microbial community structure, and functional gene abundance. Results revealed process- and particle-specific nanoparticle toxicity. H-DN was sensitive only to nZnO (11.6% reduction in nitrate removal rate). Fe-AD was sensitive to three NPs, with nZnO showing the strongest inhibition (38.7% reduction). In contrast, S-AD exhibited high tolerance. Nitrite reductase (NIR) activity reached 5.1 times that of the control, coupled with lower oxyR abundance, suggesting that sulfide-mediated passivation alleviated oxidative stress. NIR was identified as the common enzymatic target. Microorganisms defended against NP stress by increasing the protein fraction of EPS. nZnO triggered abnormal soluble microbial products (SMP) profiles across all systems, with protein/polysaccharide ratios surging to 45.0-45.3. Metagenomics revealed higher abundances of heavy-metal efflux and oxidative-stress genes in H-DN and Fe-AD under NP stress, imposing an energy trade-off between defense and metabolism; these genes were less abundant in S-AD. Gene abundance-enzyme activity decoupling further cautions that ecological risk assessments based solely on community abundance may underestimate nanoparticle toxicity.",
+      "url": "https://www.semanticscholar.org/paper/53c5bcc82e8a2f6c407476532f8d163c88d7fa36",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/53c5bcc82e8a2f6c407476532f8d163c88d7fa36",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 40,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "db99dbbae0a73b57293246030d6a4e8052621edc",
+          "title": "The microbial detoxification mechanisms and nitrogen transformation pathways in the anaerobic ammonia oxidation system under thiourea stress.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Anni Zhang",
+            "Xiang Li",
+            "Yan Yuan"
+          ],
+          "doi": "10.1016/j.watres.2026.126257",
+          "url": "https://www.semanticscholar.org/paper/db99dbbae0a73b57293246030d6a4e8052621edc",
+          "citation_count": 0
+        },
+        {
+          "id": "679b02b8be23c91d39bf04d667f751bac35cfe07",
+          "title": "Key enzymes and genetic traits in sulfur autotrophic denitrification: Electron donors, functional microbes, and applications.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Guang Song",
+            "Yanhe Han",
+            "Ziyin Wei"
+          ],
+          "doi": "10.1016/j.biortech.2026.135180",
+          "url": "https://www.semanticscholar.org/paper/679b02b8be23c91d39bf04d667f751bac35cfe07",
+          "citation_count": 0
+        },
+        {
+          "id": "2232ca3ae7f340ceeab9c1c6f02827b388bdcf44",
+          "title": "Biodegradable versus persistent nanoplastics reshape nitrogen metabolism and biofilm architecture in denitrifying biofilters.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Suhao Feng",
+            "Yinzhou Bao",
+            "Xiao Zhu"
+          ],
+          "doi": "10.1016/j.biortech.2026.135048",
+          "url": "https://www.semanticscholar.org/paper/2232ca3ae7f340ceeab9c1c6f02827b388bdcf44",
+          "citation_count": 0
+        },
+        {
+          "id": "42ddca5d234c839476bb516a2a7762fbf9e0c195",
+          "title": "Sulfur-driven adaptive succession of denitrifiers enables coordinated autotrophic-heterotrophic deep denitrification.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Yu Cheng",
+            "Renke Wei",
+            "Dongyang Duan"
+          ],
+          "doi": "10.1016/j.watres.2026.126395",
+          "url": "https://www.semanticscholar.org/paper/42ddca5d234c839476bb516a2a7762fbf9e0c195",
+          "citation_count": 0
+        },
+        {
+          "id": "bcec0ff5e4bbb6e4fd68b35ead479b75bd17f4fa",
+          "title": "Unveiling and Steering Thiobacillus denitrificans metabolic network to tackle denitrification inhibition under antibiotic-heavy metal co-exposure.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Xinyi Wang",
+            "Can Wang",
+            "Tianhong Bao"
+          ],
+          "doi": "10.1016/j.biortech.2026.135240",
+          "url": "https://www.semanticscholar.org/paper/bcec0ff5e4bbb6e4fd68b35ead479b75bd17f4fa",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrification",
+        "nitrogen",
+        "sediment",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-16T22:15:47.309027+00:00",
+      "edges_enriched_at": "2026-07-16T22:15:55.975785+00:00"
     },
     {
       "id": "7ca141329c242158c2d9866b207b090978b467c4",
@@ -13838,7 +14073,7 @@
       "url": "https://www.semanticscholar.org/paper/2021491e45f9c6be4e89ce79169b22997431536c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2021491e45f9c6be4e89ce79169b22997431536c",
       "pdf_url": "https://www.mdpi.com/2073-4395/15/5/1208/pdf?version=1747398320",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -19462,7 +19697,7 @@
       "url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "pdf_url": "",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -20715,7 +20950,7 @@
       "url": "https://www.semanticscholar.org/paper/1c87092cbe18e68dcb1c897e6816e09de73a9ccd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1c87092cbe18e68dcb1c897e6816e09de73a9ccd",
       "pdf_url": "",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 123,
       "references": [],
@@ -21073,7 +21308,7 @@
       "url": "https://www.semanticscholar.org/paper/52fc57cf86bd5226df3b6572ede7f3b0ef9007f0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/52fc57cf86bd5226df3b6572ede7f3b0ef9007f0",
       "pdf_url": "",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 1,
       "reference_count": 73,
       "references": [],
@@ -21543,7 +21778,7 @@
       "url": "https://www.semanticscholar.org/paper/68e78ea43f816b69b37aaf1068985b38032cae7b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/68e78ea43f816b69b37aaf1068985b38032cae7b",
       "pdf_url": "",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 1,
       "reference_count": 98,
       "references": [],
@@ -33579,7 +33814,7 @@
       "url": "https://www.semanticscholar.org/paper/5e2a3547d13414cf9b0b259813adfe0949a7d1c6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5e2a3547d13414cf9b0b259813adfe0949a7d1c6",
       "pdf_url": "",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 1,
       "reference_count": 70,
       "references": [],
@@ -39648,7 +39883,7 @@
       "url": "https://www.semanticscholar.org/paper/da105134328325f911f362c9db411eab412dc33d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/da105134328325f911f362c9db411eab412dc33d",
       "pdf_url": "",
-      "citation_count": 144,
+      "citation_count": 145,
       "influential_citation_count": 3,
       "reference_count": 70,
       "references": [],
@@ -43627,7 +43862,7 @@
       "url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "pdf_url": "http://manuscript.elsevier.com/S0038071718302864/pdf/S0038071718302864.pdf",
-      "citation_count": 357,
+      "citation_count": 358,
       "influential_citation_count": 8,
       "reference_count": 72,
       "references": [],
@@ -44760,7 +44995,7 @@
       "url": "https://www.semanticscholar.org/paper/e9c240a13f974b6001f2c9cc09d0e31b504d4801",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e9c240a13f974b6001f2c9cc09d0e31b504d4801",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2018.00431/pdf",
-      "citation_count": 130,
+      "citation_count": 131,
       "influential_citation_count": 4,
       "reference_count": 72,
       "references": [
@@ -46775,7 +47010,7 @@
       "url": "https://www.semanticscholar.org/paper/10a8645a0154dbcbc26d40cd4b6ff2207cbde16f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/10a8645a0154dbcbc26d40cd4b6ff2207cbde16f",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2012.00210/pdf",
-      "citation_count": 166,
+      "citation_count": 167,
       "influential_citation_count": 11,
       "reference_count": 127,
       "references": [
