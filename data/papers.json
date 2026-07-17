@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T22:16:11.204644+00:00",
+  "updated_at": "2026-07-17T22:07:20.017443+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,172 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
+      "semantic_scholar_id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
+      "source": "Semantic Scholar",
+      "pmid": "42455045",
+      "doi": "10.1128/aem.00993-26",
+      "title": "Sulfur-cycling diazotrophs dominate nitrogen fixation in seagrass sediments.",
+      "authors": [
+        "Lixia Deng",
+        "Zhicheng Ju",
+        "Jiawei Chen",
+        "Yuxuan Lin",
+        "Weiguo Zhou",
+        "S. Lee",
+        "C. Yung",
+        "Hongbin Liu"
+      ],
+      "journal": "Applied and Environmental Microbiology",
+      "publication_date": "2026-07-15",
+      "abstract": "Diazotrophs, the microbes capable of fixing dinitrogen, are essential for providing bioavailable nitrogen that supports marine primary production. Traditionally, nitrogen fixation in seagrass sediments has been linked primarily to heterotrophic sulfate reduction, leaving the roles of other metabolic processes, like sulfur oxidation, largely unexplored. Here, we employed metagenomic and metatranscriptomic approaches to explore the distribution, metabolic capabilities, and activity of diazotrophs in sediments dominated by the seagrass Halophila ovalis in a subtropical bay in Hong Kong. Our results revealed significantly higher nitrogen fixation rates in seagrass-vegetated sediments compared to adjacent bare sediments, with peak rates occurring in subsurface layers, suggesting that seagrass sediments may serve as hotspots for nitrogen fixation. We recovered 305 metagenome-assembled genomes, including those of diazotrophic sulfur-cycling bacteria. Notably, sulfur-oxidizing Gammaproteobacteria and sulfate-reducing Desulfobacterota emerged as the dominant and active members of the diazotroph community in seagrass sediments, expressing specific genes related to both nitrogen and sulfur metabolic pathways. Furthermore, our findings suggest that sulfate-reducing Desulfobacterota likely drive the high nitrogen fixation rates observed in deeper sediment layers, while sulfur-oxidizing Gammaproteobacteria may play a crucial role in surface layers. This study underscores the important roles of both sulfate-reducing and sulfur-oxidizing bacteria in nitrogen fixation within seagrass sediments, revealing a complex interplay between nitrogen fixation and sulfur metabolism.IMPORTANCESeagrass meadows are vital blue carbon ecosystems found in coastal and estuarine regions, playing a crucial role in carbon sequestration and supporting marine diversity. Traditionally, biological nitrogen fixation, an essential process for supplying bioavailable nitrogen to living organisms, has been primarily associated with heterotrophic sulfate reduction in these ecosystems. Our research offers novel insights into the nitrogen-fixing microorganisms present in the sediments dominated by the seagrass Halophila ovalis. We found that both sulfur-oxidizing and sulfate-reducing bacteria contribute to nitrogen fixation processes in seagrass sediments. This study highlights the intricate connections between nitrogen and sulfur metabolic pathways, providing a more comprehensive understanding of nutrient cycling in coastal ecosystems.",
+      "url": "https://www.semanticscholar.org/paper/2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
+      "pdf_url": "https://doi.org/10.1128/aem.00993-26",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 75,
+      "references": [
+        {
+          "title": "Global marine metagenomics reveals the functional diversity and ecological adaptations of diazotrophs across marine ecosystems",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/0e1e50bebd818c8c54f068a8ed52ea2a6f1ca959",
+          "doi": "10.1038/s43247-025-02850-9"
+        },
+        {
+          "title": "Northern peatland microbial communities exhibit resistance to warming and acquire electron acceptors from soil organic matter",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/001c5be7cf8fb6c42b0da6442f0d47149da45ad5",
+          "doi": "10.1038/s41467-025-61664-7"
+        },
+        {
+          "title": "Genome-resolved metatranscriptomics unveils distinct microbial functionalities across aggregate sizes in aerobic granular sludge",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/6e6a7accca3ec5fc91a068eb24adced0921f6ece",
+          "doi": "10.1016/j.ese.2025.100560"
+        },
+        {
+          "title": "Nitrogen fixation of different seasons and parts of seagrass Enhalus acoroides in Xincun Bay, northern South China Sea",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/e161a493e86ded0951bb3d8262f7db2df6419e1d",
+          "doi": "10.1016/j.rsma.2024.103599"
+        },
+        {
+          "title": "Sulfur oxidation and reduction are coupled to nitrogen fixation in the roots of the salt marsh foundation plant Spartina alterniflora",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/50f884862fa0668ae77e0494724f695112adcda9",
+          "doi": "10.1038/s41467-024-47646-1"
+        },
+        {
+          "title": "Novel insights into the rhizosphere and seawater microbiome of Zostera marina in diverse mariculture zones",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/7726e05ebb5fb3de1c9bc8d004fd95503bbe0ae9",
+          "doi": "10.1186/s40168-024-01759-3"
+        },
+        {
+          "title": "Chemolithoautotrophic diazotrophs dominate dark nitrogen fixation in mangrove sediments",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/c92cc9e3553ab6bb502dbf6012872b46e4443639",
+          "doi": "10.1093/ismejo/wrae119"
+        },
+        {
+          "title": "Genome-resolved metagenomics provides insights into the microbial-mediated sulfur and nitrogen cycling in temperate seagrass meadows",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/bedb9bd3970fd3995d915e073758652d33990eb8",
+          "doi": "10.3389/fmars.2023.1245288"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "e2b7c70840bff53f7a150e0833bb5b29ae39307e",
+          "title": "Response of Zostera japonica rhizosphere bacteria to ocean acidification.",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Xinqi Li",
+            "Yu Zang",
+            "Hongzhen Wang"
+          ],
+          "doi": "10.1128/aem.00277-26",
+          "url": "https://www.semanticscholar.org/paper/e2b7c70840bff53f7a150e0833bb5b29ae39307e",
+          "citation_count": 0
+        },
+        {
+          "id": "b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
+          "title": "Microbial Diversity and Function Linked to Carbon Cycling in Mangrove Sediments",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "Nabilah Khairi",
+            "Muhammad Zarul Hanifah Md Zoqratt",
+            "N. Hidayah"
+          ],
+          "doi": "10.64898/2026.05.13.724760",
+          "url": "https://www.semanticscholar.org/paper/b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
+          "citation_count": 0
+        },
+        {
+          "id": "e4524311be427aa3225d994224cf19a55f147967",
+          "title": "Nitrogen fixation rates increase with diazotroph richness in the global ocean.",
+          "year": 2026,
+          "journal": "Scientific Reports",
+          "authors": [
+            "Dominic Eriksson",
+            "D. Righetti",
+            "F. Benedetti"
+          ],
+          "doi": "10.1038/s41598-026-61132-2",
+          "url": "https://www.semanticscholar.org/paper/e4524311be427aa3225d994224cf19a55f147967",
+          "citation_count": 1
+        },
+        {
+          "id": "399a58279a26d20fe602b11c59a6b424c58ec029",
+          "title": "Mixotrophic S-Anammox Enrichment for Synergistic Nitrogen and Sulfur Removal: Performance, Microbial Community Succession, and Key Functional Taxa",
+          "year": 2026,
+          "journal": "Journal of Life Sciences and Agriculture",
+          "authors": [
+            "Fangyuan Ren",
+            "Li Cui",
+            "Siqi Gang"
+          ],
+          "doi": "10.62517/jlsa.202607203",
+          "url": "https://www.semanticscholar.org/paper/399a58279a26d20fe602b11c59a6b424c58ec029",
+          "citation_count": 0
+        },
+        {
+          "id": "170862070bd8d69b4dcc069b9d8c7e99adbcfe77",
+          "title": "Dark carbon fixation in tropical-subtropical lagoon and bay regional intertidal sediments under the effect of vegetation: controlling factors and driving microorganisms",
+          "year": 2026,
+          "journal": "Frontiers in Marine Science",
+          "authors": [
+            "Boyuan Yang",
+            "Yao Guan",
+            "Weiqiang Zhao"
+          ],
+          "doi": "10.3389/fmars.2026.1837611",
+          "url": "https://www.semanticscholar.org/paper/170862070bd8d69b4dcc069b9d8c7e99adbcfe77",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The results revealed significantly higher nitrogen fixation rates in seagrass-vegetated sediments compared to adjacent bare sediments, with peak rates occurring in subsurface layers, suggesting that seagrass sediments may serve as hotspots for nitrogen fixation.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "metatranscriptome",
+        "nitrogen",
+        "nitrogen_fixation",
+        "sediment"
+      ],
+      "detail_enriched_at": "2026-07-17T22:07:16.591270+00:00",
+      "edges_enriched_at": "2026-07-17T22:07:17.393735+00:00"
+    },
     {
       "id": "720d98fd068b33d558761a029f660fceee26e4c9",
       "semantic_scholar_id": "720d98fd068b33d558761a029f660fceee26e4c9",
@@ -901,7 +1067,7 @@
         "Qiong Wang",
         "Junxiang Cui",
         "Xiaojing Zhang",
-        "Haoran Zhao",
+        "Hao Zhao",
         "Xinyue Xu"
       ],
       "journal": "Environmental Pollution",
@@ -5002,8 +5168,8 @@
       "abstract": "Introduction Euphorbia jolkinii Boiss. is a native invasive weed. Its invasion altered microbial composition, total nitrogen (TN) and available nitrogen (AN). However, the mechanisms influencing N transformation remain unclear. Particularly, the roles of the microbiome and genes in mediating N transformations to facilitate E. jolkinii invasion remain poorly understood. Therefore, the primary objectives of this study were to evaluate how E. jolkinii invasion affects N transformation, microbial interactions, and key genes associated with AN accumulation. Methods We compared three patches (non-invaded, lightly, and heavily invaded patches of E. jolkinii) by analyzing rhizosphere soils of E. jolkinii and Poa crymophila Keng. Integrating soil physicochemical indices with metagenomic sequencing, we investigated the relationships among microbial communities, gene abundance, and N transformation. Results With E. jolkinii increasing invasion intensity, N accumulation and transformation rates were significantly reduced in the rhizosphere of P. crymophila but enhanced in that of E. jolkinii, particularly for AN. Metagenomic analysis revealed that the invasion and expansion of E. jolkinii promoted functional adaptation of the microbial community, particularly by enriching the N cycling-related genes and increasing their relative abundance in the rhizosphere soil of E. jolkinii. Moreover, it inhibited the accumulation of N transformation functional genes in the rhizosphere soil of the companion plant, P. crymophila. Structural equation modeling identified Nitrospirota, Edaphobacter, Anaeromyxobacter, and soil N transformation rates as key drivers of AN accumulation. Discussion E. jolkinii facilitated N accumulation in its rhizosphere by modulating N-transforming microbes and key functional genes, underscoring one of its invasive advantages.",
       "url": "https://www.semanticscholar.org/paper/a1840fc5e0006241904cca43bd4d685c3a8c73a4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a1840fc5e0006241904cca43bd4d685c3a8c73a4",
-      "pdf_url": "",
-      "citation_count": 1,
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1757844/pdf",
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 54,
       "references": [
@@ -5491,7 +5657,7 @@
       "title": "Silver sulfide nanoparticles amplify earthworm gut denitrification and elevate N₂O emissions in subtropical forest soils under nitrogen deposition.",
       "authors": [
         "Jingtao Wu",
-        "CanXuan He",
+        "Canxuan He",
         "Kejun Wu",
         "Weixun Feng",
         "Yuantong Yang",
@@ -5924,7 +6090,7 @@
       "abstract": "Snowmelt triggers a soil microbial bloom and crash that affects nitrogen (N) export in high-elevation watersheds. The mechanisms underlying these microbial dynamics are uncertain, making soil nitrogen processes difficult to predict as snowpack declines globally. Here, integration of genome-resolved metagenomics, metatranscriptomics and metabolomics in a high-elevation watershed revealed ecologically distinct soil microorganisms linked across the snowmelt time-period by their unique nitrogen cycling capacities. The molecular properties and transformations of dissolved organic N suggested that degradation or recycling of microbial biomass provided N for biosynthesis during the microbial bloom. Winter-adapted Bradyrhizobia spp. oxidized amino acids anaerobically and had the highest gene expression for denitrification during the microbial bloom. A pulse of nitrate was driven by spring-adapted Nitrososphaerales after snowmelt, but dissimilatory nitrate reduction to ammonia (DNRA) gene expression indicated significant nitrate retention potential. These findings inform our understanding of nitrogen cycling in environments sensitive to snowpack decline due to global change. Soil microbial populations bloom and then die-off in ecosystems with seasonal snowpack. This study showed that distinct taxa utilize different N sources for growth or energy during the microbial bloom and alter the fate of N after snowmelt.",
       "url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
-      "pdf_url": "",
+      "pdf_url": "https://www.nature.com/articles/s41564-025-02213-2.pdf",
       "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 97,
@@ -8498,7 +8664,7 @@
       "abstract": "Enhanced nitrogen (N) load was considered a critical factor influencing phosphorus (P) availability and P-cycling in marsh soils. However, information on the links between soil P availability and microbial genes involved in P-cycling processes under N enrichment conditions remains scarce. A field N load experiment with four treatments (N0, Nlow, Nmedium, and Nhigh) was conducted in Cyperus malaccensis marsh of the Min River estuary, and soil P availability, the relative abundances of P-cycling functional genes and their regulatory roles on P availability were investigated. The total phosphorus (TP) contents in soils were significantly positively correlated with N load levels (p < 0.05). Compared with the N0 treatment, the TP in the Nlow, Nmedium and Nhigh treatments increased by 8.97%, 17.34% and 15.21%, respectively. With increasing N load levels, the proportions of easily- and moderately-available P in TP contents noticeably increased, suggesting that N additions enhanced soil P availability. Metagenomic sequence analyses showed that N enrichment markedly altered the relative abundances of P-cycling functional genes. Briefly, the abundances of inorganic P solubilization genes (particularly ppa and ppx) increased substantially with increasing N load levels. The total abundances of organic P mineralization genes in the Nlow and Nmedium treatments decreased markedly, while those in the Nhigh treatment increased greatly. The abundances of genes coding for phytase (phy and appA) markedly increased with increasing N load levels, implying that phytase was more sensitive to N enrichment. Furthermore, enhanced N load noticeably reduced the abundances of genes participated in P transportation (particularly ugpABEC) and those involved in P-assimilating process (e.g., phoR, phoB, pstABCS and pit). As affected by enhanced N load, the contents of easily-available P showed strong correlations with the abundances of genes involved in inorganic P solubilization while those of moderately-available P (particularly Sonic-Pi, Sonic-Po and NaOH-Pi) were positively correlated with the abundances of genes involved in P regulation and transportation, indicating strong linkages between P-cycling functional genes and soil P availability. This paper found that, under N enrichment conditions, the increased inorganic P solubilization potential and the weakened microbial P immobilization capacity were beneficial to increasing soil P availability.",
       "url": "https://www.semanticscholar.org/paper/798d71d391b0b235415a0c1f7d55db0cf3e7fec9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/798d71d391b0b235415a0c1f7d55db0cf3e7fec9",
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40793-025-00813-3.pdf",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 101,
@@ -10996,7 +11162,7 @@
       "abstract": "Ammonium release (ammonification) and uptake (immobilization) by soil microbial communities are fundamental processes of forest nitrogen (N) cycling, representing major N fluxes that influence plant productivity and ecosystem N retention. However, because these processes involve diverse metabolic pathways distributed across many taxa, they are difficult to evaluate using gene‐ or taxon‐specific approaches, and it remains unclear how microbial community structure governs the patterns of these processes. In this study, we examined how the abundance, taxonomic composition, richness, and metabolic capabilities of microbial communities regulate ammonium‐related N cycling processes across a wide range of forests in Japan, using rRNA gene sequencing and quantification, shotgun metagenomics, and ¹⁵N tracer assays. Across the full gradients of soil pH and N content, microbial abundance was primarily correlated with the absolute rates of N cycling processes, while taxonomic composition and richness were more strongly correlated with N allocation—that is, the balance among ammonium release, ammonium uptake, and subsequent nitrification. Soils with higher pH supported taxonomic compositions linked to enhanced ammonium release and nitrification, whereas lower‐pH soils hosted compositions associated with greater ammonium uptake and retention. Notably, the regulatory influence of taxonomic composition on N allocation was pronounced within the higher‐pH range but diminished within the lower‐pH range. Despite this environmental dependency, N allocation by soil microbial communities was ultimately constrained by their overall metabolic capabilities. In higher‐pH soils, microbial communities were enriched in metabolic functions related to nutrient acquisition and respiratory N transformations, supporting increased ammonium release and N mobility. By contrast, microbial communities in lower‐pH soils were enriched in stress‐adaptive functions, which promoted ammonium retention and limited N transformations—thereby diminishing the regulatory influence in N cycling. Together, our findings provide a mechanistic understanding of how microbial community structure and metabolic capabilities regulate ammonium‐related N cycling processes across forests under varying environmental conditions.",
       "url": "https://www.semanticscholar.org/paper/c0b654733e38fb2695262e387d9e9c8eeb824905",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0b654733e38fb2695262e387d9e9c8eeb824905",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1002/imo2.70054",
       "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 66,
@@ -12851,7 +13017,7 @@
       "abstract": "Soil denitrification mediated by microbial communities is a major driver of nitrous oxide (N₂O) emissions, yet the regulatory roles of keystone taxa remain largely unexplored, particularly under distinct edaphic conditions. Black soil (BS) and fluvo-aquic soil (FS), two representative agricultural soils in China, exhibit contrasting N₂O emission potentials, providing a unique model system for disentangling microbial mechanisms underlying soil-specific denitrification dynamics. Here, we integrated microbial co-occurrence networks, metagenomics, and functional phenotyping to identify and characterize keystone bacterial taxa involved in denitrification across the above mentioned two contrasting agricultural soils, BS and FS. Structural equation modeling (SEM) and correlation analyses revealed that keystone taxa are significantly associated with soil denitrification rates and N₂O emission patterns. Among these, Ramlibacter ASV104 was identified as a conserved keystone in both soils, exhibiting genomic potential for key denitrification genes (nirK/nirS/norB/nosZ) to mediate N2O turnover. In contrast, Ensifer ASV205 was a FS-specific keystone taxon, exhibiting strain-level niche specialization. Comparative genomics revealed that variations in denitrification gene composition and carbon-nitrogen metabolism enable different Ensifer strains to function either as N₂O sources or sinks. This functional divergence was linked to their genomic plasticity and growth strategies under nutrient-rich conditions. Our findings demonstrate that soil-specific denitrification processes and N₂O emissions are governed by keystone taxa through adaptive genomic and metabolic strategies shaped by environmental filtering. This study improves our understanding of the microbial mechanisms driving N₂O emissions and provides a foundation for future strategies targeting microbial taxa to mitigate N₂O emissions in agricultural soils. IMPORTANCE This study provides new insights into the ecological complexity underlying soil N₂O emissions by integrating strain-level diversity, genomic attributes, and microbial interaction networks. Key microbial taxa involved in denitrification and N₂O emissions were identified in black soil and fluvo-aquic soil. By combining network-based ecological modeling and functional assays, it is revealed that taxa such as Ramlibacter ASV104 and Ensifer ASV205 play significant roles in regulating N₂O emissions. Strain-level functional diversity within the keystone taxa of Ensifer ASV205 highlights their varying contributions to nitrogen cycling. Our findings provide a deeper understanding of the microbial mechanisms governing N₂O emissions, offering valuable insights for developing microbial-based strategies to mitigate N₂O emissions in agricultural soils in the future.",
       "url": "https://www.semanticscholar.org/paper/85be2b56ded399d4c0bd36ee6e6323655783ee32",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/85be2b56ded399d4c0bd36ee6e6323655783ee32",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.1186/s40793-026-00855-1",
       "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 116,
@@ -16144,7 +16310,7 @@
       "url": "https://www.semanticscholar.org/paper/58724e37cc531107026b3c7209b4b26dd2ca031b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/58724e37cc531107026b3c7209b4b26dd2ca031b",
       "pdf_url": "https://doi.org/10.3389/fmicb.2025.1537173",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [
@@ -17032,7 +17198,7 @@
       "url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "pdf_url": "",
-      "citation_count": 54,
+      "citation_count": 55,
       "influential_citation_count": 2,
       "reference_count": 64,
       "references": [],
@@ -19238,7 +19404,7 @@
       "url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.14431",
-      "citation_count": 30,
+      "citation_count": 31,
       "influential_citation_count": 0,
       "reference_count": 105,
       "references": [],
@@ -20781,7 +20947,7 @@
       "abstract": "Nitrogen (N) is the primary essential nutrient for ginseng growth, and a reasonable nitrogen application strategy is vital for maintaining the stability of soil microbial functional communities. However, how microbial-mediated functional genes involved in nitrogen cycling in the ginseng rhizosphere respond to nitrogen addition is largely unknown. In this study, metagenomic technology was used to study the effects of different nitrogen additions (N0: 0, N1: 20, N2: 40 N g/m2) on the microbial community and functional nitrogen cycling genes in the rhizosphere soil of ginseng, and soil properties related to the observed changes were evaluated. The results showed that N1 significantly increased the soil nutrient content compared to N0, and the N1 ginseng yield was the highest (29.90% and 38.05% higher than of N0 and N2, respectively). N2 significantly decreased the soil NO3 –N content (17.18 mg/kg lower than N0) and pH. This resulted in a decrease in the diversity of soil microorganisms, a decrease in beneficial bacteria, an increase in the number of pathogenic microorganisms, and an significant increase in the total abundance of denitrification, assimilatory nitrogen reduction, and dissimilatory nitrogen reduction genes, as well as the abundance of nxrA and napA genes (17.70% and 65.25% higher than N0, respectively), which are functional genes involved in nitrification that promote the soil nitrogen cycling process, and reduce the yield of ginseng. The results of the correlation analysis showed that pH was correlated with changes in the soil microbial community, and the contents of soil total nitrogen (TN), ammonium nitrogen (NH4 +-N), and alkaline-hydrolyzed nitrogen (AHN) were the main driving factors affecting the changes in nitrogen cycling functional genes in the rhizosphere soil of ginseng. In summary, nitrogen addition affects ginseng yield through changes in soil chemistry, nitrogen cycling processes, and functional microorganisms.",
       "url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
-      "pdf_url": "https://doi.org/10.3389/fpls.2024.1411073",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1411073/pdf",
       "citation_count": 46,
       "influential_citation_count": 1,
       "reference_count": 72,
@@ -21191,7 +21357,7 @@
       "url": "https://www.semanticscholar.org/paper/ce3fcc752f6369fe324e56a4810a9e8b8ee54162",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ce3fcc752f6369fe324e56a4810a9e8b8ee54162",
       "pdf_url": "",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 59,
       "references": [],
@@ -21541,7 +21707,7 @@
       "url": "https://www.semanticscholar.org/paper/2da9e1201edcb181d9a7509da754a47a5862ac6c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2da9e1201edcb181d9a7509da754a47a5862ac6c",
       "pdf_url": "",
-      "citation_count": 24,
+      "citation_count": 25,
       "influential_citation_count": 0,
       "reference_count": 78,
       "references": [],
@@ -26092,7 +26258,7 @@
       "url": "https://www.semanticscholar.org/paper/2e29da3ccc4f094ab761fb33dd45a09bb35339b9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2e29da3ccc4f094ab761fb33dd45a09bb35339b9",
       "pdf_url": "",
-      "citation_count": 32,
+      "citation_count": 33,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [],
@@ -27852,7 +28018,7 @@
       "url": "https://www.semanticscholar.org/paper/00be183918d1dd8ea4735b5cb4d80f7fcc36ff05",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/00be183918d1dd8ea4735b5cb4d80f7fcc36ff05",
       "pdf_url": "",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 1,
       "reference_count": 83,
       "references": [],
@@ -31427,7 +31593,7 @@
       "url": "https://www.semanticscholar.org/paper/86686e6266e3413aed5b1268ad632ad08b37f9f4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/86686e6266e3413aed5b1268ad632ad08b37f9f4",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.1019010/pdf",
-      "citation_count": 31,
+      "citation_count": 32,
       "influential_citation_count": 0,
       "reference_count": 69,
       "references": [
@@ -33273,7 +33439,7 @@
       "abstract": "Organic amendments are applied in organic farming systems to provide nutrients for crop uptake and to improve soil health. Compost is often favored over fresh manure for food safety reasons, while fresh manure can be a valuable source of readily available nitrogen (N). However, the potential for fresh versus composted manure to differentially affect soil microbial and N-cycling functional communities over multiple seasons remains unknown. We compared the effect of composted vs. fresh cattle manure on soil microbial communities using taxonomic and functional approaches. Soils were collected from field plots with three organic N treatments: control (no amendment), composted manure (compost, 224 kg/ha total N), and fresh manure (manure, 224 kg/ha total N) in an organic production system. Illumina amplicon sequencing was used to comprehensively assess the bacterial community (16S rRNA genes), fungal community (ITS), ureolytic community (ureC), chitinolytic community (chiA), bacterial ammonia oxidizers (AOB amoA), and nitrite oxidizers (Nitrospira nxrB). The results showed that both compost and manure treatment significantly changed the soil microbial communities. Manure had a stronger effect than compost on soil bacterial and fungal community composition, as well as on the ureolytic and chitinolytic communities, while compost treated soils had higher microbial richness than manure treated soils. Both taxonomic and functional approaches showed that the microbial community was more responsive to fresh manure than to compost. Manure treated soil also had more complex microbial interactions than compost treated soil. The abundance and community composition of N-cycling functional groups often played more limited roles than soil chemical properties (soil organic carbon, extractable organic carbon, and pH) in driving N-cycling processes. Results from our study may guide strategies for the management of organic amendments in organic farming systems and provide insights into the linkages between soil microbial communities and soil function.",
       "url": "https://www.semanticscholar.org/paper/844318ef3e1d20c4c0e9468fa4442fbf2ad6e28d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/844318ef3e1d20c4c0e9468fa4442fbf2ad6e28d",
-      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fsoil.2022.869136/pdf",
+      "pdf_url": "https://doi.org/10.3389/fsoil.2022.869136",
       "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 57,
@@ -34831,7 +34997,7 @@
       "abstract": "The microbial groups of nitrogen fixers, ammonia oxidizers, and denitrifiers play vital roles in driving the nitrogen cycle in grassland ecosystems. However, the understanding of the abundance and distribution of these functional microorganisms as well as their driving factors were limited mainly to topsoil. In this study, the abundances of nitrogen functional genes (NFGs) involved in nitrogen fixation (nifH), ammonia oxidation (amoA), and denitrification (nirK, nirS, and nosZ) were investigated in both topsoil (0–10 cm, soil layer with concentrated root) and subsoil (30–40 cm, soil layer with spare root) of three grassland habitats in northern China. The abundance of NFGs decreased with soil depth except for the archaeal amoA gene and the distribution of nifH, archaeal amoA, nirK, and nirS gene was significantly impacted by grassland habitats. Moreover, the distribution of NFGs was more responsive to the vertical difference than horizontal spatial heterogeneity. Redundancy analysis revealed that the distribution pattern of overall NFGs was regulated by grassland habitats, and these regulations were more obvious in the subsoil than in the topsoil. Variance partitioning analysis further indicated that soil resource supply (e.g., organic matter) may control the vertical distribution of NFGs. Taken together, the findings in this study could fundamentally improve our understanding of the distribution of N cycling-associated microorganisms across a vertical scale, which would be useful for predicting the soil N availability and guiding the soil N management in grassland ecosystems.",
       "url": "https://www.semanticscholar.org/paper/1d92eafb9786d5da4b604bdf964df5dc5addf9f1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1d92eafb9786d5da4b604bdf964df5dc5addf9f1",
-      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpls.2021.792002/pdf",
+      "pdf_url": "https://doi.org/10.3389/fpls.2021.792002",
       "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 87,
@@ -35000,7 +35166,7 @@
       "abstract": "The Mariana Trench harbors a substantial number of infective viral particles. However, very little is known about the identity, survival strategy, and potential functions of viruses in the trench sediments. ABSTRACT Viruses are ubiquitous in the oceans. Even in the deep sediments of the Mariana Trench, viruses have high productivity. However, little is known about their species composition and survival strategies in that environment. Here, we uncovered novel viral communities (3,206 viral scaffolds) in the upper slope sediments of the Mariana Trench via metagenomic analysis of 15 sediment samples. Most (99%) of the viral scaffolds lack known viral homologs, and ca. 59% of the high-quality viral genomes (total of 111 with completeness of >90%) represent novel genera, including some Phycodnaviridae and jumbo phages. These viruses contain various auxiliary metabolic genes (AMGs) potentially involved in organic carbon degradation, inorganic carbon fixation, denitrification, and assimilatory sulfate reduction, etc. This study provides novel insight into the almost unknown benthic viral communities in the Mariana Trench. IMPORTANCE The Mariana Trench harbors a substantial number of infective viral particles. However, very little is known about the identity, survival strategy, and potential functions of viruses in the trench sediments. Here, through metagenomic analysis, unusual benthic viral communities with high diversity and novelty were discovered. Among them, 59% of the viruses with a genome completeness of >90% represent novel genera. Various auxiliary metabolic genes carried by these viruses reflect the potential adaptive characteristics of viruses in this extreme environment and the biogeochemical cycles that they may participate in. This study gives us a deeper understanding of the peculiarities of viral communities in deep-sea/hadal sediments.",
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
-      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725595",
+      "pdf_url": "https://doi.org/10.1128/msystems.01358-21",
       "citation_count": 49,
       "influential_citation_count": 0,
       "reference_count": 116,
@@ -37010,7 +37176,7 @@
       "url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "pdf_url": "",
-      "citation_count": 130,
+      "citation_count": 131,
       "influential_citation_count": 5,
       "reference_count": 0,
       "references": [],
@@ -42787,7 +42953,7 @@
       "url": "https://www.semanticscholar.org/paper/9c9b65d94be1a618becae79812cf86352af450c7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9c9b65d94be1a618becae79812cf86352af450c7",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2019.02435/pdf",
-      "citation_count": 61,
+      "citation_count": 62,
       "influential_citation_count": 4,
       "reference_count": 65,
       "references": [
@@ -45468,8 +45634,8 @@
       "abstract": "Microorganisms living within the rhizospheres of wetland plants significantly contribute to greenhouse gas emissions. Understanding how microbes produce these gases under conditions that have been imposed by human activities (i.e., nitrogen pollution) is important to the development of future management strategies. Our results illustrate that within the rhizosphere of the wetland plant Juncus acutiflorus, physiological differences associated with nitrogen availability can influence microbial activity linked to greenhouse gas production. By pairing taxonomic information and environmental conditions like nitrogen availability with functional outputs of a system such as greenhouse gas fluxes, we present a framework to link certain taxa to both nitrogen load and greenhouse gas production. We view this type of combined information as essential in moving forward in our understanding of complex systems such as rhizosphere microbial communities. ABSTRACT Wetland ecosystems are important reservoirs of biodiversity and significantly contribute to emissions of the greenhouse gases CO2, N2O, and CH4. High anthropogenic nitrogen (N) inputs from agriculture and fossil fuel combustion have been recognized as a severe threat to biodiversity and ecosystem functioning, such as control of greenhouse gas emissions. Therefore, it is important to understand how increased N input into pristine wetlands affects the composition and activity of microorganisms, especially in interaction with dominant wetland plants. In a series of incubations analyzed over 90 days, we disentangled the effects of N fertilization on the microbial community in bulk soil and the rhizosphere of Juncus acutiflorus, a common and abundant graminoid wetland plant. We observed an increase in greenhouse gas emissions when N is increased in incubations with J. acutiflorus, changing the system from a greenhouse gas sink to a source. Using 16S rRNA gene amplicon sequencing, we determined that the bacterial orders Opitutales, subgroup 6 Acidobacteria, and Sphingobacteriales significantly responded to high N availability. Based on metagenomic data, we hypothesize that these groups are contributing to the increased greenhouse gas emissions. These results indicated that increased N input leads to shifts in microbial activity within the rhizosphere, altering N cycling dynamics. Our study provides a framework for connecting environmental conditions of wetland bulk and rhizosphere soil to the structure and metabolic output of microbial communities. IMPORTANCE Microorganisms living within the rhizospheres of wetland plants significantly contribute to greenhouse gas emissions. Understanding how microbes produce these gases under conditions that have been imposed by human activities (i.e., nitrogen pollution) is important to the development of future management strategies. Our results illustrate that within the rhizosphere of the wetland plant Juncus acutiflorus, physiological differences associated with nitrogen availability can influence microbial activity linked to greenhouse gas production. By pairing taxonomic information and environmental conditions like nitrogen availability with functional outputs of a system such as greenhouse gas fluxes, we present a framework to link certain taxa to both nitrogen load and greenhouse gas production. We view this type of combined information as essential in moving forward in our understanding of complex systems such as rhizosphere microbial communities.",
       "url": "https://www.semanticscholar.org/paper/865f938911a9daba4c083438482560cd42c1741b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/865f938911a9daba4c083438482560cd42c1741b",
-      "pdf_url": "https://msystems.asm.org/content/msys/3/1/e00214-17.full.pdf",
-      "citation_count": 81,
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2017/10/11/197855.full.pdf",
+      "citation_count": 82,
       "influential_citation_count": 1,
       "reference_count": 91,
       "references": [
