@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T22:10:00.252980+00:00",
+  "updated_at": "2026-07-19T22:10:41.111205+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,123 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "c03668c9ef0add1e1d97f2ac28d38551c45ff36b",
+      "semantic_scholar_id": "c03668c9ef0add1e1d97f2ac28d38551c45ff36b",
+      "source": "Semantic Scholar",
+      "pmid": "42461231",
+      "doi": "10.1021/acs.est.6c04988",
+      "title": "Reversible Control of Microbial As(III) Oxidation by Nitrous Oxide Availability in Flooded Paddy Soils.",
+      "authors": [
+        "Shichao Liu",
+        "Yongbin Li",
+        "Xiangfeng Zeng",
+        "Yanchen Sun",
+        "Lingyan Li",
+        "Yongfeng Jia"
+      ],
+      "journal": "Environmental Science and Technology",
+      "publication_date": "2026-07-16",
+      "abstract": "The persistence of arsenite (As(III)) oxidation in flooded paddy soils is difficult to explain once canonical oxidants are rapidly depleted under anoxia. Here we tested whether nitrous oxide (N2O), a prevalent nitrogen-cycle intermediate, reversibly regulates microbial As(III) oxidation and arsenic (As) partitioning in flooded soils. Using two paddy soils with low and high As contents, we conducted (i) three-generation serial-transfer enrichments with exogenous As(III) addition and (ii) continuous-cessation-readdition N2O exposure microcosms targeting native As pools. Across transfer generations, N2O consistently promoted As(III) oxidation under strictly anoxic conditions, while sterilized controls showed no As(III) loss, indicating biological mediation. In native-soil microcosms, porewater As(III) declined during N2O input, rebounded upon N2O withdrawal, and decreased again after N2O readdition, demonstrating reversible control. N2O exposure also shifted As toward amorphous Fe (hydr)oxide-associated operational fractions, consistent with reduced porewater mobility. Metagenomic analyses further showed enrichment of functional genes for As oxidation (aioA, aioB) and N2O reduction (nosZ), with the strongest responses in the high-As soil at day 70 (1 mM vs 0 mM N2O: aioA 13.9-fold, aioB 1.68-fold, nosZ 3.26-fold). These results indicate that N2O availability can act as a reversible control point associated with microbially mediated As(III) oxidation and As redistribution under anoxia, with implications for As mobility and exposure risk in flooded paddy systems.",
+      "url": "https://www.semanticscholar.org/paper/c03668c9ef0add1e1d97f2ac28d38551c45ff36b",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c03668c9ef0add1e1d97f2ac28d38551c45ff36b",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 58,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "959e737a4f052541a2fb5f46483ef65d25efbc76",
+          "title": "Control of nitrous oxide and methane emissions during nitrate reduction in sediments: Microbial mechanisms and mitigation strategies.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Shengrui Zhang",
+            "Ao Wang",
+            "Ziyang Liang"
+          ],
+          "doi": "10.1016/j.biortech.2026.135287",
+          "url": "https://www.semanticscholar.org/paper/959e737a4f052541a2fb5f46483ef65d25efbc76",
+          "citation_count": 0
+        },
+        {
+          "id": "573d7af04bf2fbc59ec2f60b6dae598c252fd2bd",
+          "title": "Molybdate Causes Target and Nontarget Inhibitory Effects on Microbial Arsenic Methylation in Paddy Soil.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Bao-Yun Yang",
+            "Chuan Chen",
+            "Shu-xuan Li"
+          ],
+          "doi": "10.1021/acs.est.5c17204",
+          "url": "https://www.semanticscholar.org/paper/573d7af04bf2fbc59ec2f60b6dae598c252fd2bd",
+          "citation_count": 0
+        },
+        {
+          "id": "b4f6c65c29e6594961f7a8b7aa0711c33f0604a8",
+          "title": "Delayed emission and pathway shift as drivers of N2O reduction in biological nitrogen removal with aniline exposure.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Yingxin Jin",
+            "Xianli Yang",
+            "Yanying He"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130188",
+          "url": "https://www.semanticscholar.org/paper/b4f6c65c29e6594961f7a8b7aa0711c33f0604a8",
+          "citation_count": 0
+        },
+        {
+          "id": "0ce8bdda1b82189b542024e1f298cdb8f82df324",
+          "title": "Denitrification as the dominant process in nitrous oxide production in the water column of two eutrophic reservoirs",
+          "year": 2026,
+          "journal": "Biogeosciences",
+          "authors": [
+            "E. León‐Palmero",
+            "Claudia Frey",
+            "Bess B. Ward"
+          ],
+          "doi": "10.5194/bg-23-3887-2026",
+          "url": "https://www.semanticscholar.org/paper/0ce8bdda1b82189b542024e1f298cdb8f82df324",
+          "citation_count": 0
+        },
+        {
+          "id": "4eec55505b38fe9b0771ffd667b0364f12eb6039",
+          "title": "Regulatory mechanisms of N2O emissions from latosolic red soil by different ecotypes of earthworms: insights from microbial diversity and metagenomic analysis.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Chang Wei",
+            "Chang-Wen Yun",
+            "Xiao-Qing Li"
+          ],
+          "doi": "10.1016/j.envpol.2026.128682",
+          "url": "https://www.semanticscholar.org/paper/4eec55505b38fe9b0771ffd667b0364f12eb6039",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "denitrification",
+        "functional_gene",
+        "metagenome",
+        "nitrogen",
+        "soil",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-19T22:10:28.339978+00:00",
+      "edges_enriched_at": "2026-07-19T22:10:28.905983+00:00"
+    },
     {
       "id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
       "semantic_scholar_id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
@@ -3270,7 +3387,7 @@
       "url": "https://www.semanticscholar.org/paper/93ee5790370918c419ff7a5418f3d09d249c1037",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/93ee5790370918c419ff7a5418f3d09d249c1037",
       "pdf_url": "https://www.nature.com/articles/s41598-026-47725-x_reference.pdf",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [
@@ -7118,7 +7235,7 @@
       "url": "https://www.semanticscholar.org/paper/7a823d3ff4676f241d04761f07491a75231cdd9f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7a823d3ff4676f241d04761f07491a75231cdd9f",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -10544,7 +10661,7 @@
       "url": "https://www.semanticscholar.org/paper/eacaf317680e1844a1327ebae8bba5ae3e046d27",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/eacaf317680e1844a1327ebae8bba5ae3e046d27",
       "pdf_url": "https://doi.org/10.1016/j.soilbio.2025.110024",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 71,
       "references": [
@@ -11497,7 +11614,7 @@
       "url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "pdf_url": "",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 93,
       "references": [],
@@ -17152,7 +17269,7 @@
       "url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "pdf_url": "",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -17198,7 +17315,7 @@
       "url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "pdf_url": "",
-      "citation_count": 55,
+      "citation_count": 57,
       "influential_citation_count": 2,
       "reference_count": 64,
       "references": [],
@@ -17606,7 +17723,7 @@
       "url": "https://www.semanticscholar.org/paper/1dae57ceb0a024356d15b491bfd556e2c97c409f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1dae57ceb0a024356d15b491bfd556e2c97c409f",
       "pdf_url": "",
-      "citation_count": 27,
+      "citation_count": 28,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -18952,7 +19069,7 @@
       "url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
       "pdf_url": "",
-      "citation_count": 42,
+      "citation_count": 43,
       "influential_citation_count": 0,
       "reference_count": 72,
       "references": [
@@ -19517,7 +19634,7 @@
       "url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "pdf_url": "",
-      "citation_count": 32,
+      "citation_count": 33,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [],
@@ -21232,7 +21349,7 @@
       "url": "https://www.semanticscholar.org/paper/4c1a1cc8f6cded71d10519932fd4ace4c3883ff7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4c1a1cc8f6cded71d10519932fd4ace4c3883ff7",
       "pdf_url": "",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 1,
       "reference_count": 61,
       "references": [],
@@ -24965,7 +25082,7 @@
       "url": "https://www.semanticscholar.org/paper/86ae80bef7c63177fe2b941415808200de603471",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/86ae80bef7c63177fe2b941415808200de603471",
       "pdf_url": "https://doi.org/10.1016/j.scitotenv.2024.170741",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -25694,7 +25811,7 @@
       "url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "pdf_url": "https://academic.oup.com/ismecommun/article-pdf/4/1/ycae110/59757812/ycae110.pdf",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 68,
       "references": [
@@ -28989,7 +29106,7 @@
       "url": "https://www.semanticscholar.org/paper/09b78f2d48f8f865cc30fb8093ae9691618a3a13",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/09b78f2d48f8f865cc30fb8093ae9691618a3a13",
       "pdf_url": "",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -31924,7 +32041,7 @@
       "url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "pdf_url": "",
-      "citation_count": 139,
+      "citation_count": 140,
       "influential_citation_count": 4,
       "reference_count": 85,
       "references": [],
@@ -35866,7 +35983,7 @@
       "url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "pdf_url": "",
-      "citation_count": 198,
+      "citation_count": 199,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -38417,7 +38534,7 @@
       "url": "https://www.semanticscholar.org/paper/9f406bebb55fc5a487aec62900fc9c0508580a68",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9f406bebb55fc5a487aec62900fc9c0508580a68",
       "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0043135421001524-fx1_lrg.jpg",
-      "citation_count": 95,
+      "citation_count": 96,
       "influential_citation_count": 0,
       "reference_count": 85,
       "references": [
@@ -42558,7 +42675,7 @@
       "url": "https://www.semanticscholar.org/paper/f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11356",
-      "citation_count": 73,
+      "citation_count": 74,
       "influential_citation_count": 1,
       "reference_count": 92,
       "references": [
@@ -42720,7 +42837,7 @@
       "url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
       "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11243",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 0,
       "reference_count": 74,
       "references": [],
@@ -44585,7 +44702,7 @@
       "url": "https://www.semanticscholar.org/paper/7c18e65b4c10ccb90843091e0849d1be1e38c493",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7c18e65b4c10ccb90843091e0849d1be1e38c493",
       "pdf_url": "",
-      "citation_count": 70,
+      "citation_count": 71,
       "influential_citation_count": 1,
       "reference_count": 85,
       "references": [],
@@ -45488,7 +45605,7 @@
       "url": "https://www.semanticscholar.org/paper/514612bd1093cceb16e08e0fd014c34b4b6f0f12",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/514612bd1093cceb16e08e0fd014c34b4b6f0f12",
       "pdf_url": "http://microbiology.publish.csiro.au/?act=view_file&file_id=MA18007",
-      "citation_count": 17,
+      "citation_count": 18,
       "influential_citation_count": 0,
       "reference_count": 23,
       "references": [],
@@ -47061,7 +47178,7 @@
       "url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "pdf_url": "https://www.nature.com/articles/ismej2013160.pdf",
-      "citation_count": 626,
+      "citation_count": 627,
       "influential_citation_count": 25,
       "reference_count": 86,
       "references": [],
