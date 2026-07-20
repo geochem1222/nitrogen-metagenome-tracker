@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:10:41.111205+00:00",
+  "updated_at": "2026-07-20T22:15:14.197272+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -19521,7 +19521,7 @@
       "url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.14431",
-      "citation_count": 31,
+      "citation_count": 32,
       "influential_citation_count": 0,
       "reference_count": 105,
       "references": [],
@@ -23179,124 +23179,6 @@
       "edges_enriched_at": "2026-07-05T22:14:28.113973+00:00"
     },
     {
-      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "source": "Semantic Scholar",
-      "pmid": "38749183",
-      "doi": "10.1016/j.watres.2024.121761",
-      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
-      "authors": [
-        "Lutong Yang",
-        "P. Han",
-        "Qiaojuan Wang",
-        "Hui Lin",
-        "Donglin Wang",
-        "Jie Mao",
-        "Weixiao Qi",
-        "Yaohui Bai",
-        "Jiuhui Qu"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2024-05-01",
-      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
-      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "pdf_url": "",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 65,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Weiliang Pan",
-            "Lin Zhang",
-            "Lin Liang"
-          ],
-          "doi": "10.1016/j.envres.2026.124885",
-          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "citation_count": 0
-        },
-        {
-          "id": "951494594a22e209133983d2528a847b45a3c667",
-          "title": "Quantifying the Contribution of Cryptic Sulfide-Driven Autotrophic Denitrification to N2O Production in a Seasonally Hypoxic River-Reservoir System.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Shuo Wang",
-            "Shengjie Li",
-            "H. Lyu"
-          ],
-          "doi": "10.1021/acs.est.6c03313",
-          "url": "https://www.semanticscholar.org/paper/951494594a22e209133983d2528a847b45a3c667",
-          "citation_count": 0
-        },
-        {
-          "id": "db99dbbae0a73b57293246030d6a4e8052621edc",
-          "title": "The microbial detoxification mechanisms and nitrogen transformation pathways in the anaerobic ammonia oxidation system under thiourea stress.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Anni Zhang",
-            "Xiang Li",
-            "Yan Yuan"
-          ],
-          "doi": "10.1016/j.watres.2026.126257",
-          "url": "https://www.semanticscholar.org/paper/db99dbbae0a73b57293246030d6a4e8052621edc",
-          "citation_count": 0
-        },
-        {
-          "id": "2a09aa7988db52a72ea89a59d364cd571479f835",
-          "title": "Host-driven microbiome assembly supports nitrogen removal by macrophytes under chronic nitrogen stress",
-          "year": 2026,
-          "journal": "Communications Earth &amp; Environment",
-          "authors": [
-            "Chen-qian Bao",
-            "Chuanjun Dai",
-            "Susana X Wu"
-          ],
-          "doi": "10.1038/s43247-026-03626-5",
-          "url": "https://www.semanticscholar.org/paper/2a09aa7988db52a72ea89a59d364cd571479f835",
-          "citation_count": 0
-        },
-        {
-          "id": "9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
-          "title": "Vertical distribution and metabolic diversity of autotrophic microbes in the deep sediment of the challenger deep.",
-          "year": 2026,
-          "journal": "Environmental Microbiome",
-          "authors": [
-            "Jiahua Zhou",
-            "Haojin Cheng",
-            "Yulin Zhang"
-          ],
-          "doi": "10.1186/s40793-026-00908-5",
-          "url": "https://www.semanticscholar.org/paper/9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-05T22:14:28.113973+00:00"
-    },
-    {
       "id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "semantic_scholar_id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "source": "Semantic Scholar",
@@ -23464,6 +23346,124 @@
         "nitrogen",
         "nitrogen_fixation",
         "sediment"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-05T22:14:28.113973+00:00"
+    },
+    {
+      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "source": "Semantic Scholar",
+      "pmid": "38749183",
+      "doi": "10.1016/j.watres.2024.121761",
+      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
+      "authors": [
+        "Lutong Yang",
+        "P. Han",
+        "Qiaojuan Wang",
+        "Hui Lin",
+        "Donglin Wang",
+        "Jie Mao",
+        "Weixiao Qi",
+        "Yaohui Bai",
+        "Jiuhui Qu"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2024-05-01",
+      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
+      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "pdf_url": "",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 65,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Weiliang Pan",
+            "Lin Zhang",
+            "Lin Liang"
+          ],
+          "doi": "10.1016/j.envres.2026.124885",
+          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "citation_count": 0
+        },
+        {
+          "id": "951494594a22e209133983d2528a847b45a3c667",
+          "title": "Quantifying the Contribution of Cryptic Sulfide-Driven Autotrophic Denitrification to N2O Production in a Seasonally Hypoxic River-Reservoir System.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Shuo Wang",
+            "Shengjie Li",
+            "H. Lyu"
+          ],
+          "doi": "10.1021/acs.est.6c03313",
+          "url": "https://www.semanticscholar.org/paper/951494594a22e209133983d2528a847b45a3c667",
+          "citation_count": 0
+        },
+        {
+          "id": "db99dbbae0a73b57293246030d6a4e8052621edc",
+          "title": "The microbial detoxification mechanisms and nitrogen transformation pathways in the anaerobic ammonia oxidation system under thiourea stress.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Anni Zhang",
+            "Xiang Li",
+            "Yan Yuan"
+          ],
+          "doi": "10.1016/j.watres.2026.126257",
+          "url": "https://www.semanticscholar.org/paper/db99dbbae0a73b57293246030d6a4e8052621edc",
+          "citation_count": 0
+        },
+        {
+          "id": "2a09aa7988db52a72ea89a59d364cd571479f835",
+          "title": "Host-driven microbiome assembly supports nitrogen removal by macrophytes under chronic nitrogen stress",
+          "year": 2026,
+          "journal": "Communications Earth &amp; Environment",
+          "authors": [
+            "Chen-qian Bao",
+            "Chuanjun Dai",
+            "Susana X Wu"
+          ],
+          "doi": "10.1038/s43247-026-03626-5",
+          "url": "https://www.semanticscholar.org/paper/2a09aa7988db52a72ea89a59d364cd571479f835",
+          "citation_count": 0
+        },
+        {
+          "id": "9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
+          "title": "Vertical distribution and metabolic diversity of autotrophic microbes in the deep sediment of the challenger deep.",
+          "year": 2026,
+          "journal": "Environmental Microbiome",
+          "authors": [
+            "Jiahua Zhou",
+            "Haojin Cheng",
+            "Yulin Zhang"
+          ],
+          "doi": "10.1186/s40793-026-00908-5",
+          "url": "https://www.semanticscholar.org/paper/9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "urban",
+        "water"
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
       "edges_enriched_at": "2026-07-05T22:14:28.113973+00:00"
@@ -29964,7 +29964,7 @@
       "url": "https://www.semanticscholar.org/paper/7e7bf3b5e7199a4174852477d55e1faed1f87972",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7e7bf3b5e7199a4174852477d55e1faed1f87972",
       "pdf_url": "https://doi.org/10.1016/j.jhazmat.2023.131610",
-      "citation_count": 22,
+      "citation_count": 23,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [
@@ -35814,7 +35814,7 @@
       "url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "pdf_url": "https://www.nature.com/articles/s43705-021-00073-5.pdf",
-      "citation_count": 86,
+      "citation_count": 87,
       "influential_citation_count": 1,
       "reference_count": 65,
       "references": [
@@ -39032,7 +39032,7 @@
       "url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "pdf_url": "",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 2,
       "reference_count": 51,
       "references": [],
@@ -47178,7 +47178,7 @@
       "url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "pdf_url": "https://www.nature.com/articles/ismej2013160.pdf",
-      "citation_count": 627,
+      "citation_count": 628,
       "influential_citation_count": 25,
       "reference_count": 86,
       "references": [],
