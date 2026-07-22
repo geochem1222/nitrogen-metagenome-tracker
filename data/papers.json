@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:14:58.503874+00:00",
+  "updated_at": "2026-07-22T22:20:18.595894+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -4686,6 +4686,128 @@
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
     },
     {
+      "id": "4bbd649a12be452587cf46bdfb489a984d04747f",
+      "semantic_scholar_id": "4bbd649a12be452587cf46bdfb489a984d04747f",
+      "source": "Semantic Scholar",
+      "pmid": "41921318",
+      "doi": "10.1016/j.watres.2026.125836",
+      "title": "Fresh-seawater interface shapes nitrogen fate in a subtropical estuary: Insights from multi-isotopic and metagenomic analyses.",
+      "authors": [
+        "Feifei Wang",
+        "Chengchun Shi",
+        "Weiwei Zhang",
+        "Yiming Chen",
+        "Zhenye Chen",
+        "Shengchang Yang",
+        "Jian Zhang",
+        "Wengui Liu",
+        "Wenzhi Cao"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2026-03-01",
+      "abstract": "Estuaries, the key transitional interface between freshwater rivers and saline seas, are hotspots of nitrogen (N) cycling processes. In this study, we integrated multi-isotope and metagenomic sequencing techniques to characterize nitrate (NO3-) sources, mixing and transformation processes, and the regulatory roles of microbial functional genes in different seasons and subzones in the Jiulong River estuary, a typical subtropical estuary. NO3--N was the dominant form of dissolved inorganic N (70.31-91.70 %), with significantly lower concentrations in the seaward subzone than those in other subzones. Hydrochemical parameters, dual-isotope (δ15N-NO3- and δ18O-NO3-) signatures, and MixSIAR model indicated that soil N was the largest contributor to NO3- (44.7 %), followed by M&S and groundwater in the riverward subzone. The upstream inflow from the riverward subzone accounted for 64.6 % of NO3- sources in the mixing subzone. Extensive aquaculture activities in the estuary were the dominant NO3- source (44.8 %), followed by M&S and the upstream inflow from the mixing subzone in the seaward subzone. Nitrate reduction genes dominated the N-cycling functional genes and mediated the primary NO3- transformation pathways. The PLS-PM model indicated dissimilatory nitrate reduction to nitrite (DNRN) genes had a significant positive effect (0.892) on NO3- concentrations and influenced competition between dissimilatory nitrate reduction to ammonium (DNRA) and denitrification for substrates through the C/N ratios. The lower nosZ/narG ratios and higher nitrous oxide concentrations in the riverward and mixing subzones led to more susceptibility to incomplete denitrification, whereas the higher DNRA/DNRN ratios and the significant positive correlation between DNRA and the C/N ratios favored DNRA in the seaward subzone. The lower temperatures and river flows in winter were significantly lower than those in other seasons, which constrained N transforming capacity and resulted in the lowest dissolved nitrous oxide concentration. Therefore, salinity and temperature regulated the primary N-cycling processes by reshaping the composition of functional genes. Overall, this study clarifies the N sources and transformation pathways and provides a systematic theoretical foundation for the development of subzone-based management strategies for estuarine ecosystems.",
+      "url": "https://www.semanticscholar.org/paper/4bbd649a12be452587cf46bdfb489a984d04747f",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4bbd649a12be452587cf46bdfb489a984d04747f",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 65,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
+          "title": "Response of soil nitrogen-cycling functional genes and their associations to nitrogen enrichment in a typical subtropical estuary (Min River), Southeast China.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Xiao Zhong",
+            "Zhigao Sun",
+            "Huihui Wu"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.120078",
+          "url": "https://www.semanticscholar.org/paper/d412b08e1b4ec825619e4f5848099144c14c4de3",
+          "citation_count": 0
+        },
+        {
+          "id": "0ce8bdda1b82189b542024e1f298cdb8f82df324",
+          "title": "Denitrification as the dominant process in nitrous oxide production in the water column of two eutrophic reservoirs",
+          "year": 2026,
+          "journal": "Biogeosciences",
+          "authors": [
+            "E. León‐Palmero",
+            "Claudia Frey",
+            "Bess B. Ward"
+          ],
+          "doi": "10.5194/bg-23-3887-2026",
+          "url": "https://www.semanticscholar.org/paper/0ce8bdda1b82189b542024e1f298cdb8f82df324",
+          "citation_count": 0
+        },
+        {
+          "id": "0210613d7efa1b4361760cad689c46a40c877da8",
+          "title": "Nitrogen Sources and Transformation Pathways in a Highly Urbanized Shallow Aquifer: Insights from an Integrated Hydrochemical and Isotopic Approach Incorporating δ15N-DON",
+          "year": 2026,
+          "journal": "Water",
+          "authors": [
+            "Lan Anh Phung Thi",
+            "Y. Itoh",
+            "Seongwon Lee"
+          ],
+          "doi": "10.3390/w18131550",
+          "url": "https://www.semanticscholar.org/paper/0210613d7efa1b4361760cad689c46a40c877da8",
+          "citation_count": 0
+        },
+        {
+          "id": "76f636bf33f8ba8cd199e37f4147ef94481445f6",
+          "title": "Nitrogen form regulates phytoplankton community composition and stoichiometry in estuarine and coastal waters.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Dawei Chen",
+            "Ruihuan Li",
+            "Zhen Shi"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.119886",
+          "url": "https://www.semanticscholar.org/paper/76f636bf33f8ba8cd199e37f4147ef94481445f6",
+          "citation_count": 0
+        },
+        {
+          "id": "c571b3239b4329ceb45355fc9975c4505d35701e",
+          "title": "Microbial Nitrogen Transformation in Hyporheic–riparian Zones: Integrating Molecular Ecology and Biogeochemical Perspectives",
+          "year": 2026,
+          "journal": "Synthetic Ecological Engineering",
+          "authors": [
+            "Sadiq Bishir",
+            "Fidelis Odedishemi Ajibade",
+            "Aminu Abdullah"
+          ],
+          "doi": "10.65773/see.2.1.103",
+          "url": "https://www.semanticscholar.org/paper/c571b3239b4329ceb45355fc9975c4505d35701e",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "dnra",
+        "functional_gene",
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "soil",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
       "id": "3cb80ed56f14c8377b4ee46a0d76a72e334285c2",
       "semantic_scholar_id": "3cb80ed56f14c8377b4ee46a0d76a72e334285c2",
       "source": "Semantic Scholar",
@@ -4848,128 +4970,6 @@
         "functional_gene",
         "metagenome",
         "microbiome",
-        "nitrification",
-        "nitrogen",
-        "soil",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
-    },
-    {
-      "id": "4bbd649a12be452587cf46bdfb489a984d04747f",
-      "semantic_scholar_id": "4bbd649a12be452587cf46bdfb489a984d04747f",
-      "source": "Semantic Scholar",
-      "pmid": "41921318",
-      "doi": "10.1016/j.watres.2026.125836",
-      "title": "Fresh-seawater interface shapes nitrogen fate in a subtropical estuary: Insights from multi-isotopic and metagenomic analyses.",
-      "authors": [
-        "Feifei Wang",
-        "Chengchun Shi",
-        "Weiwei Zhang",
-        "Yiming Chen",
-        "Zhenye Chen",
-        "Shengchang Yang",
-        "Jian Zhang",
-        "Wengui Liu",
-        "Wenzhi Cao"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2026-03-01",
-      "abstract": "Estuaries, the key transitional interface between freshwater rivers and saline seas, are hotspots of nitrogen (N) cycling processes. In this study, we integrated multi-isotope and metagenomic sequencing techniques to characterize nitrate (NO3-) sources, mixing and transformation processes, and the regulatory roles of microbial functional genes in different seasons and subzones in the Jiulong River estuary, a typical subtropical estuary. NO3--N was the dominant form of dissolved inorganic N (70.31-91.70 %), with significantly lower concentrations in the seaward subzone than those in other subzones. Hydrochemical parameters, dual-isotope (δ15N-NO3- and δ18O-NO3-) signatures, and MixSIAR model indicated that soil N was the largest contributor to NO3- (44.7 %), followed by M&S and groundwater in the riverward subzone. The upstream inflow from the riverward subzone accounted for 64.6 % of NO3- sources in the mixing subzone. Extensive aquaculture activities in the estuary were the dominant NO3- source (44.8 %), followed by M&S and the upstream inflow from the mixing subzone in the seaward subzone. Nitrate reduction genes dominated the N-cycling functional genes and mediated the primary NO3- transformation pathways. The PLS-PM model indicated dissimilatory nitrate reduction to nitrite (DNRN) genes had a significant positive effect (0.892) on NO3- concentrations and influenced competition between dissimilatory nitrate reduction to ammonium (DNRA) and denitrification for substrates through the C/N ratios. The lower nosZ/narG ratios and higher nitrous oxide concentrations in the riverward and mixing subzones led to more susceptibility to incomplete denitrification, whereas the higher DNRA/DNRN ratios and the significant positive correlation between DNRA and the C/N ratios favored DNRA in the seaward subzone. The lower temperatures and river flows in winter were significantly lower than those in other seasons, which constrained N transforming capacity and resulted in the lowest dissolved nitrous oxide concentration. Therefore, salinity and temperature regulated the primary N-cycling processes by reshaping the composition of functional genes. Overall, this study clarifies the N sources and transformation pathways and provides a systematic theoretical foundation for the development of subzone-based management strategies for estuarine ecosystems.",
-      "url": "https://www.semanticscholar.org/paper/4bbd649a12be452587cf46bdfb489a984d04747f",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/4bbd649a12be452587cf46bdfb489a984d04747f",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 65,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
-          "title": "Response of soil nitrogen-cycling functional genes and their associations to nitrogen enrichment in a typical subtropical estuary (Min River), Southeast China.",
-          "year": 2026,
-          "journal": "Marine Pollution Bulletin",
-          "authors": [
-            "Xiao Zhong",
-            "Zhigao Sun",
-            "Huihui Wu"
-          ],
-          "doi": "10.1016/j.marpolbul.2026.120078",
-          "url": "https://www.semanticscholar.org/paper/d412b08e1b4ec825619e4f5848099144c14c4de3",
-          "citation_count": 0
-        },
-        {
-          "id": "0ce8bdda1b82189b542024e1f298cdb8f82df324",
-          "title": "Denitrification as the dominant process in nitrous oxide production in the water column of two eutrophic reservoirs",
-          "year": 2026,
-          "journal": "Biogeosciences",
-          "authors": [
-            "E. León‐Palmero",
-            "Claudia Frey",
-            "Bess B. Ward"
-          ],
-          "doi": "10.5194/bg-23-3887-2026",
-          "url": "https://www.semanticscholar.org/paper/0ce8bdda1b82189b542024e1f298cdb8f82df324",
-          "citation_count": 0
-        },
-        {
-          "id": "0210613d7efa1b4361760cad689c46a40c877da8",
-          "title": "Nitrogen Sources and Transformation Pathways in a Highly Urbanized Shallow Aquifer: Insights from an Integrated Hydrochemical and Isotopic Approach Incorporating δ15N-DON",
-          "year": 2026,
-          "journal": "Water",
-          "authors": [
-            "Lan Anh Phung Thi",
-            "Y. Itoh",
-            "Seongwon Lee"
-          ],
-          "doi": "10.3390/w18131550",
-          "url": "https://www.semanticscholar.org/paper/0210613d7efa1b4361760cad689c46a40c877da8",
-          "citation_count": 0
-        },
-        {
-          "id": "76f636bf33f8ba8cd199e37f4147ef94481445f6",
-          "title": "Nitrogen form regulates phytoplankton community composition and stoichiometry in estuarine and coastal waters.",
-          "year": 2026,
-          "journal": "Marine Pollution Bulletin",
-          "authors": [
-            "Dawei Chen",
-            "Ruihuan Li",
-            "Zhen Shi"
-          ],
-          "doi": "10.1016/j.marpolbul.2026.119886",
-          "url": "https://www.semanticscholar.org/paper/76f636bf33f8ba8cd199e37f4147ef94481445f6",
-          "citation_count": 0
-        },
-        {
-          "id": "c571b3239b4329ceb45355fc9975c4505d35701e",
-          "title": "Microbial Nitrogen Transformation in Hyporheic–riparian Zones: Integrating Molecular Ecology and Biogeochemical Perspectives",
-          "year": 2026,
-          "journal": "Synthetic Ecological Engineering",
-          "authors": [
-            "Sadiq Bishir",
-            "Fidelis Odedishemi Ajibade",
-            "Aminu Abdullah"
-          ],
-          "doi": "10.65773/see.2.1.103",
-          "url": "https://www.semanticscholar.org/paper/c571b3239b4329ceb45355fc9975c4505d35701e",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "denitrification",
-        "dnra",
-        "functional_gene",
-        "metagenome",
         "nitrification",
         "nitrogen",
         "soil",
@@ -6809,126 +6809,6 @@
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
     },
     {
-      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "source": "Semantic Scholar",
-      "pmid": "41564488",
-      "doi": "10.1016/j.jenvman.2026.128688",
-      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
-      "authors": [
-        "Zhongqing Huang",
-        "Jian Shen",
-        "Jinhui Wang",
-        "Chen Wang",
-        "Huaji Liu",
-        "Chunmei Tian",
-        "Jimeng Feng",
-        "Xinze Wang"
-      ],
-      "journal": "Journal of Environmental Management",
-      "publication_date": "2026-01-20",
-      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
-      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 49,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
-          "title": "From Microbes to Molecules: Biodegradable Microplastics Reshape Soil Carbon Metabolism and Composition of Dissolved Organic Matter.",
-          "year": 2026,
-          "journal": "Journal of Agricultural and Food Chemistry",
-          "authors": [
-            "Xiaojing Hu",
-            "Lin Han",
-            "R. Ochoa-Hueso"
-          ],
-          "doi": "10.1021/acs.jafc.6c01030",
-          "url": "https://www.semanticscholar.org/paper/7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
-          "citation_count": 0
-        },
-        {
-          "id": "a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
-          "title": "Nexus between influent organic carbon fractions and carbon capture patterns in high-rate contact stabilization process: Insights from dissolved organic matter fate.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Xue Fan",
-            "Jingbo Guo",
-            "Yue Li"
-          ],
-          "doi": "10.1016/j.biortech.2026.135061",
-          "url": "https://www.semanticscholar.org/paper/a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
-          "citation_count": 0
-        },
-        {
-          "id": "abf8fedfef12ebfd55c79acf322490cced08898a",
-          "title": "High-Resolution Molecular Analyses Reveal Non-additive Impacts of Chronic Warming and Nitrogen Addition on Soil-Derived Dissolved Organic Matter.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Atzín X San Román",
-            "Guoping Chen",
-            "K. Ronda"
-          ],
-          "doi": "10.1021/acs.est.6c04800",
-          "url": "https://www.semanticscholar.org/paper/abf8fedfef12ebfd55c79acf322490cced08898a",
-          "citation_count": 0
-        },
-        {
-          "id": "d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
-          "title": "Hydrology-driven soil microbial responses: Inundation effects on soil microbial community succession and co-occurrence network stability in the lakeshore zone of Qinghai Lake.",
-          "year": 2026,
-          "journal": "Journal of Environmental Management",
-          "authors": [
-            "Xiaohui Li",
-            "Xiong Xiong",
-            "Xiaoyan Xi"
-          ],
-          "doi": "10.1016/j.jenvman.2026.130120",
-          "url": "https://www.semanticscholar.org/paper/d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
-          "citation_count": 0
-        },
-        {
-          "id": "9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
-          "title": "Dissolved Organic Matter (DOM) Dynamics at the Sediment‐Water Interface in the North Sea: Implications for Global Benthic DOM Fluxes",
-          "year": 2026,
-          "journal": "Global Biogeochemical Cycles",
-          "authors": [
-            "Bingbing Wei",
-            "Hannelore Waska",
-            "Zhe Zhou"
-          ],
-          "doi": "10.1029/2025gb008980",
-          "url": "https://www.semanticscholar.org/paper/9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "forest",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrogen",
-        "sediment",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
-    },
-    {
       "id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "source": "Semantic Scholar",
@@ -7087,6 +6967,126 @@
         "microbiome",
         "nitrification",
         "nitrogen",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
+      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "source": "Semantic Scholar",
+      "pmid": "41564488",
+      "doi": "10.1016/j.jenvman.2026.128688",
+      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
+      "authors": [
+        "Zhongqing Huang",
+        "Jian Shen",
+        "Jinhui Wang",
+        "Chen Wang",
+        "Huaji Liu",
+        "Chunmei Tian",
+        "Jimeng Feng",
+        "Xinze Wang"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2026-01-20",
+      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
+      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 49,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
+          "title": "From Microbes to Molecules: Biodegradable Microplastics Reshape Soil Carbon Metabolism and Composition of Dissolved Organic Matter.",
+          "year": 2026,
+          "journal": "Journal of Agricultural and Food Chemistry",
+          "authors": [
+            "Xiaojing Hu",
+            "Lin Han",
+            "R. Ochoa-Hueso"
+          ],
+          "doi": "10.1021/acs.jafc.6c01030",
+          "url": "https://www.semanticscholar.org/paper/7e29f8e5f116e26681cef682f4c38bc3eee6d6a7",
+          "citation_count": 0
+        },
+        {
+          "id": "a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
+          "title": "Nexus between influent organic carbon fractions and carbon capture patterns in high-rate contact stabilization process: Insights from dissolved organic matter fate.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Xue Fan",
+            "Jingbo Guo",
+            "Yue Li"
+          ],
+          "doi": "10.1016/j.biortech.2026.135061",
+          "url": "https://www.semanticscholar.org/paper/a96d5b89d72ab6876fb6c5c5a28201ca644da19a",
+          "citation_count": 0
+        },
+        {
+          "id": "abf8fedfef12ebfd55c79acf322490cced08898a",
+          "title": "High-Resolution Molecular Analyses Reveal Non-additive Impacts of Chronic Warming and Nitrogen Addition on Soil-Derived Dissolved Organic Matter.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Atzín X San Román",
+            "Guoping Chen",
+            "K. Ronda"
+          ],
+          "doi": "10.1021/acs.est.6c04800",
+          "url": "https://www.semanticscholar.org/paper/abf8fedfef12ebfd55c79acf322490cced08898a",
+          "citation_count": 0
+        },
+        {
+          "id": "d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
+          "title": "Hydrology-driven soil microbial responses: Inundation effects on soil microbial community succession and co-occurrence network stability in the lakeshore zone of Qinghai Lake.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Xiaohui Li",
+            "Xiong Xiong",
+            "Xiaoyan Xi"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130120",
+          "url": "https://www.semanticscholar.org/paper/d2c8af58abbb70eb7c0a48fe35a263c0beb9111d",
+          "citation_count": 0
+        },
+        {
+          "id": "9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
+          "title": "Dissolved Organic Matter (DOM) Dynamics at the Sediment‐Water Interface in the North Sea: Implications for Global Benthic DOM Fluxes",
+          "year": 2026,
+          "journal": "Global Biogeochemical Cycles",
+          "authors": [
+            "Bingbing Wei",
+            "Hannelore Waska",
+            "Zhe Zhou"
+          ],
+          "doi": "10.1029/2025gb008980",
+          "url": "https://www.semanticscholar.org/paper/9b32ccfc34750f2d5e24ceabfd6c699b8241f3bc",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "forest",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "sediment",
         "urban",
         "water"
       ],
@@ -7400,7 +7400,7 @@
       "url": "https://www.semanticscholar.org/paper/fb8dd28d6f69d692ac483ee4e3480695e3b74b2a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fb8dd28d6f69d692ac483ee4e3480695e3b74b2a",
       "pdf_url": "https://doi.org/10.15666/aeer/2402_18531862",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 36,
       "references": [
@@ -9167,124 +9167,6 @@
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
     },
     {
-      "id": "0033ee856ce27d2f88d2438a6fa6490b91cdc775",
-      "semantic_scholar_id": "0033ee856ce27d2f88d2438a6fa6490b91cdc775",
-      "source": "Semantic Scholar",
-      "pmid": "41448010",
-      "doi": "10.1016/j.watres.2025.125211",
-      "title": "Network-scale spatiotemporal dynamics and drivers of nitrogen-cycling genes and their microbial hosts in a multi-tributary mountain river.",
-      "authors": [
-        "Chao Chang",
-        "Yuhan Ma",
-        "Sisi Ye",
-        "Xiaofeng Tang",
-        "Mi Ren",
-        "En Hu",
-        "Ming Li"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2025-12-01",
-      "abstract": "Rivers are critical regulators of the global nitrogen (N) cycle, yet their microbial nitrogen-cycling dynamics and feedbacks to environmental change remain poorly understood at the river-network scale. Here, we combined systematic field sampling at 187 water-column sites spanning two mainstems and 22 tributaries of the upper Hanjiang River with shotgun metagenomics, metatranscriptomics and 30 environmental variables representing geography, climate, hydromorphology, land use, and water quality. Our results showed that nitrogen-cycling genes (NCGs) mediating six major pathways showed clear longitudinal differentiation along the cumulative dendritic distance upstream. Compared to small-river-network (SN), Large-river-network (LN) consistently exhibited higher abundances, diversity and expression of denitrification, DNRA, ANRA, ODAS, and N fixation genes, identifying LN as convergence zones for N transport and hotspots of N removal. By contrast, nitrification genes (amoA, nxrB, hao) and their hosts were scarce, with only a transient autumn increase in LN. We recovered 1508 medium- to high-quality NCG-hosting MAGs spanning a broad phylogenetic range but strongly skewed toward a few bacterial phyla. Pseudomonadota, Actinomycetota and Bacteroidota together accounted for ∼87% of total NCG-host abundance. Assembly- and MAG-based community analyses revealed a shift from low-diversity, Pseudomonadota-dominated assemblages in SN to diverse, high-evenness communities in LN. Along the SN-LN gradient, MAG co-occurrence networks became richer, denser and more modular, and keystone MAGs were disproportionately enriched in denitrification and DNRA genes, with nitrification genes rare among hubs. Water quality emerged as the dominant driver of NCGs and their hosts, explaining up to 47.3% of the variance, while geography and land use exerted pathway-specific influences through indirect effects mediated by hydromorphology and water quality. Metatranscriptomic norB/nosZ further revealed a nitrate tipping point at ∼0.8 mg L⁻¹, above which microbial N2O emission potential increased by an order of magnitude and formed spatially confined, seasonally shifting hotspots. Collectively, our results demonstrate that riverine nitrogen-cycling functions are structured by hierarchical multi-scale controls and that N2O emission potential responds nonlinearly to nitrate loading, with LN acting as critical integrators of SN inputs. These findings highlight the need for river-network-scale N management to enhance riverine self-purification while mitigating microbial N2O feedbacks arising from human activities.",
-      "url": "https://www.semanticscholar.org/paper/0033ee856ce27d2f88d2438a6fa6490b91cdc775",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/0033ee856ce27d2f88d2438a6fa6490b91cdc775",
-      "pdf_url": "",
-      "citation_count": 3,
-      "influential_citation_count": 0,
-      "reference_count": 69,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "0ce8bdda1b82189b542024e1f298cdb8f82df324",
-          "title": "Denitrification as the dominant process in nitrous oxide production in the water column of two eutrophic reservoirs",
-          "year": 2026,
-          "journal": "Biogeosciences",
-          "authors": [
-            "E. León‐Palmero",
-            "Claudia Frey",
-            "Bess B. Ward"
-          ],
-          "doi": "10.5194/bg-23-3887-2026",
-          "url": "https://www.semanticscholar.org/paper/0ce8bdda1b82189b542024e1f298cdb8f82df324",
-          "citation_count": 0
-        },
-        {
-          "id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
-          "title": "Response of soil nitrogen-cycling functional genes and their associations to nitrogen enrichment in a typical subtropical estuary (Min River), Southeast China.",
-          "year": 2026,
-          "journal": "Marine Pollution Bulletin",
-          "authors": [
-            "Xiao Zhong",
-            "Zhigao Sun",
-            "Huihui Wu"
-          ],
-          "doi": "10.1016/j.marpolbul.2026.120078",
-          "url": "https://www.semanticscholar.org/paper/d412b08e1b4ec825619e4f5848099144c14c4de3",
-          "citation_count": 0
-        },
-        {
-          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Weiliang Pan",
-            "Lin Zhang",
-            "Lin Liang"
-          ],
-          "doi": "10.1016/j.envres.2026.124885",
-          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "citation_count": 0
-        },
-        {
-          "id": "b4cbd1975ba1cdee4b3f56a4ea4e7b2c87110678",
-          "title": "Seasonal variations drive microbial community structure and nitrogen cycling in sediments of tributary pumping station forebays",
-          "year": 2026,
-          "journal": "Microbiology spectrum",
-          "authors": [
-            "Xiaofu Wei",
-            "Weiwei Song",
-            "Siyuan Li"
-          ],
-          "doi": "10.1128/spectrum.03047-25",
-          "url": "https://www.semanticscholar.org/paper/b4cbd1975ba1cdee4b3f56a4ea4e7b2c87110678",
-          "citation_count": 0
-        },
-        {
-          "id": "8d82104b63f0ecb7519cd6290913d83480657bab",
-          "title": "Nitrate-reducing bacteria bridge nitrogen cycling and antibiotic resistance in river ecosystems.",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "Chunfang Deng",
-            "Hetong Cai",
-            "Kongyan Luo"
-          ],
-          "doi": "10.1038/s41467-026-74161-2",
-          "url": "https://www.semanticscholar.org/paper/8d82104b63f0ecb7519cd6290913d83480657bab",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The results demonstrate that riverine nitrogen-cycling functions are structured by hierarchical multi-scale controls and that N2O emission potential responds nonlinearly to nitrate loading, with LN acting as critical integrators of SN inputs.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "denitrification",
-        "dnra",
-        "metagenome",
-        "metatranscriptome",
-        "nitrification",
-        "nitrogen",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
-    },
-    {
       "id": "798d71d391b0b235415a0c1f7d55db0cf3e7fec9",
       "semantic_scholar_id": "798d71d391b0b235415a0c1f7d55db0cf3e7fec9",
       "source": "Semantic Scholar",
@@ -9444,6 +9326,124 @@
         "nitrogen",
         "soil",
         "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
+      "id": "0033ee856ce27d2f88d2438a6fa6490b91cdc775",
+      "semantic_scholar_id": "0033ee856ce27d2f88d2438a6fa6490b91cdc775",
+      "source": "Semantic Scholar",
+      "pmid": "41448010",
+      "doi": "10.1016/j.watres.2025.125211",
+      "title": "Network-scale spatiotemporal dynamics and drivers of nitrogen-cycling genes and their microbial hosts in a multi-tributary mountain river.",
+      "authors": [
+        "Chao Chang",
+        "Yuhan Ma",
+        "Sisi Ye",
+        "Xiaofeng Tang",
+        "Mi Ren",
+        "En Hu",
+        "Ming Li"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2025-12-01",
+      "abstract": "Rivers are critical regulators of the global nitrogen (N) cycle, yet their microbial nitrogen-cycling dynamics and feedbacks to environmental change remain poorly understood at the river-network scale. Here, we combined systematic field sampling at 187 water-column sites spanning two mainstems and 22 tributaries of the upper Hanjiang River with shotgun metagenomics, metatranscriptomics and 30 environmental variables representing geography, climate, hydromorphology, land use, and water quality. Our results showed that nitrogen-cycling genes (NCGs) mediating six major pathways showed clear longitudinal differentiation along the cumulative dendritic distance upstream. Compared to small-river-network (SN), Large-river-network (LN) consistently exhibited higher abundances, diversity and expression of denitrification, DNRA, ANRA, ODAS, and N fixation genes, identifying LN as convergence zones for N transport and hotspots of N removal. By contrast, nitrification genes (amoA, nxrB, hao) and their hosts were scarce, with only a transient autumn increase in LN. We recovered 1508 medium- to high-quality NCG-hosting MAGs spanning a broad phylogenetic range but strongly skewed toward a few bacterial phyla. Pseudomonadota, Actinomycetota and Bacteroidota together accounted for ∼87% of total NCG-host abundance. Assembly- and MAG-based community analyses revealed a shift from low-diversity, Pseudomonadota-dominated assemblages in SN to diverse, high-evenness communities in LN. Along the SN-LN gradient, MAG co-occurrence networks became richer, denser and more modular, and keystone MAGs were disproportionately enriched in denitrification and DNRA genes, with nitrification genes rare among hubs. Water quality emerged as the dominant driver of NCGs and their hosts, explaining up to 47.3% of the variance, while geography and land use exerted pathway-specific influences through indirect effects mediated by hydromorphology and water quality. Metatranscriptomic norB/nosZ further revealed a nitrate tipping point at ∼0.8 mg L⁻¹, above which microbial N2O emission potential increased by an order of magnitude and formed spatially confined, seasonally shifting hotspots. Collectively, our results demonstrate that riverine nitrogen-cycling functions are structured by hierarchical multi-scale controls and that N2O emission potential responds nonlinearly to nitrate loading, with LN acting as critical integrators of SN inputs. These findings highlight the need for river-network-scale N management to enhance riverine self-purification while mitigating microbial N2O feedbacks arising from human activities.",
+      "url": "https://www.semanticscholar.org/paper/0033ee856ce27d2f88d2438a6fa6490b91cdc775",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/0033ee856ce27d2f88d2438a6fa6490b91cdc775",
+      "pdf_url": "",
+      "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 69,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "0ce8bdda1b82189b542024e1f298cdb8f82df324",
+          "title": "Denitrification as the dominant process in nitrous oxide production in the water column of two eutrophic reservoirs",
+          "year": 2026,
+          "journal": "Biogeosciences",
+          "authors": [
+            "E. León‐Palmero",
+            "Claudia Frey",
+            "Bess B. Ward"
+          ],
+          "doi": "10.5194/bg-23-3887-2026",
+          "url": "https://www.semanticscholar.org/paper/0ce8bdda1b82189b542024e1f298cdb8f82df324",
+          "citation_count": 0
+        },
+        {
+          "id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
+          "title": "Response of soil nitrogen-cycling functional genes and their associations to nitrogen enrichment in a typical subtropical estuary (Min River), Southeast China.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Xiao Zhong",
+            "Zhigao Sun",
+            "Huihui Wu"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.120078",
+          "url": "https://www.semanticscholar.org/paper/d412b08e1b4ec825619e4f5848099144c14c4de3",
+          "citation_count": 0
+        },
+        {
+          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Weiliang Pan",
+            "Lin Zhang",
+            "Lin Liang"
+          ],
+          "doi": "10.1016/j.envres.2026.124885",
+          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "citation_count": 0
+        },
+        {
+          "id": "b4cbd1975ba1cdee4b3f56a4ea4e7b2c87110678",
+          "title": "Seasonal variations drive microbial community structure and nitrogen cycling in sediments of tributary pumping station forebays",
+          "year": 2026,
+          "journal": "Microbiology spectrum",
+          "authors": [
+            "Xiaofu Wei",
+            "Weiwei Song",
+            "Siyuan Li"
+          ],
+          "doi": "10.1128/spectrum.03047-25",
+          "url": "https://www.semanticscholar.org/paper/b4cbd1975ba1cdee4b3f56a4ea4e7b2c87110678",
+          "citation_count": 0
+        },
+        {
+          "id": "8d82104b63f0ecb7519cd6290913d83480657bab",
+          "title": "Nitrate-reducing bacteria bridge nitrogen cycling and antibiotic resistance in river ecosystems.",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "Chunfang Deng",
+            "Hetong Cai",
+            "Kongyan Luo"
+          ],
+          "doi": "10.1038/s41467-026-74161-2",
+          "url": "https://www.semanticscholar.org/paper/8d82104b63f0ecb7519cd6290913d83480657bab",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The results demonstrate that riverine nitrogen-cycling functions are structured by hierarchical multi-scale controls and that N2O emission potential responds nonlinearly to nitrate loading, with LN acting as critical integrators of SN inputs.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "dnra",
+        "metagenome",
+        "metatranscriptome",
+        "nitrification",
+        "nitrogen",
         "water"
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
@@ -13935,123 +13935,6 @@
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
     },
     {
-      "id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "semantic_scholar_id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "source": "Semantic Scholar",
-      "pmid": "40499367",
-      "doi": "10.1016/j.jenvman.2025.126133",
-      "title": "Biochar amendment and water level optimization enhance nitrogen removal and reduce N2O emissions in vertical flow constructed wetlands via metagenomic analysis.",
-      "authors": [
-        "Xin Wang",
-        "Zhiqiang Shen",
-        "Qin Zhang",
-        "Tao Lyu",
-        "Yanli Ding",
-        "Shaoyuan Bai"
-      ],
-      "journal": "Journal of Environmental Management",
-      "publication_date": "2025-06-10",
-      "abstract": "To explore how biochar influences nitrogen cycling in unsaturated, capillary, and saturated zones of partially saturated vertical flow constructed wetlands (VFCWs), three parallel VFCWs were established to examine the effects of biochar's better water holding capacity on nitrogen removal and N2O emissions. Microbial mechanisms involved were studied by conducting ETS activity, metagenomic sequencing and performing high-throughput sequencing of 16S rRNA. Results indicated that the combination of adding 40 % biochar and maintaining water level of 45 cm facilitated TN removal and suppressed N2O emissions, achieving TN removal efficiency of 73.4 % and N2O/removed TN value of 0.3 %. Within the unsaturated zone, the relative abundance of amoA, hao, and nxrB increased by 929 %, 454 %, and 38.3 %, respectively, enhancing nitrification capacity microorganisms carrying these genes and involved in the oxidation of NH4+-N to NO3--N included Nitrosomonas, Methylosarcina, Nitrosospira, and Methylomonas, whose relative abundance increased by 75.2 %. In the capillary zone, the 19.2 % increase in nosZ (involved in the reduction of N2O to N2) transformed it into a potential N2O consumption layer. The functional genera involved in N2O reduction (Ferrovibrio, Thauera, Ramlibacter, and Hyphomicrobium) in the capillary zone increased by 1724 %, 357 %, 707 %, and 78.5 %, respectively, and the ETS activity in the 40W-CW capillary zone was 72.5 % higher than that of QS-CW. Within the saturated zone, the relative abundance of amoA increased by 591 %, hao by 149 %, and nxrB decreased by 20.0 %, potentially facilitating short-cut denitrification.",
-      "url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "pdf_url": "",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 50,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "1f87131593937f5a09bf12f1af9bd66e6a0ab563",
-          "title": "Enhancement of nitrogen removal in constructed Wetlands: Comparative insights from single-strain and natural consortia inoculation.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Qian Wang",
-            "Ting Zhang",
-            "Kejin Zong"
-          ],
-          "doi": "10.1016/j.biortech.2026.135049",
-          "url": "https://www.semanticscholar.org/paper/1f87131593937f5a09bf12f1af9bd66e6a0ab563",
-          "citation_count": 0
-        },
-        {
-          "id": "f66bc45e522e0d3b2d9bf805b143312c9151103d",
-          "title": "Deep nitrogen removal in biochar-coupled pyrite constructed wetlands driven by targeted microbial succession: anti-passivation and electron transfer mechanisms.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Zhaoyang You",
-            "Jinlong Wang",
-            "Kailong Liu"
-          ],
-          "doi": "10.1016/j.biortech.2026.135280",
-          "url": "https://www.semanticscholar.org/paper/f66bc45e522e0d3b2d9bf805b143312c9151103d",
-          "citation_count": 0
-        },
-        {
-          "id": "0d23f53ed26b35f929daa93a771c721d0af1bf05",
-          "title": "Compound-specific effects of phthalate esters on nitrogen cycling and N2O emissions in paddy soils under contrasting moisture regimes.",
-          "year": 2026,
-          "journal": "Environmental Pollution",
-          "authors": [
-            "Yuna Li",
-            "Yunzhe Hu",
-            "Shulan Cheng"
-          ],
-          "doi": "10.1016/j.envpol.2026.128593",
-          "url": "https://www.semanticscholar.org/paper/0d23f53ed26b35f929daa93a771c721d0af1bf05",
-          "citation_count": 0
-        },
-        {
-          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Weiliang Pan",
-            "Lin Zhang",
-            "Lin Liang"
-          ],
-          "doi": "10.1016/j.envres.2026.124885",
-          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "citation_count": 0
-        },
-        {
-          "id": "8561d1f102101e6f2331f1347a4a2d784a00948b",
-          "title": "Phosphate Mining Residues as Novel Substrate for Advanced Vertical Flow Constructed Wetlands: A Circular Economy Approach",
-          "year": 2026,
-          "journal": "Agronomy",
-          "authors": [
-            "M. Hdidou",
-            "Mohamed Chaker Necibi",
-            "Jérôme Labille"
-          ],
-          "doi": "10.3390/agronomy16100954",
-          "url": "https://www.semanticscholar.org/paper/8561d1f102101e6f2331f1347a4a2d784a00948b",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "denitrification",
-        "functional_gene",
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
-    },
-    {
       "id": "460681d9f619cbd6c7804e1e0d05630c85bf5181",
       "semantic_scholar_id": "460681d9f619cbd6c7804e1e0d05630c85bf5181",
       "source": "Semantic Scholar",
@@ -14218,6 +14101,123 @@
         "nitrogen",
         "nitrogen_fixation",
         "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
+      "id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "semantic_scholar_id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "source": "Semantic Scholar",
+      "pmid": "40499367",
+      "doi": "10.1016/j.jenvman.2025.126133",
+      "title": "Biochar amendment and water level optimization enhance nitrogen removal and reduce N2O emissions in vertical flow constructed wetlands via metagenomic analysis.",
+      "authors": [
+        "Xin Wang",
+        "Zhiqiang Shen",
+        "Qin Zhang",
+        "Tao Lyu",
+        "Yanli Ding",
+        "Shaoyuan Bai"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2025-06-10",
+      "abstract": "To explore how biochar influences nitrogen cycling in unsaturated, capillary, and saturated zones of partially saturated vertical flow constructed wetlands (VFCWs), three parallel VFCWs were established to examine the effects of biochar's better water holding capacity on nitrogen removal and N2O emissions. Microbial mechanisms involved were studied by conducting ETS activity, metagenomic sequencing and performing high-throughput sequencing of 16S rRNA. Results indicated that the combination of adding 40 % biochar and maintaining water level of 45 cm facilitated TN removal and suppressed N2O emissions, achieving TN removal efficiency of 73.4 % and N2O/removed TN value of 0.3 %. Within the unsaturated zone, the relative abundance of amoA, hao, and nxrB increased by 929 %, 454 %, and 38.3 %, respectively, enhancing nitrification capacity microorganisms carrying these genes and involved in the oxidation of NH4+-N to NO3--N included Nitrosomonas, Methylosarcina, Nitrosospira, and Methylomonas, whose relative abundance increased by 75.2 %. In the capillary zone, the 19.2 % increase in nosZ (involved in the reduction of N2O to N2) transformed it into a potential N2O consumption layer. The functional genera involved in N2O reduction (Ferrovibrio, Thauera, Ramlibacter, and Hyphomicrobium) in the capillary zone increased by 1724 %, 357 %, 707 %, and 78.5 %, respectively, and the ETS activity in the 40W-CW capillary zone was 72.5 % higher than that of QS-CW. Within the saturated zone, the relative abundance of amoA increased by 591 %, hao by 149 %, and nxrB decreased by 20.0 %, potentially facilitating short-cut denitrification.",
+      "url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "pdf_url": "",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 50,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "1f87131593937f5a09bf12f1af9bd66e6a0ab563",
+          "title": "Enhancement of nitrogen removal in constructed Wetlands: Comparative insights from single-strain and natural consortia inoculation.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Qian Wang",
+            "Ting Zhang",
+            "Kejin Zong"
+          ],
+          "doi": "10.1016/j.biortech.2026.135049",
+          "url": "https://www.semanticscholar.org/paper/1f87131593937f5a09bf12f1af9bd66e6a0ab563",
+          "citation_count": 0
+        },
+        {
+          "id": "f66bc45e522e0d3b2d9bf805b143312c9151103d",
+          "title": "Deep nitrogen removal in biochar-coupled pyrite constructed wetlands driven by targeted microbial succession: anti-passivation and electron transfer mechanisms.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Zhaoyang You",
+            "Jinlong Wang",
+            "Kailong Liu"
+          ],
+          "doi": "10.1016/j.biortech.2026.135280",
+          "url": "https://www.semanticscholar.org/paper/f66bc45e522e0d3b2d9bf805b143312c9151103d",
+          "citation_count": 0
+        },
+        {
+          "id": "0d23f53ed26b35f929daa93a771c721d0af1bf05",
+          "title": "Compound-specific effects of phthalate esters on nitrogen cycling and N2O emissions in paddy soils under contrasting moisture regimes.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Yuna Li",
+            "Yunzhe Hu",
+            "Shulan Cheng"
+          ],
+          "doi": "10.1016/j.envpol.2026.128593",
+          "url": "https://www.semanticscholar.org/paper/0d23f53ed26b35f929daa93a771c721d0af1bf05",
+          "citation_count": 0
+        },
+        {
+          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Weiliang Pan",
+            "Lin Zhang",
+            "Lin Liang"
+          ],
+          "doi": "10.1016/j.envres.2026.124885",
+          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "citation_count": 0
+        },
+        {
+          "id": "8561d1f102101e6f2331f1347a4a2d784a00948b",
+          "title": "Phosphate Mining Residues as Novel Substrate for Advanced Vertical Flow Constructed Wetlands: A Circular Economy Approach",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "M. Hdidou",
+            "Mohamed Chaker Necibi",
+            "Jérôme Labille"
+          ],
+          "doi": "10.3390/agronomy16100954",
+          "url": "https://www.semanticscholar.org/paper/8561d1f102101e6f2331f1347a4a2d784a00948b",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "functional_gene",
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "urban",
         "water"
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
@@ -23939,7 +23939,7 @@
       "url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47392-4.pdf",
-      "citation_count": 59,
+      "citation_count": 60,
       "influential_citation_count": 4,
       "reference_count": 89,
       "references": [
@@ -25649,7 +25649,7 @@
       "url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "pdf_url": "https://academic.oup.com/ismecommun/article-pdf/4/1/ycae110/59757812/ycae110.pdf",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 68,
       "references": [
@@ -31095,7 +31095,7 @@
       "url": "https://www.semanticscholar.org/paper/c31d32f09a01b900a3d2cf4340d7b9fe19508a4e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c31d32f09a01b900a3d2cf4340d7b9fe19508a4e",
       "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adc9392?download=true",
-      "citation_count": 30,
+      "citation_count": 31,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -35983,7 +35983,7 @@
       "url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "pdf_url": "",
-      "citation_count": 199,
+      "citation_count": 200,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -41112,6 +41112,133 @@
       "edges_enriched_at": "2026-07-06T22:39:16.815770+00:00"
     },
     {
+      "id": "68f9688396650b0ce93d04a81c164593d7867626",
+      "semantic_scholar_id": "68f9688396650b0ce93d04a81c164593d7867626",
+      "source": "Semantic Scholar",
+      "pmid": "32579348",
+      "doi": "10.1021/acs.est.0c00036",
+      "title": "CuO nanoparticles alter the rhizospheric bacterial community and local nitrogen cycling for wheat grown in a calcareous soil.",
+      "authors": [
+        "Xiangyu Guan",
+        "Xiaoyu Gao",
+        "A. Avellan",
+        "Eleanor Spielman-Sun",
+        "Jiang Xu",
+        "Stephanie N. Laughton",
+        "J. Yun",
+        "Yilin Zhang",
+        "Garret D. Bland",
+        "Ying Zhang",
+        "Ruirui Zhang",
+        "Xusheng Wang",
+        "Elizabeth A. Casman",
+        "G. Lowry"
+      ],
+      "journal": "Environmental Science and Technology",
+      "publication_date": "2020-06-24",
+      "abstract": "The application of nanoparticles (NPs) to soils, as either fertilizers or fungicides (e.g. CuO NPs), has been proposed to improve the sustainability of agriculture. The observed effects could result directly from NP-plants interaction, or indirectly through effects on the soil microbiome. The objective of this study was to assess the effects of CuO NPs on the changes in bacterial community structure and nitrogen-cycling-associated functions in a high pH soil, and to correlate these changes with nitrate accumulation, soil parameter changes, and plant growth over 28 days. Triticum aestivum seedlings were exposed to 50 mg/kg CuO NPs, 50 mg/kg CuSO4, or 0.5 mg/kg CuSO4 in a standard soil (Lufa 2.1 soil, pH adjusted to 7.6). While Cu treatments reduced nitrate accumulation in the bulk soil, the effects were opposite in the rhizosphere (the soil influenced by influence of root exudates). While nitrate accumulation in bulk soil negatively correlated with total Cu concentration, part of the nitrate concentration in the rhizosphere was explained by root uptake during plant growth, the rest being modulated by Cu treatments. The abundance of genes involved in the nitrogen cycle in the rhizosphere soil correlated with the ionic copper concentration. The increased nitrate concentration in the rhizosphere correlated with an increase of the gene abundance related to the nitrogen fixation, and a decrease of denitrification gene abundance. Microbial diversity in bulk or rhizosphere soil under the different treatments could not alone explain these variations, while differences in the assemblages of bacteria associated with these functional gene abundances gave good insights. This study highlights the complexity of microbial N-related function in the rhizosphere, and the need characterize the rhizosphere soil, plant growth and root activity, and NP (bio)transformations and microbial networks to understand the impact of agrochemicals (here CuO NPs) on soil fertility and plant growth.",
+      "url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
+      "pdf_url": "https://doi.org/10.1021/acs.est.0c00036.s001",
+      "citation_count": 94,
+      "influential_citation_count": 3,
+      "reference_count": 58,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "841054505fbfcf153eafda37a0ad892f8c87931d",
+          "title": "Functional Resistance of Microbiome to Differently Charged Nanoplastics in Rhizosphere Hotspots Soil.",
+          "year": 2026,
+          "journal": "Journal of Agricultural and Food Chemistry",
+          "authors": [
+            "Jia Lin Wang",
+            "Sai Huang",
+            "Zhen Chen"
+          ],
+          "doi": "10.1021/acs.jafc.5c17636",
+          "url": "https://www.semanticscholar.org/paper/841054505fbfcf153eafda37a0ad892f8c87931d",
+          "citation_count": 0
+        },
+        {
+          "id": "a72d7a1e43041f55819f13c6cd0991ebf7454698",
+          "title": "The Effects of Three Growth-Promoting Bacteria on Tomato Growth and Rhizosphere Microbial Community Under Acid Stress",
+          "year": 2026,
+          "journal": "Horticulturae",
+          "authors": [
+            "Jing Hu",
+            "Yuqin Zhang",
+            "Jie Qiu"
+          ],
+          "doi": "10.3390/horticulturae12070791",
+          "url": "https://www.semanticscholar.org/paper/a72d7a1e43041f55819f13c6cd0991ebf7454698",
+          "citation_count": 0
+        },
+        {
+          "id": "57f9766d38661ed37f17ea545d088c391c1507cd",
+          "title": "Effects of Micro‐Nanobubble Ozonated Reclaimed Water on Soil Nitrogen Fixation and Denitrification of Genes Under Subsurface Drip Irrigation",
+          "year": 2026,
+          "journal": "Irrigation and Drainage",
+          "authors": [
+            "Abdul Rahim Junejo",
+            "Jiayao Chen",
+            "Madan Lal Kolhi"
+          ],
+          "doi": "10.1002/ird.70147",
+          "url": "https://www.semanticscholar.org/paper/57f9766d38661ed37f17ea545d088c391c1507cd",
+          "citation_count": 0
+        },
+        {
+          "id": "75063ff3e61775156a03a09cb8699a126c28ed5c",
+          "title": "Microplastics reshape rhizosphere microbial communities and nutrient cycling in tomato agroecosystems.",
+          "year": 2026,
+          "journal": "BMC Biology",
+          "authors": [
+            "Yongshi Liang",
+            "Manying Zhang",
+            "Mingzhu Guan"
+          ],
+          "doi": "10.1186/s12915-026-02633-4",
+          "url": "https://www.semanticscholar.org/paper/75063ff3e61775156a03a09cb8699a126c28ed5c",
+          "citation_count": 0
+        },
+        {
+          "id": "8dab5fe38c792af3d9218bdb4491b9e958f343ee",
+          "title": "Balanced NPK fertilization enhances maize yield and shapes rhizosphere bacterial communities in purple soil: evidence from a ten-year field experiment",
+          "year": 2026,
+          "journal": "BMC Microbiology",
+          "authors": [
+            "Song Guo",
+            "Mengying Liu",
+            "Zhigang Liu"
+          ],
+          "doi": "10.1186/s12866-026-05142-0",
+          "url": "https://www.semanticscholar.org/paper/8dab5fe38c792af3d9218bdb4491b9e958f343ee",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine",
+        "Chemistry"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The need to characterize the rhizosphere soil, plant growth and root activity, and NP (bio)transformations and microbial networks to understand the impact of agrochemicals on soil fertility and plant growth is highlighted.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "denitrification",
+        "functional_gene",
+        "microbiome",
+        "nitrification",
+        "nitrogen",
+        "nitrogen_fixation",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-06T22:39:16.815770+00:00"
+    },
+    {
       "id": "642f895806b75531e1e5264ce00487bb3a84f591",
       "semantic_scholar_id": "642f895806b75531e1e5264ce00487bb3a84f591",
       "source": "Semantic Scholar",
@@ -41269,133 +41396,6 @@
         "microbiome",
         "nitrification",
         "nitrogen",
-        "soil"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-06T22:39:16.815770+00:00"
-    },
-    {
-      "id": "68f9688396650b0ce93d04a81c164593d7867626",
-      "semantic_scholar_id": "68f9688396650b0ce93d04a81c164593d7867626",
-      "source": "Semantic Scholar",
-      "pmid": "32579348",
-      "doi": "10.1021/acs.est.0c00036",
-      "title": "CuO nanoparticles alter the rhizospheric bacterial community and local nitrogen cycling for wheat grown in a calcareous soil.",
-      "authors": [
-        "Xiangyu Guan",
-        "Xiaoyu Gao",
-        "A. Avellan",
-        "Eleanor Spielman-Sun",
-        "Jiang Xu",
-        "Stephanie N. Laughton",
-        "J. Yun",
-        "Yilin Zhang",
-        "Garret D. Bland",
-        "Ying Zhang",
-        "Ruirui Zhang",
-        "Xusheng Wang",
-        "Elizabeth A. Casman",
-        "G. Lowry"
-      ],
-      "journal": "Environmental Science and Technology",
-      "publication_date": "2020-06-24",
-      "abstract": "The application of nanoparticles (NPs) to soils, as either fertilizers or fungicides (e.g. CuO NPs), has been proposed to improve the sustainability of agriculture. The observed effects could result directly from NP-plants interaction, or indirectly through effects on the soil microbiome. The objective of this study was to assess the effects of CuO NPs on the changes in bacterial community structure and nitrogen-cycling-associated functions in a high pH soil, and to correlate these changes with nitrate accumulation, soil parameter changes, and plant growth over 28 days. Triticum aestivum seedlings were exposed to 50 mg/kg CuO NPs, 50 mg/kg CuSO4, or 0.5 mg/kg CuSO4 in a standard soil (Lufa 2.1 soil, pH adjusted to 7.6). While Cu treatments reduced nitrate accumulation in the bulk soil, the effects were opposite in the rhizosphere (the soil influenced by influence of root exudates). While nitrate accumulation in bulk soil negatively correlated with total Cu concentration, part of the nitrate concentration in the rhizosphere was explained by root uptake during plant growth, the rest being modulated by Cu treatments. The abundance of genes involved in the nitrogen cycle in the rhizosphere soil correlated with the ionic copper concentration. The increased nitrate concentration in the rhizosphere correlated with an increase of the gene abundance related to the nitrogen fixation, and a decrease of denitrification gene abundance. Microbial diversity in bulk or rhizosphere soil under the different treatments could not alone explain these variations, while differences in the assemblages of bacteria associated with these functional gene abundances gave good insights. This study highlights the complexity of microbial N-related function in the rhizosphere, and the need characterize the rhizosphere soil, plant growth and root activity, and NP (bio)transformations and microbial networks to understand the impact of agrochemicals (here CuO NPs) on soil fertility and plant growth.",
-      "url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
-      "pdf_url": "https://doi.org/10.1021/acs.est.0c00036.s001",
-      "citation_count": 94,
-      "influential_citation_count": 3,
-      "reference_count": 58,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "841054505fbfcf153eafda37a0ad892f8c87931d",
-          "title": "Functional Resistance of Microbiome to Differently Charged Nanoplastics in Rhizosphere Hotspots Soil.",
-          "year": 2026,
-          "journal": "Journal of Agricultural and Food Chemistry",
-          "authors": [
-            "Jia Lin Wang",
-            "Sai Huang",
-            "Zhen Chen"
-          ],
-          "doi": "10.1021/acs.jafc.5c17636",
-          "url": "https://www.semanticscholar.org/paper/841054505fbfcf153eafda37a0ad892f8c87931d",
-          "citation_count": 0
-        },
-        {
-          "id": "a72d7a1e43041f55819f13c6cd0991ebf7454698",
-          "title": "The Effects of Three Growth-Promoting Bacteria on Tomato Growth and Rhizosphere Microbial Community Under Acid Stress",
-          "year": 2026,
-          "journal": "Horticulturae",
-          "authors": [
-            "Jing Hu",
-            "Yuqin Zhang",
-            "Jie Qiu"
-          ],
-          "doi": "10.3390/horticulturae12070791",
-          "url": "https://www.semanticscholar.org/paper/a72d7a1e43041f55819f13c6cd0991ebf7454698",
-          "citation_count": 0
-        },
-        {
-          "id": "57f9766d38661ed37f17ea545d088c391c1507cd",
-          "title": "Effects of Micro‐Nanobubble Ozonated Reclaimed Water on Soil Nitrogen Fixation and Denitrification of Genes Under Subsurface Drip Irrigation",
-          "year": 2026,
-          "journal": "Irrigation and Drainage",
-          "authors": [
-            "Abdul Rahim Junejo",
-            "Jiayao Chen",
-            "Madan Lal Kolhi"
-          ],
-          "doi": "10.1002/ird.70147",
-          "url": "https://www.semanticscholar.org/paper/57f9766d38661ed37f17ea545d088c391c1507cd",
-          "citation_count": 0
-        },
-        {
-          "id": "75063ff3e61775156a03a09cb8699a126c28ed5c",
-          "title": "Microplastics reshape rhizosphere microbial communities and nutrient cycling in tomato agroecosystems.",
-          "year": 2026,
-          "journal": "BMC Biology",
-          "authors": [
-            "Yongshi Liang",
-            "Manying Zhang",
-            "Mingzhu Guan"
-          ],
-          "doi": "10.1186/s12915-026-02633-4",
-          "url": "https://www.semanticscholar.org/paper/75063ff3e61775156a03a09cb8699a126c28ed5c",
-          "citation_count": 0
-        },
-        {
-          "id": "8dab5fe38c792af3d9218bdb4491b9e958f343ee",
-          "title": "Balanced NPK fertilization enhances maize yield and shapes rhizosphere bacterial communities in purple soil: evidence from a ten-year field experiment",
-          "year": 2026,
-          "journal": "BMC Microbiology",
-          "authors": [
-            "Song Guo",
-            "Mengying Liu",
-            "Zhigang Liu"
-          ],
-          "doi": "10.1186/s12866-026-05142-0",
-          "url": "https://www.semanticscholar.org/paper/8dab5fe38c792af3d9218bdb4491b9e958f343ee",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine",
-        "Chemistry"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The need to characterize the rhizosphere soil, plant growth and root activity, and NP (bio)transformations and microbial networks to understand the impact of agrochemicals on soil fertility and plant growth is highlighted.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "agriculture",
-        "denitrification",
-        "functional_gene",
-        "microbiome",
-        "nitrification",
-        "nitrogen",
-        "nitrogen_fixation",
         "soil"
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
@@ -42506,116 +42506,6 @@
       "edges_enriched_at": "2026-07-06T22:39:16.815770+00:00"
     },
     {
-      "id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "semantic_scholar_id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1002/lno.11243",
-      "title": "Non‐cyanobacterial diazotrophs dominate nitrogen‐fixing communities in permafrost thaw ponds",
-      "authors": [
-        "Leyden Fernández",
-        "S. Bertilsson",
-        "Sari Peura"
-      ],
-      "journal": "Limnology and Oceanography",
-      "publication_date": "2020-01-01",
-      "abstract": "There is a growing concern about the implications of accelerated thawing of permafrost for regional biogeochemical cycling of carbon and other bioreactive elements. One such element of concern is nitrogen, and in this study, we investigated the diversity and biogeography of potential diazotrophs within a series of thaw ponds representing different ontogenetic stages in pond development. Using metagenomic sequence data from subarctic thaw ponds, we identified an array of nitrogenase genes across the ponds. The iron‐only nitrogenase gene (anfH) was positively correlated with sulfate, while there was no correlation with methane despite previous findings that organisms carrying anfH can simultaneously participate in nitrogen fixation and methanogenesis. Sulfate is known to inhibit microbial uptake of molybdate, an element essential for the activity of the nifH (molybdenum‐iron) nitrogenase and this may explain the high potential for nitrogen fixation utilizing anfH in sulfate‐rich ponds. NifH was particularly abundant in the hypolimnion of the deeper and older ponds, with Deltaproteobacteria and Chlorobi as the putative dominant diazotrophs. In the epilimnetic waters, nifH composition was more variable, with various Gammaproteobacteria as abundant representatives, while cyanobacterial diazotrophs were scarce. Interestingly, nifH gene abundance was significantly positively correlated with in situ methane concentration. Based on genome‐resolved metagenomics, we hypothesize that diazotrophs and methanogens engage in syntrophic interactions in anoxic waters, possibly via propionate oxidation or (in Geobacter) by interspecies electron transfer. Our results also suggest that nitrogen fixers may supply bioreactive nitrogen compounds to the thaw pond communities, thereby enhancing growth and activity of methanogens.",
-      "url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11243",
-      "citation_count": 21,
-      "influential_citation_count": 0,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "3321430c9ace0cb53fe53a6b422bc81383a10cc7",
-          "title": "Metagenomic insight into the diversity and biogeochemical functions of microbial communities in the maar tropical Lake Atexcac",
-          "year": 2026,
-          "journal": "Microbiology",
-          "authors": [
-            "Rodrigo Hernández-Velázquez",
-            "J. S. Hernández-Avilés"
-          ],
-          "doi": "10.1099/mic.0.001714",
-          "url": "https://www.semanticscholar.org/paper/3321430c9ace0cb53fe53a6b422bc81383a10cc7",
-          "citation_count": 0
-        },
-        {
-          "id": "9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
-          "title": "Vertical distribution and metabolic diversity of autotrophic microbes in the deep sediment of the challenger deep",
-          "year": 2026,
-          "journal": "Environmental Microbiome",
-          "authors": [
-            "Jiahua Zhou",
-            "Haojin Cheng",
-            "Yulin Zhang"
-          ],
-          "doi": "10.1186/s40793-026-00908-5",
-          "url": "https://www.semanticscholar.org/paper/9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
-          "citation_count": 0
-        },
-        {
-          "id": "61d3d74d0d143ec53ee41ed570fc3636ecd6950e",
-          "title": "Phosphorus availability mediates pathway-specific nitrogen cycling in stratified peatland microbiomes",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Shuaizhi Guo",
-            "N. McNamara",
-            "Gary D Bending"
-          ],
-          "doi": "10.1093/ismeco/ycag143",
-          "url": "https://www.semanticscholar.org/paper/61d3d74d0d143ec53ee41ed570fc3636ecd6950e",
-          "citation_count": 0
-        },
-        {
-          "id": "2e427ef684dc60d7104623518345e414b6eea536",
-          "title": "Conserved multiheme cytochrome machinery for extracellular electron transfer is widespread and transcriptionally active across deep peat profiles",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "G. Fiorito",
-            "Taylor Priest",
-            "Bledina Dede"
-          ],
-          "doi": "10.64898/2026.05.27.727921",
-          "url": "https://www.semanticscholar.org/paper/2e427ef684dc60d7104623518345e414b6eea536",
-          "citation_count": 0
-        },
-        {
-          "id": "4472a904555c24c8369ec2a8c6f2e3b66b6eaeb3",
-          "title": "Archaeal communities as indicators of hydrothermal influence in the Tianxiu vent field, Northwest Indian Ocean",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Fangru Li",
-            "Xiaolei Liu",
-            "Weiguo Hou"
-          ],
-          "doi": "10.3389/fmicb.2026.1837947",
-          "url": "https://www.semanticscholar.org/paper/4472a904555c24c8369ec2a8c6f2e3b66b6eaeb3",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Biology",
-        "Environmental Science"
-      ],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "functional_gene",
-        "metagenome",
-        "nitrogen",
-        "nitrogen_fixation",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-06T22:39:16.815770+00:00"
-    },
-    {
       "id": "c78d0031b47eba8b8593a3fdff5e84c8c8f3b822",
       "semantic_scholar_id": "c78d0031b47eba8b8593a3fdff5e84c8c8f3b822",
       "source": "Semantic Scholar",
@@ -42768,6 +42658,116 @@
         "microbiome",
         "nitrogen",
         "soil",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-06T22:39:16.815770+00:00"
+    },
+    {
+      "id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "semantic_scholar_id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1002/lno.11243",
+      "title": "Non‐cyanobacterial diazotrophs dominate nitrogen‐fixing communities in permafrost thaw ponds",
+      "authors": [
+        "Leyden Fernández",
+        "S. Bertilsson",
+        "Sari Peura"
+      ],
+      "journal": "Limnology and Oceanography",
+      "publication_date": "2020-01-01",
+      "abstract": "There is a growing concern about the implications of accelerated thawing of permafrost for regional biogeochemical cycling of carbon and other bioreactive elements. One such element of concern is nitrogen, and in this study, we investigated the diversity and biogeography of potential diazotrophs within a series of thaw ponds representing different ontogenetic stages in pond development. Using metagenomic sequence data from subarctic thaw ponds, we identified an array of nitrogenase genes across the ponds. The iron‐only nitrogenase gene (anfH) was positively correlated with sulfate, while there was no correlation with methane despite previous findings that organisms carrying anfH can simultaneously participate in nitrogen fixation and methanogenesis. Sulfate is known to inhibit microbial uptake of molybdate, an element essential for the activity of the nifH (molybdenum‐iron) nitrogenase and this may explain the high potential for nitrogen fixation utilizing anfH in sulfate‐rich ponds. NifH was particularly abundant in the hypolimnion of the deeper and older ponds, with Deltaproteobacteria and Chlorobi as the putative dominant diazotrophs. In the epilimnetic waters, nifH composition was more variable, with various Gammaproteobacteria as abundant representatives, while cyanobacterial diazotrophs were scarce. Interestingly, nifH gene abundance was significantly positively correlated with in situ methane concentration. Based on genome‐resolved metagenomics, we hypothesize that diazotrophs and methanogens engage in syntrophic interactions in anoxic waters, possibly via propionate oxidation or (in Geobacter) by interspecies electron transfer. Our results also suggest that nitrogen fixers may supply bioreactive nitrogen compounds to the thaw pond communities, thereby enhancing growth and activity of methanogens.",
+      "url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11243",
+      "citation_count": 21,
+      "influential_citation_count": 0,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "3321430c9ace0cb53fe53a6b422bc81383a10cc7",
+          "title": "Metagenomic insight into the diversity and biogeochemical functions of microbial communities in the maar tropical Lake Atexcac",
+          "year": 2026,
+          "journal": "Microbiology",
+          "authors": [
+            "Rodrigo Hernández-Velázquez",
+            "J. S. Hernández-Avilés"
+          ],
+          "doi": "10.1099/mic.0.001714",
+          "url": "https://www.semanticscholar.org/paper/3321430c9ace0cb53fe53a6b422bc81383a10cc7",
+          "citation_count": 0
+        },
+        {
+          "id": "9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
+          "title": "Vertical distribution and metabolic diversity of autotrophic microbes in the deep sediment of the challenger deep",
+          "year": 2026,
+          "journal": "Environmental Microbiome",
+          "authors": [
+            "Jiahua Zhou",
+            "Haojin Cheng",
+            "Yulin Zhang"
+          ],
+          "doi": "10.1186/s40793-026-00908-5",
+          "url": "https://www.semanticscholar.org/paper/9fd2a5edc3a00b1ac62d1bad6aec3056296c0247",
+          "citation_count": 0
+        },
+        {
+          "id": "61d3d74d0d143ec53ee41ed570fc3636ecd6950e",
+          "title": "Phosphorus availability mediates pathway-specific nitrogen cycling in stratified peatland microbiomes",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Shuaizhi Guo",
+            "N. McNamara",
+            "Gary D Bending"
+          ],
+          "doi": "10.1093/ismeco/ycag143",
+          "url": "https://www.semanticscholar.org/paper/61d3d74d0d143ec53ee41ed570fc3636ecd6950e",
+          "citation_count": 0
+        },
+        {
+          "id": "2e427ef684dc60d7104623518345e414b6eea536",
+          "title": "Conserved multiheme cytochrome machinery for extracellular electron transfer is widespread and transcriptionally active across deep peat profiles",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "G. Fiorito",
+            "Taylor Priest",
+            "Bledina Dede"
+          ],
+          "doi": "10.64898/2026.05.27.727921",
+          "url": "https://www.semanticscholar.org/paper/2e427ef684dc60d7104623518345e414b6eea536",
+          "citation_count": 0
+        },
+        {
+          "id": "4472a904555c24c8369ec2a8c6f2e3b66b6eaeb3",
+          "title": "Archaeal communities as indicators of hydrothermal influence in the Tianxiu vent field, Northwest Indian Ocean",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Fangru Li",
+            "Xiaolei Liu",
+            "Weiguo Hou"
+          ],
+          "doi": "10.3389/fmicb.2026.1837947",
+          "url": "https://www.semanticscholar.org/paper/4472a904555c24c8369ec2a8c6f2e3b66b6eaeb3",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "nitrogen",
+        "nitrogen_fixation",
         "water"
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
