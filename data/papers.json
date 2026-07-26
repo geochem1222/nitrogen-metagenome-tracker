@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T22:12:53.654510+00:00",
+  "updated_at": "2026-07-26T22:15:15.247327+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -10204,7 +10204,7 @@
       "url": "https://www.semanticscholar.org/paper/db1b297bb2a44468882b21e7bc3c7a5d52639f58",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/db1b297bb2a44468882b21e7bc3c7a5d52639f58",
       "pdf_url": "https://www.mdpi.com/2073-4395/15/11/2535/pdf?version=1761839387",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 60,
       "references": [
@@ -10644,7 +10644,7 @@
         "M. Bahram",
         "L. Lehtovirta-Morley",
         "V. Mikryukov",
-        "T.R. Sveen",
+        "T. R. Sveen",
         "A. Grant",
         "M. Pent",
         "F. Hildebrand",
@@ -11158,7 +11158,7 @@
       "url": "https://www.semanticscholar.org/paper/4fd44bb570450b13a036bc3f6d1a35aac3831cba",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4fd44bb570450b13a036bc3f6d1a35aac3831cba",
       "pdf_url": "",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [],
@@ -13935,123 +13935,6 @@
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
     },
     {
-      "id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "semantic_scholar_id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "source": "Semantic Scholar",
-      "pmid": "40499367",
-      "doi": "10.1016/j.jenvman.2025.126133",
-      "title": "Biochar amendment and water level optimization enhance nitrogen removal and reduce N2O emissions in vertical flow constructed wetlands via metagenomic analysis.",
-      "authors": [
-        "Xin Wang",
-        "Zhiqiang Shen",
-        "Qin Zhang",
-        "Tao Lyu",
-        "Yanli Ding",
-        "Shaoyuan Bai"
-      ],
-      "journal": "Journal of Environmental Management",
-      "publication_date": "2025-06-10",
-      "abstract": "To explore how biochar influences nitrogen cycling in unsaturated, capillary, and saturated zones of partially saturated vertical flow constructed wetlands (VFCWs), three parallel VFCWs were established to examine the effects of biochar's better water holding capacity on nitrogen removal and N2O emissions. Microbial mechanisms involved were studied by conducting ETS activity, metagenomic sequencing and performing high-throughput sequencing of 16S rRNA. Results indicated that the combination of adding 40 % biochar and maintaining water level of 45 cm facilitated TN removal and suppressed N2O emissions, achieving TN removal efficiency of 73.4 % and N2O/removed TN value of 0.3 %. Within the unsaturated zone, the relative abundance of amoA, hao, and nxrB increased by 929 %, 454 %, and 38.3 %, respectively, enhancing nitrification capacity microorganisms carrying these genes and involved in the oxidation of NH4+-N to NO3--N included Nitrosomonas, Methylosarcina, Nitrosospira, and Methylomonas, whose relative abundance increased by 75.2 %. In the capillary zone, the 19.2 % increase in nosZ (involved in the reduction of N2O to N2) transformed it into a potential N2O consumption layer. The functional genera involved in N2O reduction (Ferrovibrio, Thauera, Ramlibacter, and Hyphomicrobium) in the capillary zone increased by 1724 %, 357 %, 707 %, and 78.5 %, respectively, and the ETS activity in the 40W-CW capillary zone was 72.5 % higher than that of QS-CW. Within the saturated zone, the relative abundance of amoA increased by 591 %, hao by 149 %, and nxrB decreased by 20.0 %, potentially facilitating short-cut denitrification.",
-      "url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "pdf_url": "",
-      "citation_count": 6,
-      "influential_citation_count": 0,
-      "reference_count": 50,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "1f87131593937f5a09bf12f1af9bd66e6a0ab563",
-          "title": "Enhancement of nitrogen removal in constructed Wetlands: Comparative insights from single-strain and natural consortia inoculation.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Qian Wang",
-            "Ting Zhang",
-            "Kejin Zong"
-          ],
-          "doi": "10.1016/j.biortech.2026.135049",
-          "url": "https://www.semanticscholar.org/paper/1f87131593937f5a09bf12f1af9bd66e6a0ab563",
-          "citation_count": 0
-        },
-        {
-          "id": "f66bc45e522e0d3b2d9bf805b143312c9151103d",
-          "title": "Deep nitrogen removal in biochar-coupled pyrite constructed wetlands driven by targeted microbial succession: anti-passivation and electron transfer mechanisms.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Zhaoyang You",
-            "Jinlong Wang",
-            "Kailong Liu"
-          ],
-          "doi": "10.1016/j.biortech.2026.135280",
-          "url": "https://www.semanticscholar.org/paper/f66bc45e522e0d3b2d9bf805b143312c9151103d",
-          "citation_count": 0
-        },
-        {
-          "id": "0d23f53ed26b35f929daa93a771c721d0af1bf05",
-          "title": "Compound-specific effects of phthalate esters on nitrogen cycling and N2O emissions in paddy soils under contrasting moisture regimes.",
-          "year": 2026,
-          "journal": "Environmental Pollution",
-          "authors": [
-            "Yuna Li",
-            "Yunzhe Hu",
-            "Shulan Cheng"
-          ],
-          "doi": "10.1016/j.envpol.2026.128593",
-          "url": "https://www.semanticscholar.org/paper/0d23f53ed26b35f929daa93a771c721d0af1bf05",
-          "citation_count": 0
-        },
-        {
-          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Weiliang Pan",
-            "Lin Zhang",
-            "Lin Liang"
-          ],
-          "doi": "10.1016/j.envres.2026.124885",
-          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
-          "citation_count": 0
-        },
-        {
-          "id": "8561d1f102101e6f2331f1347a4a2d784a00948b",
-          "title": "Phosphate Mining Residues as Novel Substrate for Advanced Vertical Flow Constructed Wetlands: A Circular Economy Approach",
-          "year": 2026,
-          "journal": "Agronomy",
-          "authors": [
-            "M. Hdidou",
-            "Mohamed Chaker Necibi",
-            "Jérôme Labille"
-          ],
-          "doi": "10.3390/agronomy16100954",
-          "url": "https://www.semanticscholar.org/paper/8561d1f102101e6f2331f1347a4a2d784a00948b",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "denitrification",
-        "functional_gene",
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
-      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
-    },
-    {
       "id": "460681d9f619cbd6c7804e1e0d05630c85bf5181",
       "semantic_scholar_id": "460681d9f619cbd6c7804e1e0d05630c85bf5181",
       "source": "Semantic Scholar",
@@ -14218,6 +14101,123 @@
         "nitrogen",
         "nitrogen_fixation",
         "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
+      "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
+      "id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "semantic_scholar_id": "9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "source": "Semantic Scholar",
+      "pmid": "40499367",
+      "doi": "10.1016/j.jenvman.2025.126133",
+      "title": "Biochar amendment and water level optimization enhance nitrogen removal and reduce N2O emissions in vertical flow constructed wetlands via metagenomic analysis.",
+      "authors": [
+        "Xin Wang",
+        "Zhiqiang Shen",
+        "Qin Zhang",
+        "Tao Lyu",
+        "Yanli Ding",
+        "Shaoyuan Bai"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2025-06-10",
+      "abstract": "To explore how biochar influences nitrogen cycling in unsaturated, capillary, and saturated zones of partially saturated vertical flow constructed wetlands (VFCWs), three parallel VFCWs were established to examine the effects of biochar's better water holding capacity on nitrogen removal and N2O emissions. Microbial mechanisms involved were studied by conducting ETS activity, metagenomic sequencing and performing high-throughput sequencing of 16S rRNA. Results indicated that the combination of adding 40 % biochar and maintaining water level of 45 cm facilitated TN removal and suppressed N2O emissions, achieving TN removal efficiency of 73.4 % and N2O/removed TN value of 0.3 %. Within the unsaturated zone, the relative abundance of amoA, hao, and nxrB increased by 929 %, 454 %, and 38.3 %, respectively, enhancing nitrification capacity microorganisms carrying these genes and involved in the oxidation of NH4+-N to NO3--N included Nitrosomonas, Methylosarcina, Nitrosospira, and Methylomonas, whose relative abundance increased by 75.2 %. In the capillary zone, the 19.2 % increase in nosZ (involved in the reduction of N2O to N2) transformed it into a potential N2O consumption layer. The functional genera involved in N2O reduction (Ferrovibrio, Thauera, Ramlibacter, and Hyphomicrobium) in the capillary zone increased by 1724 %, 357 %, 707 %, and 78.5 %, respectively, and the ETS activity in the 40W-CW capillary zone was 72.5 % higher than that of QS-CW. Within the saturated zone, the relative abundance of amoA increased by 591 %, hao by 149 %, and nxrB decreased by 20.0 %, potentially facilitating short-cut denitrification.",
+      "url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
+      "pdf_url": "",
+      "citation_count": 6,
+      "influential_citation_count": 0,
+      "reference_count": 50,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "1f87131593937f5a09bf12f1af9bd66e6a0ab563",
+          "title": "Enhancement of nitrogen removal in constructed Wetlands: Comparative insights from single-strain and natural consortia inoculation.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Qian Wang",
+            "Ting Zhang",
+            "Kejin Zong"
+          ],
+          "doi": "10.1016/j.biortech.2026.135049",
+          "url": "https://www.semanticscholar.org/paper/1f87131593937f5a09bf12f1af9bd66e6a0ab563",
+          "citation_count": 0
+        },
+        {
+          "id": "f66bc45e522e0d3b2d9bf805b143312c9151103d",
+          "title": "Deep nitrogen removal in biochar-coupled pyrite constructed wetlands driven by targeted microbial succession: anti-passivation and electron transfer mechanisms.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Zhaoyang You",
+            "Jinlong Wang",
+            "Kailong Liu"
+          ],
+          "doi": "10.1016/j.biortech.2026.135280",
+          "url": "https://www.semanticscholar.org/paper/f66bc45e522e0d3b2d9bf805b143312c9151103d",
+          "citation_count": 0
+        },
+        {
+          "id": "0d23f53ed26b35f929daa93a771c721d0af1bf05",
+          "title": "Compound-specific effects of phthalate esters on nitrogen cycling and N2O emissions in paddy soils under contrasting moisture regimes.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Yuna Li",
+            "Yunzhe Hu",
+            "Shulan Cheng"
+          ],
+          "doi": "10.1016/j.envpol.2026.128593",
+          "url": "https://www.semanticscholar.org/paper/0d23f53ed26b35f929daa93a771c721d0af1bf05",
+          "citation_count": 0
+        },
+        {
+          "id": "2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Weiliang Pan",
+            "Lin Zhang",
+            "Lin Liang"
+          ],
+          "doi": "10.1016/j.envres.2026.124885",
+          "url": "https://www.semanticscholar.org/paper/2cca22b43f58dfd2874f9105da8c9104ddbe8560",
+          "citation_count": 0
+        },
+        {
+          "id": "8561d1f102101e6f2331f1347a4a2d784a00948b",
+          "title": "Phosphate Mining Residues as Novel Substrate for Advanced Vertical Flow Constructed Wetlands: A Circular Economy Approach",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "M. Hdidou",
+            "Mohamed Chaker Necibi",
+            "Jérôme Labille"
+          ],
+          "doi": "10.3390/agronomy16100954",
+          "url": "https://www.semanticscholar.org/paper/8561d1f102101e6f2331f1347a4a2d784a00948b",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "functional_gene",
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "urban",
         "water"
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
@@ -19354,7 +19354,7 @@
       "url": "https://www.semanticscholar.org/paper/0f303163878808f633cb336228eb0b93ce2c3c63",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0f303163878808f633cb336228eb0b93ce2c3c63",
       "pdf_url": "https://www.researchsquare.com/article/rs-4000352/latest.pdf",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 91,
       "references": [
@@ -19980,7 +19980,7 @@
       "url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "pdf_url": "",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -21065,7 +21065,7 @@
       "url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1411073/pdf",
-      "citation_count": 46,
+      "citation_count": 47,
       "influential_citation_count": 1,
       "reference_count": 72,
       "references": [
@@ -23084,7 +23084,7 @@
       "url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "pdf_url": "",
-      "citation_count": 40,
+      "citation_count": 41,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -23939,7 +23939,7 @@
       "url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47392-4.pdf",
-      "citation_count": 60,
+      "citation_count": 61,
       "influential_citation_count": 4,
       "reference_count": 89,
       "references": [
@@ -25646,7 +25646,7 @@
       "url": "https://www.semanticscholar.org/paper/48ed1367c33ad2fe9cf83f7f204ab4a795278531",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/48ed1367c33ad2fe9cf83f7f204ab4a795278531",
       "pdf_url": "https://doi.org/10.59717/j.xinn-geo.2024.100101",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 19,
       "references": [
@@ -30923,7 +30923,7 @@
       "url": "https://www.semanticscholar.org/paper/b4c7dc9b8d3195399c85f8c9ab09eb39f8b384ec",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b4c7dc9b8d3195399c85f8c9ab09eb39f8b384ec",
       "pdf_url": "https://doi.org/10.1016/j.chemosphere.2023.138110",
-      "citation_count": 12,
+      "citation_count": 14,
       "influential_citation_count": 1,
       "reference_count": 67,
       "references": [
@@ -31091,7 +31091,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 176,
+      "citation_count": 177,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -32041,7 +32041,7 @@
       "url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "pdf_url": "",
-      "citation_count": 140,
+      "citation_count": 141,
       "influential_citation_count": 4,
       "reference_count": 85,
       "references": [],
@@ -37293,7 +37293,7 @@
       "url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "pdf_url": "",
-      "citation_count": 131,
+      "citation_count": 132,
       "influential_citation_count": 5,
       "reference_count": 0,
       "references": [],
