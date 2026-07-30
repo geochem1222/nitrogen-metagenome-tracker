@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T22:14:11.134497+00:00",
+  "updated_at": "2026-07-30T22:20:41.588434+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1337,6 +1337,128 @@
       ],
       "detail_enriched_at": "2026-07-05T03:23:33.010914+00:00",
       "edges_enriched_at": "2026-07-05T03:24:29.515664+00:00"
+    },
+    {
+      "id": "18e1d3671b01d1f7bd1b338a6bf8d0076c1867a0",
+      "semantic_scholar_id": "18e1d3671b01d1f7bd1b338a6bf8d0076c1867a0",
+      "source": "Semantic Scholar",
+      "pmid": "42520350",
+      "doi": "10.1016/j.micres.2026.128647",
+      "title": "Composted cattle manure enhances microbial nitrogen retention and increased seed watermelon yield in saline-alkali soil.",
+      "authors": [
+        "Qianqian Chen",
+        "Xiaoye Niu",
+        "Wei Wu",
+        "Huai Shi",
+        "Guohong Liu",
+        "Longjun Chen",
+        "Huangping Wang",
+        "Yushu Zhang"
+      ],
+      "journal": "Microbiology Research",
+      "publication_date": "2026-07-01",
+      "abstract": "Soil salinity and alkalinity represent a global environmental challenge that severely hampers agricultural productivity. While composted manure amendment represents a sustainable strategy relates to nutrient supplementation and soil health improvement. However, the influence of composted manure on microbial nitrogen cycles in a saline-alkali soil remains obscure. Saline-alkali soil amendment with cattle manure (CM) and composted CM (CCM) were conducted to systematically evaluate their efficacy in ameliorating soil physicochemical properties and enhancing crop productivity under saline-alkaline stress conditions. Physicochemical properties of saline-alkali soils under different amendments were investigated. The changes in microbial communities and nitrogen metabolism were analyzed using metagenomic sequencing and qPCR. Furthermore, the correlations between microbial nitrogen cycle and soil physicochemical factors were assessed. Compared to control (CK), soil salinity was significantly mitigated by 43.0%% and 51.9% in CM and CCM treatments. The organic matter, humus and nitrogen contents were also significantly increased in CM and CCM treatments. CCM significantly improved abundance of nrf in dissimilatory nitrate reduction to ammonium (DNRA), while reducing amoA abundance in nitrification. These findings suggest a potential redirection of microbial nitrogen fluxes toward retention rather than loss pathways, thereby enhances soil fertility. And the seed yield in CCM treatment was significantly higher than those of CM and CK. Our results provided mechanistic evidence for the use of composted manure as a sustainable strategy for enhancing soil fertility, mitigating salinization, and increasing crop yield of saline-alkali soils.",
+      "url": "https://www.semanticscholar.org/paper/18e1d3671b01d1f7bd1b338a6bf8d0076c1867a0",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/18e1d3671b01d1f7bd1b338a6bf8d0076c1867a0",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 64,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "e436ee5bba33aea99941344905f3be920514fe0f",
+          "title": "IMPACT OF ORGANIC SOIL AMENDMENTS ON SOIL FERTILITY AND YIELD PERFORMANCE OF MAIZE (ZEA MAYS L.) UNDER SUSTAINABLE FARMING SYSTEMS",
+          "year": 2026,
+          "journal": "Jana Nexus: Journal of Agricultural, Veterinary and Environmental Sciences",
+          "authors": [
+            "A. Hassan",
+            "Priya Menon",
+            "Ibrahim Yusuf"
+          ],
+          "doi": "10.21474/jnaves01/135",
+          "url": "https://www.semanticscholar.org/paper/e436ee5bba33aea99941344905f3be920514fe0f",
+          "citation_count": 0
+        },
+        {
+          "id": "943bfc5bae5c2e348e9fe55156b78b987cd8ccbd",
+          "title": "Green Manure Modulates Soil–Plant–Microbial Responses to Increasing Irrigation Salinity in a Semiarid Agroecosystem",
+          "year": 2026,
+          "journal": "Irrigation and Drainage",
+          "authors": [
+            "Murilo de Sousa Almeida",
+            "Maria de Fátima Marques Pires",
+            "Maria Brenna Mendes Cunha"
+          ],
+          "doi": "10.1002/ird.70164",
+          "url": "https://www.semanticscholar.org/paper/943bfc5bae5c2e348e9fe55156b78b987cd8ccbd",
+          "citation_count": 0
+        },
+        {
+          "id": "bc8dd098201020728007061c5118d2066fc97a24",
+          "title": "Biochar as a Sustainable Soil Amendment: Impacts on Soil Fertility, Nutrient Dynamics, and Crop Yield: A Review",
+          "year": 2026,
+          "journal": "Journal of Experimental Agriculture International",
+          "authors": [
+            "S. Singh",
+            "Ashutosh Kumar",
+            "M. Sreemathi"
+          ],
+          "doi": "10.9734/jeai/2026/v48i64292",
+          "url": "https://www.semanticscholar.org/paper/bc8dd098201020728007061c5118d2066fc97a24",
+          "citation_count": 0
+        },
+        {
+          "id": "de1eaf7983c5c59f38f22b391df34c373df2866e",
+          "title": "Effects of In Situ Tomato Straw and Green Manure Returning on Greenhouse Soil Properties and Production in Coastal Saline–Alkali Areas",
+          "year": 2026,
+          "journal": "Agriculture",
+          "authors": [
+            "Ruiping Ma",
+            "Guoxin Zhang",
+            "Yeshuo Sun"
+          ],
+          "doi": "10.3390/agriculture16131381",
+          "url": "https://www.semanticscholar.org/paper/de1eaf7983c5c59f38f22b391df34c373df2866e",
+          "citation_count": 0
+        },
+        {
+          "id": "fd6f2ef6cec6cd121f8b2161e36710f62c7ac4c8",
+          "title": "Effects of Different Treatment Methods on Soil Nutrients of Saline–Alkaline Soil and Dandelion Growth",
+          "year": 2026,
+          "journal": "Journal of Life Sciences and Agriculture",
+          "authors": [
+            "Ruiyuan Jin",
+            "Xunuo Zhao",
+            "Yibo Wang"
+          ],
+          "doi": "10.62517/jlsa.202607209",
+          "url": "https://www.semanticscholar.org/paper/fd6f2ef6cec6cd121f8b2161e36710f62c7ac4c8",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "denitrification",
+        "dnra",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrification",
+        "nitrogen",
+        "soil",
+        "water"
+      ],
+      "detail_enriched_at": "2026-07-30T22:20:30.705391+00:00",
+      "edges_enriched_at": "2026-07-30T22:20:31.281898+00:00"
     },
     {
       "id": "53c5bcc82e8a2f6c407476532f8d163c88d7fa36",
@@ -14120,7 +14242,7 @@
       "url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
       "pdf_url": "",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 0,
       "reference_count": 50,
       "references": [],
@@ -15965,7 +16087,7 @@
       "url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "pdf_url": "https://doi.org/10.1016/j.biotechadv.2025.108580",
-      "citation_count": 37,
+      "citation_count": 38,
       "influential_citation_count": 1,
       "reference_count": 372,
       "references": [
@@ -17434,7 +17556,7 @@
       "url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "pdf_url": "",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -17480,7 +17602,7 @@
       "url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "pdf_url": "",
-      "citation_count": 59,
+      "citation_count": 60,
       "influential_citation_count": 2,
       "reference_count": 64,
       "references": [],
@@ -21989,7 +22111,7 @@
       "url": "https://www.semanticscholar.org/paper/2da9e1201edcb181d9a7509da754a47a5862ac6c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2da9e1201edcb181d9a7509da754a47a5862ac6c",
       "pdf_url": "",
-      "citation_count": 25,
+      "citation_count": 26,
       "influential_citation_count": 0,
       "reference_count": 78,
       "references": [],
@@ -31256,7 +31378,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 177,
+      "citation_count": 178,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -35449,7 +35571,7 @@
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "pdf_url": "https://doi.org/10.1128/msystems.01358-21",
-      "citation_count": 49,
+      "citation_count": 50,
       "influential_citation_count": 0,
       "reference_count": 116,
       "references": [
@@ -35612,7 +35734,7 @@
       "url": "https://www.semanticscholar.org/paper/9b9d0123d3ef8678d54eacecbcaf070842adb168",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9b9d0123d3ef8678d54eacecbcaf070842adb168",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0167880921003923",
-      "citation_count": 33,
+      "citation_count": 34,
       "influential_citation_count": 1,
       "reference_count": 107,
       "references": [],
@@ -35979,7 +36101,7 @@
       "url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "pdf_url": "https://www.nature.com/articles/s43705-021-00073-5.pdf",
-      "citation_count": 87,
+      "citation_count": 88,
       "influential_citation_count": 1,
       "reference_count": 65,
       "references": [
@@ -36550,7 +36672,7 @@
       "url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "pdf_url": "",
-      "citation_count": 33,
+      "citation_count": 34,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -41468,7 +41590,7 @@
       "url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "pdf_url": "https://doi.org/10.1021/acs.est.0c00036.s001",
-      "citation_count": 94,
+      "citation_count": 95,
       "influential_citation_count": 3,
       "reference_count": 58,
       "references": [],
