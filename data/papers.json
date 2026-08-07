@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T01:16:21.629258+00:00",
+  "updated_at": "2026-08-07T21:57:49.487056+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -13210,7 +13210,7 @@
       "url": "https://www.semanticscholar.org/paper/08c724113c08acb173ff5a96641cd6a0a65d1099",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/08c724113c08acb173ff5a96641cd6a0a65d1099",
       "pdf_url": "",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 49,
       "references": [
@@ -16378,7 +16378,7 @@
       "url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "pdf_url": "https://doi.org/10.1016/j.biotechadv.2025.108580",
-      "citation_count": 38,
+      "citation_count": 39,
       "influential_citation_count": 1,
       "reference_count": 372,
       "references": [
@@ -17170,7 +17170,7 @@
       "url": "https://www.semanticscholar.org/paper/83410d73ff1d78c65c80f315db1fbb383ce67a24",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/83410d73ff1d78c65c80f315db1fbb383ce67a24",
       "pdf_url": "https://doi.org/10.3390/land14030553",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -26388,7 +26388,7 @@
       "url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "pdf_url": "https://academic.oup.com/ismecommun/article-pdf/4/1/ycae110/59757812/ycae110.pdf",
-      "citation_count": 14,
+      "citation_count": 15,
       "influential_citation_count": 0,
       "reference_count": 69,
       "references": [
@@ -30863,45 +30863,45 @@
           "citation_count": 0
         },
         {
-          "id": "8d82104b63f0ecb7519cd6290913d83480657bab",
-          "title": "Nitrate-reducing bacteria bridge nitrogen cycling and antibiotic resistance in river ecosystems.",
+          "id": "38268e5ad35b60820116e69eeb848f71bb7b8747",
+          "title": "Iron/Manganese Oxide‐Bound Nitrogen Suppresses Microbial Mediated Nitrate Reduction in Soil",
           "year": 2026,
-          "journal": "Nature Communications",
+          "journal": "Land Degradation &amp; Development",
           "authors": [
-            "Chunfang Deng",
-            "Hetong Cai",
-            "Kongyan Luo"
+            "Yu Cheng",
+            "Xuehao Zheng",
+            "Miao Yang"
           ],
-          "doi": "10.1038/s41467-026-74161-2",
-          "url": "https://www.semanticscholar.org/paper/8d82104b63f0ecb7519cd6290913d83480657bab",
+          "doi": "10.1002/ldr.70796",
+          "url": "https://www.semanticscholar.org/paper/38268e5ad35b60820116e69eeb848f71bb7b8747",
           "citation_count": 0
         },
         {
-          "id": "0ce8bdda1b82189b542024e1f298cdb8f82df324",
-          "title": "Denitrification as the dominant process in nitrous oxide production in the water column of two eutrophic reservoirs",
+          "id": "c32a3a5b31fb4c68d5bd98aa84483d5fb1b06f06",
+          "title": "Hydroxylamine steers nitrogen metabolism toward dissimilatory nitrate reduction to ammonium by suppressing competitive denitrification.",
           "year": 2026,
-          "journal": "Biogeosciences",
+          "journal": "Bioresource Technology",
           "authors": [
-            "E. León‐Palmero",
-            "Claudia Frey",
-            "Bess B. Ward"
+            "Jianfei Xu",
+            "Xiaonong Zhang",
+            "Wen Sun"
           ],
-          "doi": "10.5194/bg-23-3887-2026",
-          "url": "https://www.semanticscholar.org/paper/0ce8bdda1b82189b542024e1f298cdb8f82df324",
+          "doi": "10.1016/j.biortech.2026.135307",
+          "url": "https://www.semanticscholar.org/paper/c32a3a5b31fb4c68d5bd98aa84483d5fb1b06f06",
           "citation_count": 0
         },
         {
-          "id": "85fc5f18796ffea9c0d4b69afa7de0d492f0b705",
-          "title": "Acidification reshapes plastisphere communities to sustain potassium-stimulated N2O emissions under warming.",
+          "id": "910e2f629e91fff096fa58931e9acac02dea21fb",
+          "title": "Nitrogen-mineralizing community in the rice rhizosphere exhibits greater resilience than that of maize and wheat in response to elevated CO2 and temperature",
           "year": 2026,
-          "journal": "Journal of Hazardous Materials",
+          "journal": "Journal of Plant Ecology",
           "authors": [
-            "Muhammad Ayaz",
-            "Y. Oon",
-            "Yoong-Ling Oon"
+            "Lizheng Gao",
+            "Yansheng Li",
+            "Rui Fang"
           ],
-          "doi": "10.1016/j.jhazmat.2026.142266",
-          "url": "https://www.semanticscholar.org/paper/85fc5f18796ffea9c0d4b69afa7de0d492f0b705",
+          "doi": "10.1093/jpe/rtag180",
+          "url": "https://www.semanticscholar.org/paper/910e2f629e91fff096fa58931e9acac02dea21fb",
           "citation_count": 0
         }
       ],
@@ -30923,7 +30923,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-08-04T22:33:04.932754+00:00",
-      "edges_enriched_at": "2026-07-05T22:14:28.113973+00:00"
+      "edges_enriched_at": "2026-08-07T21:57:45.126344+00:00"
     },
     {
       "id": "b65d7e7057c4e30314fc6df99ceb911eabe2e4bf",
@@ -34462,59 +34462,17 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "7a5fc9dff36b3867d0acac9fc453c5299b45a9bb",
-          "title": "Salinity drives the divergence of nitrogen-cycling microbial communities across land-use types in the Qaidam Basin",
-          "year": 2026,
-          "journal": "Soil Ecology Letters",
-          "authors": [
-            "Pan Wang",
-            "Bichen Zhang",
-            "Zhaolong Zhu"
-          ],
-          "doi": "10.1007/s42832-026-0455-y",
-          "url": "https://www.semanticscholar.org/paper/7a5fc9dff36b3867d0acac9fc453c5299b45a9bb",
-          "citation_count": 0
-        },
-        {
-          "id": "73cda94503f805a69079374749787a50f24ebe94",
-          "title": "Elevation shapes the biogeography and assembly of soil microbial carbon-cycling functions in mountain ecosystems",
-          "year": 2026,
-          "journal": "Soil Ecology Letters",
-          "authors": [
-            "Xue Liu",
-            "Hengjin Chen",
-            "Jiaxing Shi"
-          ],
-          "doi": "10.1007/s42832-026-0431-6",
-          "url": "https://www.semanticscholar.org/paper/73cda94503f805a69079374749787a50f24ebe94",
-          "citation_count": 0
-        },
-        {
-          "id": "a83759a0db8462aa625d38108d942364f0484162",
-          "title": "Microbial Heterogeneity Regulates C, N, and P Cycling Responses to Precipitation in Casuarina equisetifolia Forests",
+          "id": "ec0cb62b59c7c77abb85ec55c14c5f565537e9f6",
+          "title": "Variations in Soil Nitrogen Mineralization Are Associated with Fungal Communities Across Broad-Leaved Forests in Northeast China",
           "year": 2026,
           "journal": "Plants",
           "authors": [
-            "L. Zuo",
-            "Kaixiong Xing",
-            "Kai Wu"
+            "X. Cao",
+            "Lei Guo",
+            "Ruihan Xiao"
           ],
-          "doi": "10.3390/plants15101420",
-          "url": "https://www.semanticscholar.org/paper/a83759a0db8462aa625d38108d942364f0484162",
-          "citation_count": 0
-        },
-        {
-          "id": "1227cf73bfb02873e7e3fa593fc1dbcb3c397b0a",
-          "title": "Effect of Microbial Residue Nitrogen on Soil Nitrogen Retention: Case Study of Caohai Wetland in Guizhou Province, China",
-          "year": 2026,
-          "journal": "Wetlands (Wilmington, N.C.)",
-          "authors": [
-            "Mengyu Wang",
-            "Xin Yang",
-            "Jiao Zheng"
-          ],
-          "doi": "10.1007/s13157-026-02079-y",
-          "url": "https://www.semanticscholar.org/paper/1227cf73bfb02873e7e3fa593fc1dbcb3c397b0a",
+          "doi": "10.3390/plants15142138",
+          "url": "https://www.semanticscholar.org/paper/ec0cb62b59c7c77abb85ec55c14c5f565537e9f6",
           "citation_count": 0
         },
         {
@@ -34529,6 +34487,48 @@
           ],
           "doi": "10.1007/s11274-026-05091-w",
           "url": "https://www.semanticscholar.org/paper/194137911f3fdc02c43c9734ca3f6ef276e2d903",
+          "citation_count": 0
+        },
+        {
+          "id": "869a09a572013eb473c3370aabd2f965164c045d",
+          "title": "Metagenomic insights into rhizosphere microbial communities and functional gene profiles associated with the responses of tea yield and quality to nitrogen-zinc co-fertilization",
+          "year": 2026,
+          "journal": "Frontiers in Plant Science",
+          "authors": [
+            "Min Lu",
+            "Dandan Qi",
+            "Qiong Wang"
+          ],
+          "doi": "10.3389/fpls.2026.1852312",
+          "url": "https://www.semanticscholar.org/paper/869a09a572013eb473c3370aabd2f965164c045d",
+          "citation_count": 0
+        },
+        {
+          "id": "d03bb3378d6608f610b1efd821ba584df594a3da",
+          "title": "Microbial regulation of soil nitrogen dynamics along a stand density gradient of Mongolian pine plantations",
+          "year": 2026,
+          "journal": "Journal of Forest Research",
+          "authors": [
+            "Yansong Zhang",
+            "Yi Wang",
+            "De-Hui Zeng"
+          ],
+          "doi": "10.1007/s11676-026-02106-y",
+          "url": "https://www.semanticscholar.org/paper/d03bb3378d6608f610b1efd821ba584df594a3da",
+          "citation_count": 0
+        },
+        {
+          "id": "7787da0f703543b0c680edafbd8843f0dea66ae0",
+          "title": "Microbial carbon fixation pathways shifts during artificial Haloxylon ammodendron restoration with clay sand barriers in arid deserts: a metagenomic analysis",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Hao Wu",
+            "Da-cheng Song",
+            "Ze Yao"
+          ],
+          "doi": "10.3389/fmicb.2026.1884493",
+          "url": "https://www.semanticscholar.org/paper/7787da0f703543b0c680edafbd8843f0dea66ae0",
           "citation_count": 0
         }
       ],
@@ -34548,7 +34548,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-08-04T22:33:04.932754+00:00",
-      "edges_enriched_at": "2026-07-05T22:14:28.113973+00:00"
+      "edges_enriched_at": "2026-08-07T21:57:45.126344+00:00"
     },
     {
       "id": "749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
@@ -35190,7 +35190,7 @@
       "url": "https://www.semanticscholar.org/paper/e049d26e092164b4cb88057fa4bf3b6bbea1caa6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e049d26e092164b4cb88057fa4bf3b6bbea1caa6",
       "pdf_url": "https://www.research-collection.ethz.ch/bitstream/20.500.11850/551024/1/msphere.01013-21.pdf",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 1,
       "reference_count": 95,
       "references": [
@@ -35678,7 +35678,7 @@
         "Xiaojuan Feng",
         "Jinbo Zhang",
         "Z. Cai",
-        "G. Liu"
+        "Guo-hua Liu"
       ],
       "journal": "Frontiers in Plant Science",
       "publication_date": "2022-01-14",
@@ -39602,7 +39602,7 @@
       "url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "pdf_url": "",
-      "citation_count": 54,
+      "citation_count": 55,
       "influential_citation_count": 2,
       "reference_count": 51,
       "references": [],
