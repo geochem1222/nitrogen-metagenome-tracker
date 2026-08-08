@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:57:49.487056+00:00",
+  "updated_at": "2026-08-08T21:47:56.225197+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,336 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "ca9bf248ccd14ea5974aaa94f48ad97e0a4ecfe3",
+      "semantic_scholar_id": "ca9bf248ccd14ea5974aaa94f48ad97e0a4ecfe3",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.3390/microorganisms14081705",
+      "title": "Interaction Mechanisms Among Soil Environmental Factors, Microbial Communities, and Nitrogen-Cycling Functional Genes in Cool-Climate Maize Fields",
+      "authors": [
+        "Qingqing Dai",
+        "Yuhang Wang",
+        "Mingji Jin",
+        "Shuo Wang",
+        "Mingji Han"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2026-08-04",
+      "abstract": "Cool-climate maize fields are characterized by low soil temperatures, strong seasonal hydrothermal fluctuations, and peat-influenced soil profiles, which may lead to patterns of nitrogen (N) cycling distinct from those in conventional agricultural soils. During maize growth, soils from three depths were characterized using physicochemical measurements, N-transformation and enzyme-activity assays, metagenomic sequencing, Mantel tests, variation partitioning analysis, and partial least squares path modeling (PLS-PM). Soil environmental factors varied significantly over time and with depth; soil organic matter (SOM) and total nitrogen (TN) increased with depth, while ammonium nitrogen (NH4+-N) predominated early and nitrate nitrogen (NO3−-N) predominated during the middle and late growth stages. The nitrogen fixation rate (NFR), nitrification rate (NitR), and denitrification rate (DNR) all peaked in August and showed a spatial pattern characterized by nitrogen fixation in the deepest layer and denitrification in the upper and middle layers. Bacterial communities varied less spatiotemporally than fungal communities. The genes nifK, hao, nirS/nirK, NR, nrfC, and hzsA/hzsC were identified as key nitrogen-cycling functional genes. Mantel tests and PLS-PM further characterized these relationships, with PLS-PM showing that soil physicochemical properties were positively associated with bacterial community composition (β = 0.87, p < 0.01), which, in turn, was negatively associated with N-cycling functional genes (β = −0.97, p < 0.001). Together, these pathways were associated with variation in N-cycling processes. Overall, this study advances an integrated understanding of N-cycling patterns and their potential controls in cool-climate maize fields and provides a scientific basis for optimizing N management strategies.",
+      "url": "https://www.semanticscholar.org/paper/ca9bf248ccd14ea5974aaa94f48ad97e0a4ecfe3",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca9bf248ccd14ea5974aaa94f48ad97e0a4ecfe3",
+      "pdf_url": "https://doi.org/10.3390/microorganisms14081705",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 54,
+      "references": [
+        {
+          "title": "The Influence of Seasonal Freeze–Thaw in Northeast China on Greenhouse Gas Emissions and Microbial Community Structure in Peat Soil",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/ed19c0bdba571473e8a8d1670e82384179497048",
+          "doi": "10.3390/w17162395"
+        },
+        {
+          "title": "Effects of organic nitrogen addition on soil microbial community assembly patterns in the Sanjiang Plain wetlands, northeastern China",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/553840bb3aadcfb4cd9a00951ba74579d40d1f50",
+          "doi": "10.1016/j.apsoil.2024.105685"
+        },
+        {
+          "title": "Innovative Soil Management Strategies for Sustainable Agriculture",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/1bd19bef3b80ab963425891316adc6b559e9a490",
+          "doi": "10.3390/su16219481"
+        },
+        {
+          "title": "Dynamic responses of soil microbial communities to seasonal freeze-thaw cycles in a temperate agroecosystem.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/fff5988973d6744cab228c3295579f3412efba13",
+          "doi": "10.1016/j.scitotenv.2024.175228"
+        },
+        {
+          "title": "Agricultural soil microbiomes differentiate in soil profiles with fertility source, tillage, and cover crops",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/da855cf5163c4aa865a8e707eed2327f274eada0",
+          "doi": "10.1016/j.agee.2024.109002"
+        },
+        {
+          "title": "Impacts of Farming Activities on Nitrogen Degradability under a Temperate Continental Monsoon Climate",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/ed687d6d1bbd50217887811162e5f337e1228949",
+          "doi": "10.3390/agronomy14061094"
+        },
+        {
+          "title": "Investigating soil quality in cold highland agricultural fields with different soil types",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/8c77938758b9869793dc47c5c0be73d3b648d848",
+          "doi": "10.1080/03650340.2024.2325697"
+        },
+        {
+          "title": "Factors driving changes in water conservation function from a geospatial perspective: case study of Jilin Province",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/13f9e76fedd95ddc2920049959585bb5a05ebc1d",
+          "doi": "10.3389/fevo.2023.1303957"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "97d3e4a739b219145e948815d7664420b6474cb1",
+          "title": "Divergent Shift in Soil Microbial Communities Through Conversion From Forestland to Vineyards",
+          "year": 2026,
+          "journal": "Land Degradation &amp; Development",
+          "authors": [
+            "Ning Wang",
+            "Tooba Mumtaz",
+            "Yuyao Yuan"
+          ],
+          "doi": "10.1002/ldr.70741",
+          "url": "https://www.semanticscholar.org/paper/97d3e4a739b219145e948815d7664420b6474cb1",
+          "citation_count": 0
+        },
+        {
+          "id": "d412b08e1b4ec825619e4f5848099144c14c4de3",
+          "title": "Response of soil nitrogen-cycling functional genes and their associations to nitrogen enrichment in a typical subtropical estuary (Min River), Southeast China.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Xiao Zhong",
+            "Zhigao Sun",
+            "Huihui Wu"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.120078",
+          "url": "https://www.semanticscholar.org/paper/d412b08e1b4ec825619e4f5848099144c14c4de3",
+          "citation_count": 0
+        },
+        {
+          "id": "778ab2ea4a70428318f4b5f41715899afb8544a6",
+          "title": "Land Use Modulates Viral Impacts on Soil Nitrification and Denitrification.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Sha Zhao",
+            "Yuchen Li",
+            "Hongwei Xu"
+          ],
+          "doi": "10.1021/acs.est.6c04132",
+          "url": "https://www.semanticscholar.org/paper/778ab2ea4a70428318f4b5f41715899afb8544a6",
+          "citation_count": 0
+        },
+        {
+          "id": "194137911f3fdc02c43c9734ca3f6ef276e2d903",
+          "title": "Efficiency of nitrogen and phosphorus cycling in paddy soils is directly driven by functional gene-microbe co-occurrence networks and indirectly controlled by soil physicochemical properties",
+          "year": 2026,
+          "journal": "World Journal of Microbiology & Biotechnology",
+          "authors": [
+            "Yeqing He",
+            "Guandi He",
+            "Qiancui Zhang"
+          ],
+          "doi": "10.1007/s11274-026-05091-w",
+          "url": "https://www.semanticscholar.org/paper/194137911f3fdc02c43c9734ca3f6ef276e2d903",
+          "citation_count": 0
+        },
+        {
+          "id": "4eec55505b38fe9b0771ffd667b0364f12eb6039",
+          "title": "Regulatory mechanisms of N2O emissions from latosolic red soil by different ecotypes of earthworms: insights from microbial diversity and metagenomic analysis.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Chang Wei",
+            "Chang-Wen Yun",
+            "Xiao-Qing Li"
+          ],
+          "doi": "10.1016/j.envpol.2026.128682",
+          "url": "https://www.semanticscholar.org/paper/4eec55505b38fe9b0771ffd667b0364f12eb6039",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "An integrated understanding of N-cycling patterns and their potential controls in cool-climate maize fields is advanced and provides a scientific basis for optimizing N management strategies.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "anammox",
+        "denitrification",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrification",
+        "nitrogen",
+        "nitrogen_fixation",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-08-08T21:47:49.097063+00:00",
+      "edges_enriched_at": "2026-08-08T21:47:49.821651+00:00"
+    },
+    {
+      "id": "7a154f43f06b9768b8f11ac25deb7ec0b21fe62c",
+      "semantic_scholar_id": "7a154f43f06b9768b8f11ac25deb7ec0b21fe62c",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.3390/agronomy16151464",
+      "title": "Species and Richness of Understory Vegetation Regulate Soil Phosphorus Availability via Shifts in Microbial Communities and P-Cycling Functional Genes in Poplar Plantations",
+      "authors": [
+        "Ru Yan",
+        "Haoran Yue",
+        "Haopeng Zhou",
+        "Ruoning Zhu",
+        "Taoxia Liu",
+        "Jianwen Gu",
+        "Bangyuan Feng",
+        "Ye Tian"
+      ],
+      "journal": "Agronomy",
+      "publication_date": "2026-08-01",
+      "abstract": "Continuous monoculture in poplar plantations often leads to declining soil nutrient availability and productivity. Phosphorus (P), in particular, frequently becomes a key limiting factor due to its high fixability and low chemical availability in the soil. Understory vegetation, however, may promote soil P cycling and enhance P availability by regulating the community structure and decomposition activity of soil microorganisms. In this study, a seven-year field experiment was conducted in degraded poplar plantations using a randomized complete block design to investigate the effects of four understory vegetation treatments—understory removal (UR), planting of a nitrogen-fixing species Sesbania cannabina in understory (PN), retention of a single dominant understory species Echinochloa crus-galli (RS), and retention of diverse understory vegetation (RD)—on soil P fractions and availability, and to elucidate the microbial mechanisms driving P cycling using a metagenomic approach. The results showed that, compared with UR, all understory retention treatments significantly increased soil labile P fractions, improved microbial community structure, and enhanced the abundance of P cycling-related functional genes and associated enzyme activities. Specifically, PN enriched the bacterial phylum Chloroflexi, thereby strengthening its role in P cycling, and increased the abundance of key functional genes such as ppa and phnH. These changes led to higher activities of acid phosphatase, phosphodiesterase, and phytase, ultimately improving soil P availability. In contrast, through the input of litter with greater diversity and higher biomass, RD enriched microbial communities dominated by Proteobacteria. This treatment increased the abundance of P cycling-related genes (e.g., phnW, purK, phnP, ugpQ) and associated enzyme activities, thereby enhancing soil P mobilization. Both the introduction of nitrogen-fixing species and the increase in understory species richness promoted soil P cycling and enhanced P availability, albeit through distinct mechanisms. Planting of nitrogen-fixing species enriched specific microbial taxa and functional genes, whereas increasing understory species richness boosts P cycling by increasing bacterial species richness and functional gene abundance. Both enhancing species richness and planting nitrogen-fixing species in the understory effectively improved soil P availability and supported the sustainable management of degraded poplar plantations. Among these approaches, retaining diverse understory vegetation is more cost-effective and contributes to biodiversity conservation, making it a recommended management strategy.",
+      "url": "https://www.semanticscholar.org/paper/7a154f43f06b9768b8f11ac25deb7ec0b21fe62c",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/7a154f43f06b9768b8f11ac25deb7ec0b21fe62c",
+      "pdf_url": "https://www.mdpi.com/2073-4395/16/15/1464/pdf?version=1785572304",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 90,
+      "references": [
+        {
+          "title": "Soybean Intercropping Improves Bacterial Community and Nutrient Status in Soil of Citrus Orchards",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/457a5cbef9ebeb50600966bb5e977f19cdb2a500",
+          "doi": "10.3390/agronomy16111024"
+        },
+        {
+          "title": "Effects of Nitrogen and Phosphorus Addition on the Community Structure and Diversity of Mesofaunal Soil Arthropods in Degraded Sophora alopecuroides Grassland",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/2bdcb1bd79f7a611881702cfa545d43b64d9a3db",
+          "doi": "10.3390/agronomy16111025"
+        },
+        {
+          "title": "Crop Diversification Enhances Peanut Productivity Through Soil Fertility Improvement and Key Taxa Enrichment in Red Soil",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/f63ed5abb5f80491df3032a7a47b2d8ea49fc16f",
+          "doi": "10.3390/agronomy16080783"
+        },
+        {
+          "title": "Effects of Gramineous and Leguminous Crops on Soil Microbial Community Structure and Diversity",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/caa04d6b1cca3b5c56f18cc6303156d9977b9d4e",
+          "doi": "10.3390/agronomy16030380"
+        },
+        {
+          "title": "Microorganisms mediate multiple phosphorus fractions to respond to the precipitation patterns in arid deserts",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b09d1ca9e994ac6179e972c76285f7d58701143f",
+          "doi": "10.1038/s43247-025-02880-3"
+        },
+        {
+          "title": "Multitrophic biodiversity drives soil phosphorus mobilization in subtropical ecosystems.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/af4dc7a520d6ad870b19f9631a6afe7b2e5d20d4",
+          "doi": "10.1016/j.jare.2025.11.002"
+        },
+        {
+          "title": "Concentration-Dependent N-P Interactions Cause Organ-Specific Responses and Nutrient Allocation in Poplar Seedlings",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/7d017a1e2a7a41dacd98e3dc781ffebb884a1fcd",
+          "doi": "10.3390/plants14193037"
+        },
+        {
+          "title": "Forest conversion in subtropical ecosystems reduces soil microbial phosphorus potential",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/2a9e520237dc278e11ac7bd5ec7aac0ba368d9b9",
+          "doi": "10.1038/s43247-025-02747-7"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "eab538aad09beba2d516aef9df1394ca19c6f7e7",
+          "title": "Impact of Dominant Species Shift in Herbaceous Vegetation Beneath Sand-Fixing Plantations on Soil Microbial Communities Involved in Organic P Mineralization and Inorganic P Solubilization",
+          "year": 2026,
+          "journal": "Plants",
+          "authors": [
+            "Herui Li",
+            "Ying Zhang",
+            "Yang Xiang"
+          ],
+          "doi": "10.3390/plants15142175",
+          "url": "https://www.semanticscholar.org/paper/eab538aad09beba2d516aef9df1394ca19c6f7e7",
+          "citation_count": 0
+        },
+        {
+          "id": "ca68250d70b02c90aae8f4aad94c50c086338cd0",
+          "title": "Responses of soil microbial community diversity to thinning and replanting, and their effects on microbial necromass carbon accumulation efficiency",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Haitong Huang",
+            "Yaxuan Sun",
+            "Xinyue Chen"
+          ],
+          "doi": "10.3389/fmicb.2026.1875448",
+          "url": "https://www.semanticscholar.org/paper/ca68250d70b02c90aae8f4aad94c50c086338cd0",
+          "citation_count": 0
+        },
+        {
+          "id": "204e05850bcab7cffa3ceab2d2b113dee3db65d3",
+          "title": "Secondary succession of karst vegetation: fine root traits outweigh plant diversity in defining soil multifunctionality",
+          "year": 2026,
+          "journal": "Plant and Soil",
+          "authors": [
+            "Yifan Zhong",
+            "Shuoxing Wei",
+            "Pengpeng Duan"
+          ],
+          "doi": "10.1007/s11104-026-08750-x",
+          "url": "https://www.semanticscholar.org/paper/204e05850bcab7cffa3ceab2d2b113dee3db65d3",
+          "citation_count": 0
+        },
+        {
+          "id": "6685fac8471abd9397c9bf84e7522cc3af958bef",
+          "title": "Functional Traits of Trees and Shrubs Drive Soil Carbon Storage in Rocky Desertification Areas via Direct and Fungal-Mediated Pathways",
+          "year": 2026,
+          "journal": "Forests",
+          "authors": [
+            "Xi Li",
+            "Wanzhi Qiao",
+            "J. Bao"
+          ],
+          "doi": "10.3390/f17060698",
+          "url": "https://www.semanticscholar.org/paper/6685fac8471abd9397c9bf84e7522cc3af958bef",
+          "citation_count": 0
+        },
+        {
+          "id": "7787da0f703543b0c680edafbd8843f0dea66ae0",
+          "title": "Microbial carbon fixation pathways shifts during artificial Haloxylon ammodendron restoration with clay sand barriers in arid deserts: a metagenomic analysis",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Hao Wu",
+            "Da-cheng Song",
+            "Ze Yao"
+          ],
+          "doi": "10.3389/fmicb.2026.1884493",
+          "url": "https://www.semanticscholar.org/paper/7787da0f703543b0c680edafbd8843f0dea66ae0",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Both enhancing species richness and planting nitrogen-fixing species in the understory effectively improved soil P availability and supported the sustainable management of degraded poplar plantations.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-08-08T21:47:49.097063+00:00",
+      "edges_enriched_at": "2026-08-08T21:47:49.821651+00:00"
+    },
     {
       "id": "38268e5ad35b60820116e69eeb848f71bb7b8747",
       "semantic_scholar_id": "38268e5ad35b60820116e69eeb848f71bb7b8747",
@@ -4293,7 +4623,7 @@
       "url": "https://www.semanticscholar.org/paper/598680428595ea22a9e5189370cd302ca0d61559",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/598680428595ea22a9e5189370cd302ca0d61559",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 53,
       "references": [],
@@ -6776,7 +7106,7 @@
       "url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "pdf_url": "https://www.nature.com/articles/s41564-025-02213-2.pdf",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 0,
       "reference_count": 97,
       "references": [
@@ -8387,7 +8717,7 @@
       "url": "https://www.semanticscholar.org/paper/f77bba242c96c6452f4d04e06f36e8905a07aeff",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f77bba242c96c6452f4d04e06f36e8905a07aeff",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 60,
       "references": [],
@@ -11397,7 +11727,7 @@
       "url": "https://www.semanticscholar.org/paper/7962299c924f25cf70091c07400d02a254257cf3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7962299c924f25cf70091c07400d02a254257cf3",
       "pdf_url": "",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 0,
       "reference_count": 88,
       "references": [
@@ -12017,7 +12347,7 @@
       "url": "https://www.semanticscholar.org/paper/3df85a706266c93735615187a7bf06c51a4273a4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3df85a706266c93735615187a7bf06c51a4273a4",
       "pdf_url": "",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 53,
       "references": [
@@ -12599,7 +12929,7 @@
       "url": "https://www.semanticscholar.org/paper/0658e44edb979bf5e226333e81de54335ca14177",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0658e44edb979bf5e226333e81de54335ca14177",
       "pdf_url": "",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [],
@@ -16378,7 +16708,7 @@
       "url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "pdf_url": "https://doi.org/10.1016/j.biotechadv.2025.108580",
-      "citation_count": 39,
+      "citation_count": 41,
       "influential_citation_count": 1,
       "reference_count": 372,
       "references": [
@@ -20210,7 +20540,7 @@
       "url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "pdf_url": "",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [],
@@ -23551,7 +23881,7 @@
       "url": "https://www.semanticscholar.org/paper/d1f5f611fcd55517340f0bc28a3855cd8622fecc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d1f5f611fcd55517340f0bc28a3855cd8622fecc",
       "pdf_url": "",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -26380,7 +26710,7 @@
         "S. Sunagawa",
         "M. Lever",
         "M. F. Lehmann",
-        "H. Bürgmann"
+        "H. Bürgmann"
       ],
       "journal": "ISME Communications",
       "publication_date": "2024-01-01",
@@ -26838,7 +27168,7 @@
       "url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "pdf_url": "",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 3,
       "reference_count": 84,
       "references": [],
@@ -27070,7 +27400,7 @@
       "url": "https://www.semanticscholar.org/paper/b65327fc3852dc0ae66185d772902a41f5a982ac",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b65327fc3852dc0ae66185d772902a41f5a982ac",
       "pdf_url": "https://www.mdpi.com/2077-0472/13/12/2224/pdf?version=1701336392",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 1,
       "reference_count": 67,
       "references": [
@@ -28254,7 +28584,7 @@
       "url": "https://www.semanticscholar.org/paper/cbcf8e58d8fe8344e1c9501bc92f1ca5cd71c3ea",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cbcf8e58d8fe8344e1c9501bc92f1ca5cd71c3ea",
       "pdf_url": "",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 1,
       "reference_count": 42,
       "references": [],
@@ -28378,7 +28708,7 @@
       "url": "https://www.semanticscholar.org/paper/c0b741884a1ad0ce8f4217ccf0e1d689c3404208",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0b741884a1ad0ce8f4217ccf0e1d689c3404208",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.19252",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 0,
       "reference_count": 82,
       "references": [
@@ -31115,7 +31445,7 @@
       "url": "https://www.semanticscholar.org/paper/d25b841057d173c3443a21929d73825eea05071a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d25b841057d173c3443a21929d73825eea05071a",
       "pdf_url": "",
-      "citation_count": 44,
+      "citation_count": 45,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -31669,7 +31999,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 179,
+      "citation_count": 180,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -32123,7 +32453,7 @@
       "url": "https://www.semanticscholar.org/paper/eb09d468631f1ae5851426bea6074b8a4e84ba6a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/eb09d468631f1ae5851426bea6074b8a4e84ba6a",
       "pdf_url": "https://www.mdpi.com/2075-1729/12/12/2081/pdf?version=1671509586",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 0,
       "reference_count": 80,
       "references": [
@@ -32846,7 +33176,7 @@
       "url": "https://www.semanticscholar.org/paper/37907bbc76af19b7766903716fa62501d8a6dac9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/37907bbc76af19b7766903716fa62501d8a6dac9",
       "pdf_url": "https://doi.org/10.1128/spectrum.01785-22",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 59,
       "references": [
@@ -33013,7 +33343,7 @@
       "url": "https://www.semanticscholar.org/paper/ffed90623773082064f225b4988a8448759e222b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffed90623773082064f225b4988a8448759e222b",
       "pdf_url": "https://doi.org/10.3389/fpls.2022.998178",
-      "citation_count": 40,
+      "citation_count": 42,
       "influential_citation_count": 0,
       "reference_count": 59,
       "references": [
@@ -33689,7 +34019,7 @@
         "Yanhong Yao",
         "Meng Sun",
         "Gu Li",
-        "Jianqiang Zhu"
+        "Jian-qiang Zhu"
       ],
       "journal": "Microorganisms",
       "publication_date": "2022-08-29",
@@ -34289,7 +34619,7 @@
       "url": "https://www.semanticscholar.org/paper/4218883010ae08b0045cc1d34c92c0afb3d4a5c6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4218883010ae08b0045cc1d34c92c0afb3d4a5c6",
       "pdf_url": "https://doi.org/10.3389/fmicb.2022.945927",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 1,
       "reference_count": 58,
       "references": [
@@ -34576,7 +34906,7 @@
       "url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "pdf_url": "https://doi.org/10.1016/j.geoderma.2022.115846",
-      "citation_count": 230,
+      "citation_count": 231,
       "influential_citation_count": 3,
       "reference_count": 78,
       "references": [
@@ -34789,7 +35119,7 @@
       "url": "https://www.semanticscholar.org/paper/c22ae7b71dadc3759ad56608b6cf6daa4d1192ff",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c22ae7b71dadc3759ad56608b6cf6daa4d1192ff",
       "pdf_url": "",
-      "citation_count": 76,
+      "citation_count": 77,
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
@@ -35182,7 +35512,7 @@
         "C. Schubert",
         "B. Müller",
         "M. Lever",
-        "H. Bürgmann"
+        "H. Bürgmann"
       ],
       "journal": "Msphere",
       "publication_date": "2022-02-02",
@@ -36552,7 +36882,7 @@
       "url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "pdf_url": "",
-      "citation_count": 202,
+      "citation_count": 204,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -36833,7 +37163,7 @@
       "url": "https://www.semanticscholar.org/paper/ad79c7d42cee4f4ad346e223f835aa6364980c8b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ad79c7d42cee4f4ad346e223f835aa6364980c8b",
       "pdf_url": "",
-      "citation_count": 59,
+      "citation_count": 60,
       "influential_citation_count": 1,
       "reference_count": 71,
       "references": [],
@@ -36954,7 +37284,7 @@
       "url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "pdf_url": "",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -37518,7 +37848,7 @@
         "C. Schubert",
         "B. Müller",
         "M. Lever",
-        "H. Bürgmann"
+        "H. Bürgmann"
       ],
       "journal": "bioRxiv",
       "publication_date": "2021-07-13",
@@ -40282,7 +40612,7 @@
       "url": "https://www.semanticscholar.org/paper/41de3dda2ecb930696d6bcadf195872e481c3d66",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/41de3dda2ecb930696d6bcadf195872e481c3d66",
       "pdf_url": "",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 1,
       "reference_count": 62,
       "references": [],
@@ -40735,7 +41065,7 @@
       "url": "https://www.semanticscholar.org/paper/da105134328325f911f362c9db411eab412dc33d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/da105134328325f911f362c9db411eab412dc33d",
       "pdf_url": "",
-      "citation_count": 145,
+      "citation_count": 146,
       "influential_citation_count": 3,
       "reference_count": 70,
       "references": [],
@@ -43564,7 +43894,7 @@
       "url": "https://www.semanticscholar.org/paper/6f3c8b0ddd77bf629f5372b7d133e2c2801c736a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6f3c8b0ddd77bf629f5372b7d133e2c2801c736a",
       "pdf_url": "",
-      "citation_count": 130,
+      "citation_count": 131,
       "influential_citation_count": 6,
       "reference_count": 137,
       "references": [],
@@ -44764,7 +45094,7 @@
       "url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "pdf_url": "http://manuscript.elsevier.com/S0038071718302864/pdf/S0038071718302864.pdf",
-      "citation_count": 360,
+      "citation_count": 361,
       "influential_citation_count": 8,
       "reference_count": 72,
       "references": [],
@@ -44878,7 +45208,7 @@
       "url": "https://www.semanticscholar.org/paper/fb0d6b67fa59f53dd7605ca04890e5763f05d9ec",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fb0d6b67fa59f53dd7605ca04890e5763f05d9ec",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0207606&type=printable",
-      "citation_count": 25,
+      "citation_count": 26,
       "influential_citation_count": 1,
       "reference_count": 92,
       "references": [
@@ -47807,7 +48137,7 @@
       "url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "pdf_url": "https://www.nature.com/articles/ismej2013160.pdf",
-      "citation_count": 631,
+      "citation_count": 632,
       "influential_citation_count": 25,
       "reference_count": 86,
       "references": [],
