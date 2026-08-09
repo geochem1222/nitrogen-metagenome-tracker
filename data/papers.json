@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:47:56.225197+00:00",
+  "updated_at": "2026-08-09T21:50:00.344694+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -46397,7 +46397,7 @@
       "abstract": "Nitrification plays a crucial role in global nitrogen cycling and treatment processes. However, the relationships between the nitrifier guilds of ammonia-oxidizing bacteria (AOB) and nitrite-oxidizing bacteria (NOB) are still poorly understood, especially in freshwater habitats. This study examined the physiological interactions between the AOB and NOB present in a freshwater aquarium biofilter by culturing them, either together or separately, in a synthetic medium. Metagenomic and 16S rRNA gene sequencing revealed the presence and the draft genomes of Nitrosomonas-like AOB as well as Nitrobacter-like NOB in the cultures, including the first draft genome of Nitrobacter vulgaris. The nitrifiers exhibited different growth rates with different ammonium (NH4+) or nitrite concentrations (50–1,500 μM) and the growth rates were elevated under a high bicarbonate (HCO3-) concentration. The half-saturation constant (Ks for NH4+), the maximum growth rate (μmax), and the lag duration indicated a strong dependence on the synergistic relationships between the two guilds. Overall, the ecophysiological and metagenomic results in this study provided insights into the phylogeny of the key nitrifying players in a freshwater biofilter and showed that interactions between the two nitrifying guilds in a microbial community enhanced nitrification.",
       "url": "https://www.semanticscholar.org/paper/26dac3150ae330bad6a0c8f77e0e40689c812436",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/26dac3150ae330bad6a0c8f77e0e40689c812436",
-      "pdf_url": "https://doi.org/10.3389/fmicb.2018.00280",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2018.00280/pdf",
       "citation_count": 23,
       "influential_citation_count": 1,
       "reference_count": 83,
