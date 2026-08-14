@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T22:05:53.065583+00:00",
+  "updated_at": "2026-08-14T21:42:25.929367+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1216,6 +1216,62 @@
       ],
       "similar_papers": [
         {
+          "id": "86af87f2bf19562bf5099b2e2f25cb08ca8e12fa",
+          "title": "Mid-decay\n Quercus liaotungensis\n logs drive soil carbon and nitrogen heterogeneity in association with microbial reorganization",
+          "year": 2026,
+          "journal": "Journal of Plant Ecology",
+          "authors": [
+            "Junning Li",
+            "Yulian Wei",
+            "Wen Zhao"
+          ],
+          "doi": "10.1093/jpe/rtag162",
+          "url": "https://www.semanticscholar.org/paper/86af87f2bf19562bf5099b2e2f25cb08ca8e12fa",
+          "citation_count": 0
+        },
+        {
+          "id": "130202d51e3aebf821d9443fcf1c93bd51f9b2ca",
+          "title": "Exploring Soil–Microbe Associations with Grapevine Nutrition in Tasmanian Pinot Noir Vineyards",
+          "year": 2026,
+          "journal": "Agriculture",
+          "authors": [
+            "Shunlei Li",
+            "L. Rigon",
+            "C. Chiodi"
+          ],
+          "doi": "10.3390/agriculture16131410",
+          "url": "https://www.semanticscholar.org/paper/130202d51e3aebf821d9443fcf1c93bd51f9b2ca",
+          "citation_count": 0
+        },
+        {
+          "id": "fb9d4c834ee41544533f6a2c5cf8ce325f3f4489",
+          "title": "Metal(loid) contamination shifts microbial carbon and nitrogen cycling potential in paddy soils.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Shichao Liu",
+            "Yongbin Li",
+            "Chenghang Du"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143137",
+          "url": "https://www.semanticscholar.org/paper/fb9d4c834ee41544533f6a2c5cf8ce325f3f4489",
+          "citation_count": 0
+        },
+        {
+          "id": "e29f13e70d8b9c6aeddc1f0864a406f052d66326",
+          "title": "Distribution of soil carbon and nitrogen in Mediterranean oak silvopastoral systems under grazing",
+          "year": 2026,
+          "journal": "Pastoralism",
+          "authors": [
+            "Júlio Henrique Germano de Souza",
+            "G. Difante",
+            "Otávio Francé"
+          ],
+          "doi": "10.3389/past.2026.16765",
+          "url": "https://www.semanticscholar.org/paper/e29f13e70d8b9c6aeddc1f0864a406f052d66326",
+          "citation_count": 0
+        },
+        {
           "id": "9069a83aa832fe1178d0e2c4f60298664ae38726",
           "title": "The Composition of Native Plant Species and Nitrogen Availability Jointly Influence the Invasion Success of Cenchrus spinifex",
           "year": 2026,
@@ -1227,61 +1283,6 @@
           ],
           "doi": "10.3390/plants15132016",
           "url": "https://www.semanticscholar.org/paper/9069a83aa832fe1178d0e2c4f60298664ae38726",
-          "citation_count": 0
-        },
-        {
-          "id": "316233af0c1b90b949209b2833cea218d2271c02",
-          "title": "Applying Biochar to Calcareous Soil Promotes Maize Growth and Reduces Soil N2O Emissions by Enhancing Mycorrhizal Symbiosis",
-          "year": 2026,
-          "journal": "Agronomy",
-          "authors": [
-            "Yanfang Wang",
-            "Jinzhao Liu",
-            "C. Xie"
-          ],
-          "doi": "10.3390/agronomy16111070",
-          "url": "https://www.semanticscholar.org/paper/316233af0c1b90b949209b2833cea218d2271c02",
-          "citation_count": 0
-        },
-        {
-          "id": "7d4168287021d0671a4352c60eec16487e746017",
-          "title": "Long-Term Fertilizer Postponing Reshapes Spatial and Temporal Patterns of Bacterial Communities and N-Cycling Potential in Paddy Soils",
-          "year": 2026,
-          "journal": "Agronomy",
-          "authors": [
-            "Yan Zhou",
-            "Lei Xu",
-            "Junhui Chen"
-          ],
-          "doi": "10.3390/agronomy16131290",
-          "url": "https://www.semanticscholar.org/paper/7d4168287021d0671a4352c60eec16487e746017",
-          "citation_count": 0
-        },
-        {
-          "id": "3958f5b900a28bc80b7987f04f0787119e50462d",
-          "title": "Differential Effects of Cover Crops on Soil Nutrients and Microbial Communities in Marselan Vineyards",
-          "year": 2026,
-          "journal": "Land Degradation &amp; Development",
-          "authors": [
-            "Min Cao",
-            "Jin Fan",
-            "Ming Li"
-          ],
-          "doi": "10.1002/ldr.70626",
-          "url": "https://www.semanticscholar.org/paper/3958f5b900a28bc80b7987f04f0787119e50462d",
-          "citation_count": 0
-        },
-        {
-          "id": "8b635e885059930e9c69850f471f624a5252450a",
-          "title": "Suppression of soil microbiota rather than neighbours facilitates absinthe\n Artemisia absinthium\n invasion in native grasslands",
-          "year": 2026,
-          "journal": "Oikos",
-          "authors": [
-            "J. P. Wasan",
-            "Jonathan A. Bennett"
-          ],
-          "doi": "10.1002/oik.12015",
-          "url": "https://www.semanticscholar.org/paper/8b635e885059930e9c69850f471f624a5252450a",
           "citation_count": 0
         }
       ],
@@ -1301,8 +1302,8 @@
         "nitrogen_fixation",
         "soil"
       ],
-      "detail_enriched_at": "2026-07-13T22:12:17.045046+00:00",
-      "edges_enriched_at": "2026-07-14T22:15:05.881589+00:00"
+      "detail_enriched_at": "2026-08-14T21:42:22.798133+00:00",
+      "edges_enriched_at": "2026-08-14T21:42:23.420936+00:00"
     },
     {
       "id": "fb9d4c834ee41544533f6a2c5cf8ce325f3f4489",
@@ -1682,7 +1683,7 @@
         "Jian-Peng Gao",
         "Meng-Ping Tang",
         "Chun-Na Zhou",
-        "Yu-Long Zhang",
+        "Yuanyuan Zhang",
         "Huijuan Xu"
       ],
       "journal": "Environmental Pollution",
@@ -7106,7 +7107,7 @@
       "url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "pdf_url": "https://www.nature.com/articles/s41564-025-02213-2.pdf",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 97,
       "references": [
@@ -12516,7 +12517,7 @@
       "url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "pdf_url": "",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 93,
       "references": [],
@@ -14740,7 +14741,7 @@
       "url": "https://www.semanticscholar.org/paper/20e5c2c5e368ae506d0eddc40ad843fe1162c195",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/20e5c2c5e368ae506d0eddc40ad843fe1162c195",
       "pdf_url": "",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 62,
       "references": [],
@@ -15537,7 +15538,7 @@
       "url": "https://www.semanticscholar.org/paper/5777aeff02bab07f2e076c3581aae40cb5993a3a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5777aeff02bab07f2e076c3581aae40cb5993a3a",
       "pdf_url": "https://www.nature.com/articles/s41598-025-00578-2.pdf",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 48,
       "references": [
@@ -24847,7 +24848,7 @@
       "url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47392-4.pdf",
-      "citation_count": 62,
+      "citation_count": 63,
       "influential_citation_count": 4,
       "reference_count": 89,
       "references": [
@@ -31559,7 +31560,7 @@
       "url": "https://www.semanticscholar.org/paper/ac4307ce40d018fc29785d74229490be1aa338c5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ac4307ce40d018fc29785d74229490be1aa338c5",
       "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10056971",
-      "citation_count": 28,
+      "citation_count": 29,
       "influential_citation_count": 2,
       "reference_count": 114,
       "references": [],
@@ -31999,7 +32000,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 182,
+      "citation_count": 183,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -34906,7 +34907,7 @@
       "url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "pdf_url": "https://doi.org/10.1016/j.geoderma.2022.115846",
-      "citation_count": 231,
+      "citation_count": 232,
       "influential_citation_count": 3,
       "reference_count": 78,
       "references": [
@@ -37284,7 +37285,7 @@
       "url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "pdf_url": "",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -38315,7 +38316,7 @@
       "url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0160412021001471/pdf",
-      "citation_count": 190,
+      "citation_count": 191,
       "influential_citation_count": 6,
       "reference_count": 64,
       "references": [
@@ -42252,7 +42253,7 @@
       "url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "pdf_url": "https://doi.org/10.1021/acs.est.0c00036.s001",
-      "citation_count": 95,
+      "citation_count": 97,
       "influential_citation_count": 4,
       "reference_count": 58,
       "references": [],
