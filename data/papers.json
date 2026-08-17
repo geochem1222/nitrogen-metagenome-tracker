@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:36:29.947306+00:00",
+  "updated_at": "2026-08-17T21:45:20.310881+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -413,6 +413,131 @@
       "edges_enriched_at": "2026-08-08T21:47:49.821651+00:00"
     },
     {
+      "id": "bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
+      "semantic_scholar_id": "bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
+      "source": "Semantic Scholar",
+      "pmid": "42603474",
+      "doi": "10.1016/j.jhazmat.2026.143209",
+      "title": "Small-sized biodegradable PLA microplastics inhibit plant nitrogen uptake by reshaping soil microbial communities and stimulating microbial metabolism.",
+      "authors": [
+        "Chuangye Zhang",
+        "Jie Chen",
+        "Wenlan Yang",
+        "Kaihui Du",
+        "Wan-Jun Tao",
+        "Qiqian Lu",
+        "Mingkai Jiang",
+        "Jing Hu",
+        "Qilin Zhu",
+        "A. Elrys",
+        "Zucong Cai",
+        "Lei Meng",
+        "Christoph Müller",
+        "Xiaoqian Dan",
+        "Jinbo Zhang"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2026-08-01",
+      "abstract": "The effects of microplastics (MPs) varying in polymer type and size on soil microbial community composition, metabolic functions, and nutrient cycling remain insufficiently understood. Here, we conducted a pot experiment using MPs differing in polymer type (non-biodegradable polyethylene [PE], and biodegradable polylactic acid [PLA]) and four particle sizes (1200-1400, 600-700, 120-150, and 25-38 μm), with amplicon sequencing, shotgun metagenomics, and nitrogen-15 (15N) tracing model. Our results showed that small-sized PLA-MPs (25-38 μm) reduced bacterial diversity, destabilized microbial networks, and shifted community assembly toward deterministic processes, whereas PE-MPs and larger-sized PLA-MPs exerted minimal effects. This shift was associated with enhanced depolymerization-related enzymatic potential, accompanied by greater dissolved organic carbon (DOC) availability. The resulting increase in C availability stimulated central C metabolism, promoting microbial resource acquisition and biomass synthesis. To maintain microbial C:N homeostasis, microbial N assimilation was stimulated through ammonium (NH4+) assimilation mediated by the glutamate dehydrogenase (GDH) and glutamine synthetase-glutamate synthase (GS-GOGAT) pathways and nitrate (NO3⁻) assimilation via assimilatory nitrate reduction to ammonium (ANRA). Consistently, the 15N tracing model revealed that microbial assimilation rates of NH4+-N and NO3⁻-N increased by 10.5-fold and 12.7-fold, respectively, exceeding gross N mineralization rates, thereby depleting soil inorganic N pools and suppressing plant N uptake. Overall, our findings provide mechanistic insights into how PLA-MPs reshape soil functioning by reprogramming microbial communities and metabolism, thereby altering plant-microbe competition for N. These results highlight the potential risks of increasing biodegradable plastic inputs for cropland nutrient cycling and plant N acquisition.",
+      "url": "https://www.semanticscholar.org/paper/bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 47,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "e40e01d86f7b47c3ac4f6b2410a18fe1e5d82faa",
+          "title": "Biodegradable polylactic acid microplastics affect nutrient cycling during the entire crop growth cycle: Implications for soil ecosystem multifunctionality.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Qian Cui",
+            "Feilong Wang",
+            "Xiaoling Shan"
+          ],
+          "doi": "10.1016/j.envpol.2026.128664",
+          "url": "https://www.semanticscholar.org/paper/e40e01d86f7b47c3ac4f6b2410a18fe1e5d82faa",
+          "citation_count": 0
+        },
+        {
+          "id": "01e4325b4e82b526737b91bf762963bdb672e980",
+          "title": "PLA vs PE microplastics with cadmium: Time-dependent divergent and microbial disruption of soil carbon and nitrogen cycling in medicinal plant soils.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Liqiang Zhou",
+            "Zhengmei Xia",
+            "Yu Yang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.142875",
+          "url": "https://www.semanticscholar.org/paper/01e4325b4e82b526737b91bf762963bdb672e980",
+          "citation_count": 0
+        },
+        {
+          "id": "59a942ee4d91ebe54b12239ef7c654e4b04eda4a",
+          "title": "Mechanistic insights into polylactic acid and cadmium co-regulation of nitrogen dynamics in the pea-soil system via microbial drivers.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Maoshan Xiong",
+            "Huaqing Liu",
+            "Xiaoqiang Cao"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.142764",
+          "url": "https://www.semanticscholar.org/paper/59a942ee4d91ebe54b12239ef7c654e4b04eda4a",
+          "citation_count": 0
+        },
+        {
+          "id": "152fbaf123d34150e44cf1767c45c85f75227ef0",
+          "title": "Biodegradable and conventional microplastics differentially affected greenhouse gas emissions from a flooded paddy soil: Insight into metagenomic analysis.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Wenfang Li",
+            "Zhi Yu",
+            "Jian Zhang"
+          ],
+          "doi": "10.1016/j.envpol.2026.128934",
+          "url": "https://www.semanticscholar.org/paper/152fbaf123d34150e44cf1767c45c85f75227ef0",
+          "citation_count": 0
+        },
+        {
+          "id": "07b7be975e8338f2e9d65329f898d6aebe293f1a",
+          "title": "Impacts of polyethylene microplastics on soil microbial communities and metabolism in broomcorn millet (Panicum miliaceum L.).",
+          "year": 2026,
+          "journal": "Ecotoxicology and Environmental Safety",
+          "authors": [
+            "Miaomiao Zhang",
+            "Haiqiang Wang",
+            "Yani Huang"
+          ],
+          "doi": "10.1016/j.ecoenv.2026.120612",
+          "url": "https://www.semanticscholar.org/paper/07b7be975e8338f2e9d65329f898d6aebe293f1a",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "denitrification",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-08-17T21:44:58.980824+00:00",
+      "edges_enriched_at": "2026-08-17T21:44:59.672769+00:00"
+    },
+    {
       "id": "7a154f43f06b9768b8f11ac25deb7ec0b21fe62c",
       "semantic_scholar_id": "7a154f43f06b9768b8f11ac25deb7ec0b21fe62c",
       "source": "Semantic Scholar",
@@ -692,8 +817,8 @@
         "urban",
         "water"
       ],
-      "edges_enriched_at": "2026-08-15T21:37:36.004557+00:00",
-      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00"
+      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00",
+      "edges_enriched_at": "2026-08-15T21:37:36.004557+00:00"
     },
     {
       "id": "3dc35e1d7e0738cda8ac945f5e25fca8fefabdcf",
@@ -816,8 +941,8 @@
         "nitrogen",
         "water"
       ],
-      "edges_enriched_at": "2026-08-15T21:37:36.004557+00:00",
-      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00"
+      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00",
+      "edges_enriched_at": "2026-08-15T21:37:36.004557+00:00"
     },
     {
       "id": "38268e5ad35b60820116e69eeb848f71bb7b8747",
@@ -1126,7 +1251,7 @@
       "pdf_url": "https://doi.org/10.1128/aem.00993-26",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 75,
+      "reference_count": 83,
       "references": [
         {
           "title": "Global marine metagenomics reveals the functional diversity and ecological adaptations of diazotrophs across marine ecosystems",
@@ -1179,73 +1304,73 @@
       ],
       "similar_papers": [
         {
-          "id": "e2b7c70840bff53f7a150e0833bb5b29ae39307e",
-          "title": "Response of Zostera japonica rhizosphere bacteria to ocean acidification.",
+          "id": "b880dc96151d2c9388a6e447b70ea89fa2dd075b",
+          "title": "Viral modulation of sulfur-oxidizing bacteria drives organic carbon sink formation during primary succession in deglaciating ecosystems",
           "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
+          "journal": "Nature Communications",
           "authors": [
-            "Xinqi Li",
-            "Yu Zang",
-            "Hongzhen Wang"
+            "Hu Liao",
+            "Hong-Xia Cui",
+            "Lin-xing Chen"
           ],
-          "doi": "10.1128/aem.00277-26",
-          "url": "https://www.semanticscholar.org/paper/e2b7c70840bff53f7a150e0833bb5b29ae39307e",
+          "doi": "10.1038/s41467-026-75234-y",
+          "url": "https://www.semanticscholar.org/paper/b880dc96151d2c9388a6e447b70ea89fa2dd075b",
           "citation_count": 0
         },
         {
-          "id": "b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
-          "title": "Microbial Diversity and Function Linked to Carbon Cycling in Mangrove Sediments",
+          "id": "ead5824c676bb8a03e3b4cba3f53ced80719b3fa",
+          "title": "Microbial consortia mediating lignocellulose turnover and denitrification in eutrophic lake sediment enrichments",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "V. C. Schiml",
+            "K. Stalder",
+            "Anikó Várnai"
+          ],
+          "doi": "10.1128/msystems.00577-26",
+          "url": "https://www.semanticscholar.org/paper/ead5824c676bb8a03e3b4cba3f53ced80719b3fa",
+          "citation_count": 0
+        },
+        {
+          "id": "05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
+          "title": "Microbial evolution, biogeochemical functions, and environmental adaptations in a desert saline lake on the Qinghai–Tibet Plateau",
           "year": 2026,
           "journal": "bioRxiv",
           "authors": [
-            "Nabilah Khairi",
-            "Muhammad Zarul Hanifah Md Zoqratt",
-            "N. Hidayah"
+            "Haoran Wang",
+            "Chunhui Ai",
+            "A. Barcan"
           ],
-          "doi": "10.64898/2026.05.13.724760",
-          "url": "https://www.semanticscholar.org/paper/b75f7acd1e9fd0fd48065b51ffb61b296d2032f6",
+          "doi": "10.64898/2026.07.27.740809",
+          "url": "https://www.semanticscholar.org/paper/05a89b779b51fe0d5d5b396956b9a0e624b0f5e8",
           "citation_count": 0
         },
         {
-          "id": "e4524311be427aa3225d994224cf19a55f147967",
-          "title": "Nitrogen fixation rates increase with diazotroph richness in the global ocean.",
+          "id": "b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
+          "title": "Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential",
           "year": 2026,
-          "journal": "Scientific Reports",
+          "journal": "bioRxiv",
           "authors": [
-            "Dominic Eriksson",
-            "D. Righetti",
-            "F. Benedetti"
+            "L. Ustick",
+            "Hana Roš",
+            "Shahriyar Mahdi Robbani"
           ],
-          "doi": "10.1038/s41598-026-61132-2",
-          "url": "https://www.semanticscholar.org/paper/e4524311be427aa3225d994224cf19a55f147967",
-          "citation_count": 1
-        },
-        {
-          "id": "399a58279a26d20fe602b11c59a6b424c58ec029",
-          "title": "Mixotrophic S-Anammox Enrichment for Synergistic Nitrogen and Sulfur Removal: Performance, Microbial Community Succession, and Key Functional Taxa",
-          "year": 2026,
-          "journal": "Journal of Life Sciences and Agriculture",
-          "authors": [
-            "Fangyuan Ren",
-            "Li Cui",
-            "Siqi Gang"
-          ],
-          "doi": "10.62517/jlsa.202607203",
-          "url": "https://www.semanticscholar.org/paper/399a58279a26d20fe602b11c59a6b424c58ec029",
+          "doi": "10.64898/2026.07.27.741065",
+          "url": "https://www.semanticscholar.org/paper/b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
           "citation_count": 0
         },
         {
-          "id": "170862070bd8d69b4dcc069b9d8c7e99adbcfe77",
-          "title": "Dark carbon fixation in tropical-subtropical lagoon and bay regional intertidal sediments under the effect of vegetation: controlling factors and driving microorganisms",
+          "id": "95a41dc6ede290707891cf1677b54f4e843794cd",
+          "title": "Salinity-driven microbial adaptation of hydrocarbon-degrading communities in coastal sediments",
           "year": 2026,
-          "journal": "Frontiers in Marine Science",
+          "journal": "Msphere",
           "authors": [
-            "Boyuan Yang",
-            "Yao Guan",
-            "Weiqiang Zhao"
+            "Yongyi Peng",
+            "Qing Liu",
+            "Xianbiao Lin"
           ],
-          "doi": "10.3389/fmars.2026.1837611",
-          "url": "https://www.semanticscholar.org/paper/170862070bd8d69b4dcc069b9d8c7e99adbcfe77",
+          "doi": "10.1128/msphere.00369-26",
+          "url": "https://www.semanticscholar.org/paper/95a41dc6ede290707891cf1677b54f4e843794cd",
           "citation_count": 0
         }
       ],
@@ -1264,8 +1389,8 @@
         "nitrogen_fixation",
         "sediment"
       ],
-      "detail_enriched_at": "2026-07-17T22:07:16.591270+00:00",
-      "edges_enriched_at": "2026-07-17T22:07:17.393735+00:00"
+      "detail_enriched_at": "2026-08-17T21:44:58.980824+00:00",
+      "edges_enriched_at": "2026-08-17T21:44:59.672769+00:00"
     },
     {
       "id": "720d98fd068b33d558761a029f660fceee26e4c9",
@@ -42159,7 +42284,7 @@
       "url": "https://www.semanticscholar.org/paper/35b050102738b6b2641c79d2212874d447850c39",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/35b050102738b6b2641c79d2212874d447850c39",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2020.01500/pdf",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 1,
       "reference_count": 70,
       "references": [
