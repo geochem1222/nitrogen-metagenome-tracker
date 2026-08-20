@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:43:28.841699+00:00",
+  "updated_at": "2026-08-20T21:45:46.596794+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,121 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
+      "semantic_scholar_id": "ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1093/hr/uhag357",
+      "title": "Canopy vs. soil nitrogen addition differentially modulates rhizosphere microbe-metabolite coupling in\n Populus euphratica\n under drought stress",
+      "authors": [
+        "Yuehan Liu",
+        "Yuchen Wang",
+        "Huifang Wang",
+        "Eryang Li",
+        "Yudong Chen",
+        "Qiong Wu",
+        "Wen Cao",
+        "Guanghui Lv",
+        "Jianjun Yang"
+      ],
+      "journal": "Horticulture Research",
+      "publication_date": "2026-08-19",
+      "abstract": "\n Nitrogen (N) deposition and water availability profoundly influence arid ecosystem functions; however, how different N input methods (canopy vs. soil) to shape plant–microbe–metabolite interactions remains poorly understood under drought. Integrating metagenomic and root metabolomic approaches, we conducted a pot experiment with Populus euphratica seedlings subjected to varying soil water conditions (well-watered vs. drought) and N addition methods. Our results identified soil water as a major factor influencing rhizosphere microbial assembly. Drought up-regulated the abundance of numerous carbon and N cycling genes, reflecting an adaptive shift in functional investment under stress (consistent with the significant increase in microbial acquisition strategies observed in this study), rather than accelerated biogeochemical process rates. Critically, the N input method significantly modulated these responses: canopy N addition buffered the adverse impacts of drought on microbial biomass and promoted a growth yield strategy. Conversely, soil N addition under drought conditions led to a decline in microbial biomass but fostered a highly complex and tightly coupled C-N functional gene network. Furthermore, fine-root endogenous metabolites—particularly carbohydrates, terpenes, and indoles—accounted for over 90% of the variation in microbial N-cycling genes, markedly outperforming traditional soil physicochemical indicators. Bipartite network analysis revealed that canopy N addition facilitated synergistic coupling between root metabolites and N-cycling genes, whereas soil N addition primarily triggered antagonistic decoupling. These findings suggest that N deposition methods qualitatively alter rhizosphere functional topology through root-metabolic mediation. Incorporating canopy processes into future N-deposition studies may improve our understanding of plant–microbe feedbacks in arid regions.",
+      "url": "https://www.semanticscholar.org/paper/ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "1499285ee6a6d7147ac0ead0532cb0e61481bd4e",
+          "title": "Water Availability Modulates Leaf Functional Trait Responses of Robinia pseudoacacia L. Seedlings to Nitrogen–Phosphorus Supply",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "Bingqian Su",
+            "Yanyan Zi",
+            "Wen-Long Xu"
+          ],
+          "doi": "10.3390/agronomy16151479",
+          "url": "https://www.semanticscholar.org/paper/1499285ee6a6d7147ac0ead0532cb0e61481bd4e",
+          "citation_count": 0
+        },
+        {
+          "id": "e5ef42a0c4717b9fed6b1d6a8f171c585d5b27aa",
+          "title": "Responses of root system architecture, biomass allocation, and soil characteristics to water-nitrogen coupling in Piptanthus nepalensis seedlings",
+          "year": 2026,
+          "journal": "Frontiers in Forests and Global Change",
+          "authors": [
+            "Minghang Hu",
+            "Yanhui Ye",
+            "Zheng Wu"
+          ],
+          "doi": "10.3389/ffgc.2026.1855373",
+          "url": "https://www.semanticscholar.org/paper/e5ef42a0c4717b9fed6b1d6a8f171c585d5b27aa",
+          "citation_count": 0
+        },
+        {
+          "id": "8249c3aed6503fa179b2e72ed052e86b4577dca2",
+          "title": "Drought stress adaptation in Ficus carica L.: Modulation of ROS scavenging, nitrogen uptake, and rhizosphere bacterial community assembly and functions.",
+          "year": 2026,
+          "journal": "Microbiology Research",
+          "authors": [
+            "Yang Cao",
+            "Peihua Du",
+            "Ruijin Zhai"
+          ],
+          "doi": "10.1016/j.micres.2026.128678",
+          "url": "https://www.semanticscholar.org/paper/8249c3aed6503fa179b2e72ed052e86b4577dca2",
+          "citation_count": 0
+        },
+        {
+          "id": "5698f5308c30ee675486938fb26e547802360bef",
+          "title": "Coordination between root exudation rates and root conservation traits under simultaneous warming and nitrogen addition.",
+          "year": 2026,
+          "journal": "New Phytologist",
+          "authors": [
+            "T. Muratore",
+            "Nikhil R. Chari",
+            "Anisa Robinson"
+          ],
+          "doi": "10.1111/nph.71398",
+          "url": "https://www.semanticscholar.org/paper/5698f5308c30ee675486938fb26e547802360bef",
+          "citation_count": 0
+        },
+        {
+          "id": "2ce9ca879ca402a582e2556ddd95d312cf40339c",
+          "title": "Root Transporters Shape Rhizosphere Microbiomes to Enhance Nitrogen Acquisition Efficiency in Plants",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "Izhar Ali",
+            "Xia Xu"
+          ],
+          "doi": "10.3390/microorganisms14081609",
+          "url": "https://www.semanticscholar.org/paper/2ce9ca879ca402a582e2556ddd95d312cf40339c",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "It is suggested that N deposition methods qualitatively alter rhizosphere functional topology through root-metabolic mediation, and incorporating canopy processes into future N-deposition studies may improve the understanding of plant–microbe feedbacks in arid regions.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "nitrogen",
+        "soil",
+        "water"
+      ],
+      "detail_enriched_at": "2026-08-20T21:45:14.962890+00:00",
+      "edges_enriched_at": "2026-08-20T21:45:35.739335+00:00"
+    },
     {
       "id": "ca9bf248ccd14ea5974aaa94f48ad97e0a4ecfe3",
       "semantic_scholar_id": "ca9bf248ccd14ea5974aaa94f48ad97e0a4ecfe3",
@@ -5450,7 +5565,7 @@
       "url": "https://www.semanticscholar.org/paper/7c927d364aabb8260a37c7c78863719e352837f2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7c927d364aabb8260a37c7c78863719e352837f2",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 56,
       "references": [],
@@ -13175,7 +13290,7 @@
       "url": "https://www.semanticscholar.org/paper/ad6d9cb94485db7420d8a0164c16f9a9dcbea1be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ad6d9cb94485db7420d8a0164c16f9a9dcbea1be",
       "pdf_url": "",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 56,
       "references": [],
@@ -18192,7 +18307,7 @@
       "url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "pdf_url": "",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -18837,7 +18952,7 @@
       "url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "pdf_url": "https://soil.copernicus.org/articles/11/1/2025/soil-11-1-2025.pdf",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 130,
       "references": [
@@ -19434,7 +19549,7 @@
       "url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "pdf_url": "",
-      "citation_count": 30,
+      "citation_count": 31,
       "influential_citation_count": 0,
       "reference_count": 64,
       "references": [],
@@ -20909,7 +21024,7 @@
       "url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "pdf_url": "https://curis.ku.dk/ws/files/536156561/Manuscript_fulvic_acid_clean_version.pdf",
-      "citation_count": 37,
+      "citation_count": 38,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [],
@@ -21025,7 +21140,7 @@
       "url": "https://www.semanticscholar.org/paper/ed1d850f2606190bd3a536ae5c08013d0097846b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ed1d850f2606190bd3a536ae5c08013d0097846b",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -22867,7 +22982,7 @@
       "url": "https://www.semanticscholar.org/paper/52fc57cf86bd5226df3b6572ede7f3b0ef9007f0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/52fc57cf86bd5226df3b6572ede7f3b0ef9007f0",
       "pdf_url": "",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 1,
       "reference_count": 73,
       "references": [],
@@ -27934,7 +28049,7 @@
       "abstract": "A central question in microbial ecology is how immense microbes are assembled in changing natural environments while executing critical ecosystem functions. Over the past decade, effort has been made to unravel the contribution of stochasticity and determinism to the compositional of microbial communities. However, most studies focus on microbial taxa, ignoring the importance of functional traits. By employing shotgun metagenomic sequencing and state-of-the-art bioinformatics approaches, this study comprehensively investigated the microbially mediated nitrogen (N) cycling processes in two geographically distant coastal locations. Both shotgun and 16S rRNA gene amplicon sequencing demonstrated significantly differed taxonomic compositions between the two sites. The relative abundance of major microbial phyla, such as Pseudomonadota, Thaumarchaeota, and Bacteroidota, significantly differed. In contrast, high homogeneity was observed for N-cycling functional traits. Statistical analyses suggested that N-cycling taxonomic groups were more related to geographic distance, whereas microbial functional traits were more influenced by environmental factors. Multiple community assembly models demonstrated that determinism strongly governed the microbial N-cycling functional traits, whereas their carrying taxonomic groups were highly stochastic. Such discordant patterns between N-cycling functional traits and taxa demonstrated an important mechanism in microbial ecology in which essential ecosystem functions are stably maintained despite geographic distance and stochastic community assembly.",
       "url": "https://www.semanticscholar.org/paper/cdccba7f59f5623918c802f8d78d8db7573c4225",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cdccba7f59f5623918c802f8d78d8db7573c4225",
-      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2023.1291242/pdf?isPublishedV2=False",
+      "pdf_url": "https://doi.org/10.3389/fmicb.2023.1291242",
       "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 69,
@@ -28838,7 +28953,7 @@
       "url": "https://www.semanticscholar.org/paper/681c7e75f7001f54a48ffa202e998c291961afe8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/681c7e75f7001f54a48ffa202e998c291961afe8",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ldr.4927",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 0,
       "reference_count": 52,
       "references": [],
@@ -31927,7 +32042,7 @@
       "abstract": "Ammonia-oxidizing archaea (AOA) was previously considered the sole dominant ammonia oxidizer in acidic environments. This study, however, found that complete ammonia oxidation (comammox) Nitrospira was also a dominant ammonia oxidizer in the sediments of an acidic mine lake, which had an acidic pH < 5 and a high ammonium concentration of 175 mg-N/liter. ABSTRACT Exploring nitrifiers in extreme environments is vital to expanding our understanding of nitrogen cycle and microbial diversity. This study presents that complete ammonia oxidation (comammox) Nitrospira, together with acidophilic ammonia-oxidizing archaea (AOA), dominate in the nitrifying guild in sediments of an acid mine lake (AML). The lake water was characterized by acidic pH below 5 with a high ammonium concentration of 175 mg-N/liter, which is rare on the earth. Nitrification was active in sediments with a maximum nitrate production potential of 70.5 μg-N/(g-dry weight [dw] day) for mixed sediments. Quantitative PCR assays determined that in AML sediments, comammox Nitrospira and AOA amoA genes had relative abundances of 52% and 41%, respectively, among the total amoA genes. Further assays with 16S rRNA and amoA gene amplicon sequencing and metagenomics confirmed their dominance and revealed that the comammox Nitrospira found in sediments belonged to comammox Nitrospira clade A.2. Metagenomic binning retrieved a metagenome-assembled genome (MAG) of the comammox Nitrospira from sediments (completeness = 96.76%), and phylogenomic analysis suggested that it was a novel comammox Nitrospira. Comparative genomic investigation revealed that this comammox Nitrospira contained diverse metal resistance genes and an acidophile-affiliated F-type ATPase. Moreover, it had a more diverse genomic characteristic on nitrogen metabolism than the AOA in sediments and canonical AOB did. The results suggest that comammox Nitrospira is a versatile nitrifier that can adapt to acidic environments even with high ammonium concentrations. IMPORTANCE Ammonia-oxidizing archaea (AOA) was previously considered the sole dominant ammonia oxidizer in acidic environments. This study, however, found that complete ammonia oxidation (comammox) Nitrospira was also a dominant ammonia oxidizer in the sediments of an acidic mine lake, which had an acidic pH < 5 and a high ammonium concentration of 175 mg-N/liter. In combination with average nucleotide identity analysis, phylogenomic analysis suggested it is a novel strain of comammox Nitrospira. Moreover, the adaption of comammox Nitrospira to the acidic lake had been comprehensively investigated based on genome-centric metagenomic approaches. The outcomes of this study significantly expand our understanding of the diversity and adaptability of ammonia oxidizers in the acidic environments.",
       "url": "https://www.semanticscholar.org/paper/ac4307ce40d018fc29785d74229490be1aa338c5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ac4307ce40d018fc29785d74229490be1aa338c5",
-      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10056971",
+      "pdf_url": "https://journals.asm.org/doi/pdf/10.1128/aem.00047-23?download=true",
       "citation_count": 29,
       "influential_citation_count": 2,
       "reference_count": 114,
@@ -45911,7 +46026,7 @@
       "url": "https://www.semanticscholar.org/paper/1b7d48cc69d24d8a55c2a20bd955185f87619752",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1b7d48cc69d24d8a55c2a20bd955185f87619752",
       "pdf_url": "",
-      "citation_count": 103,
+      "citation_count": 105,
       "influential_citation_count": 4,
       "reference_count": 65,
       "references": [],
