@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:45:46.596794+00:00",
+  "updated_at": "2026-08-21T21:41:18.384893+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -360,6 +360,124 @@
       ],
       "detail_enriched_at": "2026-08-20T21:45:14.962890+00:00",
       "edges_enriched_at": "2026-08-20T21:45:35.739335+00:00"
+    },
+    {
+      "id": "39a2a40de575c71c045504e110a3df04ebb65a53",
+      "semantic_scholar_id": "39a2a40de575c71c045504e110a3df04ebb65a53",
+      "source": "Semantic Scholar",
+      "pmid": "42617678",
+      "doi": "10.1016/j.envres.2026.125516",
+      "title": "Long-term PFOA and Cadmium Co-contamination Alters Soil Carbon, Nitrogen, and Phosphorus Cycling: Insights from Metagenomics and Metabolomics.",
+      "authors": [
+        "Yanping Cai",
+        "Beihai Zhou",
+        "Shuming Liu",
+        "Chuyu Shang",
+        "Baoguo Yang",
+        "Yunqing Liu",
+        "Shengguang Zhang",
+        "Ruixue Fan",
+        "Waseem Hassan",
+        "Rongfang Yuan",
+        "Huilun Chen"
+      ],
+      "journal": "Environmental Research",
+      "publication_date": "2026-08-19",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/39a2a40de575c71c045504e110a3df04ebb65a53",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/39a2a40de575c71c045504e110a3df04ebb65a53",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "01e4325b4e82b526737b91bf762963bdb672e980",
+          "title": "PLA vs PE microplastics with cadmium: Time-dependent divergent and microbial disruption of soil carbon and nitrogen cycling in medicinal plant soils.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Liqiang Zhou",
+            "Zhengmei Xia",
+            "Yu Yang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.142875",
+          "url": "https://www.semanticscholar.org/paper/01e4325b4e82b526737b91bf762963bdb672e980",
+          "citation_count": 0
+        },
+        {
+          "id": "4eec55505b38fe9b0771ffd667b0364f12eb6039",
+          "title": "Regulatory mechanisms of N2O emissions from latosolic red soil by different ecotypes of earthworms: insights from microbial diversity and metagenomic analysis.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Chang Wei",
+            "Chang-Wen Yun",
+            "Xiao-Qing Li"
+          ],
+          "doi": "10.1016/j.envpol.2026.128682",
+          "url": "https://www.semanticscholar.org/paper/4eec55505b38fe9b0771ffd667b0364f12eb6039",
+          "citation_count": 0
+        },
+        {
+          "id": "d7f1abf51dd4b4563730f58573765673c4284886",
+          "title": "Co-contamination of hybrid microplastics and PFOA/GenX alters rhizosphere bacterial-fungal communities and root performance of Eichhornia crassipes.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Zu-lin Hua",
+            "Zi-wei Chen",
+            "Ye-bing Shi"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.142874",
+          "url": "https://www.semanticscholar.org/paper/d7f1abf51dd4b4563730f58573765673c4284886",
+          "citation_count": 0
+        },
+        {
+          "id": "1ed83d18501eda755868027304b714d45b07c115",
+          "title": "Siderophore-producing bacteria reduce soil cadmium bioavailability and alleviate cadmium stress in alfalfa.",
+          "year": 2026,
+          "journal": "Ecotoxicology and Environmental Safety",
+          "authors": [
+            "Guiliang Wang",
+            "Kaiyuan Huang",
+            "Aofei Li"
+          ],
+          "doi": "10.1016/j.ecoenv.2026.120445",
+          "url": "https://www.semanticscholar.org/paper/1ed83d18501eda755868027304b714d45b07c115",
+          "citation_count": 0
+        },
+        {
+          "id": "f1e7cec96371b1f93a016564a3b43c87346787f1",
+          "title": "Impact of PFOA on biodenitrification and regulatory role of Mg2+ via regulating substrate uptake and electron transport.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Yang Liu",
+            "Huibai Yu",
+            "Jiahao Zhang"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130280",
+          "url": "https://www.semanticscholar.org/paper/f1e7cec96371b1f93a016564a3b43c87346787f1",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrogen",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-08-21T21:41:05.565428+00:00",
+      "edges_enriched_at": "2026-08-21T21:41:06.112268+00:00"
     },
     {
       "id": "ca9bf248ccd14ea5974aaa94f48ad97e0a4ecfe3",
@@ -18662,7 +18780,7 @@
       "url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "pdf_url": "",
-      "citation_count": 59,
+      "citation_count": 60,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -36669,7 +36787,7 @@
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "pdf_url": "https://doi.org/10.1128/msystems.01358-21",
-      "citation_count": 50,
+      "citation_count": 51,
       "influential_citation_count": 0,
       "reference_count": 116,
       "references": [
@@ -39670,6 +39788,115 @@
       "edges_enriched_at": "2026-08-07T01:03:31.018500+00:00"
     },
     {
+      "id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "semantic_scholar_id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.5194/EGUSPHERE-EGU21-7121",
+      "title": "Biogeographic patterns of complete ammonia oxidizers (comammox) within the Yangtze River continuum",
+      "authors": [
+        "Shufeng Liu",
+        "Haiying Wang",
+        "J. Ni"
+      ],
+      "journal": "",
+      "publication_date": "2021-03-03",
+      "abstract": "The recent discovery of comammox Nitrospira performing complete ammonia oxidation to nitrate has fundamentally renewed the 120-year-held perspective of “two-step” nitrification. Rivers are known as the “Arteries” of the Earth, coupling the biogeochemical cycling of continents and oceans. Frequent human activities usually increase nitrogen load, and nitrifying microorganisms are crucial for the management of nitrogen load in rivers. The ecological roles of truncated nitrifiers, including canonical ammonia-oxidizing bacteria, ammonia-oxidizing archaea and nitriteoxidizing bacteria in rivers have been fully understood, however, investigations of the newly discovered comammox Nitrospira are very scarce. To fill this gap, we used the metagenomic shotgun sequencing to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
+      "url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "pdf_url": "https://doi.org/10.5194/egusphere-egu21-7121",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
+          "title": "Seagrass-derived carbon suppresses nitrification and N2O emissions by Comammox and canonical nitrifier communities",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "Ruilin Su",
+            "Pui Ting Chan",
+            "Xiaodong Zhang"
+          ],
+          "doi": "10.1093/ismeco/ycag220",
+          "url": "https://www.semanticscholar.org/paper/841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
+          "citation_count": 0
+        },
+        {
+          "id": "75507252fa01926c8d6d8a59cfedc093bb2b4ec7",
+          "title": "Genome-resolved metagenomics of an acid-tolerant nitrifying biofilm suggests cooperative nitrogen cycling at low pH.",
+          "year": 2026,
+          "journal": "Science of the Total Environment",
+          "authors": [
+            "V. Manning",
+            "P. Moore",
+            "Alejandra Ramirez Medina"
+          ],
+          "doi": "10.1016/j.scitotenv.2026.181954",
+          "url": "https://www.semanticscholar.org/paper/75507252fa01926c8d6d8a59cfedc093bb2b4ec7",
+          "citation_count": 0
+        },
+        {
+          "id": "98d5089e0ec676c4c2d6de95d3bc3523ea004495",
+          "title": "High spatial variations of potential nitrification and N2O production across the Yangtze River and associated major tributaries.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Caixia Lan",
+            "Qiuxun Lin",
+            "Mengting Qi"
+          ],
+          "doi": "10.1016/j.watres.2026.126574",
+          "url": "https://www.semanticscholar.org/paper/98d5089e0ec676c4c2d6de95d3bc3523ea004495",
+          "citation_count": 0
+        },
+        {
+          "id": "35128f5865dd5bb18f676ac2b4126ff62561bcf7",
+          "title": "Nitrifiers Drive Different N2O Production Patterns in Tropical River Sediments.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Dongdan Yuan",
+            "Xiaoyu Cui",
+            "Sibo Zhang"
+          ],
+          "doi": "10.1021/acs.est.6c01501",
+          "url": "https://www.semanticscholar.org/paper/35128f5865dd5bb18f676ac2b4126ff62561bcf7",
+          "citation_count": 0
+        },
+        {
+          "id": "539f9080b7aa4ff1563e3092c74635f985d65ce4",
+          "title": "Resolving Nitrous Oxide Source Ambiguity in Ammonia-Oxidizing Archaea-Dominated Nitrification: Mechanistic Modeling of the Hybrid Pathway and Coupled Denitrification.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Shi Chen",
+            "Lai Peng",
+            "Yifeng Xu"
+          ],
+          "doi": "10.1021/acs.est.6c03366",
+          "url": "https://www.semanticscholar.org/paper/539f9080b7aa4ff1563e3092c74635f985d65ce4",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Environmental Science"
+      ],
+      "publication_types": [],
+      "tldr": "The metagenomic shotgun sequencing is used to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "water"
+      ],
+      "detail_enriched_at": "2026-08-04T22:33:04.932754+00:00",
+      "edges_enriched_at": "2026-08-07T01:03:31.018500+00:00"
+    },
+    {
       "id": "0b36257d2b1c589918257c0fdc6f01d626e317da",
       "semantic_scholar_id": "0b36257d2b1c589918257c0fdc6f01d626e317da",
       "source": "Semantic Scholar",
@@ -39782,115 +40009,6 @@
         "nitrogen_fixation",
         "soil",
         "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-08-04T22:33:04.932754+00:00",
-      "edges_enriched_at": "2026-08-07T01:03:31.018500+00:00"
-    },
-    {
-      "id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "semantic_scholar_id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.5194/EGUSPHERE-EGU21-7121",
-      "title": "Biogeographic patterns of complete ammonia oxidizers (comammox) within the Yangtze River continuum",
-      "authors": [
-        "Shufeng Liu",
-        "Haiying Wang",
-        "J. Ni"
-      ],
-      "journal": "",
-      "publication_date": "2021-03-03",
-      "abstract": "The recent discovery of comammox Nitrospira performing complete ammonia oxidation to nitrate has fundamentally renewed the 120-year-held perspective of “two-step” nitrification. Rivers are known as the “Arteries” of the Earth, coupling the biogeochemical cycling of continents and oceans. Frequent human activities usually increase nitrogen load, and nitrifying microorganisms are crucial for the management of nitrogen load in rivers. The ecological roles of truncated nitrifiers, including canonical ammonia-oxidizing bacteria, ammonia-oxidizing archaea and nitriteoxidizing bacteria in rivers have been fully understood, however, investigations of the newly discovered comammox Nitrospira are very scarce. To fill this gap, we used the metagenomic shotgun sequencing to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
-      "url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "pdf_url": "https://doi.org/10.5194/egusphere-egu21-7121",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
-          "title": "Seagrass-derived carbon suppresses nitrification and N2O emissions by Comammox and canonical nitrifier communities",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "Ruilin Su",
-            "Pui Ting Chan",
-            "Xiaodong Zhang"
-          ],
-          "doi": "10.1093/ismeco/ycag220",
-          "url": "https://www.semanticscholar.org/paper/841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
-          "citation_count": 0
-        },
-        {
-          "id": "75507252fa01926c8d6d8a59cfedc093bb2b4ec7",
-          "title": "Genome-resolved metagenomics of an acid-tolerant nitrifying biofilm suggests cooperative nitrogen cycling at low pH.",
-          "year": 2026,
-          "journal": "Science of the Total Environment",
-          "authors": [
-            "V. Manning",
-            "P. Moore",
-            "Alejandra Ramirez Medina"
-          ],
-          "doi": "10.1016/j.scitotenv.2026.181954",
-          "url": "https://www.semanticscholar.org/paper/75507252fa01926c8d6d8a59cfedc093bb2b4ec7",
-          "citation_count": 0
-        },
-        {
-          "id": "98d5089e0ec676c4c2d6de95d3bc3523ea004495",
-          "title": "High spatial variations of potential nitrification and N2O production across the Yangtze River and associated major tributaries.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Caixia Lan",
-            "Qiuxun Lin",
-            "Mengting Qi"
-          ],
-          "doi": "10.1016/j.watres.2026.126574",
-          "url": "https://www.semanticscholar.org/paper/98d5089e0ec676c4c2d6de95d3bc3523ea004495",
-          "citation_count": 0
-        },
-        {
-          "id": "35128f5865dd5bb18f676ac2b4126ff62561bcf7",
-          "title": "Nitrifiers Drive Different N2O Production Patterns in Tropical River Sediments.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Dongdan Yuan",
-            "Xiaoyu Cui",
-            "Sibo Zhang"
-          ],
-          "doi": "10.1021/acs.est.6c01501",
-          "url": "https://www.semanticscholar.org/paper/35128f5865dd5bb18f676ac2b4126ff62561bcf7",
-          "citation_count": 0
-        },
-        {
-          "id": "539f9080b7aa4ff1563e3092c74635f985d65ce4",
-          "title": "Resolving Nitrous Oxide Source Ambiguity in Ammonia-Oxidizing Archaea-Dominated Nitrification: Mechanistic Modeling of the Hybrid Pathway and Coupled Denitrification.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Shi Chen",
-            "Lai Peng",
-            "Yifeng Xu"
-          ],
-          "doi": "10.1021/acs.est.6c03366",
-          "url": "https://www.semanticscholar.org/paper/539f9080b7aa4ff1563e3092c74635f985d65ce4",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Environmental Science"
-      ],
-      "publication_types": [],
-      "tldr": "The metagenomic shotgun sequencing is used to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrification",
-        "nitrogen",
         "water"
       ],
       "detail_enriched_at": "2026-08-04T22:33:04.932754+00:00",
@@ -40416,7 +40534,7 @@
       "url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "pdf_url": "",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 2,
       "reference_count": 51,
       "references": [],
@@ -43787,7 +43905,7 @@
       "url": "https://www.semanticscholar.org/paper/c78d0031b47eba8b8593a3fdff5e84c8c8f3b822",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c78d0031b47eba8b8593a3fdff5e84c8c8f3b822",
       "pdf_url": "",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 24,
       "references": [
