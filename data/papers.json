@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T03:11:55.418485+00:00",
+  "updated_at": "2026-08-29T23:22:37.629078+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,126 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "b3e714ac652b6324cd2a89a372764cd3623fa3d9",
+      "semantic_scholar_id": "b3e714ac652b6324cd2a89a372764cd3623fa3d9",
+      "source": "Semantic Scholar",
+      "pmid": "42659882",
+      "doi": "10.1016/j.jhazmat.2026.143382",
+      "title": "Artificial humic acid reshapes microbial C-N metabolism and nitrogen partition in microplastic-contaminated soils.",
+      "authors": [
+        "Qihe Gao",
+        "Shuang Ai",
+        "Meiling Zhang",
+        "Yu Li",
+        "Yan-Tong Li",
+        "Ya-Dong Ma",
+        "Jia-Le Zhang",
+        "Fan Yang",
+        "Kui Cheng"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2026-08-24",
+      "abstract": "Microplastics pose a serious threat to soil ecosystems, particularly nitrogen cycling. Among the diverse types of microplastics, polypropylene (PP) and polylactic acid (PLA) are frequently detected in agricultural soils. Artificial humic acid (A-HA), a humic-like substance derived from lignocellulosic waste, may regulate soil carbon and nitrogen dynamics, but its effects on nitrogen partitioning and microbial C-N metabolic potential under different microplastic stresses remain unclear. Here, a 90-day microcosm experiment integrating soil physicochemical analyses, dissolved organic matter characterization, bacterial community profiling, and metagenomics was conducted in PLA- and PP-contaminated soils. At day 15, 600 mg kg-1 A-HA decreased nitrate (NO3⁻-N) by 11.36% and 6.46% in PLA- and PP-contaminated soils, respectively, while increasing soluble organic nitrogen (SON) by 17.32% and 23.89%. A-HA also enriched Nitrospira and Steroidobacter and altered the abundance of genes associated with nitrogen transformation, assimilation, and carbon metabolism, including nrfA, GLU, gltB, and icd. Increased abundance of nrfA suggested greater dissimilatory nitrate reduction to ammonium (DNRA) potential, while enrichment of NADP+-dependent icd indicated altered potential for 2-Oxoglutarate generation in the TCA cycle. Overall, A-HA modified nitrogen partitioning toward soluble and microbial organic pools and was associated with coordinated changes in microbial C-N metabolic potential under microplastic exposure.",
+      "url": "https://www.semanticscholar.org/paper/b3e714ac652b6324cd2a89a372764cd3623fa3d9",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/b3e714ac652b6324cd2a89a372764cd3623fa3d9",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 62,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
+          "title": "Small-sized biodegradable PLA microplastics inhibit plant nitrogen uptake by reshaping soil microbial communities and stimulating microbial metabolism.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Chuangye Zhang",
+            "Jie Chen",
+            "Wenlan Yang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143209",
+          "url": "https://www.semanticscholar.org/paper/bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
+          "citation_count": 0
+        },
+        {
+          "id": "01e4325b4e82b526737b91bf762963bdb672e980",
+          "title": "PLA vs PE microplastics with cadmium: Time-dependent divergent and microbial disruption of soil carbon and nitrogen cycling in medicinal plant soils.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Liqiang Zhou",
+            "Zhengmei Xia",
+            "Yu Yang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.142875",
+          "url": "https://www.semanticscholar.org/paper/01e4325b4e82b526737b91bf762963bdb672e980",
+          "citation_count": 0
+        },
+        {
+          "id": "94483881c14b7d070becfb9f4be8fcc9f6e1aa66",
+          "title": "Metagenomic Analysis of Soil Microbial Community Shifts Formed by 60-Day Exposure to Polylactic Acid Microplastics",
+          "year": 2026,
+          "journal": "E3S Web of Conferences",
+          "authors": [
+            "Haoran Liu",
+            "Zixuan Zhang",
+            "Yani Wang"
+          ],
+          "doi": "10.1051/e3sconf/202673401018",
+          "url": "https://www.semanticscholar.org/paper/94483881c14b7d070becfb9f4be8fcc9f6e1aa66",
+          "citation_count": 0
+        },
+        {
+          "id": "497ebae47fc69256c0d6616b763c313c2bd5517b",
+          "title": "Environmentally aged microplastics alter archaeal and bacterial roles in ammonia oxidation of intertidal soils.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Ruyuan Chen",
+            "Shujie Ruan",
+            "Cheng Liu"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.120270",
+          "url": "https://www.semanticscholar.org/paper/497ebae47fc69256c0d6616b763c313c2bd5517b",
+          "citation_count": 0
+        },
+        {
+          "id": "8938846148dacfc63507c5090df5e3353b4fb8f6",
+          "title": "Divergent impacts of microplastics and related leachates on sediment carbon and nitrogen transformation by regulating microbial communities and functions.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Wenjuan He",
+            "Jinhui Huang",
+            "Jinying Hu"
+          ],
+          "doi": "10.1016/j.envpol.2026.128699",
+          "url": "https://www.semanticscholar.org/paper/8938846148dacfc63507c5090df5e3353b4fb8f6",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "denitrification",
+        "dnra",
+        "functional_gene",
+        "metagenome",
+        "nitrogen",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-08-29T23:22:22.891595+00:00",
+      "edges_enriched_at": "2026-08-29T23:22:23.483813+00:00"
+    },
     {
       "id": "ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
       "semantic_scholar_id": "ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
@@ -2424,73 +2544,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "e436ee5bba33aea99941344905f3be920514fe0f",
-          "title": "IMPACT OF ORGANIC SOIL AMENDMENTS ON SOIL FERTILITY AND YIELD PERFORMANCE OF MAIZE (ZEA MAYS L.) UNDER SUSTAINABLE FARMING SYSTEMS",
+          "id": "e50758b6557c48af44da7f12326fac87f88c981a",
+          "title": "Enhancing Soil Quality and Ecosystem Multifunctionality to Increase Maize Yield in Saline‐Alkali Soil: A Multisource Nitrogen Fertilization Strategy",
           "year": 2026,
-          "journal": "Jana Nexus: Journal of Agricultural, Veterinary and Environmental Sciences",
+          "journal": "Land Degradation &amp; Development",
           "authors": [
-            "A. Hassan",
-            "Priya Menon",
-            "Ibrahim Yusuf"
+            "Yu Jing",
+            "Lanying Zhang",
+            "Meiying Liu"
           ],
-          "doi": "10.21474/jnaves01/135",
-          "url": "https://www.semanticscholar.org/paper/e436ee5bba33aea99941344905f3be920514fe0f",
+          "doi": "10.1002/ldr.70845",
+          "url": "https://www.semanticscholar.org/paper/e50758b6557c48af44da7f12326fac87f88c981a",
           "citation_count": 0
         },
         {
-          "id": "943bfc5bae5c2e348e9fe55156b78b987cd8ccbd",
-          "title": "Green Manure Modulates Soil–Plant–Microbial Responses to Increasing Irrigation Salinity in a Semiarid Agroecosystem",
+          "id": "07927ed9ea598e03ab466f99673a3223d1c8323b",
+          "title": "Co-Application of Biochar with Different Soil Amendments Regulates Bacterial Communities in Saline–Alkaline Soil and Promotes Oat Growth, Yield, and Quality",
           "year": 2026,
-          "journal": "Irrigation and Drainage",
+          "journal": "Land",
           "authors": [
-            "Murilo de Sousa Almeida",
-            "Maria de Fátima Marques Pires",
-            "Maria Brenna Mendes Cunha"
+            "Teng Wang",
+            "Zhen Li",
+            "Shilan Shao"
           ],
-          "doi": "10.1002/ird.70164",
-          "url": "https://www.semanticscholar.org/paper/943bfc5bae5c2e348e9fe55156b78b987cd8ccbd",
+          "doi": "10.3390/land15081474",
+          "url": "https://www.semanticscholar.org/paper/07927ed9ea598e03ab466f99673a3223d1c8323b",
           "citation_count": 0
         },
         {
-          "id": "bc8dd098201020728007061c5118d2066fc97a24",
-          "title": "Biochar as a Sustainable Soil Amendment: Impacts on Soil Fertility, Nutrient Dynamics, and Crop Yield: A Review",
+          "id": "4b264c89ad6ccedf1be5d4d35196396951ce5089",
+          "title": "Trade-Offs of Soil Quality, Wheat Yield and Nutrient Efficiency Under Long-Term Combined Chemical and Manure Fertilization in Vertisols",
           "year": 2026,
-          "journal": "Journal of Experimental Agriculture International",
+          "journal": "Agronomy",
           "authors": [
-            "S. Singh",
-            "Ashutosh Kumar",
-            "M. Sreemathi"
+            "Jiacheng Gu",
+            "Yuekai Wang",
+            "Xun Xiao"
           ],
-          "doi": "10.9734/jeai/2026/v48i64292",
-          "url": "https://www.semanticscholar.org/paper/bc8dd098201020728007061c5118d2066fc97a24",
+          "doi": "10.3390/agronomy16161588",
+          "url": "https://www.semanticscholar.org/paper/4b264c89ad6ccedf1be5d4d35196396951ce5089",
           "citation_count": 0
         },
         {
-          "id": "de1eaf7983c5c59f38f22b391df34c373df2866e",
-          "title": "Effects of In Situ Tomato Straw and Green Manure Returning on Greenhouse Soil Properties and Production in Coastal Saline–Alkali Areas",
+          "id": "cb29e6f14d41b7a6c45b702e8a3552b2e43b320f",
+          "title": "Interannual Covariation of Rhizosphere Microbiomes and Plant Performance in Coastal Saline–Alkali Soils Ameliorated by Nitraria tangutorum",
           "year": 2026,
           "journal": "Agriculture",
           "authors": [
-            "Ruiping Ma",
-            "Guoxin Zhang",
-            "Yeshuo Sun"
+            "Wenzhi Zhou",
+            "Rongsong Zou",
+            "Haiwen Wu"
           ],
-          "doi": "10.3390/agriculture16131381",
-          "url": "https://www.semanticscholar.org/paper/de1eaf7983c5c59f38f22b391df34c373df2866e",
+          "doi": "10.3390/agriculture16161710",
+          "url": "https://www.semanticscholar.org/paper/cb29e6f14d41b7a6c45b702e8a3552b2e43b320f",
           "citation_count": 0
         },
         {
-          "id": "fd6f2ef6cec6cd121f8b2161e36710f62c7ac4c8",
-          "title": "Effects of Different Treatment Methods on Soil Nutrients of Saline–Alkaline Soil and Dandelion Growth",
+          "id": "47f00b287e7d7b45930c5b85cf35f13ff8708af1",
+          "title": "Biochar Effects on Soil Chemical Properties, Microbial Communities, Tea Quality and Yield in a Strongly Acidic Tea Plantation: A Field Study",
           "year": 2026,
-          "journal": "Journal of Life Sciences and Agriculture",
+          "journal": "Agronomy",
           "authors": [
-            "Ruiyuan Jin",
-            "Xunuo Zhao",
-            "Yibo Wang"
+            "Xianyu Cheng",
+            "Xinyue Zhang",
+            "Diao Yan"
           ],
-          "doi": "10.62517/jlsa.202607209",
-          "url": "https://www.semanticscholar.org/paper/fd6f2ef6cec6cd121f8b2161e36710f62c7ac4c8",
+          "doi": "10.3390/agronomy16151482",
+          "url": "https://www.semanticscholar.org/paper/47f00b287e7d7b45930c5b85cf35f13ff8708af1",
           "citation_count": 0
         }
       ],
@@ -2514,8 +2634,8 @@
         "soil",
         "water"
       ],
-      "detail_enriched_at": "2026-07-30T22:20:30.705391+00:00",
-      "edges_enriched_at": "2026-07-30T22:20:31.281898+00:00"
+      "detail_enriched_at": "2026-08-29T23:22:22.891595+00:00",
+      "edges_enriched_at": "2026-08-29T23:22:23.483813+00:00"
     },
     {
       "id": "7ab43d37defbff22c1babd34dd819014272ab04d",
@@ -7712,7 +7832,7 @@
       "url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "pdf_url": "https://www.nature.com/articles/s41564-025-02213-2.pdf",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 97,
       "references": [
@@ -10983,7 +11103,7 @@
       "url": "https://www.semanticscholar.org/paper/5fe2bc458c2a4dfa6e2414db828f365890c85022",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5fe2bc458c2a4dfa6e2414db828f365890c85022",
       "pdf_url": "https://www.mdpi.com/1424-2818/17/12/825/pdf?version=1764320455",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 41,
       "references": [
@@ -11712,7 +11832,7 @@
       "url": "https://www.semanticscholar.org/paper/db1b297bb2a44468882b21e7bc3c7a5d52639f58",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/db1b297bb2a44468882b21e7bc3c7a5d52639f58",
       "pdf_url": "https://www.mdpi.com/2073-4395/15/11/2535/pdf?version=1761839387",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 60,
       "references": [
@@ -17314,7 +17434,7 @@
       "url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "pdf_url": "https://doi.org/10.1016/j.biotechadv.2025.108580",
-      "citation_count": 41,
+      "citation_count": 43,
       "influential_citation_count": 1,
       "reference_count": 372,
       "references": [
@@ -18550,7 +18670,7 @@
       "url": "https://www.semanticscholar.org/paper/be9967b5a6a90c70bd34f26b0d57e906d3c58031",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/be9967b5a6a90c70bd34f26b0d57e906d3c58031",
       "pdf_url": "",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 66,
       "references": [],
@@ -19074,7 +19194,7 @@
       "url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "pdf_url": "https://soil.copernicus.org/articles/11/1/2025/soil-11-1-2025.pdf",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 130,
       "references": [
@@ -21032,7 +21152,7 @@
       "url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.14431",
-      "citation_count": 32,
+      "citation_count": 34,
       "influential_citation_count": 0,
       "reference_count": 105,
       "references": [],
@@ -24597,7 +24717,7 @@
       "url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "pdf_url": "",
-      "citation_count": 42,
+      "citation_count": 43,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -26827,7 +26947,7 @@
       "url": "https://www.semanticscholar.org/paper/358a61acc87348c98202fa498b21161f502cd011",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/358a61acc87348c98202fa498b21161f502cd011",
       "pdf_url": "https://www.mdpi.com/2073-4441/16/3/461/pdf?version=1706692788",
-      "citation_count": 4,
+      "citation_count": 5,
       "influential_citation_count": 0,
       "reference_count": 48,
       "references": [
@@ -28679,7 +28799,7 @@
       "url": "https://www.semanticscholar.org/paper/e38c8f107e46eef1fb8cf10c668ec6e296fd24e5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e38c8f107e46eef1fb8cf10c668ec6e296fd24e5",
       "pdf_url": "",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 0,
       "reference_count": 17,
       "references": [],
@@ -31361,7 +31481,7 @@
       "url": "https://www.semanticscholar.org/paper/cb2e91a7873e96775ed95bdc37d1246e1b108a30",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cb2e91a7873e96775ed95bdc37d1246e1b108a30",
       "pdf_url": "",
-      "citation_count": 77,
+      "citation_count": 78,
       "influential_citation_count": 2,
       "reference_count": 108,
       "references": [],
@@ -32605,7 +32725,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 185,
+      "citation_count": 187,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -34633,7 +34753,7 @@
       "url": "https://www.semanticscholar.org/paper/f9aea5f2cc0eca41978f7c71ca49b86d9e3957a1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f9aea5f2cc0eca41978f7c71ca49b86d9e3957a1",
       "pdf_url": "https://www.mdpi.com/2076-2607/10/9/1740/pdf?version=1661771434",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 56,
       "references": [
@@ -35225,7 +35345,7 @@
       "url": "https://www.semanticscholar.org/paper/4218883010ae08b0045cc1d34c92c0afb3d4a5c6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4218883010ae08b0045cc1d34c92c0afb3d4a5c6",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.945927/pdf",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 1,
       "reference_count": 58,
       "references": [
@@ -35512,7 +35632,7 @@
       "url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "pdf_url": "https://doi.org/10.1016/j.geoderma.2022.115846",
-      "citation_count": 234,
+      "citation_count": 236,
       "influential_citation_count": 3,
       "reference_count": 78,
       "references": [
@@ -37890,7 +38010,7 @@
       "url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "pdf_url": "",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -38801,7 +38921,7 @@
       "url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "pdf_url": "",
-      "citation_count": 133,
+      "citation_count": 134,
       "influential_citation_count": 6,
       "reference_count": 0,
       "references": [],
@@ -39247,7 +39367,7 @@
       "url": "https://www.semanticscholar.org/paper/4556195dded0e69e4f8d4b19a9731bffc649f195",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4556195dded0e69e4f8d4b19a9731bffc649f195",
       "pdf_url": "https://doi.org/10.1128/msystems.00161-21",
-      "citation_count": 52,
+      "citation_count": 53,
       "influential_citation_count": 0,
       "reference_count": 98,
       "references": [
@@ -39529,7 +39649,7 @@
       "url": "https://www.semanticscholar.org/paper/e84138bc770878f0d419aaad23995f6bdf20baa9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e84138bc770878f0d419aaad23995f6bdf20baa9",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/03/07/2021.03.07.433105.full.pdf",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [
@@ -40654,7 +40774,7 @@
       "url": "https://www.semanticscholar.org/paper/447fcec989d80d920ee4d11c0b101d64e247dacc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/447fcec989d80d920ee4d11c0b101d64e247dacc",
       "pdf_url": "https://doi.org/10.1128/msphere.01237-20",
-      "citation_count": 46,
+      "citation_count": 47,
       "influential_citation_count": 1,
       "reference_count": 74,
       "references": [
@@ -44225,7 +44345,7 @@
       "url": "https://www.semanticscholar.org/paper/f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11356",
-      "citation_count": 75,
+      "citation_count": 76,
       "influential_citation_count": 1,
       "reference_count": 92,
       "references": [
@@ -45136,7 +45256,7 @@
       "url": "https://www.semanticscholar.org/paper/0f8694ace371def2bbc1d1d3e9ca9b7c78ed9a9b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0f8694ace371def2bbc1d1d3e9ca9b7c78ed9a9b",
       "pdf_url": "https://doi.org/10.1128/mbio.01870-19",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 0,
       "reference_count": 83,
       "references": [
@@ -45700,7 +45820,7 @@
       "url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "pdf_url": "http://manuscript.elsevier.com/S0038071718302864/pdf/S0038071718302864.pdf",
-      "citation_count": 362,
+      "citation_count": 364,
       "influential_citation_count": 8,
       "reference_count": 72,
       "references": [],
