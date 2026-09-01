@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T00:41:10.057558+00:00",
+  "updated_at": "2026-09-01T23:20:54.169902+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -488,6 +488,170 @@
       ],
       "detail_enriched_at": "2026-09-01T00:40:53.855875+00:00",
       "edges_enriched_at": "2026-09-01T00:40:54.476709+00:00"
+    },
+    {
+      "id": "9076d116baba28b1219685ae348fcfde49183cfa",
+      "semantic_scholar_id": "9076d116baba28b1219685ae348fcfde49183cfa",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1002/ldr.70838",
+      "title": "Long‐Term Nitrogen Addition Weakens the Linkage Between Phosphorus Cycling Gene Abundance and Phosphatase Activity Through Soil Acidification in a\n Larix gmelinii\n Plantation",
+      "authors": [
+        "Xiang Zhang",
+        "Qiong Zhao",
+        "Li-Man Wei",
+        "Su Mei",
+        "Yong-Hong Ma",
+        "Lin-Hui Wu",
+        "Yuan Zhao"
+      ],
+      "journal": "Land Degradation &amp; Development",
+      "publication_date": "2026-08-26",
+      "abstract": "\n \n Anthropogenic nitrogen (N) enrichment propels global forest ecosystems toward phosphorus (P) limitation, theoretically triggering the upregulation of microbial P‐acquisition capacity to maintain stoichiometric balance. However, the extent to which N addition regulates this adaptive capacity remains uncertain. Here, leveraging an 8‐year N addition experiment in a larch (\n \n Larix gmelinii\n \n ) plantation, we measured soil biochemistry, enzyme activities and microbial functional gene abundances involved in organic P mineralization to examine the microbial mineralization responses. Nitrogen addition caused significant soil acidification, reduction in\n 16S rRNA\n gene abundance and activities of enzymes hydrolyzing organic P, but increases in the relative abundance of P‐acquisition functional genes. Relative to the control plots, soil pH significantly reduced from 5.0 to 4.6, microbial biomass carbon and gene copy number of\n 16S rRNA\n reduced by 26.6% and 35.5%, acid phosphatase and phytase activities reduced by 32.6% and 51.1%, whereas relative abundance of\n appA\n gene increased by 29.2% in the N addition plots. Redundancy analysis identified that variation in soil pH explained 57.5% of N‐induced changes in organic P mineralization. Crucially, these findings decouple the assumed positive correlation between genetic potential and functional realization, revealing a stress‐induced functional mismatch that challenges the applicability of stoichiometric theory under severe acidification stress. Furthermore, it highlights a pitfall of relying solely on metagenomic metrics for diagnosing soil health. Consequently, promoting soil acid‐buffering capacity is essential to prevent functional decline of soil microorganisms in forest ecosystems in response to atmospheric N deposition.\n",
+      "url": "https://www.semanticscholar.org/paper/9076d116baba28b1219685ae348fcfde49183cfa",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/9076d116baba28b1219685ae348fcfde49183cfa",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ldr.70838",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 20,
+      "references": [
+        {
+          "title": "Contrasting responses of bacterial-mediated soil organic phosphorus transformations to varying rates of nitrogen addition in a Cunninghamia lanceolata plantation",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/ee5309f357d0001aa4c30a02362cd843c9cf63cd",
+          "doi": "10.1016/j.apsoil.2026.106951"
+        },
+        {
+          "title": "Nitrogen induced soil carbon gains are resistant to loss after the cessation of excess nitrogen inputs",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/04a29655a61a9b97f8d6ad626a7114d7c0843795",
+          "doi": "10.1016/j.soilbio.2024.109640"
+        },
+        {
+          "title": "Divergent responses of soil microbial community to long-term nitrogen and phosphorus additions in a subtropical Chinese fir plantation",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/142932d11c8ded737dc3c9f67cfdbfd323aef17e",
+          "doi": "10.1016/j.catena.2024.108132"
+        },
+        {
+          "title": "Soil phosphorus transformation and plant uptake driven by phosphate-solubilizing microorganisms",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/53f8739aae95af1469586f394bb2f0a351172e63",
+          "doi": "10.3389/fmicb.2024.1383813"
+        },
+        {
+          "title": "Mapping global soil acidification under N deposition",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/f3599631089544190b04f23ee5a0c7af74043770",
+          "doi": "10.1111/gcb.16813"
+        },
+        {
+          "title": "Nitrogen Deposition May Benefit to Larix olgensis Root Soils",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/e78505c6d5e25199975ab2228ee650187ce26ab4",
+          "doi": "10.3390/f14051014"
+        },
+        {
+          "title": "Impact of nitrogen addition on plant-soil-enzyme C–N–P stoichiometry and microbial nutrient limitation",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/7f88a2e089128aba0a3af1ed7dcebbeb81f40942",
+          "doi": "10.1016/j.soilbio.2022.108714"
+        },
+        {
+          "title": "Understory vegetation interacts with nitrogen addition to affect soil phosphorus transformations in a nutrient-poor Pinus sylvestris var. mongolica plantation",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/f63b953ac8de7126bc7a74c202926a3e02027c55",
+          "doi": "10.1016/j.foreco.2022.120026"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "87ac9bb2d9179de3ab475aca96c9529fb9fa184e",
+          "title": "6-year nitrogen addition alters fungal network structure and extracellular enzyme activities in alpine grasslands: divergent responses between rhizosphere and bulk soils",
+          "year": 2026,
+          "journal": "Chemical and Biological Technologies in Agriculture",
+          "authors": [
+            "Zheng Wu",
+            "Yanying Han",
+            "Wenqiang Huang"
+          ],
+          "doi": "10.1186/s40538-026-01025-8",
+          "url": "https://www.semanticscholar.org/paper/87ac9bb2d9179de3ab475aca96c9529fb9fa184e",
+          "citation_count": 1
+        },
+        {
+          "id": "826a32cea73fbf3185dd65a0949430f0942d2705",
+          "title": "Re-evaluating forest carbon sinks under nitrogen deposition: Acidification drives passive carbon accumulation via decoupling microbial manganese oxidation.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Shijia Wang",
+            "Xueru Li",
+            "Liting Zhang"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130573",
+          "url": "https://www.semanticscholar.org/paper/826a32cea73fbf3185dd65a0949430f0942d2705",
+          "citation_count": 0
+        },
+        {
+          "id": "a166865624956059f5d93b6790b71ea978ba8330",
+          "title": "Microbial community changes mediate the decline in soil organic carbon mineralization with depth in tea plantations.",
+          "year": 2026,
+          "journal": "Carbon Balance and Management",
+          "authors": [
+            "Shaobo Zhang",
+            "Yifeng Xie",
+            "Hongbin Zhang"
+          ],
+          "doi": "10.1186/s13021-026-00485-7",
+          "url": "https://www.semanticscholar.org/paper/a166865624956059f5d93b6790b71ea978ba8330",
+          "citation_count": 0
+        },
+        {
+          "id": "b9504594716feb2b746fc7603d8a559001649449",
+          "title": "Soil extracellular enzyme activities and stoichiometric characteristics in a warm-temperate-subtropical mixed coniferous and broad-leaved forest under nitrogen addition and drought conditions.",
+          "year": 2026,
+          "journal": "Ying yong sheng tai xue bao = The journal of applied ecology",
+          "authors": [
+            "Yu-Die Lin",
+            "Zhi-Jie Chen",
+            "Shi-Zhe Wang"
+          ],
+          "doi": "10.13287/j.1001-9332.202608.048",
+          "url": "https://www.semanticscholar.org/paper/b9504594716feb2b746fc7603d8a559001649449",
+          "citation_count": 0
+        },
+        {
+          "id": "5986b03660aaaf6a03a90a7db2707a799a42aa78",
+          "title": "Short-term water-table drawdown alters microbial carbon-acquisition attributes and microbial-derived carbon pools in peatlands",
+          "year": 2026,
+          "journal": "Journal of Plant Ecology",
+          "authors": [
+            "Jia-Tao Zhu",
+            "Hua‐Bing Liu",
+            "Mai‐he Li"
+          ],
+          "doi": "10.1093/jpe/rtag199",
+          "url": "https://www.semanticscholar.org/paper/5986b03660aaaf6a03a90a7db2707a799a42aa78",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "These findings decouple the assumed positive correlation between genetic potential and functional realization, revealing a stress‐induced functional mismatch that challenges the applicability of stoichiometric theory under severe acidification stress and highlights a pitfall of relying solely on metagenomic metrics for diagnosing soil health.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "forest",
+        "functional_gene",
+        "metagenome",
+        "nitrogen",
+        "soil",
+        "urban"
+      ],
+      "detail_enriched_at": "2026-09-01T23:20:42.255658+00:00",
+      "edges_enriched_at": "2026-09-01T23:20:42.867622+00:00"
     },
     {
       "id": "b3e714ac652b6324cd2a89a372764cd3623fa3d9",
@@ -1023,17 +1187,17 @@
         "Chuangye Zhang",
         "Jie Chen",
         "Wenlan Yang",
-        "Kaihui Du",
+        "Kai-Hui Du",
         "Wan-Jun Tao",
         "Qiqian Lu",
         "Mingkai Jiang",
         "Jing Hu",
-        "Qilin Zhu",
+        "Qi-Lin Zhu",
         "A. Elrys",
-        "Zucong Cai",
+        "Zu-Cong Cai",
         "Lei Meng",
         "Christoph Müller",
-        "Xiaoqian Dan",
+        "Xiao-Qian Dan",
         "Jinbo Zhang"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -2767,13 +2931,13 @@
       "title": "Composted cattle manure enhances microbial nitrogen retention and increased seed watermelon yield in saline-alkali soil.",
       "authors": [
         "Qianqian Chen",
-        "Xiaoye Niu",
+        "Xiao-Ye Niu",
         "Wei Wu",
         "Huai Shi",
         "Guohong Liu",
         "Longjun Chen",
         "Huangping Wang",
-        "Yushu Zhang"
+        "Yu-Shu Zhang"
       ],
       "journal": "Microbiology Research",
       "publication_date": "2026-07-01",
@@ -5701,7 +5865,7 @@
         "B. Shah",
         "Nicholas V. Coleman",
         "Liam D. H. Elbourne",
-        "J. L. Le Roux",
+        "Johannes J. Le Roux",
         "Michael R. Gillings",
         "Ian T. Paulsen",
         "S. Tetu"
@@ -6154,7 +6318,7 @@
       "doi": "10.1016/j.envres.2026.124314",
       "title": "Artificial reef age reshapes benthic microbial communities and modulates the genetic potential for nitrogen and sulfur cycling.",
       "authors": [
-        "Shenhong Wang",
+        "Shen-Tong Wang",
         "Li Li",
         "Qi Yang",
         "Guo-fan Zhang"
@@ -7315,7 +7479,7 @@
         "Jing Fang",
         "Rui Xie",
         "Yuchen Cheng",
-        "Xuting Zhang",
+        "Xu-Ting Zhang",
         "Hailong Zhang",
         "Fengcheng Sun",
         "Zhanyuan Lu"
@@ -8232,14 +8396,14 @@
         "Martin Siedt",
         "Amaru B. Ponton Paul",
         "Matthias Franck",
-        "I. Brill",
+        "Inga Brill",
         "Larissa K. Drews",
         "Alexander Nothbaum",
         "S. Kader",
         "W. Hubens",
         "D. R. Finn",
         "C. C. Tebbe",
-        "Joost T. van Dongen"
+        "J. V. van Dongen"
       ],
       "journal": "Environmental Sciences Europe",
       "publication_date": "2026-01-23",
@@ -10305,7 +10469,7 @@
       "authors": [
         "Maha Alharbi",
         "Thanh Nguyen-Dinh",
-        "W. W. Wong",
+        "W. Wong",
         "P. Leung",
         "Adam J. Kessler",
         "C. Greening",
@@ -13595,7 +13759,7 @@
         "Jing Yang",
         "Yuqing Zhang",
         "Shu-gao Qin",
-        "W. Feng"
+        "Weiqi Feng"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2025-09-04",
@@ -17158,7 +17322,7 @@
         "B. Shah",
         "Nicholas V. Coleman",
         "Liam D. H. Elbourne",
-        "J. L. Le Roux",
+        "Johannes J. Le Roux",
         "Michael R. Gillings",
         "I. Paulsen",
         "S. Tetu"
@@ -19820,7 +19984,7 @@
         "Zhuo Pang",
         "Guofang Zhang",
         "Weiwei Zhang",
-        "Haiming Kan"
+        "Hai-ming Kan"
       ],
       "journal": "Agriculture, Ecosystems & Environment. Applied Soil Ecology",
       "publication_date": "2024-12-01",
@@ -23574,7 +23738,7 @@
       "doi": "10.1089/ees.2024.0074",
       "title": "Wildfire Impacts on Soil Microbiomes: Potential for Disruptions to Nitrogen-Cycling Bacteria",
       "authors": [
-        "T.A. Patrick",
+        "T. A. Patrick",
         "L. W. Maguire",
         "J. Espin",
         "C. M. Gardner"
@@ -25641,7 +25805,7 @@
       "doi": "10.3390/su16083349",
       "title": "Response of Soil Nitrogen-Cycling Genes to the Coupling Effects of Arbuscular Mycorrhizal Fungi Inoculation and Biochar Application in Maize Rhizosphere",
       "authors": [
-        "Lingbo Meng",
+        "Ling-Bo Meng",
         "Zeyu Cheng",
         "Shumin Li"
       ],
@@ -26549,7 +26713,7 @@
         "Yulong Duan",
         "Jiayu Luo",
         "Youzhi Miao",
-        "Jiahui Shao",
+        "Jia-Hui Shao",
         "Zhihui Xu",
         "Nan Zhang",
         "Qirong Shen",
@@ -27670,7 +27834,7 @@
       "doi": "10.1093/ismeco/ycae110",
       "title": "Metagenomic and -transcriptomic analyses of microbial nitrogen transformation potential, and gene expression in Swiss lake sediments",
       "authors": [
-        "Kathrin B L Baumann",
+        "K. B. L. Baumann",
         "Alessandra Mazzoli",
         "Guillem Salazar",
         "H. Ruscheweyh",
@@ -30803,10 +30967,10 @@
         "Shengnan Zhao",
         "Biao Sun",
         "Yanjun Wang",
-        "Guohua Li",
+        "Guo-Hua Li",
         "Zhimou Cui",
         "Xueru Pan",
-        "Guoguang Li",
+        "Guo-Guang Li",
         "Zixuan Zhang"
       ],
       "journal": "Water",
@@ -35418,7 +35582,7 @@
       "doi": "10.3389/fsoil.2022.869136",
       "title": "The quality of organic amendments affects soil microbiome and nitrogen-cycling bacteria in an organic farming system",
       "authors": [
-        "Ouyang Yang",
+        "Yang Ouyang",
         "J. Reeve",
         "J. Norton"
       ],
@@ -35951,7 +36115,7 @@
       "title": "Effects of nanopolystyrene addition on nitrogen fertilizer fate, gaseous loss of N from the soil, and soil microbial community composition.",
       "authors": [
         "Ziheng Zou",
-        "Shu-qing Li",
+        "Shuqing Li",
         "Jie Wu",
         "Shumin Guo",
         "Yihe Zhang",
@@ -36358,7 +36522,7 @@
         "Haiyan Du",
         "Triana Wulandari",
         "G. Poinern",
-        "Zhong‐Tao Jiang",
+        "Zhong-Tao Jiang",
         "D. Fawcett",
         "Naveed Hassan",
         "L. Xue",
@@ -38810,14 +38974,14 @@
       "doi": "10.1101/2021.07.12.452135",
       "title": "Trophic status and local conditions affect microbial potential for denitrification versus internal nitrogen cycling in lake sediments",
       "authors": [
-        "K. Baumann",
+        "K. B. L. Baumann",
         "R. Thoma",
-        "C. Callbeck",
+        "C. M. Callbeck",
         "R. Niederdorfer",
-        "C. Schubert",
+        "C. J. Schubert",
         "B. Müller",
-        "M. Lever",
-        "H. Bürgmann"
+        "M. A. Lever",
+        "H. Bürgmann"
       ],
       "journal": "bioRxiv",
       "publication_date": "2021-07-13",
@@ -40049,7 +40213,7 @@
         "S. Gadegaonkar",
         "Holar Sepp",
         "Mikk Espenberg",
-        "J. Pärn",
+        "Jaan Pärn",
         "K. Kirsimäe",
         "Ü. Mander"
       ],
@@ -40167,7 +40331,7 @@
         "Kristin Pille",
         "M. Maddison",
         "Xiuzhen Li",
-        "Ü. Mander"
+        "Ülo Mander"
       ],
       "journal": "",
       "publication_date": "2021-03-03",
@@ -41568,12 +41732,12 @@
       "doi": "10.1016/j.apsoil.2020.103704",
       "title": "Fertilization strategies affect soil properties and abundance of N-cycling functional genes in an acidic agricultural soil",
       "authors": [
-        "W. Li",
+        "Wen-Xing Li",
         "Chao Wang",
         "M. Zheng",
-        "Zehui Cai",
-        "Bo-ren Wang",
-        "R. Shen"
+        "Ze-Jiang Cai",
+        "Bo-Ren Wang",
+        "Ren-Fang Shen"
       ],
       "journal": "Applied Soil Ecology",
       "publication_date": "2020-12-01",
@@ -41690,7 +41854,7 @@
         "Bin Jiang",
         "Junhui Chen",
         "J. Shan",
-        "Jonathan M Adams",
+        "Jonathan M. Adams",
         "Hua Qin",
         "Baozhan Wang"
       ],
@@ -44148,7 +44312,7 @@
       "authors": [
         "Mei Wang",
         "Xiying Xie",
-        "Mianzhi Wang",
+        "Mian-Zhi Wang",
         "Jing Wu",
         "Qin Zhou",
         "Yongxue Sun"
@@ -45821,7 +45985,7 @@
       "authors": [
         "O. Rasigraf",
         "N. V. van Helmond",
-        "Jeroen Frank",
+        "J. Frank",
         "W. Lenstra",
         "M. Egger",
         "C. Slomp",
@@ -46840,7 +47004,7 @@
       "doi": "10.1016/J.SOILBIO.2018.02.004",
       "title": "Spatial zoning of microbial functions and plant-soil nitrogen dynamics across a riparian area in an extensively grazed livestock system",
       "authors": [
-        "L. Sosa",
+        "Laura L. de Sosa",
         "H. Glanville",
         "M. Marshall",
         "A. P. Williams",
@@ -48642,16 +48806,14 @@
       "doi": "10.1128/mBio.01193-14",
       "title": "Detecting Nitrous Oxide Reductase (nosZ) Genes in Soil Metagenomes: Method Development and Implications for the Nitrogen Cycle",
       "authors": [
-        "Luis H. Orellana",
-        "L. Rodriguez-R.",
+        "L. H. Orellana",
+        "L. M. Rodriguez-R",
         "S. Higgins",
-        "J. Chee-Sanford",
-        "Robert A. Sanford",
-        "K. Ritalahti",
-        "K. Ritalahti",
-        "Frank E. Löffler",
-        "Frank E. Löffler",
-        "K. Konstantinidis"
+        "J. C. Chee-Sanford",
+        "R. A. Sanford",
+        "K. M. Ritalahti",
+        "F. Loffler",
+        "K. T. Konstantinidis"
       ],
       "journal": "mBio",
       "publication_date": "2014-06-03",
@@ -48927,7 +49089,7 @@
         "Guangming Zhang",
         "Q. Chen",
         "Jianhui Huang",
-        "Linghao Li",
+        "Ling-hao Li",
         "J. Elser",
         "Xingguo Han"
       ],
@@ -49213,7 +49375,7 @@
       "title": "Drivers of archaeal ammonia-oxidizing communities in soil",
       "authors": [
         "Kateryna Zhalnina",
-        "P. D. de Quadros",
+        "Patrícia Dörr de Quadros",
         "F. Camargo",
         "E. Triplett"
       ],
