@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:31:41.632493+00:00",
+  "updated_at": "2026-09-01T00:41:10.057558+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,249 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "b912c05577018754bd3f6456a40eca4891784a1f",
+      "semantic_scholar_id": "b912c05577018754bd3f6456a40eca4891784a1f",
+      "source": "Semantic Scholar",
+      "pmid": "42666020",
+      "doi": "10.1111/gcb.71083",
+      "title": "Decadal Resampling Reveals Widespread Increases in Soil Microbial Diversity Associated With Nitrogen Deposition.",
+      "authors": [
+        "Yi Fan",
+        "Yi-Heng Tao",
+        "Bin Hua",
+        "P. Kardol",
+        "Y. Kuzyakov",
+        "Shuang Pang",
+        "Yi Wu",
+        "Tingting Li",
+        "Wei Yang",
+        "Honghui Wu",
+        "A. A. Goncharov",
+        "Anastasia Yu. Korotkevich",
+        "Rong Mao",
+        "Yang Zhang",
+        "Ximei Zhang"
+      ],
+      "journal": "Global Change Biology",
+      "publication_date": "2026-08-28",
+      "abstract": "Simulated manipulation experiments, such as nitrogen addition to mimic atmospheric nitrogen deposition, are widely used in global change research. However, experimental manipulations may differ from real-world environmental change in their intensity, duration, and co-occurrence, leaving long-term changes in soil microbial communities and soil health insufficiently understood. To address this gap, we resampled soils from 38 forest and grassland ecosystems across eastern China in 2009 and 2019 and assessed microbial taxonomic and functional diversity using shotgun metagenomics. Microbial diversity increased by 17% over the decade, accompanied by clear shifts in community composition. Among the environmental variables considered, nitrogen deposition (~19 kg nitrogen ha-1 year-1 across ecosystems) was the strongest predictor of changes in seven of 12 microbial community metrics. Larger nitrogen deposition was also associated with increased relative abundances of nitrogen-cycling genes and reduced spatial turnover in microbial community composition. These effects were consistent with a potential alleviation of nitrogen limitation and weakening of deterministic community assembly, although these mechanisms could not be directly established. In addition, increases in genes associated with carbon degradation and phosphorus cycling, together with declines in the relative abundances of pathogens, antibiotic resistance genes, and DNA viruses, coincided with the raise of the composite soil health index. Our findings demonstrate widespread decadal increases in soil microbial diversity and soil health across eastern China, with nitrogen deposition emerging as their strongest environmental factor. These results highlight that microbial responses to long-term ambient environmental change can differ markedly from responses inferred from short-term or high-intensity manipulation experiments.",
+      "url": "https://www.semanticscholar.org/paper/b912c05577018754bd3f6456a40eca4891784a1f",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/b912c05577018754bd3f6456a40eca4891784a1f",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.71083",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 37,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "97d3e4a739b219145e948815d7664420b6474cb1",
+          "title": "Divergent Shift in Soil Microbial Communities Through Conversion From Forestland to Vineyards",
+          "year": 2026,
+          "journal": "Land Degradation &amp; Development",
+          "authors": [
+            "Ning Wang",
+            "Tooba Mumtaz",
+            "Yuyao Yuan"
+          ],
+          "doi": "10.1002/ldr.70741",
+          "url": "https://www.semanticscholar.org/paper/97d3e4a739b219145e948815d7664420b6474cb1",
+          "citation_count": 0
+        },
+        {
+          "id": "d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "title": "Experimental drought drives divergent succession of soil microbiota.",
+          "year": 2026,
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "authors": [
+            "Sihang Deng",
+            "Yunfeng Yang",
+            "Xue Guo"
+          ],
+          "doi": "10.1073/pnas.2537753123",
+          "url": "https://www.semanticscholar.org/paper/d33756524f53fb1a98d32e07a65139be6fe9812e",
+          "citation_count": 0
+        },
+        {
+          "id": "ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
+          "title": "Six-year nitrogen addition alters microbial-derived carbon accumulation in association with soil stoichiometry and microbial community reorganization in an alpine coniferous forest",
+          "year": 2026,
+          "journal": "Frontiers in Forests and Global Change",
+          "authors": [
+            "Shaobing Zhang",
+            "Yanying Han",
+            "Zhipan Cui"
+          ],
+          "doi": "10.3389/ffgc.2026.1905473",
+          "url": "https://www.semanticscholar.org/paper/ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
+          "citation_count": 0
+        },
+        {
+          "id": "e161ec55f3225766328ab283c8d3f843e355ca9f",
+          "title": "Can Organic Amendments Override Environmental Filtering of Soil Microbiomes? Evidence From 20 Years Old Agricultural Field Trials in Contrasting Tropical Sites.",
+          "year": 2026,
+          "journal": "Global Change Biology",
+          "authors": [
+            "Anna M. Visscher",
+            "S. Ndungu",
+            "Rafaela Feola Conz"
+          ],
+          "doi": "10.1111/gcb.71061",
+          "url": "https://www.semanticscholar.org/paper/e161ec55f3225766328ab283c8d3f843e355ca9f",
+          "citation_count": 0
+        },
+        {
+          "id": "dd354b88dcde726195977af4f39d72c25a2cc8a4",
+          "title": "Serpentine Biocrust Microbes Maintain Nitrogen Cycling Under Drought and Heavy Metal Stress",
+          "year": 2026,
+          "journal": "Ecological research",
+          "authors": [
+            "Sandra Barnard",
+            "O. Barachiah",
+            "S. J. Siebert"
+          ],
+          "doi": "10.1111/1440-1703.70113",
+          "url": "https://www.semanticscholar.org/paper/dd354b88dcde726195977af4f39d72c25a2cc8a4",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "forest",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-09-01T00:40:53.855875+00:00",
+      "edges_enriched_at": "2026-09-01T00:40:54.476709+00:00"
+    },
+    {
+      "id": "a8b752533a76c660f83af7f9fadd44e5dbf6b7bb",
+      "semantic_scholar_id": "a8b752533a76c660f83af7f9fadd44e5dbf6b7bb",
+      "source": "Semantic Scholar",
+      "pmid": "42664608",
+      "doi": "10.1016/j.wasman.2026.115839",
+      "title": "Application-dependent effects of tea waste biochar on PFAS mobility and N2O and CH4 emissions in agricultural soil.",
+      "authors": [
+        "Liting Hao",
+        "Dong-Dong Zhang",
+        "Ziheng Zhao",
+        "Jun Wang",
+        "Ruojv Wang",
+        "Miao Li"
+      ],
+      "journal": "Waste Management",
+      "publication_date": "2026-08-28",
+      "abstract": "Per- and polyfluoroalkyl substances (PFAS) in agricultural soils can migrate into crops and may alter soil greenhouse gas emissions, yet remediation strategies rarely address these risks simultaneously. This study evaluated tea waste biochar (TWB) produced at 400, 500, and 600 °C and applied at 5-20 g per pot by whole-soil mixing or surface-layer placement in a simulated PFAS-contaminated soil-leachate-plant system. Perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA) distributions, nitrous oxide (N2O) and methane (CH4) fluxes, and microbial responses were examined. TWB produced at 500 °C showed the most favorable combination of pore accessibility, surface hydrophobicity, and interfacial charge, with material-associated PFOS and PFOA enrichments of 0.12 and 0.57 μg/g, respectively. Whole-soil mixing with TWB-500 lowered soil and leachate PFAS levels and reduced PFAS concentrations in plant shoots by approximately 36% relative to the contaminated control. TWB treatments also reduced cumulative N2O emissions and enhanced net CH4 uptake. Metagenomic analysis showed lower relative abundances of genes associated with nitrogen fixation, ammonia oxidation, and several N2O-producing pathways, whereas CH4-cycling genes responded differently to the two application methods. Organic fluorine transformation genes were not enriched, indicating that PFAS control mainly resulted from physicochemical retention rather than enhanced microbial defluorination. Overall, TWB-500 can integrate PFAS stabilization with greenhouse gas management, but the optimal placement depends on the remediation objective: whole-soil mixing favors PFAS immobilization, whereas surface-layer application provides greater greenhouse gas mitigation.",
+      "url": "https://www.semanticscholar.org/paper/a8b752533a76c660f83af7f9fadd44e5dbf6b7bb",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8b752533a76c660f83af7f9fadd44e5dbf6b7bb",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 51,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "152fbaf123d34150e44cf1767c45c85f75227ef0",
+          "title": "Biodegradable and conventional microplastics differentially affected greenhouse gas emissions from a flooded paddy soil: Insight into metagenomic analysis.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Wenfang Li",
+            "Zhi Yu",
+            "Jian Zhang"
+          ],
+          "doi": "10.1016/j.envpol.2026.128934",
+          "url": "https://www.semanticscholar.org/paper/152fbaf123d34150e44cf1767c45c85f75227ef0",
+          "citation_count": 0
+        },
+        {
+          "id": "4a2a616062ecd0cd89fc95b4fa5efcb2a512dac8",
+          "title": "Remediation of per- and polyfluoroalkyl substances in simulated groundwater combining an iron coated reactive barrier with electro-assisted regeneration.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "J. Uwayezu",
+            "A. Tasca",
+            "Ivan Carabante"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130521",
+          "url": "https://www.semanticscholar.org/paper/4a2a616062ecd0cd89fc95b4fa5efcb2a512dac8",
+          "citation_count": 0
+        },
+        {
+          "id": "20a51d2d4c73a951b7426b2ac0bf362fed51eedb",
+          "title": "Mitigation effects of solar-driven metalloporphyrins on CO2 and N2O emissions from an agricultural soil.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Zongyang Han",
+            "Zhijun Wei",
+            "Heng Yu"
+          ],
+          "doi": "10.1016/j.jenvman.2026.130785",
+          "url": "https://www.semanticscholar.org/paper/20a51d2d4c73a951b7426b2ac0bf362fed51eedb",
+          "citation_count": 0
+        },
+        {
+          "id": "7d76088d77103611586f62ac417bcebf7869800e",
+          "title": "Impact of Surfactant-Modified\nBiochar–Clay\nSoil Amendments on Per/Polyfluoroalkyl Substance (PFAS) Accumulation\nin Lettuce (\n Lactuca sativa\n )",
+          "year": 2026,
+          "journal": "ACS ES&amp;T Engineering",
+          "authors": [
+            "R. Mukhopadhyay",
+            "R. Pures",
+            "David V. P. Sanchez"
+          ],
+          "doi": "10.1021/acsestengg.6c00294",
+          "url": "https://www.semanticscholar.org/paper/7d76088d77103611586f62ac417bcebf7869800e",
+          "citation_count": 0
+        },
+        {
+          "id": "919e249ff23c416a64e08446ab1d717ca4471aec",
+          "title": "Integrated thermal and phytoremediation of agricultural soils impacted by PFAS",
+          "year": 2026,
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "authors": [
+            "Jake T Thompson",
+            "Millie Dobson",
+            "T. J. Suhrhoff"
+          ],
+          "doi": "10.1073/pnas.2600786123",
+          "url": "https://www.semanticscholar.org/paper/919e249ff23c416a64e08446ab1d717ca4471aec",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "denitrification",
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "nitrogen_fixation",
+        "soil",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-01T00:40:53.855875+00:00",
+      "edges_enriched_at": "2026-09-01T00:40:54.476709+00:00"
+    },
     {
       "id": "b3e714ac652b6324cd2a89a372764cd3623fa3d9",
       "semantic_scholar_id": "b3e714ac652b6324cd2a89a372764cd3623fa3d9",
@@ -3094,7 +3337,7 @@
       "url": "https://www.semanticscholar.org/paper/892689b54ea57572c057d7226d010376b1fb7359",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/892689b54ea57572c057d7226d010376b1fb7359",
       "pdf_url": "https://doi.org/10.1016/j.isci.2026.116009",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 134,
       "references": [
@@ -4398,7 +4641,7 @@
       "url": "https://www.semanticscholar.org/paper/ea97506890e79d962f91ceb6bad719497060ac2c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ea97506890e79d962f91ceb6bad719497060ac2c",
       "pdf_url": "https://www.mdpi.com/2076-2607/14/5/1022/pdf?version=1779181499",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 22,
       "references": [
@@ -6333,7 +6576,7 @@
       "url": "https://www.semanticscholar.org/paper/4bbd649a12be452587cf46bdfb489a984d04747f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4bbd649a12be452587cf46bdfb489a984d04747f",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [],
@@ -6624,7 +6867,7 @@
       "url": "https://www.semanticscholar.org/paper/e6116c46bc926a5b7a2fe6fd723582188627dd45",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e6116c46bc926a5b7a2fe6fd723582188627dd45",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 53,
       "references": [],
@@ -8457,7 +8700,7 @@
       "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 49,
       "references": [],
@@ -11783,7 +12026,7 @@
       "url": "https://www.semanticscholar.org/paper/b9e2581fdca054831165758fdc7885f9445e3525",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b9e2581fdca054831165758fdc7885f9445e3525",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 52,
       "references": [],
@@ -12453,7 +12696,7 @@
       "url": "https://www.semanticscholar.org/paper/7962299c924f25cf70091c07400d02a254257cf3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7962299c924f25cf70091c07400d02a254257cf3",
       "pdf_url": "https://doi.org/10.1038/s41467-025-63601-0",
-      "citation_count": 24,
+      "citation_count": 25,
       "influential_citation_count": 0,
       "reference_count": 88,
       "references": [
@@ -13242,7 +13485,7 @@
       "url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "pdf_url": "",
-      "citation_count": 14,
+      "citation_count": 15,
       "influential_citation_count": 0,
       "reference_count": 93,
       "references": [],
@@ -13655,7 +13898,7 @@
       "url": "https://www.semanticscholar.org/paper/0658e44edb979bf5e226333e81de54335ca14177",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0658e44edb979bf5e226333e81de54335ca14177",
       "pdf_url": "",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [],
@@ -13937,7 +14180,7 @@
       "url": "https://www.semanticscholar.org/paper/f9b343d95d3232e8cb633640e21c419ae11ec768",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f9b343d95d3232e8cb633640e21c419ae11ec768",
       "pdf_url": "https://doi.org/10.1128/spectrum.00542-25",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 95,
       "references": [
@@ -18549,7 +18792,7 @@
       "url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "pdf_url": "",
-      "citation_count": 25,
+      "citation_count": 26,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -18904,7 +19147,7 @@
       "url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "pdf_url": "",
-      "citation_count": 61,
+      "citation_count": 62,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -23224,7 +23467,7 @@
       "url": "https://www.semanticscholar.org/paper/52fc57cf86bd5226df3b6572ede7f3b0ef9007f0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/52fc57cf86bd5226df3b6572ede7f3b0ef9007f0",
       "pdf_url": "",
-      "citation_count": 22,
+      "citation_count": 23,
       "influential_citation_count": 1,
       "reference_count": 73,
       "references": [],
@@ -30280,7 +30523,7 @@
       "url": "https://www.semanticscholar.org/paper/3082ad83e4931fb631ea48facee04153f60a1a60",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3082ad83e4931fb631ea48facee04153f60a1a60",
       "pdf_url": "https://doi.org/10.3389/fmicb.2023.1205088",
-      "citation_count": 33,
+      "citation_count": 34,
       "influential_citation_count": 0,
       "reference_count": 77,
       "references": [
@@ -32171,7 +32414,7 @@
       "url": "https://www.semanticscholar.org/paper/d25b841057d173c3443a21929d73825eea05071a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d25b841057d173c3443a21929d73825eea05071a",
       "pdf_url": "",
-      "citation_count": 45,
+      "citation_count": 46,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -32725,7 +32968,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 187,
+      "citation_count": 188,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -33675,7 +33918,7 @@
       "url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "pdf_url": "",
-      "citation_count": 145,
+      "citation_count": 147,
       "influential_citation_count": 4,
       "reference_count": 85,
       "references": [],
@@ -37608,7 +37851,7 @@
       "url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "pdf_url": "",
-      "citation_count": 208,
+      "citation_count": 209,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -39041,7 +39284,7 @@
       "url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0160412021001471/pdf",
-      "citation_count": 192,
+      "citation_count": 193,
       "influential_citation_count": 6,
       "reference_count": 64,
       "references": [
@@ -42978,7 +43221,7 @@
       "url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "pdf_url": "https://doi.org/10.1021/acs.est.0c00036.s001",
-      "citation_count": 98,
+      "citation_count": 99,
       "influential_citation_count": 4,
       "reference_count": 58,
       "references": [],
@@ -44620,7 +44863,7 @@
       "url": "https://www.semanticscholar.org/paper/6f3c8b0ddd77bf629f5372b7d133e2c2801c736a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6f3c8b0ddd77bf629f5372b7d133e2c2801c736a",
       "pdf_url": "",
-      "citation_count": 131,
+      "citation_count": 132,
       "influential_citation_count": 6,
       "reference_count": 137,
       "references": [],
@@ -46268,7 +46511,7 @@
       "url": "https://www.semanticscholar.org/paper/1b7d48cc69d24d8a55c2a20bd955185f87619752",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1b7d48cc69d24d8a55c2a20bd955185f87619752",
       "pdf_url": "",
-      "citation_count": 105,
+      "citation_count": 106,
       "influential_citation_count": 4,
       "reference_count": 65,
       "references": [],
@@ -48863,7 +49106,7 @@
       "url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "pdf_url": "https://www.nature.com/articles/ismej2013160.pdf",
-      "citation_count": 634,
+      "citation_count": 635,
       "influential_citation_count": 25,
       "reference_count": 86,
       "references": [],
