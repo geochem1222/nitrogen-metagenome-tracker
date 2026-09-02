@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:20:54.169902+00:00",
+  "updated_at": "2026-09-02T23:22:11.853677+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -499,7 +499,7 @@
       "authors": [
         "Xiang Zhang",
         "Qiong Zhao",
-        "Li-Man Wei",
+        "Liman Wei",
         "Su Mei",
         "Yong-Hong Ma",
         "Lin-Hui Wu",
@@ -2691,7 +2691,7 @@
         "Yitong Liu",
         "Siyou Li",
         "Lingkai Wang",
-        "Fahui Gong",
+        "Fa-Hui Gong",
         "Nan Hu",
         "Dexin Ding",
         "Huang Yu"
@@ -3118,34 +3118,6 @@
       ],
       "similar_papers": [
         {
-          "id": "a192a5ecbc3dee68e85ee1ad99c0301f77a06487",
-          "title": "Legume-maize rotation and nitrogen fertilization boost microbial communities to enhance soil function and maize yield.",
-          "year": 2026,
-          "journal": "Journal of Environmental Management",
-          "authors": [
-            "Lang Cheng",
-            "Yige Lei",
-            "Xiqing Hou"
-          ],
-          "doi": "10.1016/j.jenvman.2026.130248",
-          "url": "https://www.semanticscholar.org/paper/a192a5ecbc3dee68e85ee1ad99c0301f77a06487",
-          "citation_count": 0
-        },
-        {
-          "id": "1841deae4c245fad60882a9a5bd5ac701827bb49",
-          "title": "Consecutive melon monocropping is associated with microbial community homogenization and reduced bacterial network complexity",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Guozhi Hu",
-            "Muxi Xie",
-            "Guangzhou Wang"
-          ],
-          "doi": "10.3389/fmicb.2026.1884506",
-          "url": "https://www.semanticscholar.org/paper/1841deae4c245fad60882a9a5bd5ac701827bb49",
-          "citation_count": 0
-        },
-        {
           "id": "97d3e4a739b219145e948815d7664420b6474cb1",
           "title": "Divergent Shift in Soil Microbial Communities Through Conversion From Forestland to Vineyards",
           "year": 2026,
@@ -3157,6 +3129,20 @@
           ],
           "doi": "10.1002/ldr.70741",
           "url": "https://www.semanticscholar.org/paper/97d3e4a739b219145e948815d7664420b6474cb1",
+          "citation_count": 0
+        },
+        {
+          "id": "554cfa41005deefc2ae3779d2404bac58b320e7c",
+          "title": "Characterizing How Community‐Level Plant Functional Traits Impact Soil Microbial Diversity",
+          "year": 2026,
+          "journal": "Journal of Sustainable Agriculture and Environment",
+          "authors": [
+            "Prashasti Agarwal",
+            "Jacob N. Barney",
+            "Brian D. Strahm"
+          ],
+          "doi": "10.1002/sae2.70196",
+          "url": "https://www.semanticscholar.org/paper/554cfa41005deefc2ae3779d2404bac58b320e7c",
           "citation_count": 0
         },
         {
@@ -3174,18 +3160,32 @@
           "citation_count": 0
         },
         {
-          "id": "6580442b2a980ac2c4b56fef849b491c219a1e33",
-          "title": "Effects of cover cropping on orchard soil microbiomes: Mechanisms and perspectives",
+          "id": "3a4471fa17c0560c9abc9b037537ac9ea0e3171e",
+          "title": "Soil microbial indicators and bacterial co-occurrence networks reveal early changes under no-tillage and cover crops in a tropical Oxisol.",
           "year": 2026,
-          "journal": "AIMS Microbiology",
+          "journal": "Anais da Academia Brasileira de Ciências",
           "authors": [
-            "Guan Guan",
-            "Pingzhi He",
-            "Yu Miao"
+            "A. S. Ferreira",
+            "R. B. Pinheiro",
+            "R. S. Mendonça"
           ],
-          "doi": "10.3934/microbiol.2026010",
-          "url": "https://www.semanticscholar.org/paper/6580442b2a980ac2c4b56fef849b491c219a1e33",
-          "citation_count": 1
+          "doi": "10.1590/0001-3765202620260015",
+          "url": "https://www.semanticscholar.org/paper/3a4471fa17c0560c9abc9b037537ac9ea0e3171e",
+          "citation_count": 0
+        },
+        {
+          "id": "b6e66ae47dff6d0c6c5b6b56e885041a7ce248ac",
+          "title": "Divergent group-specific pathways of microbial diversity and network complexity maintain soil multifunctionality during alpine grassland restoration",
+          "year": 2026,
+          "journal": "Frontiers in Plant Science",
+          "authors": [
+            "Chenfeng Zheng",
+            "Mo Chen",
+            "Keyi Li"
+          ],
+          "doi": "10.3389/fpls.2026.1923179",
+          "url": "https://www.semanticscholar.org/paper/b6e66ae47dff6d0c6c5b6b56e885041a7ce248ac",
+          "citation_count": 0
         }
       ],
       "fields_of_study": [
@@ -3204,8 +3204,8 @@
         "nitrogen_fixation",
         "soil"
       ],
-      "detail_enriched_at": "2026-08-03T22:19:23.364264+00:00",
-      "edges_enriched_at": "2026-08-03T22:19:32.177103+00:00"
+      "detail_enriched_at": "2026-09-02T23:22:08.368465+00:00",
+      "edges_enriched_at": "2026-09-02T23:22:09.025736+00:00"
     },
     {
       "id": "53c5bcc82e8a2f6c407476532f8d163c88d7fa36",
@@ -7479,7 +7479,7 @@
         "Jing Fang",
         "Rui Xie",
         "Yuchen Cheng",
-        "Xu-Ting Zhang",
+        "Xuting Zhang",
         "Hailong Zhang",
         "Fengcheng Sun",
         "Zhanyuan Lu"
@@ -8744,7 +8744,7 @@
       "url": "https://www.semanticscholar.org/paper/00a648e1ba906b4d4e00bceada9268b5c79dbffe",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/00a648e1ba906b4d4e00bceada9268b5c79dbffe",
       "pdf_url": "",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 58,
       "references": [],
@@ -10972,7 +10972,7 @@
         "Hongyan Cheng",
         "Minshu Yuan",
         "Chengjie Ren",
-        "F. Zhao",
+        "Fazhu Zhao",
         "Jun Wang"
       ],
       "journal": "Microorganisms",
@@ -15619,7 +15619,7 @@
         "Shuzhen Li",
         "Xue Yan",
         "J. Ndayishimiye",
-        "Alexey Smirnov",
+        "Alexey V. Smirnov",
         "Andrey N. Tsyganov",
         "E. Nassonova",
         "N. Mazei",
@@ -18454,7 +18454,7 @@
         "Zichen Huang",
         "Jiannan Wang",
         "Xin He",
-        "Meng-tao Zhang",
+        "Mengyang Zhang",
         "Xingyue Ren",
         "Wenya Yu",
         "Sheng Yao",
@@ -19298,7 +19298,7 @@
       "title": "Soil metagenomics reveals reduced tillage improves soil functional profiles of carbon, nitrogen, and phosphorus cycling in bulk and rhizosphere soils",
       "authors": [
         "Xiaojing Hu",
-        "Jun-jie Liu",
+        "Junjie Liu",
         "Aizhen Liang",
         "Haidong Gu",
         "Zhuxiu Liu",
@@ -21898,7 +21898,7 @@
         "Yuzheng Zong",
         "Dongsheng Zhang",
         "Xinrui Shi",
-        "X. Hao",
+        "Xingyu Hao",
         "Ping Li"
       ],
       "journal": "Plant and Soil",
@@ -22409,14 +22409,14 @@
       "doi": "10.3390/microorganisms12091901",
       "title": "Distribution Characteristics of Nitrogen-Cycling Microorganisms in Deep-Sea Surface Sediments of Western South China Sea",
       "authors": [
-        "Xingjia Yin",
+        "Xing-Jia Yin",
         "Hui Chen",
         "Kaixi Jiang",
         "Boda Zhang",
         "Ruohong Li",
         "Xinzhe Zhu",
         "Lianpeng Sun",
-        "Z. L. Ng",
+        "Z. Ng",
         "Ming Su"
       ],
       "journal": "Microorganisms",
@@ -23970,7 +23970,7 @@
       "doi": "10.1007/s42729-024-01867-x",
       "title": "The Application of Orychophragmus violaceus as a Green Manure Relieves Continuous Cropping Obstacles in Peanut Cultivation by Altering the Soil Microbial Community and Functional Gene Abundance",
       "authors": [
-        "Tianyi Yu",
+        "Tian-yi Yu",
         "Qiqi Sun",
         "Zhigang Liu",
         "Xuancang Wang",
@@ -25967,7 +25967,7 @@
         "Hanna Koch",
         "Xiyang Dong",
         "L. Hou",
-        "Danhe Wang",
+        "Dan-He Wang",
         "Qian Zhao",
         "Zhe Li",
         "Min Liu",
@@ -27838,12 +27838,12 @@
         "Alessandra Mazzoli",
         "Guillem Salazar",
         "H. Ruscheweyh",
-        "Beat Müller",
+        "B. Müller",
         "R. Niederdorfer",
         "S. Sunagawa",
         "M. Lever",
         "M. F. Lehmann",
-        "H. Bürgmann"
+        "H. Bürgmann"
       ],
       "journal": "ISME Communications",
       "publication_date": "2024-01-01",
@@ -28855,7 +28855,7 @@
         "Hanna Koch",
         "Xiyang Dong",
         "L. Hou",
-        "Danhe Wang",
+        "Dan-He Wang",
         "Qian Zhao",
         "Zhe Li",
         "Min Liu",
@@ -29023,7 +29023,7 @@
       "authors": [
         "L. Li",
         "Zhengrong Hu",
-        "G. Tan",
+        "Ge Tan",
         "Jianqiang Fan",
         "Yiqiang Chen",
         "Yansong Xiao",
@@ -30167,7 +30167,7 @@
         "Peiqing Qin",
         "Shiyu Luo",
         "Yinjun Zhao",
-        "Fang-ming Yu",
+        "Fang-Ming Yu",
         "Yi Li"
       ],
       "journal": "Journal of Environmental Management",
@@ -30284,7 +30284,7 @@
         "Junsong Tian",
         "T. Ding",
         "Na Cheng",
-        "Lifang Hu"
+        "Li-Fang Hu"
       ],
       "journal": "Journal of Environmental Management",
       "publication_date": "2023-08-08",
@@ -30675,7 +30675,7 @@
         "Yingying Dou",
         "Mengmeng Wen",
         "Cai-di Yang",
-        "F. Zhao",
+        "Fazhu Zhao",
         "C. Ren",
         "N. Zhang",
         "Yinyan Liang",
@@ -30967,7 +30967,7 @@
         "Shengnan Zhao",
         "Biao Sun",
         "Yanjun Wang",
-        "Guo-Hua Li",
+        "Guohua Li",
         "Zhimou Cui",
         "Xueru Pan",
         "Guo-Guang Li",
@@ -31256,7 +31256,7 @@
         "Cai-di Yang",
         "U. Sainju",
         "N. Zhang",
-        "F. Zhao",
+        "Fazhu Zhao",
         "Weizhen Wang",
         "Jun Wang"
       ],
@@ -33120,7 +33120,7 @@
         "Haidong Gu",
         "X. Sun",
         "Yongbin Wang",
-        "Jun-jie Liu",
+        "Junjie Liu",
         "Zhenhua Yu",
         "Yansheng Li",
         "Jian Jin",
@@ -33907,7 +33907,7 @@
       "authors": [
         "Shuzhen Wang",
         "Wenwen Chen",
-        "Qi-jun Gao",
+        "Qi-Jun Gao",
         "Chuifan Zhou"
       ],
       "journal": "Forests",
@@ -34476,7 +34476,7 @@
       "url": "https://www.semanticscholar.org/paper/ffed90623773082064f225b4988a8448759e222b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ffed90623773082064f225b4988a8448759e222b",
       "pdf_url": "https://doi.org/10.3389/fpls.2022.998178",
-      "citation_count": 43,
+      "citation_count": 44,
       "influential_citation_count": 0,
       "reference_count": 59,
       "references": [
@@ -34792,7 +34792,7 @@
       "doi": "10.1021/acs.est.2c03566",
       "title": "Pharmaceutical Biotransformation is Influenced by Photosynthesis and Microbial Nitrogen Cycling in a Benthic Wetland Biomat.",
       "authors": [
-        "M. Vega",
+        "Michael A. P. Vega",
         "Rachel C. Scholes",
         "Adam R. Brady",
         "R. Daly",
@@ -35911,7 +35911,7 @@
         "C. Ren",
         "Jun Wang",
         "Yaoxin Guo",
-        "F. Zhao"
+        "Fazhu Zhao"
       ],
       "journal": "European Journal of Soil Science",
       "publication_date": "2022-07-03",
@@ -36023,7 +36023,7 @@
       "authors": [
         "Xiaojing Hu",
         "Haidong Gu",
-        "Jun-jie Liu",
+        "Junjie Liu",
         "Dan Wei",
         "P. Zhu",
         "Xi’an Cui",
@@ -36645,7 +36645,7 @@
         "C. Schubert",
         "B. Müller",
         "M. Lever",
-        "H. Bürgmann"
+        "H. Bürgmann"
       ],
       "journal": "Msphere",
       "publication_date": "2022-02-02",
@@ -37134,7 +37134,7 @@
       "authors": [
         "Yuqing Liu",
         "Qiao-Dong Chi",
-        "H. Cheng",
+        "Hui Cheng",
         "H. Ding",
         "Teng Wen",
         "Jun Zhao",
@@ -38404,7 +38404,7 @@
         "Churong Liu",
         "Yushi Zhang",
         "Hongrun Liu",
-        "Xueqing Liu",
+        "Xue-Qing Liu",
         "Danyang Ren",
         "Ligang Wang",
         "Dahai Guan",
@@ -38976,11 +38976,11 @@
       "authors": [
         "K. B. L. Baumann",
         "R. Thoma",
-        "C. M. Callbeck",
+        "C. Callbeck",
         "R. Niederdorfer",
         "C. J. Schubert",
         "B. Müller",
-        "M. A. Lever",
+        "M. Lever",
         "H. Bürgmann"
       ],
       "journal": "bioRxiv",
@@ -39774,7 +39774,7 @@
       "url": "https://www.semanticscholar.org/paper/4556195dded0e69e4f8d4b19a9731bffc649f195",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4556195dded0e69e4f8d4b19a9731bffc649f195",
       "pdf_url": "https://doi.org/10.1128/msystems.00161-21",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 0,
       "reference_count": 98,
       "references": [
@@ -41470,7 +41470,7 @@
       "url": "https://www.semanticscholar.org/paper/38b9b2aaf89836e544f418c0fc4735ee1faa148d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/38b9b2aaf89836e544f418c0fc4735ee1faa148d",
       "pdf_url": "",
-      "citation_count": 19,
+      "citation_count": 20,
       "influential_citation_count": 2,
       "reference_count": 55,
       "references": [],
@@ -41735,9 +41735,9 @@
         "Wen-Xing Li",
         "Chao Wang",
         "M. Zheng",
-        "Ze-Jiang Cai",
-        "Bo-Ren Wang",
-        "Ren-Fang Shen"
+        "Zehui Cai",
+        "Bo-ren Wang",
+        "R. Shen"
       ],
       "journal": "Applied Soil Ecology",
       "publication_date": "2020-12-01",
@@ -44312,7 +44312,7 @@
       "authors": [
         "Mei Wang",
         "Xiying Xie",
-        "Mian-Zhi Wang",
+        "Mianzhi Wang",
         "Jing Wu",
         "Qin Zhou",
         "Yongxue Sun"
@@ -46227,7 +46227,7 @@
       "url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "pdf_url": "http://manuscript.elsevier.com/S0038071718302864/pdf/S0038071718302864.pdf",
-      "citation_count": 364,
+      "citation_count": 365,
       "influential_citation_count": 8,
       "reference_count": 72,
       "references": [],
@@ -47173,7 +47173,7 @@
       "authors": [
         "Mikk Espenberg",
         "M. Truu",
-        "Ü. Mander",
+        "Ülo Mander",
         "K. Kasak",
         "H. Nõlvak",
         "T. Ligi",
@@ -47187,7 +47187,7 @@
       "url": "https://www.semanticscholar.org/paper/e1aa367a4f8a5c2830dfcf684c545a0fe5804eac",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e1aa367a4f8a5c2830dfcf684c545a0fe5804eac",
       "pdf_url": "https://www.nature.com/articles/s41598-018-23032-y.pdf",
-      "citation_count": 88,
+      "citation_count": 89,
       "influential_citation_count": 2,
       "reference_count": 108,
       "references": [
@@ -48806,14 +48806,16 @@
       "doi": "10.1128/mBio.01193-14",
       "title": "Detecting Nitrous Oxide Reductase (nosZ) Genes in Soil Metagenomes: Method Development and Implications for the Nitrogen Cycle",
       "authors": [
-        "L. H. Orellana",
-        "L. M. Rodriguez-R",
-        "S. Higgins",
-        "J. C. Chee-Sanford",
-        "R. A. Sanford",
-        "K. M. Ritalahti",
-        "F. Loffler",
-        "K. T. Konstantinidis"
+        "Luis H. Orellana",
+        "Luis M. Rodriguez-R",
+        "Steven A. Higgins",
+        "Joanne C. Chee-Sanford",
+        "Robert A. Sanford",
+        "Kirsti M. Ritalahti",
+        "Kirsti M. Ritalahti",
+        "F. Löffler",
+        "F. Löffler",
+        "Konstantinos T. Konstantinidis"
       ],
       "journal": "mBio",
       "publication_date": "2014-06-03",
@@ -49539,7 +49541,7 @@
       "doi": "10.3389/fmicb.2012.00252",
       "title": "Global Biodiversity of Aquatic Ammonia-Oxidizing Archaea is Partitioned by Habitat",
       "authors": [
-        "S. Biller",
+        "Steven J. Biller",
         "A. Mosier",
         "G. Wells",
         "C. A. Francis"
