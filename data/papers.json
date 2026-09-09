@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:29:36.870260+00:00",
+  "updated_at": "2026-09-09T23:17:26.537047+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -9128,6 +9128,126 @@
       "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
     },
     {
+      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "source": "Semantic Scholar",
+      "pmid": "41564488",
+      "doi": "10.1016/j.jenvman.2026.128688",
+      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
+      "authors": [
+        "Zhong-Qing Huang",
+        "Jian Shen",
+        "Jinhui Wang",
+        "Chen Wang",
+        "Huaji Liu",
+        "Chunmei Tian",
+        "Jimeng Feng",
+        "Xinze Wang"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2026-01-20",
+      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
+      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "pdf_url": "",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 49,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "198359d1df1bc525209302d7fb4137b9207bf2af",
+          "title": "Humic-like dissolved organic matter as a potential driver of microbial denitrification in carbon-limited groundwater.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Chenpan Gong",
+            "Xu Cao",
+            "Yi Zhao"
+          ],
+          "doi": "10.1016/j.watres.2026.126617",
+          "url": "https://www.semanticscholar.org/paper/198359d1df1bc525209302d7fb4137b9207bf2af",
+          "citation_count": 0
+        },
+        {
+          "id": "5f457796191935ff607e4db165fb96e2d3dc2cb8",
+          "title": "Seasonal dynamics of geogenic phosphorus in alluvial-lacustrine aquifers: Coupling of phosphorus-containing dissolved organic matter and microbes as a key driver.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Jun-Na Ning",
+            "Yao Du",
+            "Baisong Deng"
+          ],
+          "doi": "10.1016/j.watres.2026.126797",
+          "url": "https://www.semanticscholar.org/paper/5f457796191935ff607e4db165fb96e2d3dc2cb8",
+          "citation_count": 0
+        },
+        {
+          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Zi-Teng Liu",
+            "Xin-Di Zhao",
+            "Jia-qi Li"
+          ],
+          "doi": "10.1093/ismejo/wrag212",
+          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "citation_count": 0
+        },
+        {
+          "id": "0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
+          "title": "Abiotic Pathways Bridge the Molecular Transformation from Terrestrial to Lacustrine Dissolved Organic Matter in Shallow Lakes.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Xueyan Liu",
+            "K. Cui",
+            "Yiling Yao"
+          ],
+          "doi": "10.1021/acs.est.6c05122",
+          "url": "https://www.semanticscholar.org/paper/0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
+          "citation_count": 0
+        },
+        {
+          "id": "e5d62873577d8d77e158af339f1b2e74ed2e095c",
+          "title": "Molecular evidence for algal bloom decay as a critical window for bacteria-mediated DOM transformation toward more refractory forms.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Ziwei Zhang",
+            "Huan-Jun Zhang",
+            "Yi Li"
+          ],
+          "doi": "10.1016/j.watres.2026.126808",
+          "url": "https://www.semanticscholar.org/paper/e5d62873577d8d77e158af339f1b2e74ed2e095c",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "forest",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "sediment",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
+      "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
+    },
+    {
       "id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "source": "Semantic Scholar",
@@ -9286,126 +9406,6 @@
         "microbiome",
         "nitrification",
         "nitrogen",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
-      "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
-    },
-    {
-      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "source": "Semantic Scholar",
-      "pmid": "41564488",
-      "doi": "10.1016/j.jenvman.2026.128688",
-      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
-      "authors": [
-        "Zhong-Qing Huang",
-        "Jian Shen",
-        "Jinhui Wang",
-        "Chen Wang",
-        "Huaji Liu",
-        "Chunmei Tian",
-        "Jimeng Feng",
-        "Xinze Wang"
-      ],
-      "journal": "Journal of Environmental Management",
-      "publication_date": "2026-01-20",
-      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
-      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "pdf_url": "",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 49,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "198359d1df1bc525209302d7fb4137b9207bf2af",
-          "title": "Humic-like dissolved organic matter as a potential driver of microbial denitrification in carbon-limited groundwater.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Chenpan Gong",
-            "Xu Cao",
-            "Yi Zhao"
-          ],
-          "doi": "10.1016/j.watres.2026.126617",
-          "url": "https://www.semanticscholar.org/paper/198359d1df1bc525209302d7fb4137b9207bf2af",
-          "citation_count": 0
-        },
-        {
-          "id": "5f457796191935ff607e4db165fb96e2d3dc2cb8",
-          "title": "Seasonal dynamics of geogenic phosphorus in alluvial-lacustrine aquifers: Coupling of phosphorus-containing dissolved organic matter and microbes as a key driver.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Jun-Na Ning",
-            "Yao Du",
-            "Baisong Deng"
-          ],
-          "doi": "10.1016/j.watres.2026.126797",
-          "url": "https://www.semanticscholar.org/paper/5f457796191935ff607e4db165fb96e2d3dc2cb8",
-          "citation_count": 0
-        },
-        {
-          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Zi-Teng Liu",
-            "Xin-Di Zhao",
-            "Jia-qi Li"
-          ],
-          "doi": "10.1093/ismejo/wrag212",
-          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "citation_count": 0
-        },
-        {
-          "id": "0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
-          "title": "Abiotic Pathways Bridge the Molecular Transformation from Terrestrial to Lacustrine Dissolved Organic Matter in Shallow Lakes.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Xueyan Liu",
-            "K. Cui",
-            "Yiling Yao"
-          ],
-          "doi": "10.1021/acs.est.6c05122",
-          "url": "https://www.semanticscholar.org/paper/0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
-          "citation_count": 0
-        },
-        {
-          "id": "e5d62873577d8d77e158af339f1b2e74ed2e095c",
-          "title": "Molecular evidence for algal bloom decay as a critical window for bacteria-mediated DOM transformation toward more refractory forms.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Ziwei Zhang",
-            "Huan-Jun Zhang",
-            "Yi Li"
-          ],
-          "doi": "10.1016/j.watres.2026.126808",
-          "url": "https://www.semanticscholar.org/paper/e5d62873577d8d77e158af339f1b2e74ed2e095c",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "forest",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrogen",
-        "sediment",
         "urban",
         "water"
       ],
@@ -13318,7 +13318,7 @@
       "url": "https://www.semanticscholar.org/paper/00327c88d5ddfee7ed479194a25fc6b064200af4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/00327c88d5ddfee7ed479194a25fc6b064200af4",
       "pdf_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1657149/pdf",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [
@@ -14057,7 +14057,7 @@
       "url": "https://www.semanticscholar.org/paper/1a4393a950a398492b3845a6bc1dac0de63228b3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1a4393a950a398492b3845a6bc1dac0de63228b3",
       "pdf_url": "https://doi.org/10.3389/fmicb.2025.1656706",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 72,
       "references": [
@@ -20497,7 +20497,7 @@
       "url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "pdf_url": "",
-      "citation_count": 32,
+      "citation_count": 33,
       "influential_citation_count": 0,
       "reference_count": 64,
       "references": [],
@@ -22324,7 +22324,7 @@
       "url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "pdf_url": "",
-      "citation_count": 13,
+      "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -24861,7 +24861,7 @@
       "url": "https://www.semanticscholar.org/paper/854610b25711c5b38f9888af9b5fcafbd06f5dd8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/854610b25711c5b38f9888af9b5fcafbd06f5dd8",
       "pdf_url": "https://doi.org/10.3389/fmars.2024.1369421",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 1,
       "reference_count": 82,
       "references": [
@@ -25145,7 +25145,7 @@
       "url": "https://www.semanticscholar.org/paper/1d8a2f7335f1bb9e22c93c9d2ec3cee5ea6d37e3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1d8a2f7335f1bb9e22c93c9d2ec3cee5ea6d37e3",
       "pdf_url": "https://doi.org/10.1016/j.scitotenv.2024.172954",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 0,
       "reference_count": 86,
       "references": [
@@ -25527,6 +25527,124 @@
       "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
     },
     {
+      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "source": "Semantic Scholar",
+      "pmid": "38749183",
+      "doi": "10.1016/j.watres.2024.121761",
+      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
+      "authors": [
+        "Lutong Yang",
+        "P. Han",
+        "Qiaojuan Wang",
+        "Hui Lin",
+        "Donglin Wang",
+        "Jie Mao",
+        "Weixiao Qi",
+        "Yaohui Bai",
+        "Jiuhui Qu"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2024-05-01",
+      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
+      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "pdf_url": "",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 65,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "6e1ae106127725e09979ef4324890f542b846080",
+          "title": "Emergent Macrophytes Specifically Regulate Ammonia-Oxidizing Microbial Communities and Functions: Comammox Dominance and N2O Emission Effects.",
+          "year": 2026,
+          "journal": "Journal of Applied Microbiology",
+          "authors": [
+            "Qinghua Zhang",
+            "Zhixin Niu",
+            "Jianzhao Li"
+          ],
+          "doi": "10.1093/jambio/lxag178",
+          "url": "https://www.semanticscholar.org/paper/6e1ae106127725e09979ef4324890f542b846080",
+          "citation_count": 0
+        },
+        {
+          "id": "1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
+          "title": "Impacts of sulfamethoxazole on natural periphyton physiology and microbial community stability: Implications for aquatic ecosystem resilience.",
+          "year": 2026,
+          "journal": "Ecotoxicology and Environmental Safety",
+          "authors": [
+            "Songnan Yang",
+            "Jianying Chao",
+            "Yiqun Wang"
+          ],
+          "doi": "10.1016/j.ecoenv.2026.120476",
+          "url": "https://www.semanticscholar.org/paper/1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
+          "citation_count": 0
+        },
+        {
+          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Meiqi Huang",
+            "Shengjie Li",
+            "Guangli Mu"
+          ],
+          "doi": "10.1016/j.envres.2026.125274",
+          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "citation_count": 0
+        },
+        {
+          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Zhiqiang Zuo",
+            "Longkai Qiao",
+            "X. Cen"
+          ],
+          "doi": "10.1021/acs.est.6c03588",
+          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "citation_count": 0
+        },
+        {
+          "id": "468993fad316b615fa499aa7e9e08b3f6084564e",
+          "title": "Marine antifouling biocide 4,5-dichloro-2-n-octyl-4-isothiazolin-3-one disrupts sediment microbiome structure and function: insights from absolute quantification and enzyme activity dynamics",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Jiaxin Zhang",
+            "Libing Cai",
+            "Lin Wang"
+          ],
+          "doi": "10.1128/aem.00819-26",
+          "url": "https://www.semanticscholar.org/paper/468993fad316b615fa499aa7e9e08b3f6084564e",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
+      "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
+    },
+    {
       "id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "semantic_scholar_id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "source": "Semantic Scholar",
@@ -25695,124 +25813,6 @@
         "nitrogen",
         "nitrogen_fixation",
         "sediment"
-      ],
-      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
-      "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
-    },
-    {
-      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "source": "Semantic Scholar",
-      "pmid": "38749183",
-      "doi": "10.1016/j.watres.2024.121761",
-      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
-      "authors": [
-        "Lutong Yang",
-        "P. Han",
-        "Qiaojuan Wang",
-        "Hui Lin",
-        "Donglin Wang",
-        "Jie Mao",
-        "Weixiao Qi",
-        "Yaohui Bai",
-        "Jiuhui Qu"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2024-05-01",
-      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
-      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "pdf_url": "",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 65,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "6e1ae106127725e09979ef4324890f542b846080",
-          "title": "Emergent Macrophytes Specifically Regulate Ammonia-Oxidizing Microbial Communities and Functions: Comammox Dominance and N2O Emission Effects.",
-          "year": 2026,
-          "journal": "Journal of Applied Microbiology",
-          "authors": [
-            "Qinghua Zhang",
-            "Zhixin Niu",
-            "Jianzhao Li"
-          ],
-          "doi": "10.1093/jambio/lxag178",
-          "url": "https://www.semanticscholar.org/paper/6e1ae106127725e09979ef4324890f542b846080",
-          "citation_count": 0
-        },
-        {
-          "id": "1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
-          "title": "Impacts of sulfamethoxazole on natural periphyton physiology and microbial community stability: Implications for aquatic ecosystem resilience.",
-          "year": 2026,
-          "journal": "Ecotoxicology and Environmental Safety",
-          "authors": [
-            "Songnan Yang",
-            "Jianying Chao",
-            "Yiqun Wang"
-          ],
-          "doi": "10.1016/j.ecoenv.2026.120476",
-          "url": "https://www.semanticscholar.org/paper/1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
-          "citation_count": 0
-        },
-        {
-          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Meiqi Huang",
-            "Shengjie Li",
-            "Guangli Mu"
-          ],
-          "doi": "10.1016/j.envres.2026.125274",
-          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "citation_count": 0
-        },
-        {
-          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Zhiqiang Zuo",
-            "Longkai Qiao",
-            "X. Cen"
-          ],
-          "doi": "10.1021/acs.est.6c03588",
-          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "citation_count": 0
-        },
-        {
-          "id": "468993fad316b615fa499aa7e9e08b3f6084564e",
-          "title": "Marine antifouling biocide 4,5-dichloro-2-n-octyl-4-isothiazolin-3-one disrupts sediment microbiome structure and function: insights from absolute quantification and enzyme activity dynamics",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "Jiaxin Zhang",
-            "Libing Cai",
-            "Lin Wang"
-          ],
-          "doi": "10.1128/aem.00819-26",
-          "url": "https://www.semanticscholar.org/paper/468993fad316b615fa499aa7e9e08b3f6084564e",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "urban",
-        "water"
       ],
       "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
       "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
@@ -31585,7 +31585,7 @@
       "url": "https://www.semanticscholar.org/paper/b9904fad4e93aaa2b80bf9eac560a3d37384c6fa",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b9904fad4e93aaa2b80bf9eac560a3d37384c6fa",
       "pdf_url": "https://www.mdpi.com/2073-4395/13/6/1516/pdf?version=1685507551",
-      "citation_count": 15,
+      "citation_count": 16,
       "influential_citation_count": 0,
       "reference_count": 47,
       "references": [
@@ -31920,7 +31920,7 @@
       "url": "https://www.semanticscholar.org/paper/5b967446746bcb68bf72ee55738909e8a580c0aa",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5b967446746bcb68bf72ee55738909e8a580c0aa",
       "pdf_url": "",
-      "citation_count": 18,
+      "citation_count": 19,
       "influential_citation_count": 1,
       "reference_count": 56,
       "references": [],
@@ -36357,7 +36357,7 @@
       "url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "pdf_url": "https://doi.org/10.1016/j.geoderma.2022.115846",
-      "citation_count": 240,
+      "citation_count": 241,
       "influential_citation_count": 3,
       "reference_count": 78,
       "references": [
@@ -38033,7 +38033,7 @@
         "Qiquan Li",
         "Qiang Xu",
         "Meng-Xia Li",
-        "Guo Lingke",
+        "Ling-Ke Guo",
         "Yan Cai",
         "Xiaoyan Tang",
         "Ju-wei Zhao",
@@ -38046,7 +38046,7 @@
       "url": "https://www.semanticscholar.org/paper/068d241a0a0f0afd3265e45861411ed4a89fbc7d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/068d241a0a0f0afd3265e45861411ed4a89fbc7d",
       "pdf_url": "",
-      "citation_count": 40,
+      "citation_count": 41,
       "influential_citation_count": 0,
       "reference_count": 86,
       "references": [],
@@ -38164,7 +38164,7 @@
       "url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "pdf_url": "https://www.nature.com/articles/s43705-021-00073-5.pdf",
-      "citation_count": 88,
+      "citation_count": 89,
       "influential_citation_count": 1,
       "reference_count": 65,
       "references": [
@@ -39760,7 +39760,7 @@
       "url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0160412021001471/pdf",
-      "citation_count": 193,
+      "citation_count": 194,
       "influential_citation_count": 6,
       "reference_count": 64,
       "references": [
@@ -40082,7 +40082,7 @@
       "url": "https://www.semanticscholar.org/paper/4556195dded0e69e4f8d4b19a9731bffc649f195",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4556195dded0e69e4f8d4b19a9731bffc649f195",
       "pdf_url": "https://doi.org/10.1128/msystems.00161-21",
-      "citation_count": 54,
+      "citation_count": 55,
       "influential_citation_count": 0,
       "reference_count": 98,
       "references": [
@@ -40627,6 +40627,115 @@
       "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
     },
     {
+      "id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "semantic_scholar_id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.5194/EGUSPHERE-EGU21-7121",
+      "title": "Biogeographic patterns of complete ammonia oxidizers (comammox) within the Yangtze River continuum",
+      "authors": [
+        "Shufeng Liu",
+        "Haiying Wang",
+        "J. Ni"
+      ],
+      "journal": "",
+      "publication_date": "2021-03-03",
+      "abstract": "The recent discovery of comammox Nitrospira performing complete ammonia oxidation to nitrate has fundamentally renewed the 120-year-held perspective of “two-step” nitrification. Rivers are known as the “Arteries” of the Earth, coupling the biogeochemical cycling of continents and oceans. Frequent human activities usually increase nitrogen load, and nitrifying microorganisms are crucial for the management of nitrogen load in rivers. The ecological roles of truncated nitrifiers, including canonical ammonia-oxidizing bacteria, ammonia-oxidizing archaea and nitriteoxidizing bacteria in rivers have been fully understood, however, investigations of the newly discovered comammox Nitrospira are very scarce. To fill this gap, we used the metagenomic shotgun sequencing to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
+      "url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
+      "pdf_url": "https://doi.org/10.5194/egusphere-egu21-7121",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 0,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "35128f5865dd5bb18f676ac2b4126ff62561bcf7",
+          "title": "Nitrifiers Drive Different N2O Production Patterns in Tropical River Sediments.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Dongdan Yuan",
+            "Xiaoyu Cui",
+            "Sibo Zhang"
+          ],
+          "doi": "10.1021/acs.est.6c01501",
+          "url": "https://www.semanticscholar.org/paper/35128f5865dd5bb18f676ac2b4126ff62561bcf7",
+          "citation_count": 0
+        },
+        {
+          "id": "539f9080b7aa4ff1563e3092c74635f985d65ce4",
+          "title": "Resolving Nitrous Oxide Source Ambiguity in Ammonia-Oxidizing Archaea-Dominated Nitrification: Mechanistic Modeling of the Hybrid Pathway and Coupled Denitrification.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Shi Chen",
+            "Lai Peng",
+            "Yifeng Xu"
+          ],
+          "doi": "10.1021/acs.est.6c03366",
+          "url": "https://www.semanticscholar.org/paper/539f9080b7aa4ff1563e3092c74635f985d65ce4",
+          "citation_count": 0
+        },
+        {
+          "id": "6e1ae106127725e09979ef4324890f542b846080",
+          "title": "Emergent Macrophytes Specifically Regulate Ammonia-Oxidizing Microbial Communities and Functions: Comammox Dominance and N2O Emission Effects.",
+          "year": 2026,
+          "journal": "Journal of Applied Microbiology",
+          "authors": [
+            "Qinghua Zhang",
+            "Zhixin Niu",
+            "Jianzhao Li"
+          ],
+          "doi": "10.1093/jambio/lxag178",
+          "url": "https://www.semanticscholar.org/paper/6e1ae106127725e09979ef4324890f542b846080",
+          "citation_count": 0
+        },
+        {
+          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Zhiqiang Zuo",
+            "Longkai Qiao",
+            "X. Cen"
+          ],
+          "doi": "10.1021/acs.est.6c03588",
+          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "citation_count": 0
+        },
+        {
+          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Meiqi Huang",
+            "Shengjie Li",
+            "Guangli Mu"
+          ],
+          "doi": "10.1016/j.envres.2026.125274",
+          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Environmental Science"
+      ],
+      "publication_types": [],
+      "tldr": "The metagenomic shotgun sequencing is used to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
+      "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
+    },
+    {
       "id": "0b36257d2b1c589918257c0fdc6f01d626e317da",
       "semantic_scholar_id": "0b36257d2b1c589918257c0fdc6f01d626e317da",
       "source": "Semantic Scholar",
@@ -40746,115 +40855,6 @@
       "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
     },
     {
-      "id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "semantic_scholar_id": "1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.5194/EGUSPHERE-EGU21-7121",
-      "title": "Biogeographic patterns of complete ammonia oxidizers (comammox) within the Yangtze River continuum",
-      "authors": [
-        "Shufeng Liu",
-        "Haiying Wang",
-        "J. Ni"
-      ],
-      "journal": "",
-      "publication_date": "2021-03-03",
-      "abstract": "The recent discovery of comammox Nitrospira performing complete ammonia oxidation to nitrate has fundamentally renewed the 120-year-held perspective of “two-step” nitrification. Rivers are known as the “Arteries” of the Earth, coupling the biogeochemical cycling of continents and oceans. Frequent human activities usually increase nitrogen load, and nitrifying microorganisms are crucial for the management of nitrogen load in rivers. The ecological roles of truncated nitrifiers, including canonical ammonia-oxidizing bacteria, ammonia-oxidizing archaea and nitriteoxidizing bacteria in rivers have been fully understood, however, investigations of the newly discovered comammox Nitrospira are very scarce. To fill this gap, we used the metagenomic shotgun sequencing to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
-      "url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/1a078baa0f69b494d2a88416fe2b5325d995ed62",
-      "pdf_url": "https://doi.org/10.5194/egusphere-egu21-7121",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 0,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "35128f5865dd5bb18f676ac2b4126ff62561bcf7",
-          "title": "Nitrifiers Drive Different N2O Production Patterns in Tropical River Sediments.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Dongdan Yuan",
-            "Xiaoyu Cui",
-            "Sibo Zhang"
-          ],
-          "doi": "10.1021/acs.est.6c01501",
-          "url": "https://www.semanticscholar.org/paper/35128f5865dd5bb18f676ac2b4126ff62561bcf7",
-          "citation_count": 0
-        },
-        {
-          "id": "539f9080b7aa4ff1563e3092c74635f985d65ce4",
-          "title": "Resolving Nitrous Oxide Source Ambiguity in Ammonia-Oxidizing Archaea-Dominated Nitrification: Mechanistic Modeling of the Hybrid Pathway and Coupled Denitrification.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Shi Chen",
-            "Lai Peng",
-            "Yifeng Xu"
-          ],
-          "doi": "10.1021/acs.est.6c03366",
-          "url": "https://www.semanticscholar.org/paper/539f9080b7aa4ff1563e3092c74635f985d65ce4",
-          "citation_count": 0
-        },
-        {
-          "id": "6e1ae106127725e09979ef4324890f542b846080",
-          "title": "Emergent Macrophytes Specifically Regulate Ammonia-Oxidizing Microbial Communities and Functions: Comammox Dominance and N2O Emission Effects.",
-          "year": 2026,
-          "journal": "Journal of Applied Microbiology",
-          "authors": [
-            "Qinghua Zhang",
-            "Zhixin Niu",
-            "Jianzhao Li"
-          ],
-          "doi": "10.1093/jambio/lxag178",
-          "url": "https://www.semanticscholar.org/paper/6e1ae106127725e09979ef4324890f542b846080",
-          "citation_count": 0
-        },
-        {
-          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Zhiqiang Zuo",
-            "Longkai Qiao",
-            "X. Cen"
-          ],
-          "doi": "10.1021/acs.est.6c03588",
-          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "citation_count": 0
-        },
-        {
-          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Meiqi Huang",
-            "Shengjie Li",
-            "Guangli Mu"
-          ],
-          "doi": "10.1016/j.envres.2026.125274",
-          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Environmental Science"
-      ],
-      "publication_types": [],
-      "tldr": "The metagenomic shotgun sequencing is used to provide the first biogeographic patterns of comammox Nitrospira in the Yangtze River over a 6030 km continuum.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
-      "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
-    },
-    {
       "id": "9f406bebb55fc5a487aec62900fc9c0508580a68",
       "semantic_scholar_id": "9f406bebb55fc5a487aec62900fc9c0508580a68",
       "source": "Semantic Scholar",
@@ -40878,7 +40878,7 @@
       "url": "https://www.semanticscholar.org/paper/9f406bebb55fc5a487aec62900fc9c0508580a68",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9f406bebb55fc5a487aec62900fc9c0508580a68",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0043135421001524/pdf",
-      "citation_count": 97,
+      "citation_count": 98,
       "influential_citation_count": 0,
       "reference_count": 85,
       "references": [
@@ -46278,7 +46278,7 @@
       "title": "Metagenomic analysis reveals large potential for carbon, nitrogen and sulfur cycling in coastal methanic sediments of the Bothnian Sea",
       "authors": [
         "O. Rasigraf",
-        "N. V. van Helmond",
+        "Niels A. G. M. van Helmond",
         "J. Frank",
         "W. Lenstra",
         "M. Egger",
@@ -48127,11 +48127,11 @@
       "authors": [
         "E. Hester",
         "S. Harpenslager",
-        "J. V. van Diggelen",
+        "Josepha M. H. van Diggelen",
         "Leon L. Lamers",
         "M. Jetten",
-        "C. Lüke",
-        "S. Lücker",
+        "Claudia Lüke",
+        "Sebastian Lücker",
         "C. Welte"
       ],
       "journal": "mSystems",
