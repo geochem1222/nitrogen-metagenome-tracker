@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T23:17:21.655998+00:00",
+  "updated_at": "2026-09-12T23:04:33.981376+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,158 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "564e4ea80dbf40d396e4ca2cdbe94aa4141db89c",
+      "semantic_scholar_id": "564e4ea80dbf40d396e4ca2cdbe94aa4141db89c",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.3390/agronomy16181768",
+      "title": "Cultivar-Specific Rhizosphere Microbiome Functional Gene Associations with Soil Nutrient Availability and Yield in Selected Hybrid and Conventional Rice Varieties",
+      "authors": [],
+      "journal": "Agronomy",
+      "publication_date": "2026-09-09",
+      "abstract": "Hybrid rice outyields conventional rice, but the role of rhizosphere microbiome in this yield advantage remains unclear. We conducted a single-site field experiment to compare three hybrid rice cultivars with one conventional variety. We tested whether the hybrid rice cultivars were associated with distinct rhizosphere microbial consortia, and whether these consortia correlated with soil nutrient availability and yield. Our results showed that the hybrid cultivars produced significantly higher yields than the conventional variety. Rhizosphere soil was collected at booting and mature stages. We integrated 16S rRNA and metagenomic sequencing, soil physicochemical and enzyme activity analyses, and structural equation modeling to explore associations among rice genotype, microbial community, nutrient availability, and yield. Hybrid rice showed higher yield and 1000-grain weight (Yongyou-1540: 69.76 g/plant, 26.85 g). Genotype-associated differences in microbiome were strongest at booting: hybrids enriched Pseudomonadota and Chloroflexota but depleted Acidobacteriota; genera Geobacter, Anaeromyxobacter, and Burkholderiaceae were enriched. Hybrid rhizospheres had higher available phosphorus and potassium (Heliangyou-165: +62.8% P and +24.7% K at booting; +18.4% P and +350.8% K at maturity). Metagenomic profiling revealed a higher abundance of genes associated with nitrogen fixation, siderophore biosynthesis, and sulfur cycling pathways. Nitrogen fixation gene abundance correlated with alkali-hydrolyzable N (r = 0.66), siderophore biosynthesis with available P (r = 0.73), and sulfate respiration with available K (r = 0.61). Enzyme activities showed genotype-and stage-dependent patterns. Structural equation modeling supported a sequential association path: genotype → microbial community (β = 0.58) → soil nutrient composite (β = 0.52) → grain yield (β = 0.44). The indirect effect of genotype on yield via microbiome and nutrients was significant (β = 0.13), while the direct effect was not. The yield advantage observed in the tested hybrid cultivars was accompanied by cultivar-associated differences in rhizosphere microbiomes that correlate with enhanced nutrient bioavailability during critical growth stages. These correlative findings suggest a potential belowground ecological pathway linking cultivar identity, rhizosphere microbiome functional potential, nutrient availability, and yield; however, they do not demonstrate a causal role of the microbiome in the yield advantage of hybrid rice. Given the single-site, single-year design and the use of only one conventional control cultivar, these results should be considered preliminary and require validation across broader genotype panels and environments. Experimental validation is required to test the hypothesized microbial associations.",
+      "url": "https://www.semanticscholar.org/paper/564e4ea80dbf40d396e4ca2cdbe94aa4141db89c",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/564e4ea80dbf40d396e4ca2cdbe94aa4141db89c",
+      "pdf_url": "https://doi.org/10.3390/agronomy16181768",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 41,
+      "references": [
+        {
+          "title": "Long-Term Organic Fertilization Enhances Soil Fertility and Reshapes Microbial Community Structure with Decreasing Effects Across Soil Depth",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/f1f9f73484b5ec17354f277f1fff44a04558c4d9",
+          "doi": "10.3390/microorganisms14010250"
+        },
+        {
+          "title": "Community Assembly Mechanisms Underlying Divergent Responses of Indica and Japonica Rice Rhizosphere Microbiota to Drought Stress",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/573b4fc4c4a49064ecb8856059d12fa40a914b16",
+          "doi": "10.1007/s00248-025-02647-5"
+        },
+        {
+          "title": "Differential impacts of Funneliformis Mosseae and Rhizophagus intraradices on the rice rhizosphere microbiome, nutrient availability, and yield in paddy fields",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/bb0b2ed72bfb89228cf1edd5dc30de3523993aea",
+          "doi": "10.1007/s00572-025-01238-z"
+        },
+        {
+          "title": "Metagenomic Insights into the Root‒Soil Response Mechanisms of Indica and Japonica Rice Under Nitrogen Deficiency and High-Efficiency Nitrogen Compensation",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/d51994790a6be0a2e4361de99d16b13b8ee1a2d3",
+          "doi": "10.1186/s12284-025-00818-z"
+        },
+        {
+          "title": "Root exudates in controlled environment agriculture: composition, function, and future directions",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/cf69a973bfdd7f489b148f31191d66a366574fdd",
+          "doi": "10.3389/fpls.2025.1567707"
+        },
+        {
+          "title": "Biochar Co-Applied with Lime Enhances Soil Phosphorus Availability via Microbial and Enzymatic Modulation of Paddy Soil",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/b8d4d15b0463c02e600a8a49b994888a1fb5b870",
+          "doi": "10.3390/microorganisms13030582"
+        },
+        {
+          "title": "Effects of biological agents on rhizosphere microecological environment and nutrient availability for rice",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/2d839f807eb9428b791ab5ee9310bae582f46d81",
+          "doi": "10.3389/fmicb.2024.1447527"
+        },
+        {
+          "title": "Rhizobacterial Community Structure Differs Between Landrace and Cultivar of Rice Under Drought Conditions",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/3dfcf2577f5822c1548bf0cc2fa57b431664561f",
+          "doi": "10.1007/s00284-024-03860-0"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "a976b4d234390f7834af1bbb421922dfb8c4f324",
+          "title": "Rhizosphere microbiome assembly and functional enrichment drive salt tolerance in wheat.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [],
+          "doi": "10.1016/j.jenvman.2026.130869",
+          "url": "https://www.semanticscholar.org/paper/a976b4d234390f7834af1bbb421922dfb8c4f324",
+          "citation_count": 0
+        },
+        {
+          "id": "32623d42131db5cbbfcf7c43789ed3aed57fb036",
+          "title": "Host genotype modulates melatonin-associated drought resilience in citrus accompanied by rhizosphere microbiome restructuring.",
+          "year": 2026,
+          "journal": "Plant physiology and biochemistry : PPB",
+          "authors": [
+            "Yanqi Teng",
+            "Kai Zhu",
+            "Ke Fang"
+          ],
+          "doi": "10.1016/j.plaphy.2026.111587",
+          "url": "https://www.semanticscholar.org/paper/32623d42131db5cbbfcf7c43789ed3aed57fb036",
+          "citation_count": 0
+        },
+        {
+          "id": "251b7448660110e41bc744dd45beb5290c894f21",
+          "title": "Rhizosphere Engineering by Root Exudates: High-Yielding Alfalfa Recruits Functional PGPR to Sustain Soil Nutrient Availability Under Long-Term Cultivation.",
+          "year": 2026,
+          "journal": "Plant, Cell and Environment",
+          "authors": [
+            "Yanliang Sun",
+            "Kongqin Wei",
+            "Kaixin Yang"
+          ],
+          "doi": "10.1111/pce.70631",
+          "url": "https://www.semanticscholar.org/paper/251b7448660110e41bc744dd45beb5290c894f21",
+          "citation_count": 0
+        },
+        {
+          "id": "737d0ef3e67008f3a0efa6532c077e84d88e0bfb",
+          "title": "Effects of single and synthetic microbial community inoculants on the rhizosphere soil and root microbiomes of rice (Oryza sativa).",
+          "year": 2026,
+          "journal": "Functional Plant Biology",
+          "authors": [
+            "B. Kossalbayev",
+            "Jingjing Wang",
+            "Mo Wei"
+          ],
+          "doi": "10.1071/FP26125",
+          "url": "https://www.semanticscholar.org/paper/737d0ef3e67008f3a0efa6532c077e84d88e0bfb",
+          "citation_count": 0
+        },
+        {
+          "id": "f1872a1534d03dfa63497ba3d5a802333231c318",
+          "title": "Co-Inoculation of Rhizobia and a Multifunctional Microbial Consortium Is Associated with Improved Soybean Performance and Bacterial Community Reassembly in Soybean Fields",
+          "year": 2026,
+          "journal": "Land",
+          "authors": [
+            "Tingting Hou",
+            "Chao Jiang",
+            "Xiang-Xiang Wang"
+          ],
+          "doi": "10.3390/land15071270",
+          "url": "https://www.semanticscholar.org/paper/f1872a1534d03dfa63497ba3d5a802333231c318",
+          "citation_count": 1
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The correlative findings suggest a potential belowground ecological pathway linking cultivar identity, rhizosphere microbiome functional potential, nutrient availability, and yield; however, they do not demonstrate a causal role of the microbiome in the yield advantage of hybrid rice.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "nitrogen_fixation",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-09-12T23:04:29.752783+00:00",
+      "edges_enriched_at": "2026-09-12T23:04:30.551543+00:00"
+    },
     {
       "id": "d22082272372570d78aa6fdd9b3332c576ea6fe1",
       "semantic_scholar_id": "d22082272372570d78aa6fdd9b3332c576ea6fe1",
@@ -747,7 +899,7 @@
         "Anastasia Yu. Korotkevich",
         "Rong Mao",
         "Yang Zhang",
-        "Ximei Zhang"
+        "Xi-Mei Zhang"
       ],
       "journal": "Global Change Biology",
       "publication_date": "2026-08-28",
@@ -4625,9 +4777,9 @@
       "authors": [
         "Xuan Li",
         "Wenhui Wang",
-        "Yunhui Liu",
+        "Yun-Hui Liu",
         "Zhiqiang Xu",
-        "M. Wang",
+        "Mi Wang",
         "Jianwei Zhao",
         "Yumei Hua"
       ],
@@ -5566,7 +5718,7 @@
       "title": "Benthic Nitrogen Fixation and Primary Production in the Shallow Coastal Zone of the Baltic Sea",
       "authors": [
         "Angelina Klett",
-        "C. Hassenrück",
+        "Christiane Hassenrück",
         "M. Labrenz",
         "T. Sperlea",
         "I. Liskow",
@@ -6013,7 +6165,7 @@
       "doi": "10.1038/s41598-026-47725-x",
       "title": "Effects of replacing chemical fertilizer with organic fertilizer on organic carbon mineralization and carbon cycle functional genes in yellow soil",
       "authors": [
-        "Shengmei Yang",
+        "Sheng-Mei Yang",
         "Xiaoli Wang",
         "Jianjun Duan",
         "Sanwei Yang",
@@ -8079,7 +8231,7 @@
       "doi": "10.3390/agriculture16040420",
       "title": "The Microbial Mechanisms Underlying Soil N2O Emission Mitigation via Organic Fertilizer Substitution in Maize Cropping Systems",
       "authors": [
-        "Yanan Liu",
+        "Ya-Nan Liu",
         "Haiyan Wu",
         "Ying Feng",
         "Chunlei Xue",
@@ -10285,10 +10437,10 @@
       "authors": [
         "Qiang Lu",
         "A-long Li",
-        "Y. Liu",
+        "Y.-Z. Liu",
         "Gang Hu",
         "C. Hu",
-        "C.H. Xu",
+        "C.-H. Xu",
         "C. Zhong",
         "Z. Zhang"
       ],
@@ -11086,7 +11238,7 @@
       "authors": [
         "Maha Alharbi",
         "Thanh Nguyen-Dinh",
-        "W. Wong",
+        "Wei-Wen Wong",
         "P. Leung",
         "Adam J. Kessler",
         "C. Greening",
@@ -12847,7 +12999,7 @@
         "Zekun Zhang",
         "Sumiao Su",
         "Shijie Ding",
-        "Shuiqing Zhang",
+        "Shui-Qing Zhang",
         "Kun Zhou"
       ],
       "journal": "Agronomy",
@@ -14370,7 +14522,7 @@
       "title": "Microbial network properties and functional gene diversity drive soil multifunctionality during biocrust succession",
       "authors": [
         "Yawen Jiang",
-        "Xuexia Zhang",
+        "Xue-Xia Zhang",
         "Mingjie Li",
         "Jing Yang",
         "Yuqing Zhang",
@@ -15780,6 +15932,7 @@
         "Siyu Yu",
         "Qiaoyu Wu",
         "Yiming Ma",
+        "Saira Bano",
         "Xiaojun Zhang"
       ],
       "journal": "bioRxiv",
@@ -16607,7 +16760,7 @@
       "abstract": "To explore how biochar influences nitrogen cycling in unsaturated, capillary, and saturated zones of partially saturated vertical flow constructed wetlands (VFCWs), three parallel VFCWs were established to examine the effects of biochar's better water holding capacity on nitrogen removal and N2O emissions. Microbial mechanisms involved were studied by conducting ETS activity, metagenomic sequencing and performing high-throughput sequencing of 16S rRNA. Results indicated that the combination of adding 40 % biochar and maintaining water level of 45 cm facilitated TN removal and suppressed N2O emissions, achieving TN removal efficiency of 73.4 % and N2O/removed TN value of 0.3 %. Within the unsaturated zone, the relative abundance of amoA, hao, and nxrB increased by 929 %, 454 %, and 38.3 %, respectively, enhancing nitrification capacity microorganisms carrying these genes and involved in the oxidation of NH4+-N to NO3--N included Nitrosomonas, Methylosarcina, Nitrosospira, and Methylomonas, whose relative abundance increased by 75.2 %. In the capillary zone, the 19.2 % increase in nosZ (involved in the reduction of N2O to N2) transformed it into a potential N2O consumption layer. The functional genera involved in N2O reduction (Ferrovibrio, Thauera, Ramlibacter, and Hyphomicrobium) in the capillary zone increased by 1724 %, 357 %, 707 %, and 78.5 %, respectively, and the ETS activity in the 40W-CW capillary zone was 72.5 % higher than that of QS-CW. Within the saturated zone, the relative abundance of amoA increased by 591 %, hao by 149 %, and nxrB decreased by 20.0 %, potentially facilitating short-cut denitrification.",
       "url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9b94c1d1e8e0f827705d10baaba4429af67fc206",
-      "pdf_url": "https://doi.org/10.1016/j.jenvman.2025.126133",
+      "pdf_url": "https://dspace.lib.cranfield.ac.uk/handle/1826/24074",
       "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 50,
@@ -17279,7 +17432,7 @@
         "Zijie Wang",
         "Xianwei Yin",
         "Yan-Lin Sun",
-        "Dong‐Jin Jang",
+        "Dong-Jin Jang",
         "Soon-Kwan Hong"
       ],
       "journal": "Scientific Reports",
@@ -18777,7 +18930,7 @@
         "Mengdi Yang",
         "Hanjie Yang",
         "Wencai Wang",
-        "Huaiyang Fang",
+        "Huai-Yang Fang",
         "Lu Huang",
         "Dan Li",
         "Lingfang Fu",
@@ -18785,7 +18938,7 @@
         "Xiaodong Li",
         "Cong-Qiang Liu",
         "G. Wei",
-        "Dongli Li",
+        "Dong-Li Li",
         "Gaoyang Cui",
         "Zhongya Fan",
         "Fantang Zeng"
@@ -19081,7 +19234,7 @@
         "Xingyue Ren",
         "Wenya Yu",
         "Sheng Yao",
-        "Kongshu Ji"
+        "Kong-Shu Ji"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2025-03-17",
@@ -19570,7 +19723,7 @@
         "Yuecheng She",
         "Liying Wu",
         "Xin Qi",
-        "Siyu Sun",
+        "Si-Yu Sun",
         "Zhengkui Li"
       ],
       "journal": "Water Research",
@@ -20092,7 +20245,7 @@
         "Weixiao Qi",
         "Xiaofeng Cao",
         "Jianfeng Peng",
-        "Huijuan Liu",
+        "Hui-Juan Liu",
         "Jiuhui Qu",
         "Zhuoyue Jia",
         "Hongxiu Hu"
@@ -22524,7 +22677,7 @@
         "Xiaxuan Lai",
         "Yan Wang",
         "Lifeng Guo",
-        "Yuzheng Zong",
+        "Yu-Zheng Zong",
         "Dongsheng Zhang",
         "Xinrui Shi",
         "Xingyu Hao",
@@ -24130,7 +24283,7 @@
         "Lu Huang",
         "Shiyuan Ding",
         "Gaoyang Cui",
-        "Dongli Li",
+        "Dong-Li Li",
         "G. Wei",
         "Congqiang Liu",
         "Xiaodong Li"
@@ -24598,14 +24751,14 @@
       "doi": "10.1007/s42729-024-01867-x",
       "title": "The Application of Orychophragmus violaceus as a Green Manure Relieves Continuous Cropping Obstacles in Peanut Cultivation by Altering the Soil Microbial Community and Functional Gene Abundance",
       "authors": [
-        "Tian-yi Yu",
+        "Tianyi Yu",
         "Qiqi Sun",
         "Zhigang Liu",
         "Xuancang Wang",
         "Kang Chen",
         "Zhengfeng Wu",
         "Jiancheng Zhang",
-        "X. Sun"
+        "Xue-Wu Sun"
       ],
       "journal": "Journal of soil science and plant nutrition",
       "publication_date": "2024-06-17",
@@ -25981,13 +26134,13 @@
         "Ye Chen",
         "Xiyang Dong",
         "Zhilei Sun",
-        "Cuiling Xu",
-        "Xilin Zhang",
+        "Cui-Ling Xu",
+        "Xi-Lin Zhang",
         "Shuangshuang Qin",
         "Wei Geng",
         "H. Cao",
         "Bin Zhai",
-        "Xuecheng Li",
+        "Xue-Cheng Li",
         "Nengyou Wu"
       ],
       "journal": "Microbiology spectrum",
@@ -26605,7 +26758,7 @@
         "Qian Zhao",
         "Zhe Li",
         "Min Liu",
-        "Sebastian Lücker",
+        "S. Lücker",
         "G. Shi"
       ],
       "journal": "Nature Communications",
@@ -26943,7 +27096,7 @@
         "Qisheng Han",
         "Junpeng Zhang",
         "H. Dang",
-        "H. Ning",
+        "Hui-Fang Ning",
         "Yang Gao",
         "Jingsheng Sun"
       ],
@@ -27113,7 +27266,7 @@
         "Peng Li",
         "Jie Qiao",
         "Hui Li",
-        "Lichao Wu",
+        "Li-Chao Wu",
         "Baoping Wang",
         "Sheng Lu"
       ],
@@ -28476,12 +28629,12 @@
         "Alessandra Mazzoli",
         "Guillem Salazar",
         "H. Ruscheweyh",
-        "B. Müller",
+        "Beat Müller",
         "R. Niederdorfer",
         "S. Sunagawa",
         "M. Lever",
         "M. F. Lehmann",
-        "H. Bürgmann"
+        "Helmut Bürgmann"
       ],
       "journal": "ISME Communications",
       "publication_date": "2024-01-01",
@@ -29500,7 +29653,7 @@
         "Qian Zhao",
         "Zhe Li",
         "Min Liu",
-        "Sebastian Lücker",
+        "S. Lücker",
         "Guitao Shi"
       ],
       "journal": "bioRxiv",
@@ -29666,11 +29819,11 @@
         "Zhengrong Hu",
         "Ge Tan",
         "Jianqiang Fan",
-        "Yiqiang Chen",
+        "Yi-Qiang Chen",
         "Yansong Xiao",
         "Shaolong Wu",
         "Qiqi Zhi",
-        "Tianbo Liu",
+        "Tian-Bo Liu",
         "Huaqun Yin",
         "Qianjun Tang"
       ],
@@ -29680,7 +29833,7 @@
       "url": "https://www.semanticscholar.org/paper/41d9ab3370491484113b59adb228ba201f7e1ad3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/41d9ab3370491484113b59adb228ba201f7e1ad3",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1259853/pdf?isPublishedV2=False",
-      "citation_count": 47,
+      "citation_count": 48,
       "influential_citation_count": 2,
       "reference_count": 87,
       "references": [
@@ -30473,10 +30626,10 @@
         "G. Vestergaard",
         "Kyle Hartman",
         "Eloi Parladé",
-        "Jörg Römbke",
+        "J. Römbke",
         "Catherine J. Watson",
         "M. Schloter",
-        "Marcel G. A. van der Heijden"
+        "M. V. D. van der Heijden"
       ],
       "journal": "New Phytologist",
       "publication_date": "2023-09-12",
@@ -31166,7 +31319,7 @@
         "Zhou Yang",
         "Hong Chen",
         "Linna Sun",
-        "M. Zhai"
+        "Mei-Zhi Zhai"
       ],
       "journal": "European Journal of Agronomy",
       "publication_date": "2023-08-01",
@@ -31490,7 +31643,7 @@
         "Xing Su",
         "Hong-tu Xie",
         "Xuelian Bao",
-        "Xudong Zhang",
+        "Xu-Dong Zhang",
         "Lian-feng Wang"
       ],
       "journal": "Journal of Environmental Management",
@@ -33212,7 +33365,7 @@
       "authors": [
         "Niloufar Hagh-Doust",
         "V. Mikryukov",
-        "Sten Anslan",
+        "S. Anslan",
         "M. Bahram",
         "Rasmus Puusepp",
         "O. Dulya",
@@ -33904,7 +34057,7 @@
       "url": "https://www.semanticscholar.org/paper/c31d32f09a01b900a3d2cf4340d7b9fe19508a4e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c31d32f09a01b900a3d2cf4340d7b9fe19508a4e",
       "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adc9392?download=true",
-      "citation_count": 31,
+      "citation_count": 32,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -39791,11 +39944,11 @@
         "L. T. Kishi",
         "C. C. Fernandes",
         "Victoria Toledo",
-        "R. D. C. F. Alvarez",
-        "E. S. Loureiro",
+        "Rita de Cássia Félix Alvarez",
+        "Elisângela de Souza Loureiro",
         "L. N. Lemos",
-        "S. Tsai",
-        "E. G. M. Lemos"
+        "Siu M. Tsai",
+        "E. G. de Macedo Lemos"
       ],
       "journal": "MOJ Ecology & Environmental Sciences",
       "publication_date": "2021-07-05",
@@ -39970,7 +40123,7 @@
       "url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "pdf_url": "",
-      "citation_count": 134,
+      "citation_count": 135,
       "influential_citation_count": 6,
       "reference_count": 0,
       "references": [],
@@ -40847,9 +41000,9 @@
         "S. Gadegaonkar",
         "Holar Sepp",
         "Mikk Espenberg",
-        "Jaan Pärn",
+        "Jaan Pärn Pärn",
         "K. Kirsimäe",
-        "Ü. Mander"
+        "Ülo Mander"
       ],
       "journal": "The EGU General Assembly",
       "publication_date": "2021-03-03",
@@ -41680,7 +41833,7 @@
         "Haijun Sun",
         "Yu Zhang",
         "Yiting Yang",
-        "Yudong Chen",
+        "Yu-Dong Chen",
         "P. Jeyakumar",
         "Qian Shao",
         "Youfeng Zhou",
@@ -41689,7 +41842,7 @@
         "Qiawei Qian",
         "Yuerong Fan",
         "Shujie Xiang",
-        "Ningning Zhai",
+        "Ning-Ning Zhai",
         "Yifan V. Li",
         "Qingfeng Zhao",
         "Hailong Wang"
@@ -42484,7 +42637,7 @@
         "Lu Kuang",
         "Xinxin Wang",
         "Bin Jiang",
-        "Junhui Chen",
+        "Jun-Hui Chen",
         "J. Shan",
         "Jonathan M. Adams",
         "Hua Qin",
@@ -43273,7 +43426,7 @@
         "L. Mendes",
         "L. F. Merloti",
         "F. D. Andreote",
-        "S. Tsai"
+        "Siu M. Tsai"
       ],
       "journal": "FEMS Microbiology Ecology",
       "publication_date": "2020-07-25",
@@ -44300,9 +44453,9 @@
         "Min Deng",
         "Jie Hou",
         "Kang Song",
-        "Jieyu Chen",
+        "Jie-Yun Chen",
         "Jing-Yi Gou",
-        "Dapeng Li",
+        "Da-Peng Li",
         "Xugang He"
       ],
       "journal": "Aquaculture",
@@ -44823,7 +44976,7 @@
         "K. Hemes",
         "K. Kill",
         "W. Silver",
-        "Ü. Mander",
+        "Ülo Mander",
         "D. Szutu",
         "J. Verfaillie",
         "D. Baldocchi"
@@ -45929,7 +46082,7 @@
       "authors": [
         "A. Bulseco",
         "J. Vineis",
-        "A. E. Murphy",
+        "Anna E. Murphy",
         "A. Spivak",
         "A. Giblin",
         "J. Tucker",
@@ -46268,7 +46421,7 @@
       "title": "DNA- and RNA-SIP Reveal Nitrospira spp. as Key Drivers of Nitrification in Groundwater-Fed Biofilters",
       "authors": [
         "Arda Gülay",
-        "S. Jane Fowler",
+        "S. J. Fowler",
         "K. Tatari",
         "B. Thamdrup",
         "H. Albrechtsen",
@@ -47797,7 +47950,7 @@
       "authors": [
         "Mikk Espenberg",
         "M. Truu",
-        "Ü. Mander",
+        "Ülo Mander",
         "K. Kasak",
         "H. Nõlvak",
         "T. Ligi",
@@ -48457,7 +48610,7 @@
         "Leon L. Lamers",
         "M. Jetten",
         "Claudia Lüke",
-        "Sebastian Lücker",
+        "S. Lücker",
         "C. Welte"
       ],
       "journal": "mSystems",
@@ -48660,7 +48813,7 @@
       "authors": [
         "F. Dini-Andreote",
         "Maria Julia de L Brossi",
-        "Jan Dirk van Elsas",
+        "J. V. van Elsas",
         "J. Salles"
       ],
       "journal": "Frontiers in Microbiology",
@@ -49091,12 +49244,12 @@
       "doi": "10.1007/s11368-015-1061-2",
       "title": "Effects of nitrogen deposition rates and frequencies on the abundance of soil nitrogen-related functional genes in temperate grassland of northern China",
       "authors": [
-        "Qiushi Ning",
+        "Qiu-Shi Ning",
         "Qian Gu",
         "Ju-Pei Shen",
         "Xiaotao Lv",
         "Junjie Yang",
-        "Ximei Zhang",
+        "Xi-Mei Zhang",
         "Ji‐Zheng He",
         "Jianhui Huang",
         "Hong Wang",
@@ -49707,7 +49860,7 @@
       "doi": "10.1371/journal.pone.0076500",
       "title": "Response of the Abundance of Key Soil Microbial Nitrogen-Cycling Genes to Multi-Factorial Global Changes",
       "authors": [
-        "Ximei Zhang",
+        "Xi-Mei Zhang",
         "W. Liu",
         "M. Schloter",
         "Guangming Zhang",
@@ -49999,7 +50152,7 @@
       "title": "Drivers of archaeal ammonia-oxidizing communities in soil",
       "authors": [
         "Kateryna Zhalnina",
-        "Patrícia Dörr de Quadros",
+        "P. D. de Quadros",
         "F. Camargo",
         "E. Triplett"
       ],
