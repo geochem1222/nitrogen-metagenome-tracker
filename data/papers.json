@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:04:33.981376+00:00",
+  "updated_at": "2026-09-13T23:13:27.330070+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -253,7 +253,12 @@
       "pmid": "",
       "doi": "10.3390/agronomy16181768",
       "title": "Cultivar-Specific Rhizosphere Microbiome Functional Gene Associations with Soil Nutrient Availability and Yield in Selected Hybrid and Conventional Rice Varieties",
-      "authors": [],
+      "authors": [
+        "Shu-Fen Zhou",
+        "Bo Ling",
+        "Zhong-Chun Chen",
+        "Jian-Min Chen"
+      ],
       "journal": "Agronomy",
       "publication_date": "2026-09-09",
       "abstract": "Hybrid rice outyields conventional rice, but the role of rhizosphere microbiome in this yield advantage remains unclear. We conducted a single-site field experiment to compare three hybrid rice cultivars with one conventional variety. We tested whether the hybrid rice cultivars were associated with distinct rhizosphere microbial consortia, and whether these consortia correlated with soil nutrient availability and yield. Our results showed that the hybrid cultivars produced significantly higher yields than the conventional variety. Rhizosphere soil was collected at booting and mature stages. We integrated 16S rRNA and metagenomic sequencing, soil physicochemical and enzyme activity analyses, and structural equation modeling to explore associations among rice genotype, microbial community, nutrient availability, and yield. Hybrid rice showed higher yield and 1000-grain weight (Yongyou-1540: 69.76 g/plant, 26.85 g). Genotype-associated differences in microbiome were strongest at booting: hybrids enriched Pseudomonadota and Chloroflexota but depleted Acidobacteriota; genera Geobacter, Anaeromyxobacter, and Burkholderiaceae were enriched. Hybrid rhizospheres had higher available phosphorus and potassium (Heliangyou-165: +62.8% P and +24.7% K at booting; +18.4% P and +350.8% K at maturity). Metagenomic profiling revealed a higher abundance of genes associated with nitrogen fixation, siderophore biosynthesis, and sulfur cycling pathways. Nitrogen fixation gene abundance correlated with alkali-hydrolyzable N (r = 0.66), siderophore biosynthesis with available P (r = 0.73), and sulfate respiration with available K (r = 0.61). Enzyme activities showed genotype-and stage-dependent patterns. Structural equation modeling supported a sequential association path: genotype → microbial community (β = 0.58) → soil nutrient composite (β = 0.52) → grain yield (β = 0.44). The indirect effect of genotype on yield via microbiome and nutrients was significant (β = 0.13), while the direct effect was not. The yield advantage observed in the tested hybrid cultivars was accompanied by cultivar-associated differences in rhizosphere microbiomes that correlate with enhanced nutrient bioavailability during critical growth stages. These correlative findings suggest a potential belowground ecological pathway linking cultivar identity, rhizosphere microbiome functional potential, nutrient availability, and yield; however, they do not demonstrate a causal role of the microbiome in the yield advantage of hybrid rice. Given the single-site, single-year design and the use of only one conventional control cultivar, these results should be considered preliminary and require validation across broader genotype panels and environments. Experimental validation is required to test the hypothesized microbial associations.",
@@ -405,7 +410,20 @@
       "pmid": "",
       "doi": "10.1021/acs.est.6c05407",
       "title": "Microbial Paradox\nunder Nitrogen Fertilization: Enhanced\nSoil Phosphorus Mineralization Coupled with Accelerated Stabilization",
-      "authors": [],
+      "authors": [
+        "Sheng Tang",
+        "Wan-Kun Pan",
+        "Xiu Liu",
+        "W. Wanek",
+        "Xiang-De Yang",
+        "K. Marsden",
+        "David R. Chadwick",
+        "Andrew S. Gregory",
+        "Yong-Chao Liang",
+        "Liang-Huan Wu",
+        "Davey L. Jones",
+        "Qing-Xu Ma"
+      ],
       "journal": "Environmental Science &amp;\nTechnology",
       "publication_date": "2026-09-02",
       "abstract": "\n pH-neutral soils, where mineral phosphorus (P) fixation is relatively limited and microbial activity is high, provide an ideal system for investigating microbial regulation of P cycling under long-term fertilization. Here, we combined 33P isotope tracing with shotgun metagenomics and microbial network analysis to quantify soil P transformation in a 180-year fertilization experiment. Compared with the unfertilized control, P-only fertilization increased total P, PO43–, and microbial biomass P by 73%, 201%, and 227%, respectively. In contrast, N-only fertilization enhanced phosphatase activity and enriched genes involved in phosphate transport and polyphosphate synthesis, indicating greater microbial P acquisition and storage. These changes promoted organic P mineralization and microbial P immobilization simultaneously, resulting in no net accumulation of labile P. Microbial network analysis further revealed a shift in keystone taxa under N fertilization toward taxa associated with P immobilization and stabilization. Together, our results demonstrate that long-term N fertilization drives a conservative, microbially regulated P cycling strategy in which enhanced mineralization is tightly coupled with rapid immobilization, whereas P fertilization primarily increases soil P stocks. These findings highlight distinct microbial mechanisms regulating P cycling under contrasting nutrient inputs and underscore the importance of balanced fertilization for sustaining P availability while minimizing environmental losses.",
@@ -503,10 +521,10 @@
       "title": "Metagenomic analysis identified organic nitrogen metabolism as the key process underlying enhanced soil nitrogen retention after partial organic substitution of chemical fertilizers",
       "authors": [
         "Hongqian Hou",
-        "Xianjin Lan",
+        "Xian-Jin Lan",
         "Jingshang Xiao",
         "Zhenzhen Lv",
-        "X. Liu",
+        "Xiu-Mei Liu",
         "Yi-Ren Liu",
         "J. Ji"
       ],
@@ -616,7 +634,15 @@
       "pmid": "",
       "doi": "10.1111/fwb.70301",
       "title": "Microbial Communities, Resistome Risk and Nitrogen Metabolism‐Related Genes in Particle‐Attached and Free‐Living Microbial Fractions of Yunnan‐Guizhou Plateau Lakes",
-      "authors": [],
+      "authors": [
+        "Cheng-Zhi Mao",
+        "Jie Huang",
+        "H.-P. Grossart",
+        "Ramiro Logares",
+        "Li Chen",
+        "Qi Li",
+        "Tao Li"
+      ],
       "journal": "Freshwater Biology",
       "publication_date": "2026-09-01",
       "abstract": "\n \n \n \n Plateau freshwater lakes are ecologically sensitive ecosystems that provide valuable opportunities to study relationships among microbial diversity, antibiotic resistance genes (ARGs), and nitrogen metabolism in aquatic environments. In this study, we investigated whether microbial community composition, resistance profiles, and nitrogen transformation functions are associated in freshwater lakes of the Yunnan‐Guizhou Plateau.\n \n \n This study analysed microbial community structure and functional diversity in eight freshwater lakes, with explicit comparisons between particle‐attached (PA) and free‐living (FL) microbial lifestyles. ARG profiles were characterised using metagenomic sequencing and bioinformatics analyses, and co‐occurrence patterns among ARGs, mobile genetic elements (MGEs), and nitrogen metabolism‐related genes were statistically evaluated.\n \n \n Particle‐attached microorganisms exhibited significantly higher community diversity, whereas free‐living fractions showed higher functional gene diversity, indicating clear niche partitioning between microbial lifestyles. Multiresistance genes, macrolide‐lincosamide‐streptogramin (MLS) resistance genes, and tetracycline resistance genes constituted the dominant resistance spectrum across the studied lakes. MGEs were strongly positively correlated with ARG abundance. Dissimilatory nitrate reduction to ammonium (DNRA) was the dominant nitrogen transformation pathway, and DNRA‐related genes were significantly positively correlated with ARGs. Members of Gammaproteobacteria were identified as major taxa associated with both DNRA‐related genes and ARGs.\n \n \n These results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes. In particular, the consistent correlations between ARGs and DNRA‐related genes suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear. Our findings highlight the importance of evaluating antimicrobial resistance risks in freshwater ecosystems within their broader biogeochemical context.\n \n \n",
@@ -892,7 +918,7 @@
         "Y. Kuzyakov",
         "Shuang Pang",
         "Yi Wu",
-        "Tingting Li",
+        "Ting-Ting Li",
         "Wei Yang",
         "Honghui Wu",
         "A. A. Goncharov",
@@ -1414,13 +1440,13 @@
       "authors": [
         "Yuehan Liu",
         "Yuchen Wang",
-        "Huifang Wang",
+        "Hui-Fang Wang",
         "Eryang Li",
         "Yudong Chen",
         "Qiong Wu",
         "Wen Cao",
         "Guanghui Lv",
-        "Jianjun Yang"
+        "Jian-Jun Yang"
       ],
       "journal": "Horticulture Research",
       "publication_date": "2026-08-19",
@@ -1532,12 +1558,12 @@
         "Shuming Liu",
         "Chuyu Shang",
         "Baoguo Yang",
-        "Yunqing Liu",
+        "Yun-Qing Liu",
         "Shengguang Zhang",
         "Ruixue Fan",
         "Waseem Hassan",
         "Rongfang Yuan",
-        "Huilun Chen"
+        "Hui-Lun Chen"
       ],
       "journal": "Environmental Research",
       "publication_date": "2026-08-19",
@@ -1829,7 +1855,7 @@
         "Lei Meng",
         "Christoph Müller",
         "Xiao-Qian Dan",
-        "Jinbo Zhang"
+        "Jin-Bo Zhang"
       ],
       "journal": "Journal of Hazardous Materials",
       "publication_date": "2026-08-01",
@@ -2105,9 +2131,9 @@
       "title": "Labile carbon supply modulates H2O2-mediated N2O emissions during sediment denitrification: Insights from metagenomics.",
       "authors": [
         "Pan Huo",
-        "Yuefeng Li",
+        "Yue Li",
         "Tianyi Han",
-        "Tianyi Zhang",
+        "Tian-Yi Zhang",
         "Pengcheng Gao"
       ],
       "journal": "Journal of Environmental Management",
@@ -2348,9 +2374,9 @@
       "title": "Iron/Manganese Oxide‐Bound Nitrogen Suppresses Microbial Mediated Nitrate Reduction in Soil",
       "authors": [
         "Yu Cheng",
-        "Xuehao Zheng",
+        "Xue-Hao Zheng",
         "Miao Yang",
-        "Shoujiang Liu"
+        "Shou-Jiang Liu"
       ],
       "journal": "Land Degradation &amp; Development",
       "publication_date": "2026-07-23",
@@ -2631,12 +2657,12 @@
       "authors": [
         "Lixia Deng",
         "Zhicheng Ju",
-        "Jiawei Chen",
+        "Jia-Wei Chen",
         "Yuxuan Lin",
-        "Weiguo Zhou",
+        "Wei-Guo Zhou",
         "S. Lee",
         "C. Yung",
-        "Hongbin Liu"
+        "Hong-Bin Liu"
       ],
       "journal": "Applied and Environmental Microbiology",
       "publication_date": "2026-07-15",
@@ -2800,7 +2826,7 @@
         "Zhengxing Chen",
         "Xiufeng Tang",
         "Jiayi Wang",
-        "Uli Klümper",
+        "U. Klümper",
         "Guitao Shi",
         "P. Han"
       ],
@@ -2912,7 +2938,7 @@
       "doi": "10.1016/j.jenvman.2026.130418",
       "title": "Spotted knapweed (Centaurea stoebe) invasion linked with disruption of soil nitrogen-cycling processes.",
       "authors": [
-        "Kaitlyn M Van der Zwan",
+        "Kaitlyn M. Van der Zwan",
         "J. Singh",
         "Matthew Coghill",
         "M. Akin‐Fajiye",
@@ -3065,7 +3091,7 @@
         "nitrogen_fixation",
         "soil"
       ],
-      "detail_enriched_at": "2026-08-14T21:42:22.798133+00:00",
+      "detail_enriched_at": "2026-09-13T23:12:58.224525+00:00",
       "edges_enriched_at": "2026-08-14T21:42:23.420936+00:00"
     },
     {
@@ -3076,12 +3102,12 @@
       "doi": "10.1016/j.jhazmat.2026.143137",
       "title": "Metal(loid) contamination shifts microbial carbon and nitrogen cycling potential in paddy soils.",
       "authors": [
-        "Shichao Liu",
-        "Yongbin Li",
+        "Shi-Chao Liu",
+        "Yong-Bin Li",
         "Chenghang Du",
         "Xiayu Zhu",
-        "Shaofeng Wang",
-        "Xiangfeng Zeng",
+        "Shao-Feng Wang",
+        "Xiang-Feng Zeng",
         "Yongfeng Jia"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -3446,8 +3472,8 @@
         "Jian-Peng Gao",
         "Meng-Ping Tang",
         "Chun-Na Zhou",
-        "Yulong Zhang",
-        "Huijuan Xu"
+        "Yu-Long Zhang",
+        "Hui-Juan Xu"
       ],
       "journal": "Environmental Pollution",
       "publication_date": "2026-07-01",
@@ -3848,9 +3874,9 @@
       "authors": [
         "Qiong Wang",
         "Junxiang Cui",
-        "Xiaojing Zhang",
+        "Xiao-Jing Zhang",
         "Hao Zhao",
-        "Xinyue Xu"
+        "Xin-Yue Xu"
       ],
       "journal": "Environmental Pollution",
       "publication_date": "2026-07-01",
@@ -4080,11 +4106,11 @@
       "title": "Carboxymethyl Cellulose Ammonium (CMC-NH₄)-Based Soil Film Mulching Drives Microbial Functional Genes in Soil Nitrogen Cycling: a Metagenomic Perspective",
       "authors": [
         "Yu Han",
-        "Xiantong Huang",
-        "Qinghan Wu",
+        "Xian-Tong Huang",
+        "Qing-Han Wu",
         "Xin Yan",
         "Jiaxin Cui",
-        "Shiqi Yang"
+        "Shi-Qi Yang"
       ],
       "journal": "Journal of soil science and plant nutrition",
       "publication_date": "2026-06-11",
@@ -4458,7 +4484,7 @@
         "Yunzhi Qian",
         "Liping Wang",
         "Botao Nie",
-        "Shilong He"
+        "Shi-Long He"
       ],
       "journal": "Journal of Environmental Chemical Engineering",
       "publication_date": "2026-06-01",
@@ -4894,7 +4920,7 @@
       "title": "Enhancement of genetic potential for soil carbon and nitrogen cycling by organic fertilizer substitution improves the ecological environment for licorice cultivation",
       "authors": [
         "G. Liao",
-        "Jiancai Xiao",
+        "Jian-Cai Xiao",
         "Boyu Zhang",
         "Sheng Wang",
         "Xiu-fu Wan",
@@ -4903,7 +4929,7 @@
         "Binbin Yan",
         "Yuping Zhao",
         "Chuanzhi Kang",
-        "Yufei Zhang",
+        "Yu-Fei Zhang",
         "Feng Yuan",
         "Zhe Zhao",
         "Yunhua Chen",
@@ -5188,7 +5214,7 @@
       "title": "A natural soil-derived microbiota reshapes nitrogen form and plant mineral nutrition",
       "authors": [
         "Laura Dethier",
-        "Jiaen Xie",
+        "Jia-En Xie",
         "Xiaoran Yang",
         "Yang Bai",
         "Deyang Xu"
@@ -5435,7 +5461,7 @@
       "authors": [
         "Nan Zhang",
         "Jialin Wang",
-        "Shanshan Yang",
+        "Shan-Shan Yang",
         "Fei Liu"
       ],
       "journal": "Environmental Pollution",
@@ -5718,7 +5744,7 @@
       "title": "Benthic Nitrogen Fixation and Primary Production in the Shallow Coastal Zone of the Baltic Sea",
       "authors": [
         "Angelina Klett",
-        "Christiane Hassenrück",
+        "C. Hassenrück",
         "M. Labrenz",
         "T. Sperlea",
         "I. Liskow",
@@ -6046,15 +6072,15 @@
       "doi": "10.1021/acs.est.5c08386",
       "title": "Progressive Decomposition of Algal Organic Matter Decouples Nitrogen Transformations in Lake Sediments: Evidence from Short-Term Incubation.",
       "authors": [
-        "Huaji Liu",
+        "Hua-Ji Liu",
         "Chen Wang",
         "Zhong-Qing Huang",
         "Jinhui Wang",
         "Feixuan Cai",
         "Chunmei Tian",
-        "Jimeng Feng",
+        "Ji-Meng Feng",
         "Jian Shen",
-        "Xinze Wang"
+        "Xin-Ze Wang"
       ],
       "journal": "Environmental Science and Technology",
       "publication_date": "2026-04-11",
@@ -6335,7 +6361,7 @@
       "authors": [
         "Liangguang Cheng",
         "Quanjie Shen",
-        "Yifan Wang"
+        "Yi-Fan Wang"
       ],
       "journal": "Plants",
       "publication_date": "2026-04-01",
@@ -6503,7 +6529,7 @@
         "J. D. Harindintwali",
         "Min Qian",
         "Nan Wu",
-        "Yanwei Kan",
+        "Yan-Wei Kan",
         "Ziyi Song",
         "Xian Xiao",
         "Pengfei Liu",
@@ -6791,14 +6817,14 @@
       "authors": [
         "Chen Wang",
         "Jian Shen",
-        "Huaji Liu",
+        "Hua-Ji Liu",
         "Zhong-Qing Huang",
         "Jinhui Wang",
         "Chunmei Tian",
         "Feixuan Cai",
-        "Jimeng Feng",
+        "Ji-Meng Feng",
         "Fengxi Sha",
-        "Xinze Wang"
+        "Xin-Ze Wang"
       ],
       "journal": "Journal of Environmental Management",
       "publication_date": "2026-04-01",
@@ -7082,7 +7108,7 @@
         "Shen-Tong Wang",
         "Li Li",
         "Qi Yang",
-        "Guo-fan Zhang"
+        "Guo-Fan Zhang"
       ],
       "journal": "Environmental Research",
       "publication_date": "2026-03-18",
@@ -7374,7 +7400,7 @@
         "Haixia Zhu",
         "Xia Wang",
         "Yuemei Wang",
-        "Yongming Luo",
+        "Yong-Ming Luo",
         "E. Kuramae"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -7486,14 +7512,14 @@
       "doi": "10.1016/j.watres.2026.125836",
       "title": "Fresh-seawater interface shapes nitrogen fate in a subtropical estuary: Insights from multi-isotopic and metagenomic analyses.",
       "authors": [
-        "Feifei Wang",
+        "Fei-Fei Wang",
         "Chengchun Shi",
         "Weiwei Zhang",
-        "Yiming Chen",
+        "Yi-Ming Chen",
         "Zhenye Chen",
-        "Shengchang Yang",
+        "Sheng-Chang Yang",
         "Jian Zhang",
-        "Wengui Liu",
+        "Wen-Gui Liu",
         "Wenzhi Cao"
       ],
       "journal": "Water Research",
@@ -7900,7 +7926,7 @@
       "authors": [
         "Yaoxing Wu",
         "Zhiying Tang",
-        "Jiahuan Guo",
+        "Jia-Huan Guo",
         "Lizheng Fang",
         "Huilin Shu",
         "Lin Yu",
@@ -8068,8 +8094,8 @@
         "Qiongmei Niu",
         "Kai Zhou",
         "Laixiang Ma",
-        "Zhili Zhao",
-        "Jiangui Zhang",
+        "Zhi-Li Zhao",
+        "Jian-Gui Zhang",
         "Xiaohui Chu",
         "Guilian Shan"
       ],
@@ -8240,11 +8266,11 @@
         "Gongfu Shi",
         "Jing Fang",
         "Rui Xie",
-        "Yuchen Cheng",
+        "Yu-Chen Cheng",
         "Xuting Zhang",
         "Hailong Zhang",
         "Fengcheng Sun",
-        "Zhanyuan Lu"
+        "Zhan-Yuan Lu"
       ],
       "journal": "Agriculture",
       "publication_date": "2026-02-12",
@@ -8567,10 +8593,10 @@
       "title": "Silver sulfide nanoparticles amplify earthworm gut denitrification and elevate N₂O emissions in subtropical forest soils under nitrogen deposition.",
       "authors": [
         "Jingtao Wu",
-        "Canxuan He",
-        "Kejun Wu",
+        "Can-Xuan He",
+        "Ke-Jun Wu",
         "Weixun Feng",
-        "Yuantong Yang",
+        "Yuan-Tong Yang",
         "Qingqiu Zhou",
         "Peng Mao",
         "Xue Xiao"
@@ -8739,7 +8765,7 @@
         "Xiangyang Qin",
         "Ren Fei",
         "Anxiang Lu",
-        "He Qishuang"
+        "Qi-Shuang He"
       ],
       "journal": "Bioresource Technology",
       "publication_date": "2026-02-01",
@@ -8852,16 +8878,16 @@
       "title": "Temperature-dependent effects of lanthanum-modified bentonite on sediment nitrogen removal processes and the underlying microbial mechanisms.",
       "authors": [
         "Penglong Wang",
-        "Jiehua Wang",
+        "Jie-Hua Wang",
         "Pingping Zhang",
         "Zhiqiang Jiao",
-        "X. Bai",
-        "Zhonghua Zhao",
+        "Xiu-Ling Bai",
+        "Zhong-Hua Zhao",
         "Jinyue Fan",
         "Songwei Zhang",
         "Bing Zhao",
         "Xiubo Ren",
-        "Huidian Dou",
+        "Hui-Dian Dou",
         "Wenhao Bai"
       ],
       "journal": "Water Research",
@@ -9162,7 +9188,7 @@
         "Inga Brill",
         "Larissa K. Drews",
         "Alexander Nothbaum",
-        "S. Kader",
+        "Siraz Kader",
         "W. Hubens",
         "D. R. Finn",
         "C. C. Tebbe",
@@ -9494,7 +9520,7 @@
         "Sicen Yan",
         "Hafiz Adeel Ahmad",
         "Yongchao Xie",
-        "Shufeng Liu",
+        "Shu-Feng Liu",
         "Jiang Wu",
         "Jiaxin Cui",
         "Bo Yang",
@@ -9617,10 +9643,10 @@
         "Jian Shen",
         "Jinhui Wang",
         "Chen Wang",
-        "Huaji Liu",
+        "Hua-Ji Liu",
         "Chunmei Tian",
-        "Jimeng Feng",
-        "Xinze Wang"
+        "Ji-Meng Feng",
+        "Xin-Ze Wang"
       ],
       "journal": "Journal of Environmental Management",
       "publication_date": "2026-01-20",
@@ -10017,7 +10043,7 @@
         "Zhouyang Pei",
         "Qi-Fa Zhu",
         "Si-Deng Shen",
-        "Linlin Fan",
+        "Lin-Lin Fan",
         "Lvqin Xu",
         "Changquan Huang",
         "Jie Wang",
@@ -10435,14 +10461,14 @@
       "doi": "10.15666/aeer/2402_18531862",
       "title": "EFFECT OF SHORT-TERM NITROGEN ADDITION ON THE SOIL NITROGEN-FIXING MICROBIAL COMMUNITY IN A KARST REGION",
       "authors": [
-        "Qiang Lu",
+        "Q.-T. Lu",
         "A-long Li",
         "Y.-Z. Liu",
         "Gang Hu",
         "C. Hu",
         "C.-H. Xu",
         "C. Zhong",
-        "Z. Zhang"
+        "Z.-H. Zhang"
       ],
       "journal": "Applied Ecology and Environmental Research",
       "publication_date": "2026-01-01",
@@ -10599,14 +10625,14 @@
       "doi": "10.1016/j.watres.2026.125368",
       "title": "Metabolic coupling of arsenic, carbon, nitrogen, sulfur and iron in high-salinity groundwater in the Yellow River Delta: Insights from metagenomic analyses.",
       "authors": [
-        "Chuanshun Zhi",
+        "Chuan-Shun Zhi",
         "Dahai Wang",
         "Baonan He",
         "Guohua Hou",
         "Maosheng Gao",
         "Hui Mu",
         "Ruchun Wei",
-        "Xiancang Wu",
+        "Xian-Cang Wu",
         "Jing Bai",
         "Yufei Jiao",
         "Xiaonong Hu"
@@ -10955,7 +10981,7 @@
         "Deshuai Ji",
         "Fan Wang",
         "Xuanming Zhang",
-        "Wen-ke Wang"
+        "Wenke Wang"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2025-12-18",
@@ -11576,8 +11602,8 @@
         "Huihui Wu",
         "Zhigao Sun",
         "Bingbing Chen",
-        "Xingyun Hu",
-        "Yajin Li"
+        "Xing-Yun Hu",
+        "Ya-Jin Li"
       ],
       "journal": "Environmental Microbiome",
       "publication_date": "2025-12-01",
@@ -11740,7 +11766,7 @@
       "authors": [
         "Hongyan Cheng",
         "Minshu Yuan",
-        "Chengjie Ren",
+        "Cheng-Jie Ren",
         "Fazhu Zhao",
         "Jun Wang"
       ],
@@ -12028,7 +12054,7 @@
         "Guiyao Zhou",
         "Siyue Li",
         "Hao Jiang",
-        "Yuyi Yang",
+        "Yu-Yi Yang",
         "Chen Ye",
         "Quanfa Zhang"
       ],
@@ -12260,13 +12286,13 @@
       "doi": "10.3390/d17120825",
       "title": "Regulatory Effects of Green Manure Combined with Nitrogen Reduction on Carbon-Cycling Functional Genes and Microbial Communities in Paddy Soils",
       "authors": [
-        "Zhongyi Li",
-        "Xiaohui Peng",
+        "Zhong-Yi Li",
+        "Xiao-Hui Peng",
         "Wenbin Dong",
-        "Caihui Wei",
-        "Yuning Wang",
+        "Cai-Hui Wei",
+        "Yu-Ning Wang",
         "Yuefeng Yu",
-        "Haifu Liang",
+        "Hai-Fu Liang",
         "Yongcheng Mo",
         "Huiping Ou",
         "Tieguang He",
@@ -12545,7 +12571,7 @@
         "Hui Zhang",
         "Longjun Chen",
         "Yanshuang Yu",
-        "Chenqiang Lin",
+        "Chen-Qiang Lin",
         "Yu Fang",
         "Xianbo Jia"
       ],
@@ -12713,7 +12739,7 @@
         "Biao Sun",
         "Zhiqiang Tian",
         "Hui Zhang",
-        "Yunxi Zhao",
+        "Yun-Xi Zhao",
         "Zhimou Cui",
         "Jinda Zhang"
       ],
@@ -12835,8 +12861,8 @@
         "Zhiyuan Li",
         "Qingbang Du",
         "Yuting Zhou",
-        "Yifei Li",
-        "G. Zhu"
+        "Yi-Fei Li",
+        "Guibing Zhu"
       ],
       "journal": "Water Research",
       "publication_date": "2025-11-01",
@@ -13163,7 +13189,7 @@
       "title": "Responses of Soil Microbial Community and Nutrient Cycling Functional Genes in Young Cyclobalanopsis gilva Forests to Infertile Mountainous Areas",
       "authors": [
         "Wei Yang",
-        "Shengyi Huang",
+        "Sheng-Yi Huang",
         "Yafei Ding",
         "Yukun Lin",
         "Yonghong Xu",
@@ -13951,7 +13977,7 @@
       "doi": "10.1016/j.jhazmat.2025.139966",
       "title": "Silicon-modified lignin biochar outperforms hydrochar in heavy metal remediation: stochastic microbial assembly and functional gene reprogramming drive soil multifunctionality.",
       "authors": [
-        "Xianzhen Li",
+        "Xian-Zhen Li",
         "Shuangxi Zhu",
         "Hui Wang",
         "Qing Zhen",
@@ -14073,7 +14099,7 @@
         "R. Tateno",
         "A. Toyoda",
         "Nobuhito Ohte",
-        "Weiyu Shi",
+        "Wei-Yu Shi",
         "LIN-FENG Jiang",
         "Kazuo Isobe"
       ],
@@ -14237,9 +14263,9 @@
       "authors": [
         "Churong Liu",
         "Benjie Li",
-        "Qihua Wu",
+        "Qi-Hua Wu",
         "Diwen Chen",
-        "Wenling Zhou",
+        "Wen-Ling Zhou",
         "Junhua Ao"
       ],
       "journal": "Frontiers in Plant Science",
@@ -14407,8 +14433,8 @@
         "Tian-Gui Cai",
         "Da Lin",
         "Bang Ni",
-        "Tianlun Zhang",
-        "Yifei Wang",
+        "Tian-Lun Zhang",
+        "Yi-Fei Wang",
         "Dong Zhu"
       ],
       "journal": "Environmental Science and Technology",
@@ -14525,7 +14551,7 @@
         "Xue-Xia Zhang",
         "Mingjie Li",
         "Jing Yang",
-        "Yuqing Zhang",
+        "Yu-Qing Zhang",
         "Shu-gao Qin",
         "Weiqi Feng"
       ],
@@ -14698,7 +14724,7 @@
         "Longyu Zheng",
         "Feng Huang",
         "Chan Yu",
-        "Jibin Zhang",
+        "Ji-Bin Zhang",
         "Minmin Cai"
       ],
       "journal": "Environmental Research",
@@ -14937,9 +14963,9 @@
       "authors": [
         "Shenzheng Wang",
         "Lin Li",
-        "Xiaoyu Fu",
+        "Xiao-Yu Fu",
         "H. Zhong",
-        "R. Zhang",
+        "Rong-Tao Zhang",
         "X. Sui"
       ],
       "journal": "Microorganisms",
@@ -15431,9 +15457,9 @@
       "title": "Protozoa-driven micro-food webs shaping carbon and nitrogen cycling in reservoir ecosystems",
       "authors": [
         "Xue Wang",
-        "Jinxian Liu",
-        "Baofeng Chai",
-        "Tiehang Wu"
+        "Jin-Xian Liu",
+        "Bao-Feng Chai",
+        "Tie-Hang Wu"
       ],
       "journal": "Environmental Microbiome",
       "publication_date": "2025-08-22",
@@ -15764,7 +15790,7 @@
       "authors": [
         "Wenjie Jia",
         "Yang Shu",
-        "P. Zhao",
+        "Peng-Wu Zhao",
         "Mei Zhou",
         "Yongjie Yue"
       ],
@@ -16221,7 +16247,7 @@
       "authors": [
         "Yang Shu",
         "Wenjie Jia",
-        "P. Zhao",
+        "Peng-Wu Zhao",
         "Mei Zhou",
         "Heng Zhang"
       ],
@@ -16385,7 +16411,7 @@
       "doi": "10.1016/j.jes.2025.07.053",
       "title": "Urban park metagenomics highlights sediments as a potential hotspot for CH4 and N2O emission across diverse habitats.",
       "authors": [
-        "Shuzhen Li",
+        "Shu-Zhen Li",
         "Xue Yan",
         "J. Ndayishimiye",
         "Alexey V. Smirnov",
@@ -16512,9 +16538,9 @@
         "Yang Jiang",
         "Yunfeng Gao",
         "Yue Jiang",
-        "Jiaqi Zhang",
+        "Jia-Qi Zhang",
         "Wei Wang",
-        "Xuesheng Liu",
+        "Xue-Sheng Liu",
         "Sha Li",
         "Juanjuan Qu"
       ],
@@ -16634,7 +16660,7 @@
         "Wen Cheng",
         "Liang Zhao",
         "Guofeng Yu",
-        "Jiehui Ren"
+        "Jie-Hui Ren"
       ],
       "journal": "Water Research",
       "publication_date": "2025-06-19",
@@ -16866,7 +16892,7 @@
       "title": "Characterizing nitrogen cycling microorganisms and genes in sediments of the Three Gorges Reservoir",
       "authors": [
         "Chang Han",
-        "Zhiyuan Chen",
+        "Zhi-Yuan Chen",
         "Yihui Xiao",
         "Ting Yang",
         "Haoyang Shi",
@@ -19061,8 +19087,8 @@
         "Xin Yuan",
         "Yanyan Zhang",
         "Nina Yang",
-        "Shikun Cheng",
-        "Zifu Li",
+        "Shi-Kun Cheng",
+        "Zi-Fu Li",
         "Jiane Zuo"
       ],
       "journal": "Molecules",
@@ -19228,7 +19254,7 @@
       "title": "Divergent profiles of rhizosphere soil carbon and nitrogen cycling in Pinus massoniana provenances with different types of carbon storage",
       "authors": [
         "Zichen Huang",
-        "Jiannan Wang",
+        "Jian-Nan Wang",
         "Xin He",
         "Mengyang Zhang",
         "Xingyue Ren",
@@ -19678,7 +19704,7 @@
       "doi": "10.1016/j.apsoil.2025.105946",
       "title": "Metagenomics reveals divergent functional profiles of soil carbon and nitrogen cycles in an experimental drought and phosphorus-poor desert ecosystem",
       "authors": [
-        "Yanju Gao",
+        "Yan-Ju Gao",
         "A. Tariq",
         "F. Zeng",
         "Xiangyi Li",
@@ -19845,7 +19871,7 @@
         "Haochun Zhao",
         "Wei-qin Su",
         "Randy A. Dahlgren",
-        "Jianming Xu"
+        "Jian-Ming Xu"
       ],
       "journal": "Environmental Science and Technology",
       "publication_date": "2025-02-20",
@@ -20073,11 +20099,11 @@
       "doi": "10.1016/j.agee.2024.109371",
       "title": "Soil metagenomics reveals reduced tillage improves soil functional profiles of carbon, nitrogen, and phosphorus cycling in bulk and rhizosphere soils",
       "authors": [
-        "Xiaojing Hu",
-        "Junjie Liu",
+        "Xiao-Jing Hu",
+        "Jun-Jie Liu",
         "Aizhen Liang",
         "Haidong Gu",
-        "Zhuxiu Liu",
+        "Zhu-Xiu Liu",
         "Jian Jin",
         "Guanghua Wang"
       ],
@@ -20533,7 +20559,7 @@
         "Jiaxiong Zeng",
         "Jijuan Ding",
         "Cheng Wang",
-        "Zhili He",
+        "Zhi-Li He",
         "Zhiwei Liu",
         "Longfei Shu"
       ],
@@ -20644,7 +20670,7 @@
       "doi": "10.1002/ldr.5428",
       "title": "Tillage With Straw Returning Promotes Soil Functional Microbiomes and Nitrogen Transformation to Increase Cotton Yield",
       "authors": [
-        "Wenhao Li",
+        "Wen-Hao Li",
         "Wenying Qu",
         "Rui Zong",
         "Junfeng Li",
@@ -20756,9 +20782,9 @@
       "doi": "10.1016/j.apsoil.2024.105695",
       "title": "Metagenomics reveals soil nitrogen cycling after vegetation restoration: Influence of different vegetation restoration strategies",
       "authors": [
-        "Hengkang Xu",
+        "Heng-Kang Xu",
         "Chao Chen",
-        "Wenqing Chen",
+        "Wen-Qing Chen",
         "Zhuo Pang",
         "Guofang Zhang",
         "Weiwei Zhang",
@@ -21082,14 +21108,14 @@
       "title": "Microbes drive more carbon dioxide and nitrous oxide emissions from wetland under long-term nitrogen enrichment.",
       "authors": [
         "Yisong Feng",
-        "Yanyu Song",
+        "Yan-Yu Song",
         "Mengyuan Zhu",
         "Mengting Li",
         "Chao Gong",
         "Shouyang Luo",
         "Wenkai Mei",
         "Huanhuan Feng",
-        "Wenwen Tan",
+        "Wen-Wen Tan",
         "Changchun Song"
       ],
       "journal": "Water Research",
@@ -21603,7 +21629,7 @@
         "Chen Gui",
         "Hang Wang",
         "Xiaowen Liu",
-        "Guoxing Wu"
+        "Guo-Xing Wu"
       ],
       "journal": "Genes",
       "publication_date": "2024-11-28",
@@ -21768,7 +21794,7 @@
       "authors": [
         "Karla Solis Salazar",
         "Vignesh Palanisamy",
-        "S. Chitlapilly Dass",
+        "Sapna Chitlapilly Dass",
         "Alejandro Castillo",
         "Vijay Joshi"
       ],
@@ -21880,7 +21906,7 @@
       "authors": [
         "Xin-Di Zhao",
         "Zi-Yu Gao",
-        "Jingjing Peng",
+        "Jing-Jing Peng",
         "Konstantinos T. Konstantinidis",
         "Si-Yu Zhang"
       ],
@@ -22050,7 +22076,7 @@
         "Yajiao Wang",
         "Wenchong Shi",
         "Nan Wu",
-        "Wenwen Liu",
+        "Wen-Wen Liu",
         "Frédéric Francis",
         "Xifeng Wang"
       ],
@@ -22442,12 +22468,12 @@
       "authors": [
         "Shudan Xue",
         "Xingyun Yi",
-        "Jingjing Peng",
+        "Jing-Jing Peng",
         "Frederik Bak",
         "Limei Zhang",
         "Guilan Duan",
         "Werner Liesack",
-        "Yongguan Zhu"
+        "Yong-Guan Zhu"
       ],
       "journal": "Environmental Science and Technology",
       "publication_date": "2024-10-09",
@@ -22678,8 +22704,8 @@
         "Yan Wang",
         "Lifeng Guo",
         "Yu-Zheng Zong",
-        "Dongsheng Zhang",
-        "Xinrui Shi",
+        "Dong-Sheng Zhang",
+        "Xin-Rui Shi",
         "Xingyu Hao",
         "Ping Li"
       ],
@@ -23072,12 +23098,12 @@
       "doi": "10.1016/j.scitotenv.2024.176287",
       "title": "Investigating drivers of N2 loss and N2O reducers in paddy soils across China.",
       "authors": [
-        "Xiaomin Wang",
-        "Yumeng Zhang",
+        "Xiao-Min Wang",
+        "Yu-Meng Zhang",
         "Han Zhou",
         "Min Wu",
         "Jun Shan",
-        "Xiaoyuan Yan"
+        "Xiao-Yuan Yan"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2024-09-01",
@@ -23197,7 +23223,7 @@
         "Boda Zhang",
         "Ruohong Li",
         "Xinzhe Zhu",
-        "Lianpeng Sun",
+        "Lian-Peng Sun",
         "Z. Ng",
         "Ming Su"
       ],
@@ -23645,9 +23671,9 @@
       "doi": "10.1016/j.scitotenv.2024.175457",
       "title": "Aerobic denitrifying bacterial community with low C/N ratio remove nitrate from micro-polluted water: Metagenomics unravels denitrification pathways.",
       "authors": [
-        "L. Kou",
-        "Tinglin Huang",
-        "Haihan Zhang",
+        "Li-Qing Kou",
+        "Ting-Lin Huang",
+        "Hai-Han Zhang",
         "Gang Wen",
         "Kai Li"
       ],
@@ -23763,7 +23789,7 @@
         "Ze Zhao",
         "Wei Qin",
         "Ling Li",
-        "He-ping Zhao",
+        "He-Ping Zhao",
         "Feng Ju"
       ],
       "journal": "Environmental Science and Technology",
@@ -23877,9 +23903,9 @@
       "title": "Soil metagenomics reveals the effect of nitrogen on soil microbial communities and nitrogen-cycle functional genes in the rhizosphere of Panax ginseng",
       "authors": [
         "Kexin Li",
-        "Hongmei Lin",
+        "Hong-Mei Lin",
         "M. Han",
-        "Limin Yang"
+        "Li-Min Yang"
       ],
       "journal": "Frontiers in Plant Science",
       "publication_date": "2024-08-07",
@@ -24047,7 +24073,7 @@
         "Ammara Shoukat",
         "Qudsia Aftab",
         "Jinfeng Lu",
-        "Yuanxun Zhang"
+        "Yuan-Xun Zhang"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2024-08-06",
@@ -24631,12 +24657,12 @@
       "authors": [
         "Zetao Dai",
         "Ning Zhang",
-        "Feifei Wang",
+        "Fei-Fei Wang",
         "Yujie Li",
         "Jiarui Peng",
         "Tao Xiang",
         "Xiaoyu Zhao",
-        "Shengchang Yang",
+        "Sheng-Chang Yang",
         "Wenzhi Cao"
       ],
       "journal": "Journal of Environmental Management",
@@ -24757,7 +24783,7 @@
         "Xuancang Wang",
         "Kang Chen",
         "Zhengfeng Wu",
-        "Jiancheng Zhang",
+        "Jian-Cheng Zhang",
         "Xue-Wu Sun"
       ],
       "journal": "Journal of soil science and plant nutrition",
@@ -25492,9 +25518,9 @@
       "title": "Trace metals coupled with plasticisers in microplastics strengthen the denitrification function of the soil microbiome in the Qinghai Tibetan Plateau.",
       "authors": [
         "Yonglu Wang",
-        "Fengsong Zhang",
+        "Feng-Song Zhang",
         "Guixiang Zhang",
-        "Huaxin Wang",
+        "Hua-Xin Wang",
         "Shiliang Zhu",
         "Hongyu Zhang",
         "Tiantian He",
@@ -25784,7 +25810,7 @@
         "Lina Shi",
         "Zhenrong Lin",
         "Lu Yu",
-        "Xiaoting Wei",
+        "Xiao-Ting Wei",
         "Wantong Zhang",
         "Yiyi Geng",
         "X. Shao",
@@ -25897,9 +25923,9 @@
       "title": "Biodegradable film mulching increases soil microbial network complexity and decreases nitrogen-cycling gene abundance.",
       "authors": [
         "Hao Zhang",
-        "Duntao Shu",
-        "Jiaqi Zhang",
-        "Xuejun Liu",
+        "Dun-Tao Shu",
+        "Jia-Qi Zhang",
+        "Xue-Jun Liu",
         "Kai Wang",
         "Rui Jiang"
       ],
@@ -26006,124 +26032,6 @@
       "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
     },
     {
-      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "source": "Semantic Scholar",
-      "pmid": "38749183",
-      "doi": "10.1016/j.watres.2024.121761",
-      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
-      "authors": [
-        "Lutong Yang",
-        "P. Han",
-        "Qiaojuan Wang",
-        "Hui Lin",
-        "Donglin Wang",
-        "Jie Mao",
-        "Weixiao Qi",
-        "Yaohui Bai",
-        "Jiuhui Qu"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2024-05-01",
-      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
-      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "pdf_url": "",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 65,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "6e1ae106127725e09979ef4324890f542b846080",
-          "title": "Emergent Macrophytes Specifically Regulate Ammonia-Oxidizing Microbial Communities and Functions: Comammox Dominance and N2O Emission Effects.",
-          "year": 2026,
-          "journal": "Journal of Applied Microbiology",
-          "authors": [
-            "Qinghua Zhang",
-            "Zhixin Niu",
-            "Jianzhao Li"
-          ],
-          "doi": "10.1093/jambio/lxag178",
-          "url": "https://www.semanticscholar.org/paper/6e1ae106127725e09979ef4324890f542b846080",
-          "citation_count": 0
-        },
-        {
-          "id": "1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
-          "title": "Impacts of sulfamethoxazole on natural periphyton physiology and microbial community stability: Implications for aquatic ecosystem resilience.",
-          "year": 2026,
-          "journal": "Ecotoxicology and Environmental Safety",
-          "authors": [
-            "Songnan Yang",
-            "Jianying Chao",
-            "Yiqun Wang"
-          ],
-          "doi": "10.1016/j.ecoenv.2026.120476",
-          "url": "https://www.semanticscholar.org/paper/1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
-          "citation_count": 0
-        },
-        {
-          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Meiqi Huang",
-            "Shengjie Li",
-            "Guangli Mu"
-          ],
-          "doi": "10.1016/j.envres.2026.125274",
-          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
-          "citation_count": 0
-        },
-        {
-          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Zhiqiang Zuo",
-            "Longkai Qiao",
-            "X. Cen"
-          ],
-          "doi": "10.1021/acs.est.6c03588",
-          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "citation_count": 0
-        },
-        {
-          "id": "468993fad316b615fa499aa7e9e08b3f6084564e",
-          "title": "Marine antifouling biocide 4,5-dichloro-2-n-octyl-4-isothiazolin-3-one disrupts sediment microbiome structure and function: insights from absolute quantification and enzyme activity dynamics",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "Jiaxin Zhang",
-            "Libing Cai",
-            "Lin Wang"
-          ],
-          "doi": "10.1128/aem.00819-26",
-          "url": "https://www.semanticscholar.org/paper/468993fad316b615fa499aa7e9e08b3f6084564e",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
-      "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
-    },
-    {
       "id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "semantic_scholar_id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "source": "Semantic Scholar",
@@ -26133,12 +26041,12 @@
       "authors": [
         "Ye Chen",
         "Xiyang Dong",
-        "Zhilei Sun",
+        "Zhi-Lei Sun",
         "Cui-Ling Xu",
         "Xi-Lin Zhang",
         "Shuangshuang Qin",
         "Wei Geng",
-        "H. Cao",
+        "Hong Cao",
         "Bin Zhai",
         "Xue-Cheng Li",
         "Nengyou Wu"
@@ -26297,6 +26205,124 @@
       "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
     },
     {
+      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "source": "Semantic Scholar",
+      "pmid": "38749183",
+      "doi": "10.1016/j.watres.2024.121761",
+      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
+      "authors": [
+        "Lutong Yang",
+        "P. Han",
+        "Qiaojuan Wang",
+        "Hui Lin",
+        "Donglin Wang",
+        "Jie Mao",
+        "Weixiao Qi",
+        "Yaohui Bai",
+        "Jiuhui Qu"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2024-05-01",
+      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
+      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "pdf_url": "",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 65,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "6e1ae106127725e09979ef4324890f542b846080",
+          "title": "Emergent Macrophytes Specifically Regulate Ammonia-Oxidizing Microbial Communities and Functions: Comammox Dominance and N2O Emission Effects.",
+          "year": 2026,
+          "journal": "Journal of Applied Microbiology",
+          "authors": [
+            "Qinghua Zhang",
+            "Zhixin Niu",
+            "Jianzhao Li"
+          ],
+          "doi": "10.1093/jambio/lxag178",
+          "url": "https://www.semanticscholar.org/paper/6e1ae106127725e09979ef4324890f542b846080",
+          "citation_count": 0
+        },
+        {
+          "id": "1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
+          "title": "Impacts of sulfamethoxazole on natural periphyton physiology and microbial community stability: Implications for aquatic ecosystem resilience.",
+          "year": 2026,
+          "journal": "Ecotoxicology and Environmental Safety",
+          "authors": [
+            "Songnan Yang",
+            "Jianying Chao",
+            "Yiqun Wang"
+          ],
+          "doi": "10.1016/j.ecoenv.2026.120476",
+          "url": "https://www.semanticscholar.org/paper/1f4c8ed0d0e9b063adbd11ae7c5444a3840e9790",
+          "citation_count": 0
+        },
+        {
+          "id": "472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "title": "Methanotrophs and Co-occurring Microbial Taxa: Genomic Potential for Carbon, Nitrogen, and Sulfur Cycles in Newly Formed High-altitude Proglacial Lakes.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Meiqi Huang",
+            "Shengjie Li",
+            "Guangli Mu"
+          ],
+          "doi": "10.1016/j.envres.2026.125274",
+          "url": "https://www.semanticscholar.org/paper/472f9fc37d20d68c3335360065a77f4d9e7c6ba2",
+          "citation_count": 0
+        },
+        {
+          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Zhiqiang Zuo",
+            "Longkai Qiao",
+            "X. Cen"
+          ],
+          "doi": "10.1021/acs.est.6c03588",
+          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "citation_count": 0
+        },
+        {
+          "id": "468993fad316b615fa499aa7e9e08b3f6084564e",
+          "title": "Marine antifouling biocide 4,5-dichloro-2-n-octyl-4-isothiazolin-3-one disrupts sediment microbiome structure and function: insights from absolute quantification and enzyme activity dynamics",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Jiaxin Zhang",
+            "Libing Cai",
+            "Lin Wang"
+          ],
+          "doi": "10.1128/aem.00819-26",
+          "url": "https://www.semanticscholar.org/paper/468993fad316b615fa499aa7e9e08b3f6084564e",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
+      "edges_enriched_at": "2026-09-04T23:05:14.554372+00:00"
+    },
+    {
       "id": "e06d026d57036f524731265ec1e3f18cd18bfe00",
       "semantic_scholar_id": "e06d026d57036f524731265ec1e3f18cd18bfe00",
       "source": "Semantic Scholar",
@@ -26306,7 +26332,7 @@
       "authors": [
         "Akari Mitsuta",
         "K. S. Lourenço",
-        "Mart Ros",
+        "M. Ros",
         "Y. Uchida",
         "E. Kuramae"
       ],
@@ -26481,9 +26507,9 @@
         "Rui Su",
         "Lihua Zhang",
         "Sergei Lupakov",
-        "Yanyu Song",
+        "Yan-Yu Song",
         "Changchun Song",
-        "Xiaofeng Xu"
+        "Xiao-Feng Xu"
       ],
       "journal": "Biology and Fertility of Soils",
       "publication_date": "2024-04-24",
@@ -26927,8 +26953,8 @@
         "Cheng Liu",
         "Fozia",
         "Qian Cui",
-        "Hongjun Yang",
-        "Chunyu Zhao",
+        "Hong-Jun Yang",
+        "Chun-Yu Zhao",
         "Han Zhang",
         "Huanhuan Hu",
         "Zongxiao Zhang"
@@ -27502,7 +27528,7 @@
         "Jiayu Luo",
         "Youzhi Miao",
         "Jia-Hui Shao",
-        "Zhihui Xu",
+        "Zhi-Hui Xu",
         "Nan Zhang",
         "Qirong Shen",
         "Ruifu Zhang",
@@ -27613,7 +27639,7 @@
       "doi": "10.1016/j.scitotenv.2024.171048",
       "title": "Soil nitrogen cycling gene abundances in response to organic amendments: A meta-analysis.",
       "authors": [
-        "Yajun Yang",
+        "Ya-Jun Yang",
         "Hexiang Liu",
         "Yi Chen",
         "Lijuan Wu",
@@ -28136,7 +28162,7 @@
         "Jianglong Cui",
         "Fangyuan Jin",
         "Xiaojie Li",
-        "Yaning Xu"
+        "Ya-Ning Xu"
       ],
       "journal": "Water",
       "publication_date": "2024-01-31",
@@ -28634,7 +28660,7 @@
         "S. Sunagawa",
         "M. Lever",
         "M. F. Lehmann",
-        "Helmut Bürgmann"
+        "H. Bürgmann"
       ],
       "journal": "ISME Communications",
       "publication_date": "2024-01-01",
@@ -28907,17 +28933,17 @@
       "title": "Effects of short-term drought, nitrogen application and their interactions on the composition and functional genes of soil microbial communities in alfalfa grassland on the Loess Plateau",
       "authors": [
         "Ruobing Wang",
-        "Jingui Zhang",
+        "Jin-Gui Zhang",
         "Tao Ma",
         "Wenqiang Lv",
-        "Zhixin Zhang",
+        "Zhi-Xin Zhang",
         "Yuying Shen",
         "Qian Yang",
-        "Xianzhi Wang",
+        "Xian-Zhi Wang",
         "Jiaxuan Li",
         "Qian Xiang",
         "Long Lv",
-        "Jianjun Zhang",
+        "Jian-Jun Zhang",
         "Jingyong Ma"
       ],
       "journal": "Frontiers in Sustainable Food Systems",
@@ -29077,14 +29103,14 @@
       "authors": [
         "Guopeng Zhou",
         "Kunkun Fan",
-        "Song-juan Gao",
+        "Songjuan Gao",
         "D. Chang",
         "Guilong Li",
         "Ting Liang",
         "Hai Liang",
         "Shunuo Li",
-        "Jiudong Zhang",
-        "Zongxian Che",
+        "Jiu-Dong Zhang",
+        "Zong-Xian Che",
         "Weidong Cao"
       ],
       "journal": "Science China Life Sciences",
@@ -29195,10 +29221,10 @@
       "title": "The connection between the antibiotic resistome and nitrogen-cycling microorganisms in paddy soil is enhanced by application of chemical and plant-derived organic fertilizers.",
       "authors": [
         "Yuan Wang",
-        "Jingjing Cai",
-        "Xiaodong Chen",
+        "Jing-Jing Cai",
+        "Xiao-Dong Chen",
         "Bin Guo",
-        "Junli Liu",
+        "Jun-Li Liu",
         "Gaoyang Qiu",
         "Hua Li"
       ],
@@ -29314,7 +29340,7 @@
       "title": "Effects of Different Manures in Combination with Fulvic Acid on the Abundance of N-Cycling Functional Genes in Greenhouse Soils",
       "authors": [
         "Shouqiang Zhao",
-        "Zhongyang Li",
+        "Zhong-Yang Li",
         "Chuncheng Liu",
         "Jiuming Sun",
         "Jibin Song",
@@ -29479,10 +29505,10 @@
       "title": "Discordant patterns between nitrogen-cycling functional traits and taxa in distant coastal sediments reveal important community assembly mechanisms",
       "authors": [
         "Wen Song",
-        "Hongjun Li",
+        "Hong-Jun Li",
         "Yuqi Zhou",
         "Xia Liu",
-        "Yueyue Li",
+        "Yue-Yue Li",
         "Mengqi Wang",
         "Dan-dan Li",
         "Qichao Tu"
@@ -29815,16 +29841,16 @@
       "doi": "10.3389/fpls.2023.1259853",
       "title": "Enhancing plant growth in biofertilizer-amended soil through nitrogen-transforming microbial communities",
       "authors": [
-        "L. Li",
+        "Liang-Zhi Li",
         "Zhengrong Hu",
         "Ge Tan",
-        "Jianqiang Fan",
+        "Jian-Qiang Fan",
         "Yi-Qiang Chen",
         "Yansong Xiao",
-        "Shaolong Wu",
-        "Qiqi Zhi",
+        "Shao-Long Wu",
+        "Qi-Qi Zhi",
         "Tian-Bo Liu",
-        "Huaqun Yin",
+        "Hua-Qun Yin",
         "Qianjun Tang"
       ],
       "journal": "Frontiers in Plant Science",
@@ -30101,7 +30127,7 @@
       "doi": "10.3389/fmicb.2023.1258659",
       "title": "Unraveling the rate-limiting step in microorganisms' mediation of denitrification and phosphorus absorption/transport processes in a highly regulated river-lake system",
       "authors": [
-        "Jiewei Ding",
+        "Jie-Wei Ding",
         "Wei Yang",
         "Xinyu Liu",
         "Qingqing Zhao",
@@ -30500,12 +30526,12 @@
         "Zhen Wang",
         "Kai Tang",
         "P. Struik",
-        "Muhammad Nadeem Ashraf",
+        "M. N. Ashraf",
         "Tongrui Zhang",
         "Yanning Zhao",
         "Riliga Wu",
         "Ke Jin",
-        "Yuanheng Li"
+        "Yuan-Heng Li"
       ],
       "journal": "Journal of Environmental Management",
       "publication_date": "2023-09-25",
@@ -30787,12 +30813,12 @@
       "title": "The Effects of Localized Plant–Soil–Microbe Interactions on Soil Nitrogen Cycle in Maize Rhizosphere Soil under Long-Term Fertilizers",
       "authors": [
         "Yanan Li",
-        "Chengyu Wang",
-        "Junnan Wu",
+        "Cheng-Yu Wang",
+        "Jun-Nan Wu",
         "Yumang Zhang",
         "Qi Li",
-        "Shuxia Liu",
-        "Yunhang Gao"
+        "Shu-Xia Liu",
+        "Yun-Hang Gao"
       ],
       "journal": "Agronomy",
       "publication_date": "2023-08-12",
@@ -30961,7 +30987,7 @@
         "Chi-Fung Tang",
         "Peiqing Qin",
         "Shiyu Luo",
-        "Yinjun Zhao",
+        "Yin-Jun Zhao",
         "Fang-Ming Yu",
         "Yi Li"
       ],
@@ -31201,7 +31227,7 @@
         "Yue Li",
         "Meiyu Liu",
         "Xiao-Zong Song",
-        "Binbin Liu",
+        "Bin-Bin Liu",
         "Xiaotang Ju"
       ],
       "journal": "Environmental Microbiology",
@@ -31355,7 +31381,7 @@
       "title": "Denitrification fractionates N and O isotopes of nitrate following a ratio independent of carbon sources in freshwaters.",
       "authors": [
         "Shengjie Li",
-        "Zhongxin Luo",
+        "Zhong-Xin Luo",
         "Shuo Wang",
         "Qiong Nan",
         "G. Ji"
@@ -31474,7 +31500,7 @@
         "Mengmeng Wen",
         "Cai-di Yang",
         "Fazhu Zhao",
-        "C. Ren",
+        "Cheng-Jie Ren",
         "N. Zhang",
         "Yinyan Liang",
         "Jun Wang"
@@ -31760,7 +31786,7 @@
       "authors": [
         "Zhiqiang Tian",
         "Sheng Zhang",
-        "Ju-fang Lu",
+        "Ju-Fang Lu",
         "Xiaohong Shi",
         "Shengnan Zhao",
         "Biao Sun",
@@ -32221,10 +32247,10 @@
         "M. Abdelgadir",
         "S. Bonaglia",
         "Sara C. Forsberg",
-        "Johan Wikström",
+        "Johanna Wikström",
         "J. Gunnarsson",
         "Francisco J. A. Nascimento",
-        "Sara Sjöling"
+        "S. Sjöling"
       ],
       "journal": "Microbial Ecology",
       "publication_date": "2023-05-24",
@@ -32390,7 +32416,7 @@
         "Xiaojie Li",
         "Huibin Yu",
         "Yonghui Song",
-        "Hongjie Gao",
+        "Hong-Jie Gao",
         "Peng Yuan"
       ],
       "journal": "Environmental Research",
@@ -32671,14 +32697,14 @@
       "authors": [
         "Ruochen Li",
         "Chengyao Ren",
-        "Likun Wu",
+        "Li-Kun Wu",
         "Xinxin Zhang",
         "Xinyi Mao",
         "Zhen Fan",
         "Weili Cui",
         "Wu Zhang",
         "Gehong Wei",
-        "Duntao Shu"
+        "Dun-Tao Shu"
       ],
       "journal": "Environmental Research",
       "publication_date": "2023-05-01",
@@ -33199,7 +33225,7 @@
         "Lori Phillips",
         "A. Longmore",
         "H. Hayden",
-        "Caixian Tang",
+        "Cai-Xian Tang",
         "K. Heidelberg",
         "P. Mele"
       ],
@@ -33597,8 +33623,8 @@
       "title": "Freeze-thaw cycles alter the growth sprouting strategy of wetland plants by promoting denitrification",
       "authors": [
         "Shanshan Ding",
-        "Yuanchun Zou",
-        "Xiaofei Yu"
+        "Yuan-Chun Zou",
+        "Xiao-Fei Yu"
       ],
       "journal": "Communications Earth & Environment",
       "publication_date": "2023-02-28",
@@ -33917,15 +33943,15 @@
       "doi": "10.1016/j.jhazmat.2023.131097",
       "title": "Distinct influence of conventional and biodegradable microplastics on microbe-driving nitrogen cycling processes in soils and plastispheres as evaluated by metagenomic analysis.",
       "authors": [
-        "Xiaojing Hu",
+        "Xiao-Jing Hu",
         "Haidong Gu",
         "X. Sun",
         "Yongbin Wang",
-        "Junjie Liu",
-        "Zhenhua Yu",
-        "Yansheng Li",
+        "Jun-Jie Liu",
+        "Zhen-Hua Yu",
+        "Yan-Sheng Li",
         "Jian Jin",
-        "Guanghua Wang"
+        "Guang-Hua Wang"
       ],
       "journal": "Journal of Hazardous Materials",
       "publication_date": "2023-02-01",
@@ -34207,7 +34233,7 @@
       "title": "Functional significance of microbial diversity in arid soils: biological soil crusts and nitrogen fixation as a model system",
       "authors": [
         "Alberto Barrón-Sandoval",
-        "J. Martiny",
+        "J. B. Martiny",
         "Teresa Pérez-Carbajal",
         "S. Bullock",
         "A. Leija",
@@ -34979,10 +35005,10 @@
       "doi": "10.1016/j.scitotenv.2022.160335",
       "title": "Spatiotemporal heterogeneity of nitrogen transformation potentials in a freshwater estuarine system.",
       "authors": [
-        "Jiali Lü",
-        "Shiqin Wang",
-        "Binbin Liu",
-        "Xianfang Song"
+        "Jia-Lin Lu",
+        "Shi-Qin Wang",
+        "Bin-Bin Liu",
+        "Xian-Fang Song"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2022-11-01",
@@ -35259,12 +35285,12 @@
       "authors": [
         "Shunxian Lin",
         "Zhijun Liu",
-        "Yuchao Wang",
-        "Jiayu Li",
+        "Yu-Chao Wang",
+        "Jia-Yu Li",
         "Gege Wang",
-        "Jianghua Ye",
-        "Haibin Wang",
-        "Hai-bin He"
+        "Jiang-Hua Ye",
+        "Hai-Bin Wang",
+        "Hai-Bin He"
       ],
       "journal": "Frontiers in Plant Science",
       "publication_date": "2022-10-14",
@@ -35710,14 +35736,14 @@
         "Lifang Guo",
         "Rui-Iin Yang",
         "Zhaohui Yang",
-        "Haihan Zhang",
-        "Qiqian Li",
+        "Hai-Han Zhang",
+        "Qi-Qian Li",
         "Zhiguo Cao",
         "Xin Zhang",
         "Pin Gao",
-        "Wenlong Gao",
+        "Wen-Long Gao",
         "Geng Yan",
-        "Duanyi Huang",
+        "Duan-Yi Huang",
         "Weimin Sun"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -35946,7 +35972,7 @@
         "Yanhong Yao",
         "Meng Sun",
         "Gu Li",
-        "Jianqiang Zhu"
+        "Jian-Qiang Zhu"
       ],
       "journal": "Microorganisms",
       "publication_date": "2022-08-29",
@@ -36216,7 +36242,7 @@
       "title": "Effective mechanisms of water purification for nitrogen-modified attapulgite, volcanic rock, and combined exogenous microorganisms",
       "authors": [
         "Yao Zheng",
-        "Yuqin Wang",
+        "Yu-Qin Wang",
         "Xiaoxi Yang",
         "Jiancao Gao",
         "Gangchun Xu",
@@ -36537,7 +36563,7 @@
       "doi": "10.3389/fmicb.2022.945927",
       "title": "Rhizosphere and Straw Return Interactively Shape Rhizosphere Bacterial Community Composition and Nitrogen Cycling in Paddy Soil",
       "authors": [
-        "Ya-hui Zhao",
+        "Ya-Hui Zhao",
         "Ning Wang",
         "Mengyao Yu",
         "Jianguang Yu",
@@ -36705,7 +36731,7 @@
         "Jieying Wang",
         "Liyuan He",
         "Xiaofeng Xu",
-        "C. Ren",
+        "Cheng-Jie Ren",
         "Jun Wang",
         "Yaoxin Guo",
         "Fazhu Zhao"
@@ -36818,17 +36844,17 @@
       "doi": "10.1016/j.geoderma.2022.115846",
       "title": "Metagenomics reveals divergent functional profiles of soil carbon and nitrogen cycling under long-term addition of chemical and organic fertilizers in the black soil region",
       "authors": [
-        "Xiaojing Hu",
+        "Xiao-Jing Hu",
         "Haidong Gu",
-        "Junjie Liu",
+        "Jun-Jie Liu",
         "Dan Wei",
         "P. Zhu",
-        "Xi’an Cui",
+        "Xi'an Cui",
         "Bao-ku Zhou",
-        "Xueli Chen",
+        "Xue-Li Chen",
         "Jian Jin",
-        "Xiaobing Liu",
-        "Guanghua Wang"
+        "Xiao-Bing Liu",
+        "Guang-Hua Wang"
       ],
       "journal": "Geoderma",
       "publication_date": "2022-07-01",
@@ -36912,7 +36938,7 @@
       "title": "Effects of nanopolystyrene addition on nitrogen fertilizer fate, gaseous loss of N from the soil, and soil microbial community composition.",
       "authors": [
         "Ziheng Zou",
-        "Shuqing Li",
+        "Shu-Qing Li",
         "Jie Wu",
         "Shumin Guo",
         "Yihe Zhang",
@@ -36920,7 +36946,7 @@
         "E. Valsami-Jones",
         "I. Lynch",
         "Xueyan Liu",
-        "Jinyang Wang",
+        "Jin-Yang Wang",
         "Jianwen Zou"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -37040,7 +37066,7 @@
         "Gaihe Yang",
         "Guangxin Ren",
         "Xinhui Han",
-        "Xiaojiao Wang",
+        "Xiao-Jiao Wang",
         "C. Ren"
       ],
       "journal": "Science of the Total Environment",
@@ -37440,7 +37466,7 @@
         "C. Schubert",
         "Beat Müller",
         "M. Lever",
-        "Helmut Bürgmann"
+        "H. Bürgmann"
       ],
       "journal": "Msphere",
       "publication_date": "2022-02-02",
@@ -37608,7 +37634,7 @@
         "Qian Liu",
         "Junnan Li",
         "H. Shan",
-        "Yicheng Xie"
+        "Yi-Cheng Xie"
       ],
       "journal": "Journal of Marine Science and Engineering",
       "publication_date": "2022-01-27",
@@ -37935,8 +37961,8 @@
         "Jun Zhao",
         "Xiaojuan Feng",
         "Jinbo Zhang",
-        "Z. Cai",
-        "Guo-hua Liu"
+        "Zu-cong Cai",
+        "Guo-Hua Liu"
       ],
       "journal": "Frontiers in Plant Science",
       "publication_date": "2022-01-14",
@@ -38098,7 +38124,7 @@
       "authors": [
         "Jiulong Zhao",
         "H. Jing",
-        "Zengmeng Wang",
+        "Zeng-Meng Wang",
         "Long Wang",
         "Huahua Jian",
         "Rui Zhang",
@@ -38265,7 +38291,7 @@
       "title": "Forage Grasses Steer Soil Nitrogen Processes, Microbial Populations, and Microbiome Composition in A Long-term Tropical Agriculture System",
       "authors": [
         "Letusa Momesso",
-        "C. Crusciol",
+        "C. A. C. Crusciol",
         "M. Leite",
         "J. W. Bossolani",
         "E. Kuramae"
@@ -38382,15 +38408,15 @@
         "Yanshuo Pan",
         "S. Borjigin",
         "Ye Liu",
-        "Hongzhe Wang",
-        "Yanan Wang",
-        "Yingchun Wu",
+        "Hong-Zhe Wang",
+        "Ya-Nan Wang",
+        "Ying-Chun Wu",
         "Guangfei Hao",
         "D. Gong",
-        "Qingwen Yang",
+        "Qing-Wen Yang",
         "Z. Geng",
-        "Yuzhong Li",
-        "Dongfei Han"
+        "Yu-Zhong Li",
+        "Dong-Fei Han"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2022-01-01",
@@ -38505,7 +38531,7 @@
         "Jie Shen",
         "Q. Tao",
         "D. Qin",
-        "Youlin Luo",
+        "You-Lin Luo",
         "Jipeng Luo",
         "Yuting He",
         "Bing Li",
@@ -38627,7 +38653,7 @@
         "Joana Séneca",
         "A. Söllinger",
         "C. Herbold",
-        "Petra Pjevac",
+        "P. Pjevac",
         "J. Prommer",
         "E. Verbruggen",
         "B. Sigurdsson",
@@ -39199,14 +39225,14 @@
       "title": "Fertilizer stabilizers reduce nitrous oxide emissions from agricultural soil by targeting microbial nitrogen transformations.",
       "authors": [
         "Churong Liu",
-        "Yushi Zhang",
+        "Yu-Shi Zhang",
         "Hongrun Liu",
         "Xue-Qing Liu",
         "Danyang Ren",
-        "Ligang Wang",
+        "Li-gang Wang",
         "Dahai Guan",
-        "Zhaohu Li",
-        "Mingcai Zhang"
+        "Zhao-Hu Li",
+        "Ming-Cai Zhang"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2021-10-01",
@@ -39319,11 +39345,11 @@
       "doi": "10.13345/j.cjb.200658",
       "title": "[Metagenomic analysis of the diversity of microbes in the Napahai plateau wetland and their carbon and nitrogen metabolisms].",
       "authors": [
-        "Zhiwei Xu",
+        "Zhi-Wei Xu",
         "Xuemei Chen",
-        "Yunlin Wei",
+        "Yun-Lin Wei",
         "Qi Zhang",
-        "X. Ji"
+        "Xiu-Ling Ji"
       ],
       "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
       "publication_date": "2021-09-25",
@@ -39430,12 +39456,12 @@
       "doi": "10.21203/rs.3.rs-746574/v1",
       "title": "Microbial Genome-Resolved Metaproteomic Analyses Frame Intertwined Carbon and Nitrogen Cycles in River Hyporheic Sediments",
       "authors": [
-        "J. Rodríguez-Ramos",
+        "Josué A. Rodríguez-Ramos",
         "M. Borton",
         "Bridget B. McGivern",
         "Garret Smith",
         "L. Solden",
-        "Michael Shaffer",
+        "M. Shaffer",
         "R. Daly",
         "S. Purvine",
         "C. Nicora",
@@ -40108,7 +40134,7 @@
       "authors": [
         "Xingjie Wu",
         "Jingjing Peng",
-        "Pengfei Liu",
+        "Peng-Fei Liu",
         "Q. Bei",
         "C. Rensing",
         "Yong Li",
@@ -40223,10 +40249,10 @@
       "authors": [
         "Yongbin Li",
         "Miaomiao Zhang",
-        "R. Xu",
-        "Hanzhi Lin",
-        "Xiaoxu Sun",
-        "Fuqing Xu",
+        "Rui Xu",
+        "Han-Zhi Lin",
+        "Xiao-Xu Sun",
+        "Fu-Qing Xu",
         "Pin Gao",
         "Tianle Kong",
         "E. Xiao",
@@ -40724,7 +40750,7 @@
         "L. Pereg",
         "S. S. Aldouri",
         "F. García‐Orenes",
-        "J. A. Sánchez‐Zapata"
+        "J. A. Sánchez-Zapata"
       ],
       "journal": "Pedobiologia",
       "publication_date": "2021-03-08",
@@ -41002,7 +41028,7 @@
         "Mikk Espenberg",
         "Jaan Pärn Pärn",
         "K. Kirsimäe",
-        "Ülo Mander"
+        "Ü. Mander"
       ],
       "journal": "The EGU General Assembly",
       "publication_date": "2021-03-03",
@@ -41512,9 +41538,9 @@
       "authors": [
         "Bingyang Han",
         "Jingjing Li",
-        "Kesi Liu",
+        "Ke-Si Liu",
         "Hui Zhang",
-        "Xiaoting Wei",
+        "Xiao-Ting Wei",
         "X. Shao"
       ],
       "journal": "Plant and Soil",
@@ -41830,9 +41856,9 @@
       "doi": "10.1016/j.envpol.2021.116640",
       "title": "Effect of biofertilizer and wheat straw biochar application on nitrous oxide emission and ammonia volatilization from paddy soil.",
       "authors": [
-        "Haijun Sun",
+        "Hai-Jun Sun",
         "Yu Zhang",
-        "Yiting Yang",
+        "Yi-Ting Yang",
         "Yu-Dong Chen",
         "P. Jeyakumar",
         "Qian Shao",
@@ -41843,7 +41869,7 @@
         "Yuerong Fan",
         "Shujie Xiang",
         "Ning-Ning Zhai",
-        "Yifan V. Li",
+        "Yi-Fan V. Li",
         "Qingfeng Zhao",
         "Hailong Wang"
       ],
@@ -42123,8 +42149,8 @@
       "doi": "10.1016/j.chemosphere.2021.129566",
       "title": "Metagenomics analysis identifies nitrogen metabolic pathway in bioremediation of diesel contaminated soil.",
       "authors": [
-        "Yong-chao Gao",
-        "Jianhua Du",
+        "Yongchao Gao",
+        "Jian-Hua Du",
         "M. Bahar",
         "Hui Wang",
         "S. Subashchandrabose",
@@ -42134,7 +42160,7 @@
         "Qingqing Zhao",
         "Wen Zhang",
         "Yanju Liu",
-        "Jianing Wang",
+        "Jia-Ning Wang",
         "R. Naidu"
       ],
       "journal": "Chemosphere",
@@ -42245,12 +42271,12 @@
       "doi": "10.1007/s11368-020-02868-w",
       "title": "Nitrogen transformation and microbial community structure varied in apple rhizosphere and rhizoplane soils under biochar amendment",
       "authors": [
-        "H. Cao",
+        "Hui Cao",
         "Mingfang Jia",
         "M. Xun",
         "Xiushuang Wang",
         "Kun Chen",
-        "Hongqiang Yang"
+        "Hong-Qiang Yang"
       ],
       "journal": "Journal of Soils and Sediments",
       "publication_date": "2021-01-04",
@@ -42519,9 +42545,9 @@
       "authors": [
         "Wen-Xing Li",
         "Chao Wang",
-        "M. Zheng",
+        "Man-Man Zheng",
         "Zehui Cai",
-        "Bo-ren Wang",
+        "Boren Wang",
         "R. Shen"
       ],
       "journal": "Applied Soil Ecology",
@@ -42632,7 +42658,7 @@
         "Chenshuo Lin",
         "Hang Xu",
         "W. Qin",
-        "Shaoyi Xu",
+        "Shao-Yi Xu",
         "Xiufeng Tang",
         "Lu Kuang",
         "Xinxin Wang",
@@ -42803,11 +42829,11 @@
       "doi": "10.3390/F11101027",
       "title": "Effects of Soil Microbes on Forest Recovery to Climax Community through the Regulation of Nitrogen Cycling",
       "authors": [
-        "Dandan Qi",
+        "Dan-Dan Qi",
         "Fujuan Feng",
-        "Yanmei Fu",
+        "Yan-Mei Fu",
         "Ximei Ji",
-        "Xianfa Liu"
+        "Xian-Fa Liu"
       ],
       "journal": "Forests",
       "publication_date": "2020-09-23",
@@ -42972,7 +42998,7 @@
         "Bo Sun",
         "Likun Gu",
         "Lijun Bao",
-        "Shiwei Zhang",
+        "Shi-Wei Zhang",
         "Yingxue Wei",
         "Z. Bai",
         "G. Zhuang",
@@ -43256,7 +43282,7 @@
         "Z. Bai",
         "Lijun Bao",
         "Lixia Xue",
-        "Shiwei Zhang",
+        "Shi-Wei Zhang",
         "Yingxue Wei",
         "Zhanying Zhang",
         "G. Zhuang",
@@ -43545,7 +43571,7 @@
         "W. Liu",
         "C. Qiu",
         "Yu Ma",
-        "Songhe Zhang",
+        "Song-He Zhang",
         "E. Jeppesen"
       ],
       "journal": "Environmental Pollution",
@@ -44159,7 +44185,7 @@
         "Jiang Xu",
         "Stephanie N. Laughton",
         "J. Yun",
-        "Yilin Zhang",
+        "Yi-Lin Zhang",
         "Garret D. Bland",
         "Ying Zhang",
         "Ruirui Zhang",
@@ -44280,7 +44306,7 @@
       "title": "Metagenomic Characterization of Soil Microbial Communities in the Luquillo Experimental Forest (Puerto Rico) and Implications for Nitrogen Cycling",
       "authors": [
         "S. Karthikeyan",
-        "Luis H. Orellana",
+        "L. Orellana",
         "E. Johnston",
         "J. Hatt",
         "F. Löffler",
@@ -44850,7 +44876,7 @@
       "title": "Revealing how nitrogen fertilisation regulates the fluxes of COS and CO2 between soil communities and the atmosphere using a functional metagenomic and metatranscriptomic approach",
       "authors": [
         "E. Van Schaik",
-        "S. Mondy",
+        "Samuel Mondy",
         "Mélanie Lelièvre",
         "M. Martin",
         "Solène Perrin",
@@ -44976,7 +45002,7 @@
         "K. Hemes",
         "K. Kill",
         "W. Silver",
-        "Ülo Mander",
+        "Ü. Mander",
         "D. Szutu",
         "J. Verfaillie",
         "D. Baldocchi"
@@ -45094,11 +45120,11 @@
       "title": "The bacterial microbiota in florfenicol contaminated soils: The antibiotic resistome and the nitrogen cycle.",
       "authors": [
         "Mei Wang",
-        "Xiying Xie",
-        "Mianzhi Wang",
+        "Xi-Ying Xie",
+        "Mian-Zhi Wang",
         "Jing Wu",
         "Qin Zhou",
-        "Yongxue Sun"
+        "Yong-Xue Sun"
       ],
       "journal": "Environmental Pollution",
       "publication_date": "2020-01-02",
@@ -45525,7 +45551,7 @@
         "M. Bižić",
         "Jérémy A. Fonvielle",
         "Danny Ionescu",
-        "Sabateeshan Mathavarajah",
+        "S. Mathavarajah",
         "L. Zoccarato",
         "D. Walsh",
         "H. Grossart",
@@ -46080,7 +46106,7 @@
       "doi": "10.1002/lno.11326",
       "title": "Metagenomics coupled with biogeochemical rates measurements provide evidence that nitrate addition stimulates respiration in salt marsh sediments",
       "authors": [
-        "A. Bulseco",
+        "Ashley N. Bulseco",
         "J. Vineis",
         "Anna E. Murphy",
         "A. Spivak",
@@ -46420,7 +46446,7 @@
       "doi": "10.1128/mBio.01870-19",
       "title": "DNA- and RNA-SIP Reveal Nitrospira spp. as Key Drivers of Nitrification in Groundwater-Fed Biofilters",
       "authors": [
-        "Arda Gülay",
+        "A. Gülay",
         "S. J. Fowler",
         "K. Tatari",
         "B. Thamdrup",
@@ -46757,7 +46783,7 @@
       "title": "Metagenomic analysis reveals large potential for carbon, nitrogen and sulfur cycling in coastal methanic sediments of the Bothnian Sea",
       "authors": [
         "O. Rasigraf",
-        "Niels A. G. M. van Helmond",
+        "N. V. van Helmond",
         "J. Frank",
         "W. Lenstra",
         "M. Egger",
@@ -46873,7 +46899,7 @@
       "title": "Coupled methane and nitrous oxide biotransformation in freshwater wetland sediment microcosms.",
       "authors": [
         "Cheng Cheng",
-        "Xuanxu Shen",
+        "Xuan-Xu Shen",
         "Huijun Xie",
         "Zhen Hu",
         "S. Pavlostathis",
@@ -47950,7 +47976,7 @@
       "authors": [
         "Mikk Espenberg",
         "M. Truu",
-        "Ülo Mander",
+        "Ü. Mander",
         "K. Kasak",
         "H. Nõlvak",
         "T. Ligi",
@@ -48128,11 +48154,11 @@
         "Dong Chen",
         "H. Zeng",
         "Shumiao Zhao",
-        "Lingling Chen",
+        "Ling-Ling Chen",
         "Yuanliang Hu",
-        "Changyi Zhang",
+        "Chang-Yi Zhang",
         "Yunxiang Liang",
-        "Q. She",
+        "Qunxin She",
         "Yi Zhang",
         "Nan Peng"
       ],
@@ -48460,8 +48486,8 @@
       "doi": "10.1071/MA18007",
       "title": "Manipulating the soil microbiome for improved nitrogen management",
       "authors": [
-        "Hangwei Hu",
-        "Ji‐Zheng He"
+        "Hang-Wei Hu",
+        "Ji-Zheng He"
       ],
       "journal": "Microbiology Australia",
       "publication_date": "2018-02-21",
@@ -48606,10 +48632,10 @@
       "authors": [
         "E. Hester",
         "S. Harpenslager",
-        "Josepha M. H. van Diggelen",
+        "J. V. van Diggelen",
         "Leon L. Lamers",
         "M. Jetten",
-        "Claudia Lüke",
+        "C. Lüke",
         "S. Lücker",
         "C. Welte"
       ],
@@ -49250,7 +49276,7 @@
         "Xiaotao Lv",
         "Junjie Yang",
         "Xi-Mei Zhang",
-        "Ji‐Zheng He",
+        "Ji-Zheng He",
         "Jianhui Huang",
         "Hong Wang",
         "Zhihong Xu",
@@ -49583,14 +49609,14 @@
       "doi": "10.1128/mBio.01193-14",
       "title": "Detecting Nitrous Oxide Reductase (nosZ) Genes in Soil Metagenomes: Method Development and Implications for the Nitrogen Cycle",
       "authors": [
-        "L. H. Orellana",
+        "L. Orellana",
         "L. M. Rodriguez-R",
         "S. Higgins",
         "J. C. Chee-Sanford",
         "R. A. Sanford",
         "K. M. Ritalahti",
-        "F. E. Löffler",
-        "K. T. Konstantinidis"
+        "F. Löffler",
+        "K. Konstantinidis"
       ],
       "journal": "mBio",
       "publication_date": "2014-06-03",
@@ -49864,7 +49890,7 @@
         "W. Liu",
         "M. Schloter",
         "Guangming Zhang",
-        "Q. Chen",
+        "Quansheng Chen",
         "Jianhui Huang",
         "Ling-hao Li",
         "J. Elser",
