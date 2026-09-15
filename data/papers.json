@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T23:53:23.786282+00:00",
+  "updated_at": "2026-09-15T23:34:09.216628+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -2576,7 +2576,7 @@
         "urban",
         "water"
       ],
-      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00",
+      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
       "edges_enriched_at": "2026-09-14T23:53:08.096842+00:00"
     },
     {
@@ -2699,7 +2699,7 @@
         "nitrogen",
         "water"
       ],
-      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00",
+      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
       "edges_enriched_at": "2026-09-14T23:53:08.096842+00:00"
     },
     {
@@ -3179,17 +3179,31 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "c975fdb0e7b4d206def045eae993979f035a7e77",
-          "title": "Soil-specific resilience of comammox and canonical ammonia oxidizers shapes drought-heat legacy effects on N2O emissions.",
+          "id": "97dd4653cdb329971ab060acc523089ad707f852",
+          "title": "Concurrent Elevation of CO2 and Temperature Stimulates N2O Emissions from Rice Paddies in a Rice–Wheat Cropping System",
           "year": 2026,
-          "journal": "Environmental Research",
+          "journal": "Agronomy",
           "authors": [
-            "Shuoshuo Wu",
-            "Zhen Liang",
-            "Keyi Zhang"
+            "Jiu-Jie Liu",
+            "Qin Yi",
+            "Yu-Chen Song"
           ],
-          "doi": "10.1016/j.envres.2026.125255",
-          "url": "https://www.semanticscholar.org/paper/c975fdb0e7b4d206def045eae993979f035a7e77",
+          "doi": "10.3390/agronomy16171722",
+          "url": "https://www.semanticscholar.org/paper/97dd4653cdb329971ab060acc523089ad707f852",
+          "citation_count": 0
+        },
+        {
+          "id": "497ebae47fc69256c0d6616b763c313c2bd5517b",
+          "title": "Environmentally aged microplastics alter archaeal and bacterial roles in ammonia oxidation of intertidal soils.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Ru-Yuan Chen",
+            "Shujie Ruan",
+            "Cheng Liu"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.120270",
+          "url": "https://www.semanticscholar.org/paper/497ebae47fc69256c0d6616b763c313c2bd5517b",
           "citation_count": 0
         },
         {
@@ -3199,53 +3213,39 @@
           "journal": "ISME Communications",
           "authors": [
             "Ruilin Su",
-            "Pui Ting Chan",
-            "Xiaodong Zhang"
+            "P. Chan",
+            "Xiao-Dong Zhang"
           ],
           "doi": "10.1093/ismeco/ycag220",
           "url": "https://www.semanticscholar.org/paper/841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
           "citation_count": 0
         },
         {
-          "id": "4e938d670339a078d8b5fba4675dbd80d4756021",
-          "title": "Soil pH and temperature regulate nitrification inhibitor efficacy and soil microbial community responses",
+          "id": "da70bf46ed293685b2985e48ad8b68819e8f2dda",
+          "title": "Root exudates stabilize denitrification yet amplify CO2 emissions by priming effect in constructed wetlands.",
           "year": 2026,
-          "journal": "Biology and Fertility of Soils",
+          "journal": "Water Research",
           "authors": [
-            "Eleftheria Bachtsevani",
-            "C. Papazlatani",
-            "Konstantina Rousidou"
+            "Dongdong Yao",
+            "Huijun Xie",
+            "Zhen Hu"
           ],
-          "doi": "10.1007/s00374-026-02042-3",
-          "url": "https://www.semanticscholar.org/paper/4e938d670339a078d8b5fba4675dbd80d4756021",
+          "doi": "10.1016/j.watres.2026.126787",
+          "url": "https://www.semanticscholar.org/paper/da70bf46ed293685b2985e48ad8b68819e8f2dda",
           "citation_count": 0
         },
         {
-          "id": "5a4a9b02ce6b1f83b84c69c3813d52eec5ee9e34",
-          "title": "The Important Role of nosZII Clade N2O Reducers in Reducing N2O Emissions After Soil Rewetting in a Neutral Vegetable Soil",
+          "id": "48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
+          "title": "Methane-Derived Zero-Valent Carbon Solids Inhibit Nitrification and Decrease Nitrous Oxide Flux from Agricultural Soils",
           "year": 2026,
-          "journal": "Agronomy",
+          "journal": "ACS Agricultural Science &amp; Technology",
           "authors": [
-            "Lei Yu",
-            "Qiumei Li",
-            "Yunxuan Han"
+            "Johanna Bangala",
+            "C. Schwarz",
+            "Xiao-Dong Gao"
           ],
-          "doi": "10.3390/agronomy16131263",
-          "url": "https://www.semanticscholar.org/paper/5a4a9b02ce6b1f83b84c69c3813d52eec5ee9e34",
-          "citation_count": 0
-        },
-        {
-          "id": "6e1ae106127725e09979ef4324890f542b846080",
-          "title": "Emergent Macrophytes Specifically Regulate Ammonia-Oxidizing Microbial Communities and Functions: Comammox Dominance and N2O Emission Effects.",
-          "year": 2026,
-          "journal": "Journal of Applied Microbiology",
-          "authors": [
-            "Qinghua Zhang",
-            "Zhixin Niu",
-            "Jianzhao Li"
-          ],
-          "doi": "10.1093/jambio/lxag178",
-          "url": "https://www.semanticscholar.org/paper/6e1ae106127725e09979ef4324890f542b846080",
+          "doi": "10.1021/acsagscitech.6c00312",
+          "url": "https://www.semanticscholar.org/paper/48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
           "citation_count": 0
         }
       ],
@@ -3264,8 +3264,8 @@
         "nitrogen",
         "soil"
       ],
-      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00",
-      "edges_enriched_at": "2026-08-16T21:36:10.097070+00:00"
+      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
+      "edges_enriched_at": "2026-09-15T23:33:21.777823+00:00"
     },
     {
       "id": "6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
@@ -4227,17 +4227,31 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "6700f26b51c107e56eb26ac08c2248eae20d9a05",
-          "title": "Nitrogen metabolism and microbial responses in anammox under dual stress of N,N-dimethylformamide.",
+          "id": "c304aea49b3b905957b225e547d9aa6b3d225f96",
+          "title": "Effects of Perfluorooctanoic Acid on River Sediment Denitrification and Remediation by Sulfur Autotrophic Denitrification-Anammox Coupled Microbial Consortia.",
           "year": 2026,
-          "journal": "Journal of Hazardous Materials",
+          "journal": "Water environment research",
           "authors": [
-            "Yujie Hua",
-            "Anni Zhang",
-            "Xiang Li"
+            "Xin-Yue Xu",
+            "Qiong Wang",
+            "Hao Zhao"
           ],
-          "doi": "10.1016/j.jhazmat.2026.143019",
-          "url": "https://www.semanticscholar.org/paper/6700f26b51c107e56eb26ac08c2248eae20d9a05",
+          "doi": "10.1002/wer.70553",
+          "url": "https://www.semanticscholar.org/paper/c304aea49b3b905957b225e547d9aa6b3d225f96",
+          "citation_count": 0
+        },
+        {
+          "id": "f4dbc01311b9fe8a351b2f8869d9e857854c7a65",
+          "title": "Electron acceptor-dependent duality of nitrous oxide metabolism in Thiobacillus during sulfur autotrophic denitrification",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Mu-Chun Zhou",
+            "Shohei Yasuda",
+            "H. Miura"
+          ],
+          "doi": "10.3389/fmicb.2026.1903473",
+          "url": "https://www.semanticscholar.org/paper/f4dbc01311b9fe8a351b2f8869d9e857854c7a65",
           "citation_count": 0
         },
         {
@@ -4255,45 +4269,31 @@
           "citation_count": 0
         },
         {
-          "id": "42ddca5d234c839476bb516a2a7762fbf9e0c195",
-          "title": "Sulfur-driven adaptive succession of denitrifiers enables coordinated autotrophic-heterotrophic deep denitrification.",
+          "id": "e2820fc54487e053c30d32dd5f8d92260730a1f2",
+          "title": "Mechanism exploration of divergent partial denitrification performance under tetracycline stress: Insights from functional gene, electron transport and molecular docking.",
           "year": 2026,
-          "journal": "Water Research",
+          "journal": "Journal of Hazardous Materials",
           "authors": [
-            "Yu Cheng",
-            "Renke Wei",
-            "Dongyang Duan"
+            "Biao Li",
+            "Yufei You",
+            "Ya-Jun Fan"
           ],
-          "doi": "10.1016/j.watres.2026.126395",
-          "url": "https://www.semanticscholar.org/paper/42ddca5d234c839476bb516a2a7762fbf9e0c195",
+          "doi": "10.1016/j.jhazmat.2026.143220",
+          "url": "https://www.semanticscholar.org/paper/e2820fc54487e053c30d32dd5f8d92260730a1f2",
           "citation_count": 0
         },
         {
-          "id": "0a58ce7618642ba3fe18957c128656d45c9a7a6d",
-          "title": "Maifanite-amended pyrite biofilter for efficient autotrophic denitrification of low-C/N mariculture tailwater: mechanistic insights into microbial nitrogen–sulfur–iron coupling",
-          "year": 2026,
-          "journal": "ENGINEERING Environment",
-          "authors": [
-            "Jiannan Liu",
-            "Mupindu Progress",
-            "Xiangyu Yang"
-          ],
-          "doi": "10.1007/s11783-026-2277-7",
-          "url": "https://www.semanticscholar.org/paper/0a58ce7618642ba3fe18957c128656d45c9a7a6d",
-          "citation_count": 0
-        },
-        {
-          "id": "bcec0ff5e4bbb6e4fd68b35ead479b75bd17f4fa",
-          "title": "Unveiling and Steering Thiobacillus denitrificans metabolic network to tackle denitrification inhibition under antibiotic-heavy metal co-exposure.",
+          "id": "b38bd377978ec0c2b78b5ca4a7d417413a59b3f5",
+          "title": "Concentration threshold for polyethylene microplastics impacting nitrogen transfor-mation in heterotrophic nitrification-aerobic denitrification systems.",
           "year": 2026,
           "journal": "Bioresource Technology",
           "authors": [
-            "Xinyi Wang",
-            "Can Wang",
-            "Tianhong Bao"
+            "Xue Bai",
+            "Mengying Yi",
+            "Lang Ran"
           ],
-          "doi": "10.1016/j.biortech.2026.135240",
-          "url": "https://www.semanticscholar.org/paper/bcec0ff5e4bbb6e4fd68b35ead479b75bd17f4fa",
+          "doi": "10.1016/j.biortech.2026.135639",
+          "url": "https://www.semanticscholar.org/paper/b38bd377978ec0c2b78b5ca4a7d417413a59b3f5",
           "citation_count": 0
         }
       ],
@@ -4316,8 +4316,8 @@
         "urban",
         "water"
       ],
-      "detail_enriched_at": "2026-08-16T21:35:49.067424+00:00",
-      "edges_enriched_at": "2026-08-16T21:36:10.097070+00:00"
+      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
+      "edges_enriched_at": "2026-09-15T23:33:21.777823+00:00"
     },
     {
       "id": "7ca141329c242158c2d9866b207b090978b467c4",
@@ -5261,7 +5261,7 @@
         "Boyu Zhang",
         "Sheng Wang",
         "Xiu-fu Wan",
-        "Chengcai Zhang",
+        "Cheng-Cai Zhang",
         "Chaogeng Lyu",
         "Bin-Bin Yan",
         "Yuping Zhao",
@@ -5435,7 +5435,7 @@
         "Abdul Rahim Junejo",
         "Jiayao Chen",
         "Madan Lal Kolhi",
-        "Jinrui Liu",
+        "Jin-Rui Liu",
         "Shahzad Hussain Dahri",
         "Hao Li"
       ],
@@ -15804,7 +15804,7 @@
       "url": "https://www.semanticscholar.org/paper/08c724113c08acb173ff5a96641cd6a0a65d1099",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/08c724113c08acb173ff5a96641cd6a0a65d1099",
       "pdf_url": "https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-025-00772-9",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 0,
       "reference_count": 49,
       "references": [
@@ -20216,7 +20216,7 @@
       "url": "https://www.semanticscholar.org/paper/be9967b5a6a90c70bd34f26b0d57e906d3c58031",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/be9967b5a6a90c70bd34f26b0d57e906d3c58031",
       "pdf_url": "",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 66,
       "references": [],
@@ -21339,7 +21339,7 @@
       "url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "pdf_url": "",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 0,
       "reference_count": 64,
       "references": [],
@@ -26272,7 +26272,7 @@
       "url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "pdf_url": "",
-      "citation_count": 45,
+      "citation_count": 46,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -28832,7 +28832,7 @@
         "C. Ai",
         "Xiang Tang",
         "Ville-Petri Friman",
-        "Shungui Zhou"
+        "Shun-Gui Zhou"
       ],
       "journal": "The Innovation Geoscience",
       "publication_date": "2024-01-01",
@@ -29442,7 +29442,7 @@
         "Kunkun Fan",
         "Songjuan Gao",
         "D. Chang",
-        "Guilong Li",
+        "Gui-Long Li",
         "Ting Liang",
         "Hai Liang",
         "Shunuo Li",
@@ -31334,7 +31334,7 @@
       "url": "https://www.semanticscholar.org/paper/00be183918d1dd8ea4735b5cb4d80f7fcc36ff05",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/00be183918d1dd8ea4735b5cb4d80f7fcc36ff05",
       "pdf_url": "",
-      "citation_count": 38,
+      "citation_count": 39,
       "influential_citation_count": 3,
       "reference_count": 83,
       "references": [],
@@ -33740,7 +33740,7 @@
       "url": "https://www.semanticscholar.org/paper/d25b841057d173c3443a21929d73825eea05071a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d25b841057d173c3443a21929d73825eea05071a",
       "pdf_url": "",
-      "citation_count": 46,
+      "citation_count": 47,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -34296,7 +34296,7 @@
       "url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8efd6941e50af76a73b74d88d87ae56de4a2170c",
       "pdf_url": "",
-      "citation_count": 188,
+      "citation_count": 189,
       "influential_citation_count": 2,
       "reference_count": 68,
       "references": [],
@@ -37199,7 +37199,7 @@
       "url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "pdf_url": "https://doi.org/10.1016/j.geoderma.2022.115846",
-      "citation_count": 242,
+      "citation_count": 243,
       "influential_citation_count": 3,
       "reference_count": 78,
       "references": [
@@ -37398,7 +37398,7 @@
         "Jiaqi Hao",
         "Yongzhong Feng",
         "Xing Wang",
-        "Q. Yu",
+        "Qi Yu",
         "Fuliang Zhang",
         "Gaihe Yang",
         "Guangxin Ren",
@@ -39175,7 +39175,7 @@
       "url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/560b4e9bcfc43b1a662d0b9e7505ebacd6afd1f2",
       "pdf_url": "",
-      "citation_count": 211,
+      "citation_count": 212,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
