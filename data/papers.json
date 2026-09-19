@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:21:22.277607+00:00",
+  "updated_at": "2026-09-19T23:09:22.269278+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1922,8 +1922,8 @@
           "year": 2026,
           "journal": "Agronomy",
           "authors": [
-            "Bingqian Su",
-            "Yanyan Zi",
+            "Bing-Qian Su",
+            "Yan-Yan Zi",
             "Wen-Long Xu"
           ],
           "doi": "10.3390/agronomy16151479",
@@ -1931,17 +1931,17 @@
           "citation_count": 0
         },
         {
-          "id": "e5ef42a0c4717b9fed6b1d6a8f171c585d5b27aa",
-          "title": "Responses of root system architecture, biomass allocation, and soil characteristics to water-nitrogen coupling in Piptanthus nepalensis seedlings",
+          "id": "a36ae4d1138fc68eb69fde80c8dfda28138e300d",
+          "title": "Beneath the Drought: Rhizosphere Processes Shape Genotype-Specific Sorghum Responses to Drought-Induced N Limitation.",
           "year": 2026,
-          "journal": "Frontiers in Forests and Global Change",
+          "journal": "Plant, Cell and Environment",
           "authors": [
-            "Minghang Hu",
-            "Yanhui Ye",
-            "Zheng Wu"
+            "R. Munene",
+            "Osman Mustafa",
+            "Sara Loftus"
           ],
-          "doi": "10.3389/ffgc.2026.1855373",
-          "url": "https://www.semanticscholar.org/paper/e5ef42a0c4717b9fed6b1d6a8f171c585d5b27aa",
+          "doi": "10.1111/pce.70845",
+          "url": "https://www.semanticscholar.org/paper/a36ae4d1138fc68eb69fde80c8dfda28138e300d",
           "citation_count": 0
         },
         {
@@ -1951,7 +1951,7 @@
           "journal": "Microbiology Research",
           "authors": [
             "Yang Cao",
-            "Peihua Du",
+            "Pei-Hua Du",
             "Ruijin Zhai"
           ],
           "doi": "10.1016/j.micres.2026.128678",
@@ -1959,30 +1959,31 @@
           "citation_count": 0
         },
         {
-          "id": "5698f5308c30ee675486938fb26e547802360bef",
-          "title": "Coordination between root exudation rates and root conservation traits under simultaneous warming and nitrogen addition.",
+          "id": "913bb8e3733f29c18d0cff57ff2dec31df7e0304",
+          "title": "Systemic regulation of rhizosphere nutrient activation by polyol-chelated fertilizers: evidence and a conceptual framework",
           "year": 2026,
-          "journal": "New Phytologist",
+          "journal": "Frontiers in Plant Science",
           "authors": [
-            "T. Muratore",
-            "Nikhil R. Chari",
-            "Anisa Robinson"
+            "Chun-Yu Wang",
+            "Shun-Yao Qian",
+            "Gao-Hou Li"
           ],
-          "doi": "10.1111/nph.71398",
-          "url": "https://www.semanticscholar.org/paper/5698f5308c30ee675486938fb26e547802360bef",
+          "doi": "10.3389/fpls.2026.1894517",
+          "url": "https://www.semanticscholar.org/paper/913bb8e3733f29c18d0cff57ff2dec31df7e0304",
           "citation_count": 0
         },
         {
-          "id": "2ce9ca879ca402a582e2556ddd95d312cf40339c",
-          "title": "Root Transporters Shape Rhizosphere Microbiomes to Enhance Nitrogen Acquisition Efficiency in Plants",
+          "id": "765666ea9bf7d241647e8fbd76a8a277039a20cf",
+          "title": "Shifts in adaptive strategies of soil microbial communities during coral island revegetation",
           "year": 2026,
-          "journal": "Microorganisms",
+          "journal": "Journal of Applied Ecology",
           "authors": [
-            "Izhar Ali",
-            "Xia Xu"
+            "Lu-Ping Huang",
+            "Mingxing Wang",
+            "An-Hui Ge"
           ],
-          "doi": "10.3390/microorganisms14081609",
-          "url": "https://www.semanticscholar.org/paper/2ce9ca879ca402a582e2556ddd95d312cf40339c",
+          "doi": "10.1111/1365-2664.70547",
+          "url": "https://www.semanticscholar.org/paper/765666ea9bf7d241647e8fbd76a8a277039a20cf",
           "citation_count": 0
         }
       ],
@@ -1999,8 +2000,8 @@
         "soil",
         "water"
       ],
-      "detail_enriched_at": "2026-08-20T21:45:14.962890+00:00",
-      "edges_enriched_at": "2026-08-20T21:45:35.739335+00:00"
+      "detail_enriched_at": "2026-09-19T23:09:06.297071+00:00",
+      "edges_enriched_at": "2026-09-19T23:09:14.859570+00:00"
     },
     {
       "id": "39a2a40de575c71c045504e110a3df04ebb65a53",
@@ -3013,17 +3014,17 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "0044225bf9cbd7c5cea8023803d84cf8985125e6",
-          "title": "The mercury-nitrogen nexus: Trade-off between nitrous oxide emissions and mercury methylation in rice paddy systems.",
+          "id": "edf833c04a76f468d1c9de572b5c72ea08b3f351",
+          "title": "Co-utilization of manganous nitrate and pyrolusite enables concurrent mitigation of arsenic mobilization and greenhouse gas emissions in paddy-field wetlands.",
           "year": 2026,
           "journal": "Water Research",
           "authors": [
-            "Rong Huang",
-            "Yuzhu Huang",
-            "Qinghua Zhou"
+            "Zheng Chen",
+            "Yi-Lin Chen",
+            "Yian Jia"
           ],
-          "doi": "10.1016/j.watres.2026.126565",
-          "url": "https://www.semanticscholar.org/paper/0044225bf9cbd7c5cea8023803d84cf8985125e6",
+          "doi": "10.1016/j.watres.2026.126845",
+          "url": "https://www.semanticscholar.org/paper/edf833c04a76f468d1c9de572b5c72ea08b3f351",
           "citation_count": 0
         },
         {
@@ -3032,7 +3033,7 @@
           "year": 2026,
           "journal": "Environmental Pollution",
           "authors": [
-            "Wenfang Li",
+            "Wen-Fang Li",
             "Zhi Yu",
             "Jian Zhang"
           ],
@@ -3041,45 +3042,45 @@
           "citation_count": 0
         },
         {
-          "id": "ff062ac9b8b6c8f8e6131d622db9f0f8de8473b9",
-          "title": "Substantial N2O Accumulation under Acidic Oxic Conditions Driven by Constrained N2O Reduction in a Denitrifying Consortium.",
+          "id": "5072ed272eac23d520a266f472471faf89aa67b4",
+          "title": "Smaller Nano-Silica Particles Promote Ammonium Dominance and Mitigate N2O Emissions in Flooded Tropical Paddy Soil",
           "year": 2026,
-          "journal": "Environmental Science and Technology",
+          "journal": "Agriculture",
           "authors": [
-            "Zicheng Su",
-            "Tao Liu",
-            "Jing Zhao"
+            "Xiaomeng Sun",
+            "Junjie Feng",
+            "Rui Zhang"
           ],
-          "doi": "10.1021/acs.est.6c03705",
-          "url": "https://www.semanticscholar.org/paper/ff062ac9b8b6c8f8e6131d622db9f0f8de8473b9",
+          "doi": "10.3390/agriculture16161739",
+          "url": "https://www.semanticscholar.org/paper/5072ed272eac23d520a266f472471faf89aa67b4",
           "citation_count": 0
         },
         {
-          "id": "69a5ffedfbcc7d209a6c7c4a7df3e706f7e8971b",
-          "title": "Endogenous Plant Nitrous Oxide Formation: Evidence, Mechanisms and Ecosystem Implications",
+          "id": "48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
+          "title": "Methane-Derived Zero-Valent Carbon Solids Inhibit Nitrification and Decrease Nitrous Oxide Flux from Agricultural Soils",
           "year": 2026,
-          "journal": "Plants",
+          "journal": "ACS Agricultural Science &amp; Technology",
           "authors": [
-            "Siddique Ahmad",
-            "Wenjing Song",
-            "Zhengyang Song"
+            "Johanna Bangala",
+            "C. Schwarz",
+            "Xiao-Dong Gao"
           ],
-          "doi": "10.3390/plants15162460",
-          "url": "https://www.semanticscholar.org/paper/69a5ffedfbcc7d209a6c7c4a7df3e706f7e8971b",
+          "doi": "10.1021/acsagscitech.6c00312",
+          "url": "https://www.semanticscholar.org/paper/48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
           "citation_count": 0
         },
         {
-          "id": "959e737a4f052541a2fb5f46483ef65d25efbc76",
-          "title": "Control of nitrous oxide and methane emissions during nitrate reduction in sediments: Microbial mechanisms and mitigation strategies.",
+          "id": "72076a27c7e86eeeef7d8261349a4092906c2a02",
+          "title": "Labile carbon supply modulates H2O2-mediated N2O emissions during sediment denitrification: Insights from metagenomics.",
           "year": 2026,
-          "journal": "Bioresource Technology",
+          "journal": "Journal of Environmental Management",
           "authors": [
-            "Shengrui Zhang",
-            "Ao Wang",
-            "Ziyang Liang"
+            "Pan Huo",
+            "Yue Li",
+            "Tian-Yi Han"
           ],
-          "doi": "10.1016/j.biortech.2026.135287",
-          "url": "https://www.semanticscholar.org/paper/959e737a4f052541a2fb5f46483ef65d25efbc76",
+          "doi": "10.1016/j.jenvman.2026.130690",
+          "url": "https://www.semanticscholar.org/paper/72076a27c7e86eeeef7d8261349a4092906c2a02",
           "citation_count": 0
         }
       ],
@@ -3101,7 +3102,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-09-18T23:20:52.785196+00:00",
-      "edges_enriched_at": "2026-08-19T21:43:17.917855+00:00"
+      "edges_enriched_at": "2026-09-19T23:09:14.859570+00:00"
     },
     {
       "id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
@@ -4565,7 +4566,7 @@
         "Xian-Tong Huang",
         "Qing-Han Wu",
         "Xin Yan",
-        "Jiaxin Cui",
+        "Jia-Xin Cui",
         "Shi-Qi Yang"
       ],
       "journal": "Journal of soil science and plant nutrition",
@@ -4589,6 +4590,7 @@
         "functional_gene",
         "metagenome",
         "nitrogen",
+        "nitrogen_fixation",
         "soil"
       ],
       "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
@@ -25475,7 +25477,7 @@
       "authors": [
         "Yoko Masuda",
         "Kazumori Mise",
-        "Zhenxing Xu",
+        "Zhen-Xing Xu",
         "Zhengcheng Zhang",
         "Y. Shiratori",
         "K. Senoo",
@@ -30474,7 +30476,7 @@
         "Zhen Hu",
         "Peng Dai",
         "Jian Zhang",
-        "Haiming Wu"
+        "Hai-Ming Wu"
       ],
       "journal": "Bioresource Technology",
       "publication_date": "2023-11-01",
@@ -42451,7 +42453,7 @@
       "url": "https://www.semanticscholar.org/paper/447fcec989d80d920ee4d11c0b101d64e247dacc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/447fcec989d80d920ee4d11c0b101d64e247dacc",
       "pdf_url": "https://doi.org/10.1128/msphere.01237-20",
-      "citation_count": 48,
+      "citation_count": 49,
       "influential_citation_count": 1,
       "reference_count": 74,
       "references": [
@@ -46917,7 +46919,7 @@
       "url": "https://www.semanticscholar.org/paper/0f8694ace371def2bbc1d1d3e9ca9b7c78ed9a9b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0f8694ace371def2bbc1d1d3e9ca9b7c78ed9a9b",
       "pdf_url": "https://doi.org/10.1128/mbio.01870-19",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 0,
       "reference_count": 83,
       "references": [
