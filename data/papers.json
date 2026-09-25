@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:56:19.254023+00:00",
+  "updated_at": "2026-09-25T23:58:47.192854+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -247,22 +247,195 @@
   ],
   "papers": [
     {
+      "id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+      "semantic_scholar_id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.3390/microorganisms14102151",
+      "title": "Warming and Nitrogen Addition Induce Asynchronous Taxonomic and Functional Responses and Reorganize Microbial C, N, P Cycling Potential in an Alpine Wetland on the Qinghai–Tibet Plateau",
+      "authors": [
+        "Wen-Hua Chang",
+        "Wei-Wei Ma",
+        "Jia-Nan Du",
+        "Wan-Peng He",
+        "Niu Zhu"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2026-09-23",
+      "abstract": "Climate warming and atmospheric nitrogen deposition are altering carbon (C), nitrogen (N), and phosphorus (P) cycling in alpine wetlands. However, how these drivers jointly reorganize microbial communities and their biogeochemical cycling potential remains poorly understood, particularly in cold, nutrient-limited alpine wetlands. We conducted a four-year field experiment combining open-top chamber warming and nitrogen addition. Soil physicochemical measurements were integrated with shotgun metagenomic sequencing to assess microbial community structure and the functional potential associated with C, N, and P cycling. The results showed that archaeal and bacterial community composition remained stable following warming and nitrogen addition, whereas fungal composition changed. Functional gene richness was positively correlated with archaeal and bacterial richness but was not correlated with fungal richness, indicating asynchronous responses between taxonomic–functional dimensions. Warming and nitrogen addition did not consistently increase the overall abundance of C, N, and P cycling functional genes. Instead, they induced pathway-specific responses: compensatory shifts among C fixation pathways, decreases in complex C degradation genes, increases in nitrification genes, and decreases in genes associated with P acquisition and homeostatic regulation. Soil moisture and enzyme activities were significantly correlated with C, N, and P cycling genes. These findings highlight domain-specific taxonomic responses and process-specific re-organization of microbial functional potential and emphasize the importance of hydro-thermal constraints when predicting alpine-wetland biogeochemical responses to future warming and increasing N inputs.",
+      "url": "https://www.semanticscholar.org/paper/eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+      "pdf_url": "https://doi.org/10.3390/microorganisms14102151",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 72,
+      "references": [
+        {
+          "title": "Warming and N addition amplify alpine peatland N2O emissions via divergent microbial and nutrient pathways.",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/8eeda626cc7aee98fbfa8c1db78f6dd12b410e95",
+          "doi": "10.1016/j.jenvman.2026.129951"
+        },
+        {
+          "title": "Spatiotemporal patterns of alpine wetlands and the regulatory role of connectivity on the Qinghai-Tibet Plateau",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/3cd6335798901c54762f8012c41f910c209af70c",
+          "doi": "10.1007/s11430-025-1896-1"
+        },
+        {
+          "title": "Warming Drives the Reassembly of Carbon-Sequestering Microbial Communities in Alpine Lakeshore Wetland Without Altering Their Core Metabolic Functional Redundancy",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/ffd7a38f9c8abbc13f5dd175a7cd9a449fb4d35c",
+          "doi": "10.3390/biology15050443"
+        },
+        {
+          "title": "Long-term climate warming substantially reduces global soil microbial richness",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/0c1748cdaf7adce8c2daf48b40e6dde50a5f1779",
+          "doi": "10.1016/j.oneear.2025.101511"
+        },
+        {
+          "title": "Alpine wetland distribution patterns and decreasing trends in the Qinghai-Tibetan Plateau.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/34d70c565215e727005494cacf1f4e1dbc6de09a",
+          "doi": "10.1016/j.scib.2025.07.030"
+        },
+        {
+          "title": "Effect of Vegetation Degradation on Soil Nitrogen Components and N-Cycling Enzyme Activities in a Wet Meadow on the Qinghai–Tibetan Plateau",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/e80327bd27768bf99885019a883f3ea14966c313",
+          "doi": "10.3390/plants14101549"
+        },
+        {
+          "title": "Opposite effects of N on warming-induced changes in bacterial and fungal diversity",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/1c5f0f1f473ff6c9090ed39e1f130411950638b8",
+          "doi": "10.1186/s40793-025-00693-7"
+        },
+        {
+          "title": "Minor Effects of Warming on Soil Microbial Diversity, Richness and Community Structure",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/5195f70fafb7766da8d54526b08555b7fd48a00f",
+          "doi": "10.1111/gcb.70104"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "Jing Yang",
+            "Zhuo Wang",
+            "Chuan-Xu Wang"
+          ],
+          "doi": "10.3390/microorganisms14091937",
+          "url": "https://www.semanticscholar.org/paper/b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "citation_count": 0
+        },
+        {
+          "id": "7d4519952b9280a0b4a6731504cfc12bfead9b15",
+          "title": "Long-Term Warming Reduces Bacterial Diversity and Functional Potential in Temperate Forest Soil.",
+          "year": 2026,
+          "journal": "Global Change Biology",
+          "authors": [
+            "Yue Liu",
+            "L. Qu",
+            "Dongwei Liu"
+          ],
+          "doi": "10.1111/gcb.71104",
+          "url": "https://www.semanticscholar.org/paper/7d4519952b9280a0b4a6731504cfc12bfead9b15",
+          "citation_count": 0
+        },
+        {
+          "id": "7c0747d5fc76eae7a0ab7e4aa77e7a91f1180aeb",
+          "title": "[Response of Soil Microbial Necromass Carbon and Community Structure to Warming and Nitrogen Addition in an Alpine Swamp Meadow].",
+          "year": 2026,
+          "journal": "Huan jing ke xue= Huanjing kexue",
+          "authors": [
+            "Wei Bai",
+            "Ruo-Bing Ma",
+            "Meng-Jia Chen"
+          ],
+          "doi": "10.13227/j.hjkx.202508165",
+          "url": "https://www.semanticscholar.org/paper/7c0747d5fc76eae7a0ab7e4aa77e7a91f1180aeb",
+          "citation_count": 0
+        },
+        {
+          "id": "d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
+          "title": "Metagenomic Insights into Microbial Functional Potential Associated with Soil Carbon, Nitrogen, and Phosphorus Cycling Along an Elevational Gradient in a Warm-Temperate Forest",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "Jing-Jing Wang",
+            "Si-Yuan Huangfu",
+            "Ruo-Chen Li"
+          ],
+          "doi": "10.3390/microorganisms14092015",
+          "url": "https://www.semanticscholar.org/paper/d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
+          "citation_count": 0
+        },
+        {
+          "id": "704c6692f7461fbae6fe108afe39e613d958125a",
+          "title": "Metagenomics reveals the effects of potassium fertilizer gradients on soil phosphorus-cycling microbial communities and functional genes, and their relationship with yield",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Le-Le Yang",
+            "Yi-Ru Wang",
+            "Kexin Zhao"
+          ],
+          "doi": "10.3389/fmicb.2026.1918329",
+          "url": "https://www.semanticscholar.org/paper/704c6692f7461fbae6fe108afe39e613d958125a",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrification",
+        "nitrogen",
+        "soil",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-25T23:58:23.615503+00:00",
+      "edges_enriched_at": "2026-09-25T23:58:44.809612+00:00"
+    },
+    {
       "id": "2f5da73be262a922aa77693ed2c6b3c085935529",
       "semantic_scholar_id": "2f5da73be262a922aa77693ed2c6b3c085935529",
       "source": "Semantic Scholar",
       "pmid": "42772353",
       "doi": "10.1016/j.envres.2026.125706",
       "title": "Precipitation gradients restructure rhizosphere and bulk soil microbial communities and potential nitrogen-cycling gene profiles in a desert steppe.",
-      "authors": [],
+      "authors": [
+        "Miao-Xian Yu",
+        "Dong-Jie Hou",
+        "Zhong-Wu Wang",
+        "Yuan-Yuan Cui",
+        "Yue-Hua Wang",
+        "Yizeng Lou",
+        "Guo-Dong Han",
+        "Xing-Fu Zhang",
+        "P. Gregorini"
+      ],
       "journal": "Environmental Research",
       "publication_date": "2026-09-22",
-      "abstract": "",
+      "abstract": "Precipitation change can restructure microbially mediated soil nitrogen (N) cycling in water-limited grasslands, yet whether rhizosphere and bulk soils respond differently remains unclear. An in situ precipitation-gradient experiment in the desert steppe of Inner Mongolia combined soil physicochemical measurements, shotgun metagenomic sequencing, and piecewise structural equation modelling. Treatments included 50% reduced precipitation (W-50%), ambient precipitation (CK), 50% increased precipitation (W+50%), and 100% increased precipitation (W+100%). Soil water content was 37.2% higher under W+100% than under W-50%, whereas NO3--N was 55.5% lower under W+50% than under W-50%. Microbial α-diversity showed a significant treatment × soil compartment interaction, whereas N-cycling functional α-diversity did not differ significantly among precipitation treatments or soil compartments. Precipitation treatment explained 48.35% of microbial community variation and 38.41% of N-cycling gene variation, while soil compartment explained 8.88% and 11.16%, respectively. From W-50% to W+50%, Sphingomonas increased from 2.93% to 13.66% in bulk soil and from 5.14% to 16.87% in rhizosphere soil. Relative to CK, W-50% increased the relative abundances of narZ and norB by 152.5% and 46.6% but decreased those of nrfC and gltD by 27.2% and 7.9%. W+50% increased the relative abundance of ureC by 23.1% while decreasing those of amoB, nirD, and nirK by 56.9%, 31.3%, and 17.8%, respectively. Compared with bulk soil, rhizosphere soil had higher relative abundances of nrfA, ureB, gltB, and nifD. Piecewise SEM explained 86.8% of the variation in N-cycling functional profiles, with microbial community composition showing the strongest association (β = 0.710, P < 0.001). These findings show that precipitation gradients primarily reorganize microbial community composition and potential N-cycling functions, with distinct N-cycling gene profiles between rhizosphere and bulk soils.",
       "url": "https://www.semanticscholar.org/paper/2f5da73be262a922aa77693ed2c6b3c085935529",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2f5da73be262a922aa77693ed2c6b3c085935529",
       "pdf_url": "",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 0,
+      "reference_count": 55,
       "references": [],
       "similar_papers": [
         {
@@ -345,13 +518,17 @@
       "tldr": "",
       "metrics_source": "Semantic Scholar",
       "tags": [
+        "denitrification",
+        "dnra",
+        "functional_gene",
         "metagenome",
         "microbiome",
         "nitrogen",
         "soil",
         "water"
       ],
-      "edges_enriched_at": "2026-09-24T23:56:14.273821+00:00"
+      "edges_enriched_at": "2026-09-24T23:56:14.273821+00:00",
+      "detail_enriched_at": "2026-09-25T23:58:23.615503+00:00"
     },
     {
       "id": "c2486d3863f62b401e56b8844ed1dba49358757e",
@@ -1636,6 +1813,118 @@
       "edges_enriched_at": "2026-09-05T22:57:03.658226+00:00"
     },
     {
+      "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1111/fwb.70301",
+      "title": "Microbial Communities, Resistome Risk and Nitrogen Metabolism‐Related Genes in Particle‐Attached and Free‐Living Microbial Fractions of Yunnan‐Guizhou Plateau Lakes",
+      "authors": [
+        "Cheng-Zhi Mao",
+        "Jie Huang",
+        "H. Grossart",
+        "Ramiro Logares",
+        "Li Chen",
+        "Qi Li",
+        "Tao Li"
+      ],
+      "journal": "Freshwater Biology",
+      "publication_date": "2026-09-01",
+      "abstract": "\n \n \n \n Plateau freshwater lakes are ecologically sensitive ecosystems that provide valuable opportunities to study relationships among microbial diversity, antibiotic resistance genes (ARGs), and nitrogen metabolism in aquatic environments. In this study, we investigated whether microbial community composition, resistance profiles, and nitrogen transformation functions are associated in freshwater lakes of the Yunnan‐Guizhou Plateau.\n \n \n This study analysed microbial community structure and functional diversity in eight freshwater lakes, with explicit comparisons between particle‐attached (PA) and free‐living (FL) microbial lifestyles. ARG profiles were characterised using metagenomic sequencing and bioinformatics analyses, and co‐occurrence patterns among ARGs, mobile genetic elements (MGEs), and nitrogen metabolism‐related genes were statistically evaluated.\n \n \n Particle‐attached microorganisms exhibited significantly higher community diversity, whereas free‐living fractions showed higher functional gene diversity, indicating clear niche partitioning between microbial lifestyles. Multiresistance genes, macrolide‐lincosamide‐streptogramin (MLS) resistance genes, and tetracycline resistance genes constituted the dominant resistance spectrum across the studied lakes. MGEs were strongly positively correlated with ARG abundance. Dissimilatory nitrate reduction to ammonium (DNRA) was the dominant nitrogen transformation pathway, and DNRA‐related genes were significantly positively correlated with ARGs. Members of Gammaproteobacteria were identified as major taxa associated with both DNRA‐related genes and ARGs.\n \n \n These results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes. In particular, the consistent correlations between ARGs and DNRA‐related genes suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear. Our findings highlight the importance of evaluating antimicrobial resistance risks in freshwater ecosystems within their broader biogeochemical context.\n \n \n",
+      "url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.70301",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 68,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "6d109465d8494a8f31581e6647e75f591cb92f57",
+          "title": "Metagenomic Characterization of Antibiotic Resistance Genes, Mobile Genetic Elements and Virulence Factors in the Surface Water of the Baotou Section of the Yellow River",
+          "year": 2026,
+          "journal": "Water",
+          "authors": [
+            "Chunxi Liu",
+            "Qiuying Yu",
+            "Qin Li"
+          ],
+          "doi": "10.3390/w18151780",
+          "url": "https://www.semanticscholar.org/paper/6d109465d8494a8f31581e6647e75f591cb92f57",
+          "citation_count": 0
+        },
+        {
+          "id": "fdc0d88647cc8b57532172b3e3f911107b46c254",
+          "title": "Amplicon and metagenomic sequencing reveal thifluzamide drive rhizosphere microbial structural shifts and functional adaption.",
+          "year": 2026,
+          "journal": "Pesticide Biochemistry and Physiology",
+          "authors": [
+            "Shijie Zhu",
+            "Xiao-ting Liu",
+            "Xiaolan Yang"
+          ],
+          "doi": "10.1016/j.pestbp.2026.107299",
+          "url": "https://www.semanticscholar.org/paper/fdc0d88647cc8b57532172b3e3f911107b46c254",
+          "citation_count": 0
+        },
+        {
+          "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [],
+          "doi": "10.3390/microorganisms14091937",
+          "url": "https://www.semanticscholar.org/paper/b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "citation_count": 0
+        },
+        {
+          "id": "99bc2a5817418b5f193a28e7f085208b0d27ec4f",
+          "title": "Metagenomic insights into biogeochemical functional potential and resistome dynamics of PM2.5 microbial communities.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Yutong Zha",
+            "Zhe Wang",
+            "Wenwei Sun"
+          ],
+          "doi": "10.1016/j.envres.2026.125444",
+          "url": "https://www.semanticscholar.org/paper/99bc2a5817418b5f193a28e7f085208b0d27ec4f",
+          "citation_count": 0
+        },
+        {
+          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Zi-Teng Liu",
+            "Xin-Di Zhao",
+            "Jia-qi Li"
+          ],
+          "doi": "10.1093/ismejo/wrag212",
+          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes and suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "dnra",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-11T23:17:06.380191+00:00",
+      "edges_enriched_at": "2026-09-11T23:17:06.896596+00:00"
+    },
+    {
       "id": "c43b98c543d6791fc085323e35785ad124d7c947",
       "semantic_scholar_id": "c43b98c543d6791fc085323e35785ad124d7c947",
       "source": "Semantic Scholar",
@@ -1753,118 +2042,6 @@
       ],
       "detail_enriched_at": "2026-09-17T23:35:53.009431+00:00",
       "edges_enriched_at": "2026-09-17T23:36:01.893554+00:00"
-    },
-    {
-      "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1111/fwb.70301",
-      "title": "Microbial Communities, Resistome Risk and Nitrogen Metabolism‐Related Genes in Particle‐Attached and Free‐Living Microbial Fractions of Yunnan‐Guizhou Plateau Lakes",
-      "authors": [
-        "Cheng-Zhi Mao",
-        "Jie Huang",
-        "H.-P. Grossart",
-        "Ramiro Logares",
-        "Li Chen",
-        "Qi Li",
-        "Tao Li"
-      ],
-      "journal": "Freshwater Biology",
-      "publication_date": "2026-09-01",
-      "abstract": "\n \n \n \n Plateau freshwater lakes are ecologically sensitive ecosystems that provide valuable opportunities to study relationships among microbial diversity, antibiotic resistance genes (ARGs), and nitrogen metabolism in aquatic environments. In this study, we investigated whether microbial community composition, resistance profiles, and nitrogen transformation functions are associated in freshwater lakes of the Yunnan‐Guizhou Plateau.\n \n \n This study analysed microbial community structure and functional diversity in eight freshwater lakes, with explicit comparisons between particle‐attached (PA) and free‐living (FL) microbial lifestyles. ARG profiles were characterised using metagenomic sequencing and bioinformatics analyses, and co‐occurrence patterns among ARGs, mobile genetic elements (MGEs), and nitrogen metabolism‐related genes were statistically evaluated.\n \n \n Particle‐attached microorganisms exhibited significantly higher community diversity, whereas free‐living fractions showed higher functional gene diversity, indicating clear niche partitioning between microbial lifestyles. Multiresistance genes, macrolide‐lincosamide‐streptogramin (MLS) resistance genes, and tetracycline resistance genes constituted the dominant resistance spectrum across the studied lakes. MGEs were strongly positively correlated with ARG abundance. Dissimilatory nitrate reduction to ammonium (DNRA) was the dominant nitrogen transformation pathway, and DNRA‐related genes were significantly positively correlated with ARGs. Members of Gammaproteobacteria were identified as major taxa associated with both DNRA‐related genes and ARGs.\n \n \n These results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes. In particular, the consistent correlations between ARGs and DNRA‐related genes suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear. Our findings highlight the importance of evaluating antimicrobial resistance risks in freshwater ecosystems within their broader biogeochemical context.\n \n \n",
-      "url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.70301",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 68,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "6d109465d8494a8f31581e6647e75f591cb92f57",
-          "title": "Metagenomic Characterization of Antibiotic Resistance Genes, Mobile Genetic Elements and Virulence Factors in the Surface Water of the Baotou Section of the Yellow River",
-          "year": 2026,
-          "journal": "Water",
-          "authors": [
-            "Chunxi Liu",
-            "Qiuying Yu",
-            "Qin Li"
-          ],
-          "doi": "10.3390/w18151780",
-          "url": "https://www.semanticscholar.org/paper/6d109465d8494a8f31581e6647e75f591cb92f57",
-          "citation_count": 0
-        },
-        {
-          "id": "fdc0d88647cc8b57532172b3e3f911107b46c254",
-          "title": "Amplicon and metagenomic sequencing reveal thifluzamide drive rhizosphere microbial structural shifts and functional adaption.",
-          "year": 2026,
-          "journal": "Pesticide Biochemistry and Physiology",
-          "authors": [
-            "Shijie Zhu",
-            "Xiao-ting Liu",
-            "Xiaolan Yang"
-          ],
-          "doi": "10.1016/j.pestbp.2026.107299",
-          "url": "https://www.semanticscholar.org/paper/fdc0d88647cc8b57532172b3e3f911107b46c254",
-          "citation_count": 0
-        },
-        {
-          "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
-          "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
-          "year": 2026,
-          "journal": "Microorganisms",
-          "authors": [],
-          "doi": "10.3390/microorganisms14091937",
-          "url": "https://www.semanticscholar.org/paper/b707a1bb7920b844eece8c7901358e5b83e744c4",
-          "citation_count": 0
-        },
-        {
-          "id": "99bc2a5817418b5f193a28e7f085208b0d27ec4f",
-          "title": "Metagenomic insights into biogeochemical functional potential and resistome dynamics of PM2.5 microbial communities.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Yutong Zha",
-            "Zhe Wang",
-            "Wenwei Sun"
-          ],
-          "doi": "10.1016/j.envres.2026.125444",
-          "url": "https://www.semanticscholar.org/paper/99bc2a5817418b5f193a28e7f085208b0d27ec4f",
-          "citation_count": 0
-        },
-        {
-          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Zi-Teng Liu",
-            "Xin-Di Zhao",
-            "Jia-qi Li"
-          ],
-          "doi": "10.1093/ismejo/wrag212",
-          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes and suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "denitrification",
-        "dnra",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrogen",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-11T23:17:06.380191+00:00",
-      "edges_enriched_at": "2026-09-11T23:17:06.896596+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -5353,7 +5530,7 @@
       "url": "https://www.semanticscholar.org/paper/29e5926f01de98fe37a0f49d782211a021124eba",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/29e5926f01de98fe37a0f49d782211a021124eba",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 60,
       "references": [],
@@ -8235,7 +8412,7 @@
       "url": "https://www.semanticscholar.org/paper/7c927d364aabb8260a37c7c78863719e352837f2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7c927d364aabb8260a37c7c78863719e352837f2",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 56,
       "references": [],
@@ -9499,7 +9676,7 @@
         "Chun-Lei Xue",
         "Xiangqian Zhang",
         "Xiaoqing Zhao",
-        "Gongfu Shi",
+        "Gong-Fu Shi",
         "Jing Fang",
         "Rui Xie",
         "Yu-Chen Cheng",
@@ -10237,7 +10414,7 @@
       "doi": "10.1038/s41564-025-02213-2",
       "title": "Multi-omics reveals nitrogen dynamics associated with soil microbial blooms during snowmelt",
       "authors": [
-        "Patrick O. Sorensen",
+        "P. Sorensen",
         "U. Karaoz",
         "H. Beller",
         "Markus Bill",
@@ -11176,7 +11353,7 @@
       "url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1696238/pdf",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 232,
       "references": [
@@ -11465,7 +11642,7 @@
       "url": "https://www.semanticscholar.org/paper/7a823d3ff4676f241d04761f07491a75231cdd9f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7a823d3ff4676f241d04761f07491a75231cdd9f",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 75,
       "references": [
@@ -12672,7 +12849,7 @@
         "Maha Alharbi",
         "Thanh Nguyen-Dinh",
         "W. Wong",
-        "P. Leung",
+        "Pok M. Leung",
         "Adam J. Kessler",
         "C. Greening",
         "Perran L. M. Cook"
@@ -14422,7 +14599,7 @@
       "authors": [
         "Teng-Fei Guo",
         "Mengyuan Wang",
-        "K. Yue",
+        "Ke Yue",
         "Peng-Tao Luo",
         "Xiao Song",
         "Shaomin Huang",
@@ -14431,7 +14608,7 @@
         "Yulu Chen",
         "Ze-Kun Zhang",
         "Sumiao Su",
-        "Shijie Ding",
+        "Shi-Jie Ding",
         "Shui-Qing Zhang",
         "Kun Zhou"
       ],
@@ -17032,7 +17209,7 @@
         "Xudong Zhou",
         "Yong-Qi Liu",
         "Ming-Wei Zhou",
-        "Ningning Ma",
+        "Ning-Ning Ma",
         "Guang-Hua Yin",
         "Shijun Sun"
       ],
@@ -21402,7 +21579,7 @@
       "url": "https://www.semanticscholar.org/paper/3bc0e178a55f481488358030e956b5ff37c50ec2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3bc0e178a55f481488358030e956b5ff37c50ec2",
       "pdf_url": "",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 81,
       "references": [],
@@ -21566,7 +21743,7 @@
       "url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "pdf_url": "",
-      "citation_count": 67,
+      "citation_count": 68,
       "influential_citation_count": 3,
       "reference_count": 64,
       "references": [],
@@ -21802,7 +21979,7 @@
         "A. Astover",
         "Karin Kauer",
         "K. Soosaar",
-        "Mikk Espenberg"
+        "M. Espenberg"
       ],
       "journal": "The Soil",
       "publication_date": "2025-01-03",
@@ -22090,7 +22267,7 @@
       "url": "https://www.semanticscholar.org/paper/ab0a3eab96bb74e2446c181ba1a95b55129a9356",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ab0a3eab96bb74e2446c181ba1a95b55129a9356",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ldr.5428",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 41,
       "references": [],
@@ -23323,7 +23500,7 @@
       "url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
       "pdf_url": "",
-      "citation_count": 46,
+      "citation_count": 48,
       "influential_citation_count": 0,
       "reference_count": 72,
       "references": [
@@ -27221,7 +27398,7 @@
         "Wantong Zhang",
         "Yiyi Geng",
         "X. Shao",
-        "Shangang Jia"
+        "Shan-Gang Jia"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2024-05-01",
@@ -27342,7 +27519,7 @@
       "url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ca795e158c4648f65923c581fbf903e6141f2d65",
       "pdf_url": "",
-      "citation_count": 46,
+      "citation_count": 47,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -32404,7 +32581,7 @@
       "url": "https://www.semanticscholar.org/paper/00be183918d1dd8ea4735b5cb4d80f7fcc36ff05",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/00be183918d1dd8ea4735b5cb4d80f7fcc36ff05",
       "pdf_url": "",
-      "citation_count": 39,
+      "citation_count": 40,
       "influential_citation_count": 3,
       "reference_count": 83,
       "references": [],
@@ -32918,7 +33095,7 @@
       "url": "https://www.semanticscholar.org/paper/3082ad83e4931fb631ea48facee04153f60a1a60",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3082ad83e4931fb631ea48facee04153f60a1a60",
       "pdf_url": "https://doi.org/10.3389/fmicb.2023.1205088",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 0,
       "reference_count": 77,
       "references": [
@@ -34119,7 +34296,7 @@
       "url": "https://www.semanticscholar.org/paper/cb2e91a7873e96775ed95bdc37d1246e1b108a30",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cb2e91a7873e96775ed95bdc37d1246e1b108a30",
       "pdf_url": "",
-      "citation_count": 81,
+      "citation_count": 82,
       "influential_citation_count": 2,
       "reference_count": 108,
       "references": [],
@@ -34796,7 +34973,7 @@
       "doi": "10.1111/nph.18897",
       "title": "Effects of nitrogen deposition on carbon and nutrient cycling along a natural soil acidity gradient as revealed by metagenomics.",
       "authors": [
-        "Niloufar Hagh-Doust",
+        "N. Hagh-Doust",
         "V. Mikryukov",
         "S. Anslan",
         "M. Bahram",
@@ -36310,7 +36487,7 @@
       "url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "pdf_url": "",
-      "citation_count": 148,
+      "citation_count": 149,
       "influential_citation_count": 4,
       "reference_count": 85,
       "references": [],
@@ -37159,7 +37336,7 @@
       "url": "https://www.semanticscholar.org/paper/b2560735afb2d8bec106de66fb4ff5acf6050e57",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b2560735afb2d8bec106de66fb4ff5acf6050e57",
       "pdf_url": "",
-      "citation_count": 58,
+      "citation_count": 59,
       "influential_citation_count": 0,
       "reference_count": 72,
       "references": [],
@@ -38149,7 +38326,7 @@
       "url": "https://www.semanticscholar.org/paper/f1fcf5b37222febefb7218adda55363e6c9f8bae",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f1fcf5b37222febefb7218adda55363e6c9f8bae",
       "pdf_url": "",
-      "citation_count": 17,
+      "citation_count": 18,
       "influential_citation_count": 0,
       "reference_count": 74,
       "references": [],
@@ -38881,7 +39058,7 @@
       "url": "https://www.semanticscholar.org/paper/e049d26e092164b4cb88057fa4bf3b6bbea1caa6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e049d26e092164b4cb88057fa4bf3b6bbea1caa6",
       "pdf_url": "https://doi.org/10.1128/msphere.01013-21",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 1,
       "reference_count": 95,
       "references": [
@@ -40076,7 +40253,7 @@
       "url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "pdf_url": "https://www.nature.com/articles/s43705-021-00073-5.pdf",
-      "citation_count": 92,
+      "citation_count": 93,
       "influential_citation_count": 1,
       "reference_count": 65,
       "references": [
@@ -41048,7 +41225,7 @@
       "url": "https://www.semanticscholar.org/paper/da186f19ed68bf4bfceaee78ec7d59e7221223af",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/da186f19ed68bf4bfceaee78ec7d59e7221223af",
       "pdf_url": "https://www.nature.com/articles/s41396-022-01216-9.pdf",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 2,
       "reference_count": 115,
       "references": [
@@ -41556,7 +41733,7 @@
       "url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fe05f16b4a1be18324b70d58691093f23c14f050",
       "pdf_url": "",
-      "citation_count": 137,
+      "citation_count": 138,
       "influential_citation_count": 6,
       "reference_count": 0,
       "references": [],
@@ -41672,7 +41849,7 @@
       "url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0160412021001471/pdf",
-      "citation_count": 195,
+      "citation_count": 196,
       "influential_citation_count": 6,
       "reference_count": 64,
       "references": [
@@ -42432,7 +42609,7 @@
         "Mohit Masta",
         "S. Gadegaonkar",
         "Holar Sepp",
-        "Mikk Espenberg",
+        "M. Espenberg",
         "J. Pärn",
         "K. Kirsimäe",
         "Ü. Mander"
@@ -42546,7 +42723,7 @@
       "doi": "10.5194/EGUSPHERE-EGU21-9314",
       "title": "Different plant species drive the microbial methane and nitrogen cycles and CH4 and N2O emissions on coasts affected by brackish water",
       "authors": [
-        "Mikk Espenberg",
+        "M. Espenberg",
         "Bin Yang",
         "Kristin Pille",
         "M. Maddison",
@@ -44064,7 +44241,7 @@
       "authors": [
         "Chenshuo Lin",
         "Hang Xu",
-        "W. Qin",
+        "Wei Qin",
         "Shao-Yi Xu",
         "Xiufeng Tang",
         "Lu Kuang",
@@ -44532,7 +44709,7 @@
       "url": "https://www.semanticscholar.org/paper/f7cfbee97fe83625a7572827f84bf2c27265c324",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f7cfbee97fe83625a7572827f84bf2c27265c324",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2020.01936/pdf",
-      "citation_count": 31,
+      "citation_count": 32,
       "influential_citation_count": 0,
       "reference_count": 94,
       "references": [
@@ -44867,7 +45044,7 @@
       "url": "https://www.semanticscholar.org/paper/f4c241d659c2e0a36d76d04b32dd9ebe1619e33e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f4c241d659c2e0a36d76d04b32dd9ebe1619e33e",
       "pdf_url": "https://research.wur.nl/en/publications/the-natural-recovery-of-soil-microbial-community-and-nitrogen-fun",
-      "citation_count": 52,
+      "citation_count": 53,
       "influential_citation_count": 2,
       "reference_count": 76,
       "references": [],
@@ -47245,7 +47422,7 @@
       "url": "https://www.semanticscholar.org/paper/6f3c8b0ddd77bf629f5372b7d133e2c2801c736a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6f3c8b0ddd77bf629f5372b7d133e2c2801c736a",
       "pdf_url": "",
-      "citation_count": 132,
+      "citation_count": 133,
       "influential_citation_count": 6,
       "reference_count": 137,
       "references": [],
@@ -49214,7 +49391,7 @@
       "doi": "10.1016/J.SOILBIO.2018.02.004",
       "title": "Spatial zoning of microbial functions and plant-soil nitrogen dynamics across a riparian area in an extensively grazed livestock system",
       "authors": [
-        "Laura L. de Sosa",
+        "L. L. de Sosa",
         "H. Glanville",
         "M. Marshall",
         "A. P. Williams",
@@ -49381,7 +49558,7 @@
       "doi": "10.1038/s41598-018-23032-y",
       "title": "Differences in microbial community structure and nitrogen cycling in natural and drained tropical peatland soils",
       "authors": [
-        "Mikk Espenberg",
+        "M. Espenberg",
         "M. Truu",
         "Ü. Mander",
         "K. Kasak",
