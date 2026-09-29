@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:50:03.975266+00:00",
+  "updated_at": "2026-09-29T01:03:05.705706+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -869,7 +869,7 @@
       "id": "704c6692f7461fbae6fe108afe39e613d958125a",
       "semantic_scholar_id": "704c6692f7461fbae6fe108afe39e613d958125a",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42798678",
       "doi": "10.3389/fmicb.2026.1918329",
       "title": "Metagenomics reveals the effects of potassium fertilizer gradients on soil phosphorus-cycling microbial communities and functional genes, and their relationship with yield",
       "authors": [
@@ -1012,7 +1012,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -1815,116 +1817,43 @@
       "edges_enriched_at": "2026-09-05T22:57:03.658226+00:00"
     },
     {
-      "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
       "source": "Semantic Scholar",
       "pmid": "",
-      "doi": "10.1111/fwb.70301",
-      "title": "Microbial Communities, Resistome Risk and Nitrogen Metabolism‐Related Genes in Particle‐Attached and Free‐Living Microbial Fractions of Yunnan‐Guizhou Plateau Lakes",
+      "doi": "10.1016/j.pedsph.2026.09.008",
+      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
       "authors": [
-        "Cheng-Zhi Mao",
-        "Jie Huang",
-        "H. Grossart",
-        "Ramiro Logares",
-        "Li Chen",
-        "Qi Li",
-        "Tao Li"
+        "Takeshi Shoda",
+        "Miku Hayakawa",
+        "Ryoji Nakazato",
+        "Tomoyasu Nishizawa"
       ],
-      "journal": "Freshwater Biology",
+      "journal": "Pedosphere",
       "publication_date": "2026-09-01",
-      "abstract": "\n \n \n \n Plateau freshwater lakes are ecologically sensitive ecosystems that provide valuable opportunities to study relationships among microbial diversity, antibiotic resistance genes (ARGs), and nitrogen metabolism in aquatic environments. In this study, we investigated whether microbial community composition, resistance profiles, and nitrogen transformation functions are associated in freshwater lakes of the Yunnan‐Guizhou Plateau.\n \n \n This study analysed microbial community structure and functional diversity in eight freshwater lakes, with explicit comparisons between particle‐attached (PA) and free‐living (FL) microbial lifestyles. ARG profiles were characterised using metagenomic sequencing and bioinformatics analyses, and co‐occurrence patterns among ARGs, mobile genetic elements (MGEs), and nitrogen metabolism‐related genes were statistically evaluated.\n \n \n Particle‐attached microorganisms exhibited significantly higher community diversity, whereas free‐living fractions showed higher functional gene diversity, indicating clear niche partitioning between microbial lifestyles. Multiresistance genes, macrolide‐lincosamide‐streptogramin (MLS) resistance genes, and tetracycline resistance genes constituted the dominant resistance spectrum across the studied lakes. MGEs were strongly positively correlated with ARG abundance. Dissimilatory nitrate reduction to ammonium (DNRA) was the dominant nitrogen transformation pathway, and DNRA‐related genes were significantly positively correlated with ARGs. Members of Gammaproteobacteria were identified as major taxa associated with both DNRA‐related genes and ARGs.\n \n \n These results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes. In particular, the consistent correlations between ARGs and DNRA‐related genes suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear. Our findings highlight the importance of evaluating antimicrobial resistance risks in freshwater ecosystems within their broader biogeochemical context.\n \n \n",
-      "url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.70301",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "pdf_url": "",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 68,
+      "reference_count": 59,
       "references": [],
-      "similar_papers": [
-        {
-          "id": "6d109465d8494a8f31581e6647e75f591cb92f57",
-          "title": "Metagenomic Characterization of Antibiotic Resistance Genes, Mobile Genetic Elements and Virulence Factors in the Surface Water of the Baotou Section of the Yellow River",
-          "year": 2026,
-          "journal": "Water",
-          "authors": [
-            "Chunxi Liu",
-            "Qiuying Yu",
-            "Qin Li"
-          ],
-          "doi": "10.3390/w18151780",
-          "url": "https://www.semanticscholar.org/paper/6d109465d8494a8f31581e6647e75f591cb92f57",
-          "citation_count": 0
-        },
-        {
-          "id": "fdc0d88647cc8b57532172b3e3f911107b46c254",
-          "title": "Amplicon and metagenomic sequencing reveal thifluzamide drive rhizosphere microbial structural shifts and functional adaption.",
-          "year": 2026,
-          "journal": "Pesticide Biochemistry and Physiology",
-          "authors": [
-            "Shijie Zhu",
-            "Xiao-ting Liu",
-            "Xiaolan Yang"
-          ],
-          "doi": "10.1016/j.pestbp.2026.107299",
-          "url": "https://www.semanticscholar.org/paper/fdc0d88647cc8b57532172b3e3f911107b46c254",
-          "citation_count": 0
-        },
-        {
-          "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
-          "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
-          "year": 2026,
-          "journal": "Microorganisms",
-          "authors": [],
-          "doi": "10.3390/microorganisms14091937",
-          "url": "https://www.semanticscholar.org/paper/b707a1bb7920b844eece8c7901358e5b83e744c4",
-          "citation_count": 0
-        },
-        {
-          "id": "99bc2a5817418b5f193a28e7f085208b0d27ec4f",
-          "title": "Metagenomic insights into biogeochemical functional potential and resistome dynamics of PM2.5 microbial communities.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Yutong Zha",
-            "Zhe Wang",
-            "Wenwei Sun"
-          ],
-          "doi": "10.1016/j.envres.2026.125444",
-          "url": "https://www.semanticscholar.org/paper/99bc2a5817418b5f193a28e7f085208b0d27ec4f",
-          "citation_count": 0
-        },
-        {
-          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Zi-Teng Liu",
-            "Xin-Di Zhao",
-            "Jia-qi Li"
-          ],
-          "doi": "10.1093/ismejo/wrag212",
-          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "citation_count": 0
-        }
-      ],
+      "similar_papers": [],
       "fields_of_study": [],
       "publication_types": [
         "JournalArticle"
       ],
-      "tldr": "Results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes and suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear.",
+      "tldr": "",
       "metrics_source": "Semantic Scholar",
       "tags": [
-        "denitrification",
-        "dnra",
-        "functional_gene",
         "metagenome",
-        "microbiome",
         "nitrogen",
+        "sediment",
         "water"
       ],
-      "detail_enriched_at": "2026-09-11T23:17:06.380191+00:00",
-      "edges_enriched_at": "2026-09-11T23:17:06.896596+00:00"
+      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
+      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
     },
     {
       "id": "c43b98c543d6791fc085323e35785ad124d7c947",
@@ -2044,6 +1973,118 @@
       ],
       "detail_enriched_at": "2026-09-17T23:35:53.009431+00:00",
       "edges_enriched_at": "2026-09-17T23:36:01.893554+00:00"
+    },
+    {
+      "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1111/fwb.70301",
+      "title": "Microbial Communities, Resistome Risk and Nitrogen Metabolism‐Related Genes in Particle‐Attached and Free‐Living Microbial Fractions of Yunnan‐Guizhou Plateau Lakes",
+      "authors": [
+        "Cheng-Zhi Mao",
+        "Jie Huang",
+        "H. Grossart",
+        "Ramiro Logares",
+        "Li Chen",
+        "Qi Li",
+        "Tao Li"
+      ],
+      "journal": "Freshwater Biology",
+      "publication_date": "2026-09-01",
+      "abstract": "\n \n \n \n Plateau freshwater lakes are ecologically sensitive ecosystems that provide valuable opportunities to study relationships among microbial diversity, antibiotic resistance genes (ARGs), and nitrogen metabolism in aquatic environments. In this study, we investigated whether microbial community composition, resistance profiles, and nitrogen transformation functions are associated in freshwater lakes of the Yunnan‐Guizhou Plateau.\n \n \n This study analysed microbial community structure and functional diversity in eight freshwater lakes, with explicit comparisons between particle‐attached (PA) and free‐living (FL) microbial lifestyles. ARG profiles were characterised using metagenomic sequencing and bioinformatics analyses, and co‐occurrence patterns among ARGs, mobile genetic elements (MGEs), and nitrogen metabolism‐related genes were statistically evaluated.\n \n \n Particle‐attached microorganisms exhibited significantly higher community diversity, whereas free‐living fractions showed higher functional gene diversity, indicating clear niche partitioning between microbial lifestyles. Multiresistance genes, macrolide‐lincosamide‐streptogramin (MLS) resistance genes, and tetracycline resistance genes constituted the dominant resistance spectrum across the studied lakes. MGEs were strongly positively correlated with ARG abundance. Dissimilatory nitrate reduction to ammonium (DNRA) was the dominant nitrogen transformation pathway, and DNRA‐related genes were significantly positively correlated with ARGs. Members of Gammaproteobacteria were identified as major taxa associated with both DNRA‐related genes and ARGs.\n \n \n These results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes. In particular, the consistent correlations between ARGs and DNRA‐related genes suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear. Our findings highlight the importance of evaluating antimicrobial resistance risks in freshwater ecosystems within their broader biogeochemical context.\n \n \n",
+      "url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.70301",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 68,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "6d109465d8494a8f31581e6647e75f591cb92f57",
+          "title": "Metagenomic Characterization of Antibiotic Resistance Genes, Mobile Genetic Elements and Virulence Factors in the Surface Water of the Baotou Section of the Yellow River",
+          "year": 2026,
+          "journal": "Water",
+          "authors": [
+            "Chunxi Liu",
+            "Qiuying Yu",
+            "Qin Li"
+          ],
+          "doi": "10.3390/w18151780",
+          "url": "https://www.semanticscholar.org/paper/6d109465d8494a8f31581e6647e75f591cb92f57",
+          "citation_count": 0
+        },
+        {
+          "id": "fdc0d88647cc8b57532172b3e3f911107b46c254",
+          "title": "Amplicon and metagenomic sequencing reveal thifluzamide drive rhizosphere microbial structural shifts and functional adaption.",
+          "year": 2026,
+          "journal": "Pesticide Biochemistry and Physiology",
+          "authors": [
+            "Shijie Zhu",
+            "Xiao-ting Liu",
+            "Xiaolan Yang"
+          ],
+          "doi": "10.1016/j.pestbp.2026.107299",
+          "url": "https://www.semanticscholar.org/paper/fdc0d88647cc8b57532172b3e3f911107b46c254",
+          "citation_count": 0
+        },
+        {
+          "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [],
+          "doi": "10.3390/microorganisms14091937",
+          "url": "https://www.semanticscholar.org/paper/b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "citation_count": 0
+        },
+        {
+          "id": "99bc2a5817418b5f193a28e7f085208b0d27ec4f",
+          "title": "Metagenomic insights into biogeochemical functional potential and resistome dynamics of PM2.5 microbial communities.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Yutong Zha",
+            "Zhe Wang",
+            "Wenwei Sun"
+          ],
+          "doi": "10.1016/j.envres.2026.125444",
+          "url": "https://www.semanticscholar.org/paper/99bc2a5817418b5f193a28e7f085208b0d27ec4f",
+          "citation_count": 0
+        },
+        {
+          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Zi-Teng Liu",
+            "Xin-Di Zhao",
+            "Jia-qi Li"
+          ],
+          "doi": "10.1093/ismejo/wrag212",
+          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes and suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "dnra",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-11T23:17:06.380191+00:00",
+      "edges_enriched_at": "2026-09-11T23:17:06.896596+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -2660,27 +2701,13 @@
           "citation_count": 0
         },
         {
-          "id": "01e4325b4e82b526737b91bf762963bdb672e980",
-          "title": "PLA vs PE microplastics with cadmium: Time-dependent divergent and microbial disruption of soil carbon and nitrogen cycling in medicinal plant soils.",
-          "year": 2026,
-          "journal": "Journal of Hazardous Materials",
-          "authors": [
-            "Liqiang Zhou",
-            "Zhengmei Xia",
-            "Yu Yang"
-          ],
-          "doi": "10.1016/j.jhazmat.2026.142875",
-          "url": "https://www.semanticscholar.org/paper/01e4325b4e82b526737b91bf762963bdb672e980",
-          "citation_count": 0
-        },
-        {
           "id": "94483881c14b7d070becfb9f4be8fcc9f6e1aa66",
           "title": "Metagenomic Analysis of Soil Microbial Community Shifts Formed by 60-Day Exposure to Polylactic Acid Microplastics",
           "year": 2026,
           "journal": "E3S Web of Conferences",
           "authors": [
             "Haoran Liu",
-            "Zixuan Zhang",
+            "Zi-Xuan Zhang",
             "Yani Wang"
           ],
           "doi": "10.1051/e3sconf/202673401018",
@@ -2693,7 +2720,7 @@
           "year": 2026,
           "journal": "Marine Pollution Bulletin",
           "authors": [
-            "Ruyuan Chen",
+            "Ru-Yuan Chen",
             "Shujie Ruan",
             "Cheng Liu"
           ],
@@ -2702,17 +2729,31 @@
           "citation_count": 0
         },
         {
-          "id": "8938846148dacfc63507c5090df5e3353b4fb8f6",
-          "title": "Divergent impacts of microplastics and related leachates on sediment carbon and nitrogen transformation by regulating microbial communities and functions.",
+          "id": "cff6ea00497add2016334234567ec7e8f6d4fecc",
+          "title": "Environmental aging alters microplastic effects on soil DNRA in estuarine and coastal wetlands.",
+          "year": 2026,
+          "journal": "Marine Environmental Research",
+          "authors": [
+            "Shujie Ruan",
+            "Ru-Yuan Chen",
+            "Cheng Liu"
+          ],
+          "doi": "10.1016/j.marenvres.2026.108339",
+          "url": "https://www.semanticscholar.org/paper/cff6ea00497add2016334234567ec7e8f6d4fecc",
+          "citation_count": 0
+        },
+        {
+          "id": "fca843b7df7b3656a7a021f85d50b74cde743578",
+          "title": "Soil texture controls bioplastic-induced greenhouse gas emissions and carbon-nitrogen cycling in agricultural soils.",
           "year": 2026,
           "journal": "Environmental Pollution",
           "authors": [
-            "Wenjuan He",
-            "Jinhui Huang",
-            "Jinying Hu"
+            "Wajiha Sarfraz",
+            "Munawar Hussain",
+            "Chengrong Chen"
           ],
-          "doi": "10.1016/j.envpol.2026.128699",
-          "url": "https://www.semanticscholar.org/paper/8938846148dacfc63507c5090df5e3353b4fb8f6",
+          "doi": "10.1016/j.envpol.2026.129150",
+          "url": "https://www.semanticscholar.org/paper/fca843b7df7b3656a7a021f85d50b74cde743578",
           "citation_count": 0
         }
       ],
@@ -2733,8 +2774,8 @@
         "nitrogen",
         "soil"
       ],
-      "detail_enriched_at": "2026-08-29T23:22:22.891595+00:00",
-      "edges_enriched_at": "2026-08-29T23:22:23.483813+00:00"
+      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
+      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
     },
     {
       "id": "ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
@@ -4519,7 +4560,7 @@
         "Shi-Chao Liu",
         "Yong-Bin Li",
         "Chenghang Du",
-        "Xiayu Zhu",
+        "Xia-Yu Zhu",
         "Shao-Feng Wang",
         "Xiang-Feng Zeng",
         "Yong-Feng Jia"
@@ -5022,17 +5063,31 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "e50758b6557c48af44da7f12326fac87f88c981a",
-          "title": "Enhancing Soil Quality and Ecosystem Multifunctionality to Increase Maize Yield in Saline‐Alkali Soil: A Multisource Nitrogen Fertilization Strategy",
+          "id": "8ee3be0082328d7af918eb668d798fbc9838d5a5",
+          "title": "Distinct pathways of straw management practices regulate soil water, salinity, fertility and barley productivity in coastal saline soil",
           "year": 2026,
-          "journal": "Land Degradation &amp; Development",
+          "journal": "Frontiers in Plant Science",
           "authors": [
-            "Yu Jing",
-            "Lanying Zhang",
-            "Meiying Liu"
+            "M. Tang",
+            "Zhen-Yang Lin",
+            "Yu Liu"
           ],
-          "doi": "10.1002/ldr.70845",
-          "url": "https://www.semanticscholar.org/paper/e50758b6557c48af44da7f12326fac87f88c981a",
+          "doi": "10.3389/fpls.2026.1969372",
+          "url": "https://www.semanticscholar.org/paper/8ee3be0082328d7af918eb668d798fbc9838d5a5",
+          "citation_count": 0
+        },
+        {
+          "id": "528d5dd3fb8a2293eea70acd6ecbd6bedf967103",
+          "title": "Combined application of organic and microbial amendments reshapes soil microbiome diversity and improves soybean growth performance",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Xuan-Qing Zhang",
+            "Wen-Jie Dou",
+            "Qin-Qin Cao"
+          ],
+          "doi": "10.3389/fmicb.2026.1939259",
+          "url": "https://www.semanticscholar.org/paper/528d5dd3fb8a2293eea70acd6ecbd6bedf967103",
           "citation_count": 0
         },
         {
@@ -5056,7 +5111,7 @@
           "journal": "Agronomy",
           "authors": [
             "Jiacheng Gu",
-            "Yuekai Wang",
+            "Yue-Kai Wang",
             "Xun Xiao"
           ],
           "doi": "10.3390/agronomy16161588",
@@ -5069,26 +5124,12 @@
           "year": 2026,
           "journal": "Agriculture",
           "authors": [
-            "Wenzhi Zhou",
-            "Rongsong Zou",
-            "Haiwen Wu"
+            "Wen-Zhi Zhou",
+            "Rong-Song Zou",
+            "Hai-Wen Wu"
           ],
           "doi": "10.3390/agriculture16161710",
           "url": "https://www.semanticscholar.org/paper/cb29e6f14d41b7a6c45b702e8a3552b2e43b320f",
-          "citation_count": 0
-        },
-        {
-          "id": "47f00b287e7d7b45930c5b85cf35f13ff8708af1",
-          "title": "Biochar Effects on Soil Chemical Properties, Microbial Communities, Tea Quality and Yield in a Strongly Acidic Tea Plantation: A Field Study",
-          "year": 2026,
-          "journal": "Agronomy",
-          "authors": [
-            "Xianyu Cheng",
-            "Xinyue Zhang",
-            "Diao Yan"
-          ],
-          "doi": "10.3390/agronomy16151482",
-          "url": "https://www.semanticscholar.org/paper/47f00b287e7d7b45930c5b85cf35f13ff8708af1",
           "citation_count": 0
         }
       ],
@@ -5112,8 +5153,8 @@
         "soil",
         "water"
       ],
-      "detail_enriched_at": "2026-08-29T23:22:22.891595+00:00",
-      "edges_enriched_at": "2026-08-29T23:22:23.483813+00:00"
+      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
+      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
     },
     {
       "id": "7ab43d37defbff22c1babd34dd819014272ab04d",
@@ -5565,7 +5606,7 @@
         "Qianmin Liu",
         "Yuanyuan Chen",
         "Di Kang",
-        "Shuzhen Zou"
+        "Shu-Zhen Zou"
       ],
       "journal": "iScience",
       "publication_date": "2026-06-01",
@@ -8067,7 +8108,7 @@
         "Liam D. H. Elbourne",
         "J. L. Le Roux",
         "Michael R. Gillings",
-        "Ian T. Paulsen",
+        "I. Paulsen",
         "S. Tetu"
       ],
       "journal": "Environmental Research",
@@ -8824,7 +8865,7 @@
       "url": "https://www.semanticscholar.org/paper/aed160851a8a1e837b6f9ccbc89ffe912f86bb4b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/aed160851a8a1e837b6f9ccbc89ffe912f86bb4b",
       "pdf_url": "https://pure.knaw.nl/portal/en/publications/f61bf6cd-8ed0-4534-b199-e173f71af297",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 70,
       "references": [],
@@ -11218,126 +11259,6 @@
       "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
     },
     {
-      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "source": "Semantic Scholar",
-      "pmid": "41564488",
-      "doi": "10.1016/j.jenvman.2026.128688",
-      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
-      "authors": [
-        "Zhong-Qing Huang",
-        "Jian Shen",
-        "Jin-Hui Wang",
-        "Chen Wang",
-        "Hua-Ji Liu",
-        "Chun-Mei Tian",
-        "Ji-Meng Feng",
-        "Xin-Ze Wang"
-      ],
-      "journal": "Journal of Environmental Management",
-      "publication_date": "2026-01-20",
-      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
-      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "pdf_url": "",
-      "citation_count": 3,
-      "influential_citation_count": 0,
-      "reference_count": 49,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "198359d1df1bc525209302d7fb4137b9207bf2af",
-          "title": "Humic-like dissolved organic matter as a potential driver of microbial denitrification in carbon-limited groundwater.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Chenpan Gong",
-            "Xu Cao",
-            "Yi Zhao"
-          ],
-          "doi": "10.1016/j.watres.2026.126617",
-          "url": "https://www.semanticscholar.org/paper/198359d1df1bc525209302d7fb4137b9207bf2af",
-          "citation_count": 0
-        },
-        {
-          "id": "5f457796191935ff607e4db165fb96e2d3dc2cb8",
-          "title": "Seasonal dynamics of geogenic phosphorus in alluvial-lacustrine aquifers: Coupling of phosphorus-containing dissolved organic matter and microbes as a key driver.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Jun-Na Ning",
-            "Yao Du",
-            "Baisong Deng"
-          ],
-          "doi": "10.1016/j.watres.2026.126797",
-          "url": "https://www.semanticscholar.org/paper/5f457796191935ff607e4db165fb96e2d3dc2cb8",
-          "citation_count": 0
-        },
-        {
-          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Zi-Teng Liu",
-            "Xin-Di Zhao",
-            "Jia-qi Li"
-          ],
-          "doi": "10.1093/ismejo/wrag212",
-          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "citation_count": 0
-        },
-        {
-          "id": "0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
-          "title": "Abiotic Pathways Bridge the Molecular Transformation from Terrestrial to Lacustrine Dissolved Organic Matter in Shallow Lakes.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Xueyan Liu",
-            "K. Cui",
-            "Yiling Yao"
-          ],
-          "doi": "10.1021/acs.est.6c05122",
-          "url": "https://www.semanticscholar.org/paper/0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
-          "citation_count": 0
-        },
-        {
-          "id": "e5d62873577d8d77e158af339f1b2e74ed2e095c",
-          "title": "Molecular evidence for algal bloom decay as a critical window for bacteria-mediated DOM transformation toward more refractory forms.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Ziwei Zhang",
-            "Huan-Jun Zhang",
-            "Yi Li"
-          ],
-          "doi": "10.1016/j.watres.2026.126808",
-          "url": "https://www.semanticscholar.org/paper/e5d62873577d8d77e158af339f1b2e74ed2e095c",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "forest",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrogen",
-        "sediment",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
-      "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
-    },
-    {
       "id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "source": "Semantic Scholar",
@@ -11496,6 +11417,126 @@
         "microbiome",
         "nitrification",
         "nitrogen",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
+      "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
+    },
+    {
+      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "source": "Semantic Scholar",
+      "pmid": "41564488",
+      "doi": "10.1016/j.jenvman.2026.128688",
+      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
+      "authors": [
+        "Zhong-Qing Huang",
+        "Jian Shen",
+        "Jin-Hui Wang",
+        "Chen Wang",
+        "Hua-Ji Liu",
+        "Chun-Mei Tian",
+        "Ji-Meng Feng",
+        "Xin-Ze Wang"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2026-01-20",
+      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
+      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "pdf_url": "",
+      "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 49,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "198359d1df1bc525209302d7fb4137b9207bf2af",
+          "title": "Humic-like dissolved organic matter as a potential driver of microbial denitrification in carbon-limited groundwater.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Chenpan Gong",
+            "Xu Cao",
+            "Yi Zhao"
+          ],
+          "doi": "10.1016/j.watres.2026.126617",
+          "url": "https://www.semanticscholar.org/paper/198359d1df1bc525209302d7fb4137b9207bf2af",
+          "citation_count": 0
+        },
+        {
+          "id": "5f457796191935ff607e4db165fb96e2d3dc2cb8",
+          "title": "Seasonal dynamics of geogenic phosphorus in alluvial-lacustrine aquifers: Coupling of phosphorus-containing dissolved organic matter and microbes as a key driver.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Jun-Na Ning",
+            "Yao Du",
+            "Baisong Deng"
+          ],
+          "doi": "10.1016/j.watres.2026.126797",
+          "url": "https://www.semanticscholar.org/paper/5f457796191935ff607e4db165fb96e2d3dc2cb8",
+          "citation_count": 0
+        },
+        {
+          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Zi-Teng Liu",
+            "Xin-Di Zhao",
+            "Jia-qi Li"
+          ],
+          "doi": "10.1093/ismejo/wrag212",
+          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "citation_count": 0
+        },
+        {
+          "id": "0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
+          "title": "Abiotic Pathways Bridge the Molecular Transformation from Terrestrial to Lacustrine Dissolved Organic Matter in Shallow Lakes.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Xueyan Liu",
+            "K. Cui",
+            "Yiling Yao"
+          ],
+          "doi": "10.1021/acs.est.6c05122",
+          "url": "https://www.semanticscholar.org/paper/0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
+          "citation_count": 0
+        },
+        {
+          "id": "e5d62873577d8d77e158af339f1b2e74ed2e095c",
+          "title": "Molecular evidence for algal bloom decay as a critical window for bacteria-mediated DOM transformation toward more refractory forms.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Ziwei Zhang",
+            "Huan-Jun Zhang",
+            "Yi Li"
+          ],
+          "doi": "10.1016/j.watres.2026.126808",
+          "url": "https://www.semanticscholar.org/paper/e5d62873577d8d77e158af339f1b2e74ed2e095c",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "forest",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "sediment",
         "urban",
         "water"
       ],
@@ -11807,7 +11848,7 @@
       "url": "https://www.semanticscholar.org/paper/5aad2840a42b7cea1db2ba06500704bb40cfe4b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5aad2840a42b7cea1db2ba06500704bb40cfe4b4",
       "pdf_url": "https://doi.org/10.1016/j.ecoenv.2025.119613",
-      "citation_count": 0,
+      "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 61,
       "references": [
@@ -13768,7 +13809,7 @@
       "url": "https://www.semanticscholar.org/paper/0033ee856ce27d2f88d2438a6fa6490b91cdc775",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0033ee856ce27d2f88d2438a6fa6490b91cdc775",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 69,
       "references": [],
@@ -14563,7 +14604,7 @@
         "Xue-Li Wang",
         "Zhan-Feng Cui",
         "Ying-Yuan Zhang",
-        "Shaoqi Zhou"
+        "Shao-Qi Zhou"
       ],
       "journal": "Gondwana Research",
       "publication_date": "2025-11-01",
@@ -15078,7 +15119,7 @@
       "url": "https://www.semanticscholar.org/paper/eacaf317680e1844a1327ebae8bba5ae3e046d27",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/eacaf317680e1844a1327ebae8bba5ae3e046d27",
       "pdf_url": "https://doi.org/10.1016/j.soilbio.2025.110024",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 71,
       "references": [
@@ -21295,7 +21336,7 @@
         "F. Zeng",
         "Xiang-Yi Li",
         "J. Sardans",
-        "Dhafer A. Al-Bakre",
+        "D. Al-Bakre",
         "Josep Peñuelas"
       ],
       "journal": "Agriculture, Ecosystems & Environment. Applied Soil Ecology",
@@ -22588,7 +22629,7 @@
       "url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "pdf_url": "",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 0,
       "reference_count": 64,
       "references": [],
@@ -24067,7 +24108,7 @@
       "url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cf8cbeba54266d06212effc81008910631bd413c",
       "pdf_url": "https://curis.ku.dk/ws/files/536156561/Manuscript_fulvic_acid_clean_version.pdf",
-      "citation_count": 40,
+      "citation_count": 41,
       "influential_citation_count": 0,
       "reference_count": 57,
       "references": [],
@@ -25499,7 +25540,7 @@
       "url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1411073/pdf",
-      "citation_count": 52,
+      "citation_count": 53,
       "influential_citation_count": 1,
       "reference_count": 72,
       "references": [
@@ -30705,7 +30746,7 @@
       "url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "pdf_url": "",
-      "citation_count": 56,
+      "citation_count": 57,
       "influential_citation_count": 3,
       "reference_count": 84,
       "references": [],
@@ -31445,7 +31486,7 @@
       "url": "https://www.semanticscholar.org/paper/41d9ab3370491484113b59adb228ba201f7e1ad3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/41d9ab3370491484113b59adb228ba201f7e1ad3",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1259853/pdf?isPublishedV2=False",
-      "citation_count": 48,
+      "citation_count": 49,
       "influential_citation_count": 2,
       "reference_count": 87,
       "references": [
@@ -31892,7 +31933,7 @@
       "url": "https://www.semanticscholar.org/paper/b1067cd9925d2e4a427d5dcfc16f20a5f7d64981",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b1067cd9925d2e4a427d5dcfc16f20a5f7d64981",
       "pdf_url": "",
-      "citation_count": 65,
+      "citation_count": 66,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [],
@@ -48486,7 +48527,7 @@
       "authors": [
         "Cheng Cheng",
         "Xuan-Xu Shen",
-        "Huijun Xie",
+        "Hui-Jun Xie",
         "Zhen Hu",
         "S. Pavlostathis",
         "Jian Zhang"
