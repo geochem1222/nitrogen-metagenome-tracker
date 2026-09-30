@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T01:03:05.705706+00:00",
+  "updated_at": "2026-09-30T00:31:19.166875+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1817,164 +1817,6 @@
       "edges_enriched_at": "2026-09-05T22:57:03.658226+00:00"
     },
     {
-      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1016/j.pedsph.2026.09.008",
-      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
-      "authors": [
-        "Takeshi Shoda",
-        "Miku Hayakawa",
-        "Ryoji Nakazato",
-        "Tomoyasu Nishizawa"
-      ],
-      "journal": "Pedosphere",
-      "publication_date": "2026-09-01",
-      "abstract": "",
-      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 59,
-      "references": [],
-      "similar_papers": [],
-      "fields_of_study": [],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrogen",
-        "sediment",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
-      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
-    },
-    {
-      "id": "c43b98c543d6791fc085323e35785ad124d7c947",
-      "semantic_scholar_id": "c43b98c543d6791fc085323e35785ad124d7c947",
-      "source": "Semantic Scholar",
-      "pmid": "42743809",
-      "doi": "10.1016/j.watres.2026.126911",
-      "title": "An inundation threshold regulates nitrate reduction pathways in mangrove sediments.",
-      "authors": [
-        "Shi-Yao Chen",
-        "Hui Wu",
-        "Ya-Song Chen",
-        "Fenfang Wang",
-        "Yi-Hui Zhang",
-        "Neng-Wang Chen"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2026-09-01",
-      "abstract": "Estuarine hydrological regimes are increasingly altered by dam operations and extreme climate events, reshaping inundation in intertidal wetlands. However, how inundation regulates nitrate (NO3-) fate remains unclear. We conducted an 18-month, elevation-controlled marsh-organ experiment with Avicennia marina-planted and unvegetated sediments across a 0 %-65 % gradient in mean inundation frequency. We combined 15N isotope tracing and metagenomics to quantify NO3- reduction pathways and associated microbial attributes. In unvegetated sediments, increasing inundation reduced the contribution of denitrification (DNF) from 62 % to 48 % and increased dissimilatory nitrate reduction to ammonium (DNRA) from 25 % to 34 %. In planted sediments, NO3- reduction shifted nonlinearly at approximately 24 % mean inundation frequency. Below this threshold, DNF dominated, contributing 83 %-87 % of NO3- reduction, whereas DNRA contributed only 2 %-6 %. Above the threshold, DNF declined to 45 % at the highest inundation frequencies, while DNRA increased to 42 %-48 %, indicating a shift from nitrogen removal toward retention. This transition coincided with plant failure, more reducing conditions, and changes in microbial community and functional profiles. Plant survival was associated with DNF-related taxa (e.g., Pseudomonas and Flavobacterium), nirK, and oxidative metabolism, whereas plant failure was associated with DNRA-related taxa (e.g., Shewanella and Geobacter), nrfA, and fermentative metabolism. These findings identify a vegetation-dependent inundation threshold beyond which nitrogen removal declines and nitrogen retention increases in mangrove sediments.",
-      "url": "https://www.semanticscholar.org/paper/c43b98c543d6791fc085323e35785ad124d7c947",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c43b98c543d6791fc085323e35785ad124d7c947",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 48,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "1bc796d0f2453a31c61a4de4bee16e038a9ef8df",
-          "title": "Hydrological inundation threshold regulates the carbon source-sink transition in unvegetated tidal flats.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Hui Wu",
-            "Ya-Song Chen",
-            "Shi-Yao Chen"
-          ],
-          "doi": "10.1016/j.watres.2026.126544",
-          "url": "https://www.semanticscholar.org/paper/1bc796d0f2453a31c61a4de4bee16e038a9ef8df",
-          "citation_count": 0
-        },
-        {
-          "id": "727ae43b21bf9ddc5de822ace425d895b10a2b8b",
-          "title": "A dual-solution for coastal cities: global potential of Ulva prolifera biochar in macroalgal waste disposal and wastewater nitrogen removal enhancement.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Peng Guo",
-            "Xian-Biao Lin",
-            "Min Li"
-          ],
-          "doi": "10.1016/j.biortech.2026.135830",
-          "url": "https://www.semanticscholar.org/paper/727ae43b21bf9ddc5de822ace425d895b10a2b8b",
-          "citation_count": 0
-        },
-        {
-          "id": "adbc448011759f6ad13199523582e0a907b069c8",
-          "title": "Benthic nitrogen cycle in a meromictic lake: nitrate delivered via sinking algae sustains denitrification under deep, anoxic waters",
-          "year": 2026,
-          "journal": "Biogeochemistry",
-          "authors": [
-            "Leonardo Morini",
-            "G. Castaldelli",
-            "U. Marzocchi"
-          ],
-          "doi": "10.1007/s10533-026-01366-4",
-          "url": "https://www.semanticscholar.org/paper/adbc448011759f6ad13199523582e0a907b069c8",
-          "citation_count": 0
-        },
-        {
-          "id": "4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
-          "title": "Pyrolusite-mediated denitrifying anaerobic methane oxidation for simultaneous enhancement of nitrogen removal and greenhouse gas mitigation in wetlands.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Qing-Yuan Tian",
-            "Wen-Huai Wang",
-            "Bo-Wen Liu"
-          ],
-          "doi": "10.1016/j.biortech.2026.135814",
-          "url": "https://www.semanticscholar.org/paper/4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
-          "citation_count": 0
-        },
-        {
-          "id": "cff6ea00497add2016334234567ec7e8f6d4fecc",
-          "title": "Environmental aging alters microplastic effects on soil DNRA in estuarine and coastal wetlands.",
-          "year": 2026,
-          "journal": "Marine Environmental Research",
-          "authors": [
-            "Shujie Ruan",
-            "Ru-Yuan Chen",
-            "Cheng Liu"
-          ],
-          "doi": "10.1016/j.marenvres.2026.108339",
-          "url": "https://www.semanticscholar.org/paper/cff6ea00497add2016334234567ec7e8f6d4fecc",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "denitrification",
-        "dnra",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrification",
-        "nitrogen",
-        "sediment",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-17T23:35:53.009431+00:00",
-      "edges_enriched_at": "2026-09-17T23:36:01.893554+00:00"
-    },
-    {
       "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
       "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
       "source": "Semantic Scholar",
@@ -2085,6 +1927,164 @@
       ],
       "detail_enriched_at": "2026-09-11T23:17:06.380191+00:00",
       "edges_enriched_at": "2026-09-11T23:17:06.896596+00:00"
+    },
+    {
+      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1016/j.pedsph.2026.09.008",
+      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
+      "authors": [
+        "Takeshi Shoda",
+        "Miku Hayakawa",
+        "Ryoji Nakazato",
+        "Tomoyasu Nishizawa"
+      ],
+      "journal": "Pedosphere",
+      "publication_date": "2026-09-01",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 59,
+      "references": [],
+      "similar_papers": [],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrogen",
+        "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
+      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
+    },
+    {
+      "id": "c43b98c543d6791fc085323e35785ad124d7c947",
+      "semantic_scholar_id": "c43b98c543d6791fc085323e35785ad124d7c947",
+      "source": "Semantic Scholar",
+      "pmid": "42743809",
+      "doi": "10.1016/j.watres.2026.126911",
+      "title": "An inundation threshold regulates nitrate reduction pathways in mangrove sediments.",
+      "authors": [
+        "Shi-Yao Chen",
+        "Hui Wu",
+        "Ya-Song Chen",
+        "Fen-Fang Wang",
+        "Yi-Hui Zhang",
+        "Neng-Wang Chen"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2026-09-01",
+      "abstract": "Estuarine hydrological regimes are increasingly altered by dam operations and extreme climate events, reshaping inundation in intertidal wetlands. However, how inundation regulates nitrate (NO3-) fate remains unclear. We conducted an 18-month, elevation-controlled marsh-organ experiment with Avicennia marina-planted and unvegetated sediments across a 0 %-65 % gradient in mean inundation frequency. We combined 15N isotope tracing and metagenomics to quantify NO3- reduction pathways and associated microbial attributes. In unvegetated sediments, increasing inundation reduced the contribution of denitrification (DNF) from 62 % to 48 % and increased dissimilatory nitrate reduction to ammonium (DNRA) from 25 % to 34 %. In planted sediments, NO3- reduction shifted nonlinearly at approximately 24 % mean inundation frequency. Below this threshold, DNF dominated, contributing 83 %-87 % of NO3- reduction, whereas DNRA contributed only 2 %-6 %. Above the threshold, DNF declined to 45 % at the highest inundation frequencies, while DNRA increased to 42 %-48 %, indicating a shift from nitrogen removal toward retention. This transition coincided with plant failure, more reducing conditions, and changes in microbial community and functional profiles. Plant survival was associated with DNF-related taxa (e.g., Pseudomonas and Flavobacterium), nirK, and oxidative metabolism, whereas plant failure was associated with DNRA-related taxa (e.g., Shewanella and Geobacter), nrfA, and fermentative metabolism. These findings identify a vegetation-dependent inundation threshold beyond which nitrogen removal declines and nitrogen retention increases in mangrove sediments.",
+      "url": "https://www.semanticscholar.org/paper/c43b98c543d6791fc085323e35785ad124d7c947",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c43b98c543d6791fc085323e35785ad124d7c947",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 48,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "1bc796d0f2453a31c61a4de4bee16e038a9ef8df",
+          "title": "Hydrological inundation threshold regulates the carbon source-sink transition in unvegetated tidal flats.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Hui Wu",
+            "Ya-Song Chen",
+            "Shi-Yao Chen"
+          ],
+          "doi": "10.1016/j.watres.2026.126544",
+          "url": "https://www.semanticscholar.org/paper/1bc796d0f2453a31c61a4de4bee16e038a9ef8df",
+          "citation_count": 0
+        },
+        {
+          "id": "727ae43b21bf9ddc5de822ace425d895b10a2b8b",
+          "title": "A dual-solution for coastal cities: global potential of Ulva prolifera biochar in macroalgal waste disposal and wastewater nitrogen removal enhancement.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Peng Guo",
+            "Xian-Biao Lin",
+            "Min Li"
+          ],
+          "doi": "10.1016/j.biortech.2026.135830",
+          "url": "https://www.semanticscholar.org/paper/727ae43b21bf9ddc5de822ace425d895b10a2b8b",
+          "citation_count": 0
+        },
+        {
+          "id": "adbc448011759f6ad13199523582e0a907b069c8",
+          "title": "Benthic nitrogen cycle in a meromictic lake: nitrate delivered via sinking algae sustains denitrification under deep, anoxic waters",
+          "year": 2026,
+          "journal": "Biogeochemistry",
+          "authors": [
+            "Leonardo Morini",
+            "G. Castaldelli",
+            "U. Marzocchi"
+          ],
+          "doi": "10.1007/s10533-026-01366-4",
+          "url": "https://www.semanticscholar.org/paper/adbc448011759f6ad13199523582e0a907b069c8",
+          "citation_count": 0
+        },
+        {
+          "id": "4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
+          "title": "Pyrolusite-mediated denitrifying anaerobic methane oxidation for simultaneous enhancement of nitrogen removal and greenhouse gas mitigation in wetlands.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Qing-Yuan Tian",
+            "Wen-Huai Wang",
+            "Bo-Wen Liu"
+          ],
+          "doi": "10.1016/j.biortech.2026.135814",
+          "url": "https://www.semanticscholar.org/paper/4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
+          "citation_count": 0
+        },
+        {
+          "id": "cff6ea00497add2016334234567ec7e8f6d4fecc",
+          "title": "Environmental aging alters microplastic effects on soil DNRA in estuarine and coastal wetlands.",
+          "year": 2026,
+          "journal": "Marine Environmental Research",
+          "authors": [
+            "Shujie Ruan",
+            "Ru-Yuan Chen",
+            "Cheng Liu"
+          ],
+          "doi": "10.1016/j.marenvres.2026.108339",
+          "url": "https://www.semanticscholar.org/paper/cff6ea00497add2016334234567ec7e8f6d4fecc",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "dnra",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrification",
+        "nitrogen",
+        "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-17T23:35:53.009431+00:00",
+      "edges_enriched_at": "2026-09-17T23:36:01.893554+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -11259,6 +11259,126 @@
       "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
     },
     {
+      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "source": "Semantic Scholar",
+      "pmid": "41564488",
+      "doi": "10.1016/j.jenvman.2026.128688",
+      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
+      "authors": [
+        "Zhong-Qing Huang",
+        "Jian Shen",
+        "Jin-Hui Wang",
+        "Chen Wang",
+        "Hua-Ji Liu",
+        "Chun-Mei Tian",
+        "Ji-Meng Feng",
+        "Xin-Ze Wang"
+      ],
+      "journal": "Journal of Environmental Management",
+      "publication_date": "2026-01-20",
+      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
+      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
+      "pdf_url": "",
+      "citation_count": 3,
+      "influential_citation_count": 0,
+      "reference_count": 49,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "198359d1df1bc525209302d7fb4137b9207bf2af",
+          "title": "Humic-like dissolved organic matter as a potential driver of microbial denitrification in carbon-limited groundwater.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Chenpan Gong",
+            "Xu Cao",
+            "Yi Zhao"
+          ],
+          "doi": "10.1016/j.watres.2026.126617",
+          "url": "https://www.semanticscholar.org/paper/198359d1df1bc525209302d7fb4137b9207bf2af",
+          "citation_count": 0
+        },
+        {
+          "id": "5f457796191935ff607e4db165fb96e2d3dc2cb8",
+          "title": "Seasonal dynamics of geogenic phosphorus in alluvial-lacustrine aquifers: Coupling of phosphorus-containing dissolved organic matter and microbes as a key driver.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Jun-Na Ning",
+            "Yao Du",
+            "Baisong Deng"
+          ],
+          "doi": "10.1016/j.watres.2026.126797",
+          "url": "https://www.semanticscholar.org/paper/5f457796191935ff607e4db165fb96e2d3dc2cb8",
+          "citation_count": 0
+        },
+        {
+          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "Zi-Teng Liu",
+            "Xin-Di Zhao",
+            "Jia-qi Li"
+          ],
+          "doi": "10.1093/ismejo/wrag212",
+          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
+          "citation_count": 0
+        },
+        {
+          "id": "0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
+          "title": "Abiotic Pathways Bridge the Molecular Transformation from Terrestrial to Lacustrine Dissolved Organic Matter in Shallow Lakes.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Xueyan Liu",
+            "K. Cui",
+            "Yiling Yao"
+          ],
+          "doi": "10.1021/acs.est.6c05122",
+          "url": "https://www.semanticscholar.org/paper/0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
+          "citation_count": 0
+        },
+        {
+          "id": "e5d62873577d8d77e158af339f1b2e74ed2e095c",
+          "title": "Molecular evidence for algal bloom decay as a critical window for bacteria-mediated DOM transformation toward more refractory forms.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Ziwei Zhang",
+            "Huan-Jun Zhang",
+            "Yi Li"
+          ],
+          "doi": "10.1016/j.watres.2026.126808",
+          "url": "https://www.semanticscholar.org/paper/e5d62873577d8d77e158af339f1b2e74ed2e095c",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "forest",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "sediment",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
+      "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
+    },
+    {
       "id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_id": "722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "source": "Semantic Scholar",
@@ -11417,126 +11537,6 @@
         "microbiome",
         "nitrification",
         "nitrogen",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
-      "edges_enriched_at": "2026-09-03T23:22:34.320559+00:00"
-    },
-    {
-      "id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_id": "83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "source": "Semantic Scholar",
-      "pmid": "41564488",
-      "doi": "10.1016/j.jenvman.2026.128688",
-      "title": "Seasonal dynamics of sedimentary dissolved organic matter in plateau lakes: Driving effects on microbial community and functional genes in elements cycling.",
-      "authors": [
-        "Zhong-Qing Huang",
-        "Jian Shen",
-        "Jin-Hui Wang",
-        "Chen Wang",
-        "Hua-Ji Liu",
-        "Chun-Mei Tian",
-        "Ji-Meng Feng",
-        "Xin-Ze Wang"
-      ],
-      "journal": "Journal of Environmental Management",
-      "publication_date": "2026-01-20",
-      "abstract": "Plateau lakes, as sensitive zones to global climate change and critical hubs for land-water carbon exchange, remain understudied in terms of the seasonal dynamics of their sedimentary dissolved organic matter (DOM) and its interactions with microbial ecological function. This study employed Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and metagenomic techniques to unravel the seasonal variations of DOM and their regulatory roles in microbial community and elements cycling. During the dry season, low water temperature (WT), dissolved oxygen (DO), and high electrical conductivity (EC) promoted accumulation of lignin-like and carboxyl-rich aliphatic molecules (CRAMs), with Fuxian Lake exhibiting the strongest sequestration. The subsequent wet period raised microbial biomass carbon (MBC) and easily oxidizable organic carbon (EOC), lowered average mass-to-charge ratios and increased both nominal hydrogen-to-carbon ratios (H/C) and the molecular lability index (MLB%). Labile sugars and peptides enhanced microbial α-diversity, whereas refractory compounds selected for specialist taxa and intensified community differentiation. Random forest identified sugars, peptides, O3S + O5S, biological index (BIX), and WT as core drivers of element cycling genes expression. Functional gene modules diverged along trophic status. The oligotrophic deep lake underwent seasonal turnover, whereas the eutrophic shallow lake preserved stable supermodules integrating multiple metabolic pathways to buffer perturbations. Anthropogenic disturbances elevated sulfur/nitrogen-containing heteroatomic compounds and threatened sediment carbon sinks and element cycling balance. This study advances the understanding of DOM-driven biogeochemical cycles and provides a scientific framework for managing multi-element interactions in climatically sensitive plateau lakes.",
-      "url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/83c7b6a7a330412e41b28427b6085024fe0afaf6",
-      "pdf_url": "",
-      "citation_count": 3,
-      "influential_citation_count": 0,
-      "reference_count": 49,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "198359d1df1bc525209302d7fb4137b9207bf2af",
-          "title": "Humic-like dissolved organic matter as a potential driver of microbial denitrification in carbon-limited groundwater.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Chenpan Gong",
-            "Xu Cao",
-            "Yi Zhao"
-          ],
-          "doi": "10.1016/j.watres.2026.126617",
-          "url": "https://www.semanticscholar.org/paper/198359d1df1bc525209302d7fb4137b9207bf2af",
-          "citation_count": 0
-        },
-        {
-          "id": "5f457796191935ff607e4db165fb96e2d3dc2cb8",
-          "title": "Seasonal dynamics of geogenic phosphorus in alluvial-lacustrine aquifers: Coupling of phosphorus-containing dissolved organic matter and microbes as a key driver.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Jun-Na Ning",
-            "Yao Du",
-            "Baisong Deng"
-          ],
-          "doi": "10.1016/j.watres.2026.126797",
-          "url": "https://www.semanticscholar.org/paper/5f457796191935ff607e4db165fb96e2d3dc2cb8",
-          "citation_count": 0
-        },
-        {
-          "id": "6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "title": "High molecular weight dissolved organic matter drives soil resistome proliferation by enhancing microbial competition and viral carbon metabolism.",
-          "year": 2026,
-          "journal": "The ISME Journal",
-          "authors": [
-            "Zi-Teng Liu",
-            "Xin-Di Zhao",
-            "Jia-qi Li"
-          ],
-          "doi": "10.1093/ismejo/wrag212",
-          "url": "https://www.semanticscholar.org/paper/6431b195f0f704580b72ae8cb0ea5116f6e108a5",
-          "citation_count": 0
-        },
-        {
-          "id": "0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
-          "title": "Abiotic Pathways Bridge the Molecular Transformation from Terrestrial to Lacustrine Dissolved Organic Matter in Shallow Lakes.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Xueyan Liu",
-            "K. Cui",
-            "Yiling Yao"
-          ],
-          "doi": "10.1021/acs.est.6c05122",
-          "url": "https://www.semanticscholar.org/paper/0373cc9c2fe3a67c148a3a6c4a8bc1e48e044c34",
-          "citation_count": 0
-        },
-        {
-          "id": "e5d62873577d8d77e158af339f1b2e74ed2e095c",
-          "title": "Molecular evidence for algal bloom decay as a critical window for bacteria-mediated DOM transformation toward more refractory forms.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Ziwei Zhang",
-            "Huan-Jun Zhang",
-            "Yi Li"
-          ],
-          "doi": "10.1016/j.watres.2026.126808",
-          "url": "https://www.semanticscholar.org/paper/e5d62873577d8d77e158af339f1b2e74ed2e095c",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "forest",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrogen",
-        "sediment",
         "urban",
         "water"
       ],
@@ -18523,7 +18523,7 @@
         "Yihui Xiao",
         "Ting Yang",
         "Haoyang Shi",
-        "Huiqun Cao",
+        "Hui-Qun Cao",
         "Wen-Jun Yang",
         "Ping Gong"
       ],
@@ -19094,7 +19094,7 @@
       "url": "https://www.semanticscholar.org/paper/5777aeff02bab07f2e076c3581aae40cb5993a3a",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5777aeff02bab07f2e076c3581aae40cb5993a3a",
       "pdf_url": "https://www.nature.com/articles/s41598-025-00578-2.pdf",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 48,
       "references": [
@@ -21385,7 +21385,7 @@
       "url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "pdf_url": "",
-      "citation_count": 27,
+      "citation_count": 29,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -29043,7 +29043,7 @@
       "url": "https://www.semanticscholar.org/paper/62c8ee8e57817f69182e5380a288e50e03668ef7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/62c8ee8e57817f69182e5380a288e50e03668ef7",
       "pdf_url": "",
-      "citation_count": 30,
+      "citation_count": 31,
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
@@ -31933,7 +31933,7 @@
       "url": "https://www.semanticscholar.org/paper/b1067cd9925d2e4a427d5dcfc16f20a5f7d64981",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b1067cd9925d2e4a427d5dcfc16f20a5f7d64981",
       "pdf_url": "",
-      "citation_count": 66,
+      "citation_count": 67,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [],
@@ -35691,7 +35691,7 @@
       "title": "Postglacial adaptations enabled colonization and quasi-clonal dispersal of ammonia-oxidizing archaea in modern European large lakes",
       "authors": [
         "D. Ngugi",
-        "M. Salcher",
+        "Michaela M. Salcher",
         "Adrian-Ştefan Andrei",
         "R. Ghai",
         "F. Klotz",
@@ -38489,7 +38489,7 @@
       "url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "pdf_url": "https://doi.org/10.1016/j.geoderma.2022.115846",
-      "citation_count": 243,
+      "citation_count": 244,
       "influential_citation_count": 3,
       "reference_count": 78,
       "references": [
@@ -42496,7 +42496,7 @@
       "url": "https://www.semanticscholar.org/paper/e84138bc770878f0d419aaad23995f6bdf20baa9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e84138bc770878f0d419aaad23995f6bdf20baa9",
       "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/03/07/2021.03.07.433105.full.pdf",
-      "citation_count": 25,
+      "citation_count": 26,
       "influential_citation_count": 0,
       "reference_count": 65,
       "references": [
@@ -45826,7 +45826,7 @@
       "url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "pdf_url": "https://doi.org/10.1021/acs.est.0c00036.s001",
-      "citation_count": 99,
+      "citation_count": 100,
       "influential_citation_count": 4,
       "reference_count": 58,
       "references": [],
