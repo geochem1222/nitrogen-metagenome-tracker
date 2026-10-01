@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:31:19.166875+00:00",
+  "updated_at": "2026-10-01T00:34:27.986905+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,170 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "f68232bf4abbb1eafb9b29da7a1408df05eaa494",
+      "semantic_scholar_id": "f68232bf4abbb1eafb9b29da7a1408df05eaa494",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.3390/life16101625",
+      "title": "Effects of Arbuscular Mycorrhizal Fungi and Clay Minerals on Soil Nitrogen and Phosphorus Availability and Microbial Community Responses",
+      "authors": [
+        "Zhi-Rui Zhao",
+        "Jia-Long Luo",
+        "Zi-Xuan Zhao",
+        "Guo-Xin Liu",
+        "Shi-Jia Feng",
+        "Xiao-Gang Chen",
+        "Kui Cai",
+        "Ze-Feng Song"
+      ],
+      "journal": "Life",
+      "publication_date": "2026-09-28",
+      "abstract": "Efficient management of soil nitrogen and phosphorus availability is important for soil fertility and crop productivity, but the field responses of rhizosphere microbial communities to arbuscular mycorrhizal fungi (AMF) and clay-mineral amendments remain unclear. A wheat-field experiment compared four treatments: an untreated control (A), bentonite (B; 39 kg plot−1), sepiolite (C; 39 kg plot−1), and AMF inoculation (E; 2.25 kg inoculum plot−1; 120 spores g−1). Each treatment comprised six 4 × 7.5 m plots. Soil physicochemical properties were evaluated using all six plots, whereas rhizosphere microbial sequencing used three plots per treatment (plots 2, 4, and 6; n = 3). Treatment E showed higher mean alkali-hydrolyzable nitrogen (101.50 vs. 93.33 mg kg−1) and available phosphorus (56.00 vs. 20.98 mg kg−1) than the control, whereas treatment B showed a 32.8% higher mean available potassium. None of the bacterial or AMF alpha-diversity indices differed significantly among treatments. Taxonomic summaries showed descriptive variation among treatments, whereas principal component analysis (PCA) and analysis of similarities (ANOSIM) did not detect significant treatment-level separation of either the bacterial or AMF communities. Shotgun metagenomic annotation, rather than 16S-based functional inference, further showed descriptive differences in nitrogen- and phosphorus-related gene-abundance profiles and functional potential; Pseudomonadota and Actinomycetota accounted for substantial shares of several nutrient-cycling gene categories, while pstB showed comparatively pronounced numerical variation among treatments. These metagenomic profiles represent genetic functional potential and do not demonstrate transcript abundance or metabolic activity. Overall, AMF inoculation and clay-mineral amendments were associated with descriptive differences in nutrient availability, taxonomic profiles, and metagenomic functional potential in alkaline wheat farmland, but significant treatment-level separation of the overall bacterial and AMF communities was not detected.",
+      "url": "https://www.semanticscholar.org/paper/f68232bf4abbb1eafb9b29da7a1408df05eaa494",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/f68232bf4abbb1eafb9b29da7a1408df05eaa494",
+      "pdf_url": "https://doi.org/10.3390/life16101625",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 58,
+      "references": [
+        {
+          "title": "Majorbio Cloud 2026 provides comprehensive analysis workflows for microbiome",
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/f1e9f8ea897a4144150890ba986e87356d097124",
+          "doi": "10.1002/imt2.70109"
+        },
+        {
+          "title": "Arbuscular mycorrhizal fungi enhance plant phosphorus uptake through stimulating hyphosphere soil microbiome functional profiles for phosphorus turnover.",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/567c5c3625692a1804aaa1b9c9607eb9a1329c89",
+          "doi": "10.1111/nph.18772"
+        },
+        {
+          "title": "Soil structure and microbiome functions in agroecosystems",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/7eacc3961c88451ba82085e02a3a2a2dce442945",
+          "doi": "10.1038/s43017-022-00366-w"
+        },
+        {
+          "title": "Sepiolite clay: A review of its applications to immobilize toxic metals in contaminated soils and its implications in soil–plant system",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/66acaae4a4aa1285cca681f8bdd268caab204275",
+          "doi": "10.1016/J.ETI.2021.101598"
+        },
+        {
+          "title": "[Potential of Arbuscular Mycorrhizal Fungi, Biochar, and Combined Amendment on Sandy Soil Improvement Driven by Microbial Community].",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/f3407ca8e188a08c68c3dbb7ed2cf6b3ecb06a8e",
+          "doi": "10.13227/j.hjkx.202008154"
+        },
+        {
+          "title": "Molecular Mechanisms of Phosphate Sensing, Transport and Signalling in Streptomyces and Related Actinobacteria",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/03a3553b0cec1b9986a0b957f76e958e83d127dd",
+          "doi": "10.3390/ijms22031129"
+        },
+        {
+          "title": "Sandy soils amended with bentonite induced changes in soil microbiota and fungistasis in maize fields",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/6c37b1e2e1195b60e095ac774b6e68aa2b125af5",
+          "doi": "10.1016/j.apsoil.2019.103378"
+        },
+        {
+          "title": "A commercial arbuscular mycorrhizal inoculum increases root colonization across wheat cultivars but does not increase assimilation of mycorrhiza‐acquired nutrients",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/205e319d368aa50a7b8cab4ddbb7af06d089d4ae",
+          "doi": "10.1002/ppp3.10094"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "ababd1ed55e90f3d6e20edb09c38a297e1a2df2a",
+          "title": "Arbuscular mycorrhizal fungi combined with mycorrhizal helper bacteria synergistically enhance cadmium stress resistance of cucumber seedlings and change soil bacterial community.",
+          "year": 2026,
+          "journal": "Microbiology Research",
+          "authors": [
+            "Lu Lu",
+            "Liyan Zhou",
+            "Xinjie Pan"
+          ],
+          "doi": "10.1016/j.micres.2026.128664",
+          "url": "https://www.semanticscholar.org/paper/ababd1ed55e90f3d6e20edb09c38a297e1a2df2a",
+          "citation_count": 0
+        },
+        {
+          "id": "1c230a90680455481559553ef24a15d74fb90a12",
+          "title": "Spent coffee grounds as soil amendments for lettuce: microbial activity and mycorrhizal response",
+          "year": 2026,
+          "journal": "Caderno Pedagógico",
+          "authors": [
+            "Maria Nayana Rodrigues e Silva",
+            "Gabriel Duarte da Costa",
+            "Nicole Alves Pires"
+          ],
+          "doi": "10.54033/cadpedv23n8-038",
+          "url": "https://www.semanticscholar.org/paper/1c230a90680455481559553ef24a15d74fb90a12",
+          "citation_count": 0
+        },
+        {
+          "id": "70552a0e3f570cae1f0868b3ea57a1499fb0d6e0",
+          "title": "Assessing the Impact of Land Use on Arbuscular Mycorrhizal Root Colonisation Rate, Phosphorus and Nitrogen Uptake in Ife Bimpe Cowpea",
+          "year": 2026,
+          "journal": "Pertanika Journal of Tropical Agricultural Science",
+          "authors": [
+            "Nwokocha Amarachi Grace",
+            "Ukagba Oluchi Ukamaka",
+            "S. Idris"
+          ],
+          "doi": "10.47836/pjtas.49.4.22",
+          "url": "https://www.semanticscholar.org/paper/70552a0e3f570cae1f0868b3ea57a1499fb0d6e0",
+          "citation_count": 0
+        },
+        {
+          "id": "0e6988f71efd7fd789193200480c13c1e3b39589",
+          "title": "Effect of Arbuscular Mycorrhizal Fungi and Plant Growth-promoting Rhizobacteria on Yield, Nutrient Content and Uptake in Tomato under Vertisol Conditions",
+          "year": 2026,
+          "journal": "Journal of Scientific Research and Reports",
+          "authors": [
+            "Nikita D. Pardeshi",
+            "R. Khandare",
+            "M. N. Ingole"
+          ],
+          "doi": "10.9734/jsrr/2026/v32i94472",
+          "url": "https://www.semanticscholar.org/paper/0e6988f71efd7fd789193200480c13c1e3b39589",
+          "citation_count": 0
+        },
+        {
+          "id": "8103e5c4592a11e8fa09e0ebfe4c4a784a82b9d7",
+          "title": "Synergistic effect of humic acid and arbuscular mycorrhizal fungi on yield and quality of tomato plants grown in greenhouse",
+          "year": 2026,
+          "journal": "Brazilian Journal of Biology",
+          "authors": [
+            "N. Tolepbayeva",
+            "B. Kedelbaev",
+            "A. Uspabayeva"
+          ],
+          "doi": "10.1590/1519-6984.304906",
+          "url": "https://www.semanticscholar.org/paper/8103e5c4592a11e8fa09e0ebfe4c4a784a82b9d7",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "soil"
+      ],
+      "detail_enriched_at": "2026-10-01T00:34:23.979142+00:00",
+      "edges_enriched_at": "2026-10-01T00:34:24.903765+00:00"
+    },
     {
       "id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
       "semantic_scholar_id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
@@ -5604,7 +5768,7 @@
       "authors": [
         "Shishi Feng",
         "Qianmin Liu",
-        "Yuanyuan Chen",
+        "Yuan-Yuan Chen",
         "Di Kang",
         "Shu-Zhen Zou"
       ],
@@ -11396,7 +11560,7 @@
       "url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1696238/pdf",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 232,
       "references": [
@@ -11566,7 +11730,7 @@
       "url": "https://www.semanticscholar.org/paper/e15bc04d7276dca231ca3472b4ac12a2b1144696",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e15bc04d7276dca231ca3472b4ac12a2b1144696",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 88,
       "references": [],
@@ -14646,7 +14810,7 @@
         "Peng-Tao Luo",
         "Xiao Song",
         "Shao-Min Huang",
-        "Xinpeng Xu",
+        "Xin-Peng Xu",
         "Qian Zhang",
         "Yu-Lu Chen",
         "Ze-Kun Zhang",
@@ -18522,7 +18686,7 @@
         "Zhi-Yuan Chen",
         "Yihui Xiao",
         "Ting Yang",
-        "Haoyang Shi",
+        "Hao-Yang Shi",
         "Hui-Qun Cao",
         "Wen-Jun Yang",
         "Ping Gong"
@@ -18704,7 +18868,7 @@
       "url": "https://www.semanticscholar.org/paper/0e95e944d7e6ba1fda387b04c967201929b91cf5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e95e944d7e6ba1fda387b04c967201929b91cf5",
       "pdf_url": "",
-      "citation_count": 8,
+      "citation_count": 9,
       "influential_citation_count": 0,
       "reference_count": 109,
       "references": [],
@@ -22030,7 +22194,7 @@
       "url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ce9eb5d5ebed987ba27eb36d0d44b5743d99c48e",
       "pdf_url": "https://soil.copernicus.org/articles/11/1/2025/soil-11-1-2025.pdf",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 130,
       "references": [
@@ -22196,7 +22360,7 @@
       "url": "https://www.semanticscholar.org/paper/1dae57ceb0a024356d15b491bfd556e2c97c409f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1dae57ceb0a024356d15b491bfd556e2c97c409f",
       "pdf_url": "",
-      "citation_count": 32,
+      "citation_count": 33,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -22856,7 +23020,7 @@
       "title": "Metagenomic Analysis Revealing the Impact of Water Contents on the Composition of Soil Microbial Communities and the Distribution of Major Ecological Functional Genes in Poyang Lake Wetland Soil",
       "authors": [
         "Yuxin Long",
-        "Xiaomei Zhang",
+        "Xiao-Mei Zhang",
         "Xuan Peng",
         "Huilin Yang",
         "Haiyan Ni",
@@ -23255,7 +23419,7 @@
         "Xi Gao",
         "Chen Gui",
         "Hang Wang",
-        "Xiaowen Liu",
+        "Xiao-Wen Liu",
         "Guo-Xing Wu"
       ],
       "journal": "Genes",
@@ -23543,7 +23707,7 @@
       "url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
       "pdf_url": "",
-      "citation_count": 48,
+      "citation_count": 49,
       "influential_citation_count": 0,
       "reference_count": 72,
       "references": [
@@ -27277,7 +27441,7 @@
       "url": "https://www.semanticscholar.org/paper/1d8a2f7335f1bb9e22c93c9d2ec3cee5ea6d37e3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1d8a2f7335f1bb9e22c93c9d2ec3cee5ea6d37e3",
       "pdf_url": "https://doi.org/10.1016/j.scitotenv.2024.172954",
-      "citation_count": 24,
+      "citation_count": 25,
       "influential_citation_count": 0,
       "reference_count": 86,
       "references": [
@@ -27802,7 +27966,7 @@
       "url": "https://www.semanticscholar.org/paper/b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "pdf_url": "",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 72,
       "references": [
@@ -28759,7 +28923,7 @@
       "url": "https://www.semanticscholar.org/paper/2116136191ac1675c1850067d5ac3c317ef42e9b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2116136191ac1675c1850067d5ac3c317ef42e9b",
       "pdf_url": "https://doi.org/10.3389/fmicb.2024.1310387",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 0,
       "reference_count": 54,
       "references": [
@@ -28920,7 +29084,7 @@
         "Jie Qiao",
         "Hui Li",
         "Li-Chao Wu",
-        "Baoping Wang",
+        "Bao-Ping Wang",
         "Sheng Lu"
       ],
       "journal": "European Journal of Forest Research",
@@ -28929,7 +29093,7 @@
       "url": "https://www.semanticscholar.org/paper/6ba78bb68d6e2b5fc3224b37071f1533455e1aa7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6ba78bb68d6e2b5fc3224b37071f1533455e1aa7",
       "pdf_url": "",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 0,
       "reference_count": 52,
       "references": [],
@@ -29279,7 +29443,7 @@
       "url": "https://www.semanticscholar.org/paper/cde1284db46ea79eedab8e6419fec163ea202571",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cde1284db46ea79eedab8e6419fec163ea202571",
       "pdf_url": "",
-      "citation_count": 38,
+      "citation_count": 39,
       "influential_citation_count": 2,
       "reference_count": 73,
       "references": [],
@@ -30746,7 +30910,7 @@
       "url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a9dfeb4d0271a09ae1faf56d90604ae8eb56874c",
       "pdf_url": "",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 3,
       "reference_count": 84,
       "references": [],
@@ -32728,7 +32892,7 @@
       "doi": "10.1016/j.jenvman.2023.118733",
       "title": "Patters of reactive nitrogen removal at the waters in the semi-constructed wetland.",
       "authors": [
-        "Aiju You",
+        "Ai-Ju You",
         "L. Hua",
         "Jing-Wen Hu",
         "Junsong Tian",
@@ -34339,7 +34503,7 @@
       "url": "https://www.semanticscholar.org/paper/cb2e91a7873e96775ed95bdc37d1246e1b108a30",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cb2e91a7873e96775ed95bdc37d1246e1b108a30",
       "pdf_url": "",
-      "citation_count": 82,
+      "citation_count": 83,
       "influential_citation_count": 2,
       "reference_count": 108,
       "references": [],
@@ -36530,7 +36694,7 @@
       "url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/5f8d93f61935409efbd3a4e987beba8d3f2e3139",
       "pdf_url": "",
-      "citation_count": 149,
+      "citation_count": 150,
       "influential_citation_count": 4,
       "reference_count": 85,
       "references": [],
@@ -44183,7 +44347,7 @@
       "url": "https://www.semanticscholar.org/paper/41de3dda2ecb930696d6bcadf195872e481c3d66",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/41de3dda2ecb930696d6bcadf195872e481c3d66",
       "pdf_url": "",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 1,
       "reference_count": 62,
       "references": [],
@@ -49961,7 +50125,7 @@
       "url": "https://www.semanticscholar.org/paper/26dac3150ae330bad6a0c8f77e0e40689c812436",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/26dac3150ae330bad6a0c8f77e0e40689c812436",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2018.00280/pdf",
-      "citation_count": 23,
+      "citation_count": 24,
       "influential_citation_count": 1,
       "reference_count": 83,
       "references": [
@@ -51084,7 +51248,7 @@
       "url": "https://www.semanticscholar.org/paper/8785c8d05783e6b2e7a8a77b948e9a7c70d611e9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8785c8d05783e6b2e7a8a77b948e9a7c70d611e9",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101648&type=printable",
-      "citation_count": 96,
+      "citation_count": 97,
       "influential_citation_count": 3,
       "reference_count": 115,
       "references": [
