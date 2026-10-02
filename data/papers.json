@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:34:27.986905+00:00",
+  "updated_at": "2026-10-02T00:50:44.531173+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -2446,77 +2446,77 @@
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.71083",
       "citation_count": 0,
       "influential_citation_count": 0,
-      "reference_count": 37,
+      "reference_count": 57,
       "references": [],
       "similar_papers": [
         {
-          "id": "97d3e4a739b219145e948815d7664420b6474cb1",
-          "title": "Divergent Shift in Soil Microbial Communities Through Conversion From Forestland to Vineyards",
+          "id": "54b779b97a1afa5da8f96bd79da38a9db2f3aebb",
+          "title": "Rainfall Shapes the Diversity of Soil Nitrogen‐Fixing Microorganisms Worldwide",
           "year": 2026,
-          "journal": "Land Degradation &amp; Development",
+          "journal": "Advancement of science",
           "authors": [
-            "Ning Wang",
-            "Tooba Mumtaz",
-            "Yuyao Yuan"
+            "Bin Hua",
+            "Shuang Pang",
+            "Ang Li"
           ],
-          "doi": "10.1002/ldr.70741",
-          "url": "https://www.semanticscholar.org/paper/97d3e4a739b219145e948815d7664420b6474cb1",
+          "doi": "10.1002/advs.77215",
+          "url": "https://www.semanticscholar.org/paper/54b779b97a1afa5da8f96bd79da38a9db2f3aebb",
           "citation_count": 0
         },
         {
-          "id": "d33756524f53fb1a98d32e07a65139be6fe9812e",
-          "title": "Experimental drought drives divergent succession of soil microbiota.",
-          "year": 2026,
-          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-          "authors": [
-            "Sihang Deng",
-            "Yunfeng Yang",
-            "Xue Guo"
-          ],
-          "doi": "10.1073/pnas.2537753123",
-          "url": "https://www.semanticscholar.org/paper/d33756524f53fb1a98d32e07a65139be6fe9812e",
-          "citation_count": 0
-        },
-        {
-          "id": "ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
-          "title": "Six-year nitrogen addition alters microbial-derived carbon accumulation in association with soil stoichiometry and microbial community reorganization in an alpine coniferous forest",
-          "year": 2026,
-          "journal": "Frontiers in Forests and Global Change",
-          "authors": [
-            "Shaobing Zhang",
-            "Yanying Han",
-            "Zhipan Cui"
-          ],
-          "doi": "10.3389/ffgc.2026.1905473",
-          "url": "https://www.semanticscholar.org/paper/ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
-          "citation_count": 0
-        },
-        {
-          "id": "e161ec55f3225766328ab283c8d3f843e355ca9f",
-          "title": "Can Organic Amendments Override Environmental Filtering of Soil Microbiomes? Evidence From 20 Years Old Agricultural Field Trials in Contrasting Tropical Sites.",
+          "id": "7d4519952b9280a0b4a6731504cfc12bfead9b15",
+          "title": "Long‐Term Warming Reduces Bacterial Diversity and Functional Potential in Temperate Forest Soil",
           "year": 2026,
           "journal": "Global Change Biology",
           "authors": [
-            "Anna M. Visscher",
-            "S. Ndungu",
-            "Rafaela Feola Conz"
+            "Yue Liu",
+            "L. Qu",
+            "Dongwei Liu"
           ],
-          "doi": "10.1111/gcb.71061",
-          "url": "https://www.semanticscholar.org/paper/e161ec55f3225766328ab283c8d3f843e355ca9f",
+          "doi": "10.1111/gcb.71104",
+          "url": "https://www.semanticscholar.org/paper/7d4519952b9280a0b4a6731504cfc12bfead9b15",
           "citation_count": 0
         },
         {
-          "id": "dd354b88dcde726195977af4f39d72c25a2cc8a4",
-          "title": "Serpentine Biocrust Microbes Maintain Nitrogen Cycling Under Drought and Heavy Metal Stress",
+          "id": "d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
+          "title": "Metagenomic Insights into Microbial Functional Potential Associated with Soil Carbon, Nitrogen, and Phosphorus Cycling Along an Elevational Gradient in a Warm-Temperate Forest",
           "year": 2026,
-          "journal": "Ecological research",
+          "journal": "Microorganisms",
           "authors": [
-            "Sandra Barnard",
-            "O. Barachiah",
-            "S. J. Siebert"
+            "Jing-Jing Wang",
+            "Si-Yuan Huangfu",
+            "Ruo-Chen Li"
           ],
-          "doi": "10.1111/1440-1703.70113",
-          "url": "https://www.semanticscholar.org/paper/dd354b88dcde726195977af4f39d72c25a2cc8a4",
+          "doi": "10.3390/microorganisms14092015",
+          "url": "https://www.semanticscholar.org/paper/d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
+          "citation_count": 0
+        },
+        {
+          "id": "dc572f46692edf43252a7dd54e16989c7b1da460",
+          "title": "Effects of livestock grazing systems on soil microbial community composition and functional profiles related to carbon, nitrogen, and phosphorus cycling in the Tianzhu alpine grassland",
+          "year": 2026,
+          "journal": "Plant and Soil",
+          "authors": [
+            "Kai-Kai Ma",
+            "Chang-Lin Xu",
+            "Yan-Zhu Chen"
+          ],
+          "doi": "10.1007/s11104-026-08962-1",
+          "url": "https://www.semanticscholar.org/paper/dc572f46692edf43252a7dd54e16989c7b1da460",
+          "citation_count": 0
+        },
+        {
+          "id": "e91d12de0e05ee58a71a3149fdbee90fde710e98",
+          "title": "Soil fungal alpha diversity is associated with grassland productivity across a natural aridity gradient",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Ming-Yi Shi",
+            "Chenghang Du",
+            "Yong-Bin Li"
+          ],
+          "doi": "10.3389/fmicb.2026.1888112",
+          "url": "https://www.semanticscholar.org/paper/e91d12de0e05ee58a71a3149fdbee90fde710e98",
           "citation_count": 0
         }
       ],
@@ -2535,8 +2535,8 @@
         "nitrogen",
         "soil"
       ],
-      "detail_enriched_at": "2026-09-01T00:40:53.855875+00:00",
-      "edges_enriched_at": "2026-09-01T00:40:54.476709+00:00"
+      "detail_enriched_at": "2026-10-02T00:50:18.897822+00:00",
+      "edges_enriched_at": "2026-10-02T00:50:27.542439+00:00"
     },
     {
       "id": "a8b752533a76c660f83af7f9fadd44e5dbf6b7bb",
@@ -2570,7 +2570,7 @@
           "year": 2026,
           "journal": "Environmental Pollution",
           "authors": [
-            "Wenfang Li",
+            "Wen-Fang Li",
             "Zhi Yu",
             "Jian Zhang"
           ],
@@ -2579,59 +2579,59 @@
           "citation_count": 0
         },
         {
-          "id": "4a2a616062ecd0cd89fc95b4fa5efcb2a512dac8",
-          "title": "Remediation of per- and polyfluoroalkyl substances in simulated groundwater combining an iron coated reactive barrier with electro-assisted regeneration.",
+          "id": "ba0f14f7efa853ce8a3414899fb0f1cf35e3f292",
+          "title": "Golden Apple Snail Activity Alters Greenhouse Gas Emissions and Microbial Communities in Paddy Soil",
           "year": 2026,
-          "journal": "Journal of Environmental Management",
+          "journal": "Agronomy",
           "authors": [
-            "J. Uwayezu",
-            "A. Tasca",
-            "Ivan Carabante"
+            "Wenxin Wei",
+            "Ting Wen",
+            "Xiao-Zhen Wang"
           ],
-          "doi": "10.1016/j.jenvman.2026.130521",
-          "url": "https://www.semanticscholar.org/paper/4a2a616062ecd0cd89fc95b4fa5efcb2a512dac8",
+          "doi": "10.3390/agronomy16161525",
+          "url": "https://www.semanticscholar.org/paper/ba0f14f7efa853ce8a3414899fb0f1cf35e3f292",
           "citation_count": 0
         },
         {
-          "id": "20a51d2d4c73a951b7426b2ac0bf362fed51eedb",
-          "title": "Mitigation effects of solar-driven metalloporphyrins on CO2 and N2O emissions from an agricultural soil.",
+          "id": "cd93fb494ceedec20ab9dea614b0edfb91a66b45",
+          "title": "Rice Husk Biochar Effects on Soil Carbon Storage and Greenhouse Gas Emissions in a Subtropical Poplar Plantation",
           "year": 2026,
-          "journal": "Journal of Environmental Management",
+          "journal": "Forests",
           "authors": [
-            "Zongyang Han",
-            "Zhijun Wei",
-            "Heng Yu"
+            "Yue Liu",
+            "Yongxin Shan",
+            "Zheng Su"
           ],
-          "doi": "10.1016/j.jenvman.2026.130785",
-          "url": "https://www.semanticscholar.org/paper/20a51d2d4c73a951b7426b2ac0bf362fed51eedb",
+          "doi": "10.3390/f17091084",
+          "url": "https://www.semanticscholar.org/paper/cd93fb494ceedec20ab9dea614b0edfb91a66b45",
           "citation_count": 0
         },
         {
-          "id": "7d76088d77103611586f62ac417bcebf7869800e",
-          "title": "Impact of Surfactant-Modified\nBiochar–Clay\nSoil Amendments on Per/Polyfluoroalkyl Substance (PFAS) Accumulation\nin Lettuce (\n Lactuca sativa\n )",
+          "id": "d898c1ed86b66b39f3ca93d870f646dc158e6d66",
+          "title": "Stabilisation of PFAS in biosolids by activated carbon and biochar: Implications for leaching control.",
           "year": 2026,
-          "journal": "ACS ES&amp;T Engineering",
+          "journal": "Journal of Hazardous Materials",
           "authors": [
-            "R. Mukhopadhyay",
-            "R. Pures",
-            "David V. P. Sanchez"
+            "Maliheh Arab",
+            "D. Navarro",
+            "Ronald Smernik"
           ],
-          "doi": "10.1021/acsestengg.6c00294",
-          "url": "https://www.semanticscholar.org/paper/7d76088d77103611586f62ac417bcebf7869800e",
+          "doi": "10.1016/j.jhazmat.2026.143685",
+          "url": "https://www.semanticscholar.org/paper/d898c1ed86b66b39f3ca93d870f646dc158e6d66",
           "citation_count": 0
         },
         {
-          "id": "919e249ff23c416a64e08446ab1d717ca4471aec",
-          "title": "Integrated thermal and phytoremediation of agricultural soils impacted by PFAS",
+          "id": "48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
+          "title": "Methane-Derived Zero-Valent Carbon Solids Inhibit Nitrification and Decrease Nitrous Oxide Flux from Agricultural Soils",
           "year": 2026,
-          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "journal": "ACS Agricultural Science &amp; Technology",
           "authors": [
-            "Jake T Thompson",
-            "Millie Dobson",
-            "T. J. Suhrhoff"
+            "Johanna Bangala",
+            "C. Schwarz",
+            "Xiao-Dong Gao"
           ],
-          "doi": "10.1073/pnas.2600786123",
-          "url": "https://www.semanticscholar.org/paper/919e249ff23c416a64e08446ab1d717ca4471aec",
+          "doi": "10.1021/acsagscitech.6c00312",
+          "url": "https://www.semanticscholar.org/paper/48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
           "citation_count": 0
         }
       ],
@@ -2654,8 +2654,8 @@
         "urban",
         "water"
       ],
-      "detail_enriched_at": "2026-09-01T00:40:53.855875+00:00",
-      "edges_enriched_at": "2026-09-01T00:40:54.476709+00:00"
+      "detail_enriched_at": "2026-10-02T00:50:18.897822+00:00",
+      "edges_enriched_at": "2026-10-02T00:50:27.542439+00:00"
     },
     {
       "id": "9076d116baba28b1219685ae348fcfde49183cfa",
@@ -2734,59 +2734,45 @@
       ],
       "similar_papers": [
         {
-          "id": "87ac9bb2d9179de3ab475aca96c9529fb9fa184e",
-          "title": "6-year nitrogen addition alters fungal network structure and extracellular enzyme activities in alpine grasslands: divergent responses between rhizosphere and bulk soils",
+          "id": "a312761161c4d9422bd98defcf326e7468a0e433",
+          "title": "Long-term nitrogen deposition drives phosphorus allocation and\n phoD\n -harboring bacterial community dynamics in dryland ecosystems",
           "year": 2026,
-          "journal": "Chemical and Biological Technologies in Agriculture",
+          "journal": "Journal of Plant Ecology",
           "authors": [
-            "Zheng Wu",
-            "Yanying Han",
-            "Wenqiang Huang"
+            "Shu-Jun Zhang",
+            "Xiaobing Zhou",
+            "Yong-Xing Lu"
           ],
-          "doi": "10.1186/s40538-026-01025-8",
-          "url": "https://www.semanticscholar.org/paper/87ac9bb2d9179de3ab475aca96c9529fb9fa184e",
-          "citation_count": 1
-        },
-        {
-          "id": "826a32cea73fbf3185dd65a0949430f0942d2705",
-          "title": "Re-evaluating forest carbon sinks under nitrogen deposition: Acidification drives passive carbon accumulation via decoupling microbial manganese oxidation.",
-          "year": 2026,
-          "journal": "Journal of Environmental Management",
-          "authors": [
-            "Shijia Wang",
-            "Xueru Li",
-            "Liting Zhang"
-          ],
-          "doi": "10.1016/j.jenvman.2026.130573",
-          "url": "https://www.semanticscholar.org/paper/826a32cea73fbf3185dd65a0949430f0942d2705",
+          "doi": "10.1093/jpe/rtag212",
+          "url": "https://www.semanticscholar.org/paper/a312761161c4d9422bd98defcf326e7468a0e433",
           "citation_count": 0
         },
         {
-          "id": "a166865624956059f5d93b6790b71ea978ba8330",
-          "title": "Microbial community changes mediate the decline in soil organic carbon mineralization with depth in tea plantations.",
+          "id": "d22082272372570d78aa6fdd9b3332c576ea6fe1",
+          "title": "Microbial Paradox\nunder Nitrogen Fertilization: Enhanced\nSoil Phosphorus Mineralization Coupled with Accelerated Stabilization",
           "year": 2026,
-          "journal": "Carbon Balance and Management",
+          "journal": "Environmental Science &amp;\nTechnology",
           "authors": [
-            "Shaobo Zhang",
-            "Yifeng Xie",
-            "Hongbin Zhang"
+            "Sheng Tang",
+            "Wan-Kun Pan",
+            "Xiu Liu"
           ],
-          "doi": "10.1186/s13021-026-00485-7",
-          "url": "https://www.semanticscholar.org/paper/a166865624956059f5d93b6790b71ea978ba8330",
+          "doi": "10.1021/acs.est.6c05407",
+          "url": "https://www.semanticscholar.org/paper/d22082272372570d78aa6fdd9b3332c576ea6fe1",
           "citation_count": 0
         },
         {
-          "id": "b9504594716feb2b746fc7603d8a559001649449",
-          "title": "Soil extracellular enzyme activities and stoichiometric characteristics in a warm-temperate-subtropical mixed coniferous and broad-leaved forest under nitrogen addition and drought conditions.",
+          "id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+          "title": "Warming and Nitrogen Addition Induce Asynchronous Taxonomic and Functional Responses and Reorganize Microbial C, N, P Cycling Potential in an Alpine Wetland on the Qinghai–Tibet Plateau",
           "year": 2026,
-          "journal": "Ying yong sheng tai xue bao = The journal of applied ecology",
+          "journal": "Microorganisms",
           "authors": [
-            "Yu-Die Lin",
-            "Zhi-Jie Chen",
-            "Shi-Zhe Wang"
+            "Wen-Hua Chang",
+            "Wei-Wei Ma",
+            "Jia-Nan Du"
           ],
-          "doi": "10.13287/j.1001-9332.202608.048",
-          "url": "https://www.semanticscholar.org/paper/b9504594716feb2b746fc7603d8a559001649449",
+          "doi": "10.3390/microorganisms14102151",
+          "url": "https://www.semanticscholar.org/paper/eb0e7d46d10d265a24eefc08026f4771dfcaad50",
           "citation_count": 0
         },
         {
@@ -2797,11 +2783,25 @@
           "authors": [
             "Jia-Tao Zhu",
             "Hua‐Bing Liu",
-            "Mai‐he Li"
+            "Mai-He Li"
           ],
           "doi": "10.1093/jpe/rtag199",
           "url": "https://www.semanticscholar.org/paper/5986b03660aaaf6a03a90a7db2707a799a42aa78",
           "citation_count": 0
+        },
+        {
+          "id": "ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
+          "title": "Six-year nitrogen addition alters microbial-derived carbon accumulation in association with soil stoichiometry and microbial community reorganization in an alpine coniferous forest",
+          "year": 2026,
+          "journal": "Frontiers in Forests and Global Change",
+          "authors": [
+            "Shao-Bing Zhang",
+            "Yan-Ying Han",
+            "Zhi-Pan Cui"
+          ],
+          "doi": "10.3389/ffgc.2026.1905473",
+          "url": "https://www.semanticscholar.org/paper/ffadce2d3b409a58ca6f2c6f1e3591404d16f450",
+          "citation_count": 1
         }
       ],
       "fields_of_study": [],
@@ -2818,8 +2818,8 @@
         "soil",
         "urban"
       ],
-      "detail_enriched_at": "2026-09-01T23:20:42.255658+00:00",
-      "edges_enriched_at": "2026-09-01T23:20:42.867622+00:00"
+      "detail_enriched_at": "2026-10-02T00:50:18.897822+00:00",
+      "edges_enriched_at": "2026-10-02T00:50:27.542439+00:00"
     },
     {
       "id": "b3e714ac652b6324cd2a89a372764cd3623fa3d9",
@@ -4443,7 +4443,7 @@
         "Yirui Su",
         "Lianlian Fan",
         "Zhengxing Chen",
-        "Xiufeng Tang",
+        "Xiu-Feng Tang",
         "Jiayi Wang",
         "U. Klümper",
         "Guitao Shi",
@@ -9133,7 +9133,7 @@
       "title": "Fresh-seawater interface shapes nitrogen fate in a subtropical estuary: Insights from multi-isotopic and metagenomic analyses.",
       "authors": [
         "Fei-Fei Wang",
-        "Chengchun Shi",
+        "Cheng-Chun Shi",
         "Weiwei Zhang",
         "Yi-Ming Chen",
         "Zhenye Chen",
@@ -10212,7 +10212,7 @@
       "doi": "10.1016/j.ecoenv.2026.119853",
       "title": "Silver sulfide nanoparticles amplify earthworm gut denitrification and elevate N₂O emissions in subtropical forest soils under nitrogen deposition.",
       "authors": [
-        "Jingtao Wu",
+        "Jing-Tao Wu",
         "Can-Xuan He",
         "Ke-Jun Wu",
         "Wei-Xun Feng",
@@ -15447,7 +15447,7 @@
       "url": "https://www.semanticscholar.org/paper/7962299c924f25cf70091c07400d02a254257cf3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7962299c924f25cf70091c07400d02a254257cf3",
       "pdf_url": "https://doi.org/10.1038/s41467-025-63601-0",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 0,
       "reference_count": 88,
       "references": [
@@ -16631,7 +16631,7 @@
       "authors": [
         "Shouyang Luo",
         "Jiabao Yuan",
-        "Yanyu Song",
+        "Yan-Yu Song",
         "Jia Qi",
         "Mengyuan Zhu",
         "Huanhuan Feng",
@@ -21934,7 +21934,7 @@
       "authors": [
         "Shouyang Luo",
         "Jiabao Yuan",
-        "Yanyu Song",
+        "Yan-Yu Song",
         "Jiu-Sheng Ren",
         "Jia Qi",
         "Mengyuan Zhu",
@@ -21950,7 +21950,7 @@
       "url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b50ac609fc9a150c3fe98a6ebd684ad4dcecf519",
       "pdf_url": "",
-      "citation_count": 69,
+      "citation_count": 71,
       "influential_citation_count": 3,
       "reference_count": 64,
       "references": [],
@@ -22793,7 +22793,7 @@
       "url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4e490c6cec30f0f14e341e4bdaeda4f4030479dd",
       "pdf_url": "",
-      "citation_count": 36,
+      "citation_count": 37,
       "influential_citation_count": 0,
       "reference_count": 64,
       "references": [],
@@ -22915,7 +22915,7 @@
       "url": "https://www.semanticscholar.org/paper/1c1e730d9667f6c5bb7c6f451673708381474aa3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1c1e730d9667f6c5bb7c6f451673708381474aa3",
       "pdf_url": "",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 1,
       "reference_count": 97,
       "references": [],
@@ -26693,7 +26693,7 @@
         "Aman Khan",
         "Pu Liu",
         "Ondřej Mašek",
-        "Xiangkai Li"
+        "Xiang-Kai Li"
       ],
       "journal": "Journal of Hazardous Materials",
       "publication_date": "2024-06-01",
@@ -26822,7 +26822,7 @@
       "url": "https://www.semanticscholar.org/paper/08a6ed21c87e7f16762d7c23471a8f31674f3f32",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/08a6ed21c87e7f16762d7c23471a8f31674f3f32",
       "pdf_url": "https://doi.org/10.1186/s40168-024-01812-1",
-      "citation_count": 59,
+      "citation_count": 60,
       "influential_citation_count": 1,
       "reference_count": 126,
       "references": [
@@ -28567,7 +28567,7 @@
       "title": "Unveiling unique microbial nitrogen cycling and nitrification driver in coastal Antarctica",
       "authors": [
         "Ping Han",
-        "Xiufeng Tang",
+        "Xiu-Feng Tang",
         "Hanna Koch",
         "Xiyang Dong",
         "Li-Jun Hou",
@@ -29845,7 +29845,7 @@
       "url": "https://www.semanticscholar.org/paper/41493e05ccaa7883720fc6b7fa4b3c11521e44d9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/41493e05ccaa7883720fc6b7fa4b3c11521e44d9",
       "pdf_url": "",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -30459,7 +30459,7 @@
       "url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c195ff6be2b6f4a4657953374b0dda2218d0cb35",
       "pdf_url": "https://academic.oup.com/ismecommun/article-pdf/4/1/ycae110/59757812/ycae110.pdf",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 69,
       "references": [
@@ -30894,7 +30894,7 @@
       "authors": [
         "Guopeng Zhou",
         "Kunkun Fan",
-        "Songjuan Gao",
+        "Song-Juan Gao",
         "D. Chang",
         "Gui-Long Li",
         "Ting Liang",
@@ -31462,7 +31462,7 @@
       "title": "Unveiling unique microbial nitrogen cycling and novel nitrification drivers in coastal Antarctica",
       "authors": [
         "Ping Han",
-        "Xiufeng Tang",
+        "Xiu-Feng Tang",
         "Hanna Koch",
         "Xiyang Dong",
         "Li-Jun Hou",
@@ -32097,7 +32097,7 @@
       "url": "https://www.semanticscholar.org/paper/b1067cd9925d2e4a427d5dcfc16f20a5f7d64981",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b1067cd9925d2e4a427d5dcfc16f20a5f7d64981",
       "pdf_url": "",
-      "citation_count": 67,
+      "citation_count": 68,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [],
@@ -34613,7 +34613,7 @@
         "Kun Zhang",
         "Baile Wu",
         "Xu Pei",
-        "Weisong Chen",
+        "Wei-Song Chen",
         "Xiaoli Wei",
         "Zifeng Luo",
         "Yong-Tao Li",
@@ -35736,7 +35736,7 @@
       "authors": [
         "Xiao-Jing Hu",
         "Hai-Dong Gu",
-        "X. Sun",
+        "Xiang-Xin Sun",
         "Yongbin Wang",
         "Jun-Jie Liu",
         "Zhen-Hua Yu",
@@ -39750,7 +39750,7 @@
         "H. Ding",
         "Teng Wen",
         "Jun Zhao",
-        "Xiaojuan Feng",
+        "Xiao-Juan Feng",
         "Jin-Bo Zhang",
         "Zu-Cong Cai",
         "Guo-Hua Liu"
@@ -44177,12 +44177,12 @@
       "title": "Long-term residue removal under tillage decreases amoA-nitrifiers and stimulates nirS-denitrifier groups in the soil",
       "authors": [
         "Nakian Kim",
-        "C. Riggins",
+        "Chance W. Riggins",
         "S. Rodriguez-Zas",
         "M. C. Zabaloy",
         "M. Villamil"
       ],
-      "journal": "Applied Soil Ecology",
+      "journal": "Agriculture, Ecosystems & Environment. Applied Soil Ecology",
       "publication_date": "2021-01-01",
       "abstract": "Abstract No-till in continuous corn (Zea mays L.) production helps to keep an important volume of residues on the soil surface, creating management challenges that could be alleviated by residue removal for bioenergy or animal use. Crop residues, however, are essential to stimulate microbial nutrient cycling in agroecosystems. Thus, both residue removal and tillage options need to be fully evaluated for their impacts on ecosystem services related to soil health, including microbial N cycling. We explored the main steps of the microbial N cycle in relation to soil properties by using targeted gene abundance as a proxy following over a decade of residue removal in continuous corn systems either under no-till or chisel tillage. We used real-time quantitative polymerase chain reaction (qPCR) for the quantification of phylogenetic groups and functional gene screening of the soil microbial communities, including genes encoding critical enzymes of the microbial N cycle: nifH (N2 fixation), amoA (nitrification – ammonia oxidation), nirK and nirS (denitrification – nitrite reduction), and nosZ (denitrification – nitrous oxide reduction). Our results showed that long-term residue removal and tillage decreased soil organic matter (SOM), water aggregate stability (WAS), and the relative abundance (RA) of ammonia-oxidizing bacteria (AOB) carrying nitrifying amoA genes. Denitrifiers carrying nirS genes decreased under no-till as crop residue was removed. In addition, our results evidenced strong correlations among soil properties and phylogenetic groups of bacteria, archaea, and fungi. Overall, this study demonstrated limited but definite impacts of residue management and tillage on the soil environment, which could be exacerbated under less resilient conditions.",
       "url": "https://www.semanticscholar.org/paper/62e333e184a3d93f8c7cc84dad60abc46a1314c0",
@@ -44310,10 +44310,13 @@
       "fields_of_study": [
         "Chemistry"
       ],
-      "publication_types": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
       "tldr": "",
       "metrics_source": "Semantic Scholar",
       "tags": [
+        "agriculture",
         "denitrification",
         "functional_gene",
         "microbiome",
@@ -44450,7 +44453,7 @@
         "Hang Xu",
         "Wei Qin",
         "Shao-Yi Xu",
-        "Xiufeng Tang",
+        "Xiu-Feng Tang",
         "Lu Kuang",
         "Xinxin Wang",
         "Bin Jiang",
@@ -47330,6 +47333,117 @@
       "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
     },
     {
+      "id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "semantic_scholar_id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1002/lno.11243",
+      "title": "Non‐cyanobacterial diazotrophs dominate nitrogen‐fixing communities in permafrost thaw ponds",
+      "authors": [
+        "Leyden Fernández",
+        "S. Bertilsson",
+        "Sari Peura"
+      ],
+      "journal": "Limnology and Oceanography",
+      "publication_date": "2020-01-01",
+      "abstract": "There is a growing concern about the implications of accelerated thawing of permafrost for regional biogeochemical cycling of carbon and other bioreactive elements. One such element of concern is nitrogen, and in this study, we investigated the diversity and biogeography of potential diazotrophs within a series of thaw ponds representing different ontogenetic stages in pond development. Using metagenomic sequence data from subarctic thaw ponds, we identified an array of nitrogenase genes across the ponds. The iron‐only nitrogenase gene (anfH) was positively correlated with sulfate, while there was no correlation with methane despite previous findings that organisms carrying anfH can simultaneously participate in nitrogen fixation and methanogenesis. Sulfate is known to inhibit microbial uptake of molybdate, an element essential for the activity of the nifH (molybdenum‐iron) nitrogenase and this may explain the high potential for nitrogen fixation utilizing anfH in sulfate‐rich ponds. NifH was particularly abundant in the hypolimnion of the deeper and older ponds, with Deltaproteobacteria and Chlorobi as the putative dominant diazotrophs. In the epilimnetic waters, nifH composition was more variable, with various Gammaproteobacteria as abundant representatives, while cyanobacterial diazotrophs were scarce. Interestingly, nifH gene abundance was significantly positively correlated with in situ methane concentration. Based on genome‐resolved metagenomics, we hypothesize that diazotrophs and methanogens engage in syntrophic interactions in anoxic waters, possibly via propionate oxidation or (in Geobacter) by interspecies electron transfer. Our results also suggest that nitrogen fixers may supply bioreactive nitrogen compounds to the thaw pond communities, thereby enhancing growth and activity of methanogens.",
+      "url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11243",
+      "citation_count": 22,
+      "influential_citation_count": 1,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "fec43695b66e32e9fd2be603a5ec726b4deb5a53",
+          "title": "Genome-resolved metagenomics reveals microbial potential for CO2 and CH4 emissions in prawn ponds",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "A. Bashar",
+            "A. M. Djurhuus",
+            "P. Browne"
+          ],
+          "doi": "10.64898/2026.08.18.745432",
+          "url": "https://www.semanticscholar.org/paper/fec43695b66e32e9fd2be603a5ec726b4deb5a53",
+          "citation_count": 0
+        },
+        {
+          "id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
+          "title": "Sulfur-cycling diazotrophs dominate nitrogen fixation in seagrass sediments",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Lixia Deng",
+            "Zhicheng Ju",
+            "Jiawei Chen"
+          ],
+          "doi": "10.1128/aem.00993-26",
+          "url": "https://www.semanticscholar.org/paper/2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
+          "citation_count": 0
+        },
+        {
+          "id": "b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
+          "title": "Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential",
+          "year": 2026,
+          "journal": "bioRxiv",
+          "authors": [
+            "L. Ustick",
+            "H. Roš",
+            "Shahriyar Mahdi Robbani"
+          ],
+          "doi": "10.64898/2026.07.27.741065",
+          "url": "https://www.semanticscholar.org/paper/b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
+          "citation_count": 0
+        },
+        {
+          "id": "f779865eeb637066177cd7db0ee4dae26a131b98",
+          "title": "Metagenomic insights into microbial communities of terrestrial mud volcanos: functional diversity of subsurface archaea and bacteria",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "V. Kadnikov",
+            "A. Mardanov",
+            "A. Beletsky"
+          ],
+          "doi": "10.3389/fmicb.2026.1892847",
+          "url": "https://www.semanticscholar.org/paper/f779865eeb637066177cd7db0ee4dae26a131b98",
+          "citation_count": 0
+        },
+        {
+          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
+          "year": null,
+          "journal": "",
+          "authors": [
+            "Shuhong Zhang",
+            "Yongkang Chen",
+            "Junwei Peng"
+          ],
+          "doi": "10.1002/ppp.70041",
+          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "nitrogen",
+        "nitrogen_fixation",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
+      "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
+    },
+    {
       "id": "f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "semantic_scholar_id": "f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "source": "Semantic Scholar",
@@ -47493,117 +47607,6 @@
         "microbiome",
         "nitrogen",
         "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
-      "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
-    },
-    {
-      "id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "semantic_scholar_id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1002/lno.11243",
-      "title": "Non‐cyanobacterial diazotrophs dominate nitrogen‐fixing communities in permafrost thaw ponds",
-      "authors": [
-        "Leyden Fernández",
-        "S. Bertilsson",
-        "Sari Peura"
-      ],
-      "journal": "Limnology and Oceanography",
-      "publication_date": "2020-01-01",
-      "abstract": "There is a growing concern about the implications of accelerated thawing of permafrost for regional biogeochemical cycling of carbon and other bioreactive elements. One such element of concern is nitrogen, and in this study, we investigated the diversity and biogeography of potential diazotrophs within a series of thaw ponds representing different ontogenetic stages in pond development. Using metagenomic sequence data from subarctic thaw ponds, we identified an array of nitrogenase genes across the ponds. The iron‐only nitrogenase gene (anfH) was positively correlated with sulfate, while there was no correlation with methane despite previous findings that organisms carrying anfH can simultaneously participate in nitrogen fixation and methanogenesis. Sulfate is known to inhibit microbial uptake of molybdate, an element essential for the activity of the nifH (molybdenum‐iron) nitrogenase and this may explain the high potential for nitrogen fixation utilizing anfH in sulfate‐rich ponds. NifH was particularly abundant in the hypolimnion of the deeper and older ponds, with Deltaproteobacteria and Chlorobi as the putative dominant diazotrophs. In the epilimnetic waters, nifH composition was more variable, with various Gammaproteobacteria as abundant representatives, while cyanobacterial diazotrophs were scarce. Interestingly, nifH gene abundance was significantly positively correlated with in situ methane concentration. Based on genome‐resolved metagenomics, we hypothesize that diazotrophs and methanogens engage in syntrophic interactions in anoxic waters, possibly via propionate oxidation or (in Geobacter) by interspecies electron transfer. Our results also suggest that nitrogen fixers may supply bioreactive nitrogen compounds to the thaw pond communities, thereby enhancing growth and activity of methanogens.",
-      "url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11243",
-      "citation_count": 22,
-      "influential_citation_count": 1,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "fec43695b66e32e9fd2be603a5ec726b4deb5a53",
-          "title": "Genome-resolved metagenomics reveals microbial potential for CO2 and CH4 emissions in prawn ponds",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "A. Bashar",
-            "A. M. Djurhuus",
-            "P. Browne"
-          ],
-          "doi": "10.64898/2026.08.18.745432",
-          "url": "https://www.semanticscholar.org/paper/fec43695b66e32e9fd2be603a5ec726b4deb5a53",
-          "citation_count": 0
-        },
-        {
-          "id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
-          "title": "Sulfur-cycling diazotrophs dominate nitrogen fixation in seagrass sediments",
-          "year": 2026,
-          "journal": "Applied and Environmental Microbiology",
-          "authors": [
-            "Lixia Deng",
-            "Zhicheng Ju",
-            "Jiawei Chen"
-          ],
-          "doi": "10.1128/aem.00993-26",
-          "url": "https://www.semanticscholar.org/paper/2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
-          "citation_count": 0
-        },
-        {
-          "id": "b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
-          "title": "Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential",
-          "year": 2026,
-          "journal": "bioRxiv",
-          "authors": [
-            "L. Ustick",
-            "H. Roš",
-            "Shahriyar Mahdi Robbani"
-          ],
-          "doi": "10.64898/2026.07.27.741065",
-          "url": "https://www.semanticscholar.org/paper/b650f4bf2de3ca22a8c332fad5e7b01e6acdece6",
-          "citation_count": 0
-        },
-        {
-          "id": "f779865eeb637066177cd7db0ee4dae26a131b98",
-          "title": "Metagenomic insights into microbial communities of terrestrial mud volcanos: functional diversity of subsurface archaea and bacteria",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "V. Kadnikov",
-            "A. Mardanov",
-            "A. Beletsky"
-          ],
-          "doi": "10.3389/fmicb.2026.1892847",
-          "url": "https://www.semanticscholar.org/paper/f779865eeb637066177cd7db0ee4dae26a131b98",
-          "citation_count": 0
-        },
-        {
-          "id": "d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "title": "Microbial Functional Traits Enable Adaptation and Drive Biogeochemistry in Cryospheric Ecosystems",
-          "year": null,
-          "journal": "",
-          "authors": [
-            "Shuhong Zhang",
-            "Yongkang Chen",
-            "Junwei Peng"
-          ],
-          "doi": "10.1002/ppp.70041",
-          "url": "https://www.semanticscholar.org/paper/d97d74cea3954bb7a7a4899fa8c34011cffaee0e",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Biology",
-        "Environmental Science"
-      ],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "functional_gene",
-        "metagenome",
-        "nitrogen",
-        "nitrogen_fixation",
         "water"
       ],
       "detail_enriched_at": "2026-09-03T23:21:47.898576+00:00",
@@ -48817,7 +48820,7 @@
       "url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "pdf_url": "https://doi.org/10.1016/j.soilbio.2018.08.024",
-      "citation_count": 370,
+      "citation_count": 371,
       "influential_citation_count": 8,
       "reference_count": 72,
       "references": [],
@@ -49949,7 +49952,7 @@
         "Yuan-Liang Hu",
         "Chang-Yi Zhang",
         "Yun-Xiang Liang",
-        "Qunxin She",
+        "Qun-Xin She",
         "Yi Zhang",
         "Nan Peng"
       ],
