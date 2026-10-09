@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:04:27.993269+00:00",
+  "updated_at": "2026-10-09T01:15:05.603272+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -5506,7 +5506,7 @@
         "Huai Shi",
         "Guohong Liu",
         "Long-Jun Chen",
-        "Huangping Wang",
+        "Huang-Ping Wang",
         "Yu-Shu Zhang"
       ],
       "journal": "Microbiology Research",
@@ -7454,7 +7454,7 @@
       "url": "https://www.semanticscholar.org/paper/4679e093c107e511ec911f870639472981e2fa21",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4679e093c107e511ec911f870639472981e2fa21",
       "pdf_url": "",
-      "citation_count": 1,
+      "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 52,
       "references": [],
@@ -7894,7 +7894,7 @@
         "Yun Chen",
         "Qi-Jia Cai",
         "Tao-Tao Zeng",
-        "Weimin Zheng",
+        "Wei-Min Zheng",
         "Yuyin Yang"
       ],
       "journal": "Microorganisms",
@@ -10994,7 +10994,7 @@
         "Rosalie K. Chu",
         "David W. Hoyt",
         "Elizabeth K Eder",
-        "Emily Eloe-Fadrosh",
+        "E. Eloe-Fadrosh",
         "A. Sharrar",
         "M. Tfaily",
         "Jason G. Toyoda",
@@ -14204,7 +14204,7 @@
       "title": "Intensive Flooding Enhances Methane but Reduces Carbon Dioxide and Nitrous Oxide Emissions in Reservoir Drawdown Areas.",
       "authors": [
         "Wenjun Shi",
-        "Manuel Delgado-Baquerizo",
+        "M. Delgado-Baquerizo",
         "Hao Liao",
         "Yu Gong",
         "Guiyao Zhou",
@@ -17287,7 +17287,7 @@
         "Jie Ao",
         "Xinyu Tang",
         "Zhenxin Li",
-        "Zhanhui Tang"
+        "Zhan-Hui Tang"
       ],
       "journal": "Microbiology spectrum",
       "publication_date": "2025-08-27",
@@ -19394,7 +19394,7 @@
       "url": "https://www.semanticscholar.org/paper/2021491e45f9c6be4e89ce79169b22997431536c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2021491e45f9c6be4e89ce79169b22997431536c",
       "pdf_url": "https://www.mdpi.com/2073-4395/15/5/1208/pdf?version=1747398320",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -22078,7 +22078,7 @@
       "url": "https://www.semanticscholar.org/paper/be9967b5a6a90c70bd34f26b0d57e906d3c58031",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/be9967b5a6a90c70bd34f26b0d57e906d3c58031",
       "pdf_url": "",
-      "citation_count": 24,
+      "citation_count": 25,
       "influential_citation_count": 0,
       "reference_count": 66,
       "references": [],
@@ -23440,7 +23440,7 @@
       "abstract": "Poyang Lake is the largest freshwater lake in China, which boasts unique hydrological conditions and rich biodiversity. In this study, metagenomics technology was used to sequence the microbial genome of soil samples S1 (sedimentary), S2 (semi-submerged), and S3 (arid) with different water content from the Poyang Lake wetland; the results indicate that the three samples have different physicochemical characteristics and their microbial community structure and functional gene distribution are also different, resulting in separate ecological functions. The abundance of typical ANME archaea Candidatus Menthanoperedens and the high abundance of mcrA in S1 mutually demonstrate prominent roles in the methane anaerobic oxidation pathway during the methane cycle. In S2, the advantageous bacterial genus Nitrospira with ammonia oxidation function is validated by a large number of nitrification functional genes (amoA, hao, nxrA), manifesting in that it plays a monumental role in nitrification in the nitrogen cycle. In S3, the dominant bacterial genus Nocardioides confirms a multitude of antibiotic resistance genes, indicating their crucial role in resistance and their emphatic research value for microbial resistance issues. The results above have preliminarily proved the role of soil microbial communities as indicators predicting wetland ecological functions, which will help to better develop plans for restoring ecological balance and addressing climate change.",
       "url": "https://www.semanticscholar.org/paper/1020ea0a64eee00e066e638ecf981cd2b2b9152b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1020ea0a64eee00e066e638ecf981cd2b2b9152b",
-      "pdf_url": "https://doi.org/10.3390/microorganisms12122569",
+      "pdf_url": "https://www.mdpi.com/2076-2607/12/12/2569/pdf?version=1734063936",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 66,
@@ -23836,7 +23836,7 @@
       "url": "https://www.semanticscholar.org/paper/423bc8a62b9389f36b637cfb9cba7e752ab0b914",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/423bc8a62b9389f36b637cfb9cba7e752ab0b914",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 45,
       "references": [
@@ -24262,6 +24262,180 @@
       ],
       "detail_enriched_at": "2026-10-03T23:48:24.759959+00:00",
       "edges_enriched_at": "2026-10-04T23:58:28.954475+00:00"
+    },
+    {
+      "id": "06ff764fcf87428edaf91097aa9fb7db80e87c6a",
+      "semantic_scholar_id": "06ff764fcf87428edaf91097aa9fb7db80e87c6a",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1038/s41561-024-01583-2",
+      "title": "Inhibition of autotrophic nitrifiers in a nitrogen-rich paddy soil by elevated CO2",
+      "authors": [
+        "Kai-Hang Zhang",
+        "Weilei Lei",
+        "Huixin Zhang",
+        "Chen-Chao Xu",
+        "Jing Xiao",
+        "Shuyao Li",
+        "Maojun Liang",
+        "Jun-Pan He",
+        "Yancen Lai",
+        "Ruiyang Li",
+        "Jiahua Dong",
+        "M. Jiang",
+        "Jianguo Zhu",
+        "Shui-Jin Hu",
+        "R. Koide",
+        "M. Firestone",
+        "Lei Cheng"
+      ],
+      "journal": "Nature Geoscience",
+      "publication_date": "2024-11-05",
+      "abstract": "Autotrophic nitrifiers, by catalysing the oxidation of ammonia to nitrate, play a vital role in the global nitrogen cycle. They convert carbon dioxide (CO2) into biomass and, therefore, are expected to respond positively to increasing atmospheric CO2 concentrations. However, in a long-term free-air CO2 enrichment experiment, we demonstrated that elevated atmospheric CO2 inhibited the growth of autotrophic nitrifiers, resulting in a reduction in nitrification in a rice ecosystem. By coupling stable-isotope probing with metagenomics, we found that the CO2 inhibition of nitrifiers was mainly a consequence of CO2-induced functional loss (genomes not recovered from metagenomes) of dominant but previously uncharacterized autotrophic nitrifying species. These species belonged mainly to ammonia-oxidizing archaea and nitrite-oxidizing bacteria and comprised 63% of total dominant members identified from the active nitrifying communities. We further showed that the functional loss of these novel nitrifying species under elevated CO2 was due largely to the CO2-induced aggravation of anoxic stress in the paddy soil. Our results provide insight into the fate of inorganic nitrogen pools in global lowland soil and water systems under climate change. The growth and function of autotrophic nitrifiers are suppressed under elevated CO2 due to the intensification of anoxic stress, according to a long-term free-air CO2 enrichment experiment in nitrogen-rich paddy soil.",
+      "url": "https://www.semanticscholar.org/paper/06ff764fcf87428edaf91097aa9fb7db80e87c6a",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/06ff764fcf87428edaf91097aa9fb7db80e87c6a",
+      "pdf_url": "https://www.researchsquare.com/article/rs-3746946/latest.pdf",
+      "citation_count": 20,
+      "influential_citation_count": 0,
+      "reference_count": 77,
+      "references": [
+        {
+          "title": "Widespread deoxygenation in warming rivers",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/c743de67b157e038d6a71d620f2737c733018fc7",
+          "doi": "10.1038/s41558-023-01793-3"
+        },
+        {
+          "title": "Coupled anaerobic methane oxidation and metal reduction in soil under elevated CO2",
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/dfad17bc643a7cb6a52e2ba18b52004df7a0d4f9",
+          "doi": "10.1111/gcb.16763"
+        },
+        {
+          "title": "Nitrification, denitrification, and related functional genes under elevated CO2: A meta‐analysis in terrestrial ecosystems",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/85a1e4df4931ee7ec64be7fe8d2d2916f7f6d334",
+          "doi": "10.1111/gcb.16568"
+        },
+        {
+          "title": "A metagenomic portrait of the microbial community responsible for two decades of bioremediation of poly-contaminated groundwater.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/adce3dd29d8f6708bb08f6323e55d0c6369918a3",
+          "doi": "10.1016/j.watres.2022.118767"
+        },
+        {
+          "title": "Evidence, causes, and consequences of declining nitrogen availability in terrestrial ecosystems",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/2f66c857fb64b354070437317bd5f37c275effae",
+          "doi": "10.1126/science.abh3767"
+        },
+        {
+          "title": "Oxygen and nitrogen production by an ammonia-oxidizing archaeon",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/a7d3cfb3b35ab2fe13d4bd172f4a617cc27ded45",
+          "doi": "10.1126/science.abe6733"
+        },
+        {
+          "title": "Database resources of the national center for biotechnology information",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/3946c90c02822ba0b2a96031fa9b1f59089491a2",
+          "doi": "10.1093/nar/gkab1112"
+        },
+        {
+          "title": "Evaluating metagenomic assembly approaches for biome-specific gene catalogues",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/5dfd377ec2d265b55679aa7b604cdad587704fa2",
+          "doi": "10.1186/s40168-022-01259-2"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "00e4c167c2365f43693a53abf0493b1ab3cb372a",
+          "title": "Gradual CO2 Increase More Strongly Boosts Nitrification and Ammonia Oxidizers in Paddy Soils Than Abrupt Increase.",
+          "year": 2026,
+          "journal": "Environmental Microbiology",
+          "authors": [
+            "Bingjie Ren",
+            "Yan-Ping Wang",
+            "Zhen-Fa Su"
+          ],
+          "doi": "10.1111/1462-2920.70424",
+          "url": "https://www.semanticscholar.org/paper/00e4c167c2365f43693a53abf0493b1ab3cb372a",
+          "citation_count": 0
+        },
+        {
+          "id": "f4dbc01311b9fe8a351b2f8869d9e857854c7a65",
+          "title": "Electron acceptor-dependent duality of nitrous oxide metabolism in Thiobacillus during sulfur autotrophic denitrification",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Mu-Chun Zhou",
+            "Shohei Yasuda",
+            "H. Miura"
+          ],
+          "doi": "10.3389/fmicb.2026.1903473",
+          "url": "https://www.semanticscholar.org/paper/f4dbc01311b9fe8a351b2f8869d9e857854c7a65",
+          "citation_count": 0
+        },
+        {
+          "id": "5034f51316f7387017ab3e5948b1d07df7de3953",
+          "title": "Impacts of temperature on hydrogenotrophic denitrifying aquifer microbiota",
+          "year": 2026,
+          "journal": "Applied and Environmental Microbiology",
+          "authors": [
+            "Felix Pfaff",
+            "Dimitri V. Meier",
+            "Adrian Seeholzer"
+          ],
+          "doi": "10.1128/aem.01206-26",
+          "url": "https://www.semanticscholar.org/paper/5034f51316f7387017ab3e5948b1d07df7de3953",
+          "citation_count": 0
+        },
+        {
+          "id": "eecda697d65cae0626b050fa026583bf50a78926",
+          "title": "Hypoxia and acidification antagonistically suppress nitrification but enhance its N2O production in coastal waters",
+          "year": 2026,
+          "journal": "Science Advances",
+          "authors": [
+            "Jie Zhou",
+            "Yan-Ling Zheng",
+            "Lin Qi"
+          ],
+          "doi": "10.1126/sciadv.aef4314",
+          "url": "https://www.semanticscholar.org/paper/eecda697d65cae0626b050fa026583bf50a78926",
+          "citation_count": 0
+        },
+        {
+          "id": "590dd01e71bd859dedad326bb0d305e78e894690",
+          "title": "Metabolic division of labor drives estuarine-coastal N2O emissions",
+          "year": 2026,
+          "journal": "The ISME Journal",
+          "authors": [
+            "En-Quan Zhang",
+            "Sheng-Jie Li",
+            "Ehui Tan"
+          ],
+          "doi": "10.1093/ismejo/wrag216",
+          "url": "https://www.semanticscholar.org/paper/590dd01e71bd859dedad326bb0d305e78e894690",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "agriculture",
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "soil",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-09T01:14:47.564308+00:00",
+      "edges_enriched_at": "2026-10-09T01:14:48.378745+00:00"
     },
     {
       "id": "eac05f268c8cf1e624b2d86024df064bba9accaa",
@@ -28241,7 +28415,7 @@
       "doi": "10.1016/j.watres.2024.121761",
       "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
       "authors": [
-        "Lutong Yang",
+        "Lu-Tong Yang",
         "Ping Han",
         "Qiao-Juan Wang",
         "Hui Lin",
@@ -28995,7 +29169,7 @@
       "url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4dac0fb3711f2c76a71849c7ed744abe90a0d3a1",
       "pdf_url": "https://www.nature.com/articles/s41467-024-47392-4.pdf",
-      "citation_count": 66,
+      "citation_count": 67,
       "influential_citation_count": 4,
       "reference_count": 89,
       "references": [
@@ -31713,7 +31887,7 @@
         "Yue-Yue Li",
         "Mengqi Wang",
         "Dan-dan Li",
-        "Qichao Tu"
+        "Q. Tu"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2023-11-20",
@@ -33857,6 +34031,165 @@
       "edges_enriched_at": "2026-10-04T23:58:28.954475+00:00"
     },
     {
+      "id": "450dfa0fd00fca6feb7d8ad6dc252a4aa1050985",
+      "semantic_scholar_id": "450dfa0fd00fca6feb7d8ad6dc252a4aa1050985",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1007/s13157-023-01710-6",
+      "title": "Nitrate-Dependent Anaerobic Methane Oxidation in Subtropical Mangrove Soils and Environmental Implication",
+      "authors": [
+        "Ling Lin",
+        "Fei-Fei Wang",
+        "Wen-Zhi Cao"
+      ],
+      "journal": "Wetlands (Wilmington, N.C.)",
+      "publication_date": "2023-06-30",
+      "abstract": "Nitrate-dependent anaerobic methane oxidation (N-DAMO) links the oxidation of greenhouse gases with the removal of nitrogen oxide, and such a linkage constitutes distinctive carbon-nitrogen coupling. This study utilizes a laboratory slurry incubation, carbon isotope tracing, and metagenomic techniques to explore the N-DAMO process in mangrove soils and measure its reaction rate. In addition, review on the N-DAMO processes in fifty-two different ecosystems around the world is conducted to further reveal the environmental and ecological impact of the N-DAMO process in mangrove soils. The results indicated that the N-DAMO rate in mangrove soil was 63.62 ± 0.39 nmol CO2-C g− 1 d− 1, and the N-DAMO process converted over 60% of the CH4 generated by mangrove soils to CO2. Without the N-DAMO process, the CH4 emissions of mangrove soils will definitely increase. Moreover, the nitrogen removal rate of this process was 169.66 ± 1.04 nmol N g− 1 d− 1, which demonstrated an obvious purification effect. Hence, the N-DAMO process is critical to balance C/N values in mangrove soils. Existing studies have shown that high-levels of N-DAMO exist in rivers/lakes, peatlands, and wetland ecosystems. Among the wetland ecosystems, the rate of the N-DAMO process in mangrove soils is higher. Overall, these results illustrated the occurrence and significance of N-DAMO processes in mangrove ecosystems. This study deepens the understanding of coupling biogeochemical cycle of carbon and nitrogen and provides a scientific basis for an accurate assessment of blue carbon sink functionality in mangrove soils.",
+      "url": "https://www.semanticscholar.org/paper/450dfa0fd00fca6feb7d8ad6dc252a4aa1050985",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/450dfa0fd00fca6feb7d8ad6dc252a4aa1050985",
+      "pdf_url": "https://www.researchsquare.com/article/rs-2145502/latest.pdf",
+      "citation_count": 8,
+      "influential_citation_count": 0,
+      "reference_count": 72,
+      "references": [
+        {
+          "title": "Instrumental role of bioreactors in nitrate/nitrite-dependent anaerobic methane oxidation-based biotechnologies for wastewater treatment: A review.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/d2dabb39b3b39a84a562a96fe05687e0ab73b4cc",
+          "doi": "10.1016/j.scitotenv.2022.159728"
+        },
+        {
+          "title": "Anaerobic Degradation of Alkanes by Marine Archaea.",
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/e8e0fa9ff1b192aabe5ac66e0a958c54e296ebe3",
+          "doi": "10.1146/annurev-micro-111021-045911"
+        },
+        {
+          "title": "Microbial dynamics and activity of denitrifying anaerobic methane oxidizers in China's estuarine and coastal wetlands.",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/c759f8673be703d3dc3dae2be1ec4a900f56113d",
+          "doi": "10.1016/j.scitotenv.2021.150425"
+        },
+        {
+          "title": "Electrochemical system for anaerobic oxidation of methane by DAMO microbes with nitrite as an electron acceptor.",
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/cd8c3c61029593fc8acee873334a498624a89899",
+          "doi": "10.1016/j.scitotenv.2021.149334"
+        },
+        {
+          "title": "Microbial abundance and activity of nitrite/nitrate-dependent anaerobic methane oxidizers in estuarine and intertidal wetlands: Heterogeneity and driving factors.",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/612b0140d1836dedd24a71f610d6048bbbdfc913",
+          "doi": "10.1016/j.watres.2020.116737"
+        },
+        {
+          "title": "Subgroup level differences of physiological activities in marine Lokiarchaeota",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/f1242aa130b6a5951ba135125193fdc63833c4ba",
+          "doi": "10.1038/s41396-020-00818-5"
+        },
+        {
+          "title": "Distribution, sources, and decomposition of soil organic matter along a salinity gradient in estuarine wetlands characterized by C:N ratio, δ13C‐δ15N, and lignin biomarker",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/3c1a5218e5e15f23b197ad67a70929393404c340",
+          "doi": "10.1111/gcb.15403"
+        },
+        {
+          "title": "Different responses of nitrite- and nitrate-dependent anaerobic methanotrophs to increasing nitrogen loading in a freshwater reservoir.",
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/213c2c4ede131909e878f2866db46419bff453b2",
+          "doi": "10.1016/j.envpol.2020.114623"
+        }
+      ],
+      "similar_papers": [
+        {
+          "id": "4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
+          "title": "Pyrolusite-mediated denitrifying anaerobic methane oxidation for simultaneous enhancement of nitrogen removal and greenhouse gas mitigation in wetlands.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Qing-Yuan Tian",
+            "Wen-Huai Wang",
+            "Bo-Wen Liu"
+          ],
+          "doi": "10.1016/j.biortech.2026.135814",
+          "url": "https://www.semanticscholar.org/paper/4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
+          "citation_count": 0
+        },
+        {
+          "id": "0c7f4d75e68ef8d09fa9515b83fcef6dbc369493",
+          "title": "Methane Emissions from Algae-Driven Sediments of Sea Cucumber Culture Ponds Via Indoor Microcosms",
+          "year": 2026,
+          "journal": "Water, Air and Soil Pollution",
+          "authors": [
+            "Hui Liang",
+            "Li-Hong Chen",
+            "Min Wang"
+          ],
+          "doi": "10.1007/s11270-026-09985-1",
+          "url": "https://www.semanticscholar.org/paper/0c7f4d75e68ef8d09fa9515b83fcef6dbc369493",
+          "citation_count": 0
+        },
+        {
+          "id": "2f139bd097c22c57354585e8b448cc200b9f1664",
+          "title": "Significant sunlight-driven methane production at the wetland sediment-water interface.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Bin-Bin Wu",
+            "Jing-Yi Wang",
+            "Yu Yao"
+          ],
+          "doi": "10.1016/j.watres.2026.127049",
+          "url": "https://www.semanticscholar.org/paper/2f139bd097c22c57354585e8b448cc200b9f1664",
+          "citation_count": 0
+        },
+        {
+          "id": "edf833c04a76f468d1c9de572b5c72ea08b3f351",
+          "title": "Co-utilization of manganous nitrate and pyrolusite enables concurrent mitigation of arsenic mobilization and greenhouse gas emissions in paddy-field wetlands.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Zheng Chen",
+            "Yi-Lin Chen",
+            "Yian Jia"
+          ],
+          "doi": "10.1016/j.watres.2026.126845",
+          "url": "https://www.semanticscholar.org/paper/edf833c04a76f468d1c9de572b5c72ea08b3f351",
+          "citation_count": 0
+        },
+        {
+          "id": "4700bc8c8d65cdada9787199613c66a3494f8078",
+          "title": "Divergent Responses of Methane Emission to Warming in Waterlogged Versus Drained Alpine Peatlands",
+          "year": 2026,
+          "journal": "Global Change Biology",
+          "authors": [
+            "Cheng-Zhu Liu",
+            "Guohua Dai",
+            "Zong-Guang Liu"
+          ],
+          "doi": "10.1111/gcb.71088",
+          "url": "https://www.semanticscholar.org/paper/4700bc8c8d65cdada9787199613c66a3494f8078",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrogen",
+        "soil",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-09T01:14:47.564308+00:00",
+      "edges_enriched_at": "2026-10-09T01:14:48.378745+00:00"
+    },
+    {
       "id": "f4163ed73f955bb9aeb88cb6ab51a1d4ba6ef30e",
       "semantic_scholar_id": "f4163ed73f955bb9aeb88cb6ab51a1d4ba6ef30e",
       "source": "Semantic Scholar",
@@ -33864,10 +34197,10 @@
       "doi": "10.1016/j.jenvman.2023.118458",
       "title": "Effects of tillage patterns and stover mulching on N2O production, nitrogen cycling genes and microbial dynamics in black soil.",
       "authors": [
-        "Da-Cheng Hao",
+        "D. Hao",
         "Xing Su",
         "Hong-Tu Xie",
-        "Xue-Lian Bao",
+        "X. Bao",
         "Xu-Dong Zhang",
         "Lian-feng Wang"
       ],
@@ -36266,7 +36599,7 @@
       "authors": [
         "D. Ngugi",
         "Michaela M. Salcher",
-        "Adrian-Ştefan Andrei",
+        "A. Andrei",
         "R. Ghai",
         "F. Klotz",
         "M. Chiriac",
@@ -38345,7 +38678,7 @@
       "url": "https://www.semanticscholar.org/paper/6243311c6c10e69ae4292a3519a5ddd127f9eb81",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6243311c6c10e69ae4292a3519a5ddd127f9eb81",
       "pdf_url": "https://www.jstage.jst.go.jp/article/jsme2/37/3/37_ME22035/_pdf",
-      "citation_count": 2,
+      "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -39683,7 +40016,7 @@
       "url": "https://www.semanticscholar.org/paper/e049d26e092164b4cb88057fa4bf3b6bbea1caa6",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e049d26e092164b4cb88057fa4bf3b6bbea1caa6",
       "pdf_url": "https://doi.org/10.1128/msphere.01013-21",
-      "citation_count": 37,
+      "citation_count": 38,
       "influential_citation_count": 1,
       "reference_count": 95,
       "references": [
@@ -41318,7 +41651,7 @@
       "title": "Denitrification and dissimilatory nitrate reduction to ammonia in long-term lake sediment microcosms with iron(II).",
       "authors": [
         "Shengjie Li",
-        "Yinhao Liao",
+        "Yin-Hao Liao",
         "Yun-Meng Pang",
         "Xiaoli Dong",
         "M. Strous",
@@ -42635,10 +42968,10 @@
       "doi": "10.1016/J.SOILBIO.2021.108226",
       "title": "Metagenomic reconstruction of nitrogen and carbon cycling pathways in forest soil: Influence of different hardwood tree species",
       "authors": [
-        "Charlene Kelly",
+        "Charlene N. Kelly",
         "Geoffrey W. Schwaner",
         "J. Cumming",
-        "Timothy P. Driscoll"
+        "T. Driscoll"
       ],
       "journal": "Soil Biology & Biochemistry",
       "publication_date": "2021-03-27",
@@ -42816,17 +43149,17 @@
       ],
       "similar_papers": [
         {
-          "id": "841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
-          "title": "Seagrass-derived carbon suppresses nitrification and N2O emissions by Comammox and canonical nitrifier communities",
+          "id": "d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
+          "title": "Metagenomic Insights into Microbial Functional Potential Associated with Soil Carbon, Nitrogen, and Phosphorus Cycling Along an Elevational Gradient in a Warm-Temperate Forest",
           "year": 2026,
-          "journal": "ISME Communications",
+          "journal": "Microorganisms",
           "authors": [
-            "Ruilin Su",
-            "P. Chan",
-            "Xiaodong Zhang"
+            "Jing-Jing Wang",
+            "Si-Yuan Huangfu",
+            "Ruo-Chen Li"
           ],
-          "doi": "10.1093/ismeco/ycag220",
-          "url": "https://www.semanticscholar.org/paper/841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
+          "doi": "10.3390/microorganisms14092015",
+          "url": "https://www.semanticscholar.org/paper/d2fd7822dcba2b60936ea1fa221c2afa7af4e7cd",
           "citation_count": 0
         },
         {
@@ -42835,8 +43168,8 @@
           "year": 2026,
           "journal": "Soil Ecology Letters",
           "authors": [
-            "Hongqian Hou",
-            "Xianjin Lan",
+            "Hong-Qian Hou",
+            "Xian-Jin Lan",
             "Jingshang Xiao"
           ],
           "doi": "10.1007/s42832-026-0465-9",
@@ -42844,45 +43177,45 @@
           "citation_count": 0
         },
         {
-          "id": "fb5eee545e369176199400dd9cacd78e98e6b631",
-          "title": "Integrated metagenomic and metabolomic insights into microbial metabolic reprogramming in the rhizosphere of the invasive plant Praxelis clematidea under low-temperature stress",
+          "id": "b707a1bb7920b844eece8c7901358e5b83e744c4",
+          "title": "Metagenomic Insights into the Functional Profiles of Carbon, Nitrogen, and Phosphorus Cycles in Yuncheng Salt Lake Under Different Salinity Gradients",
           "year": 2026,
-          "journal": "Frontiers in Microbiology",
+          "journal": "Microorganisms",
           "authors": [
-            "Xiaowen Liu",
-            "Wen-Zhi Cheng",
-            "Chunhong Li"
+            "Jing Yang",
+            "Zhuo Wang",
+            "Chuan-Xu Wang"
           ],
-          "doi": "10.3389/fmicb.2026.1852122",
-          "url": "https://www.semanticscholar.org/paper/fb5eee545e369176199400dd9cacd78e98e6b631",
+          "doi": "10.3390/microorganisms14091937",
+          "url": "https://www.semanticscholar.org/paper/b707a1bb7920b844eece8c7901358e5b83e744c4",
           "citation_count": 0
         },
         {
-          "id": "51b2350006ebbc99af9a6d4c599aaf21c8a17739",
-          "title": "Microbial diversity, functional potential, and antimicrobial resistance across soil depth in fire-affected rotational shifting cultivation soils",
+          "id": "dc572f46692edf43252a7dd54e16989c7b1da460",
+          "title": "Effects of livestock grazing systems on soil microbial community composition and functional profiles related to carbon, nitrogen, and phosphorus cycling in the Tianzhu alpine grassland",
           "year": 2026,
-          "journal": "Soil Ecology Letters",
+          "journal": "Plant and Soil",
           "authors": [
-            "Noppol Arunrat",
-            "Wuttichai Mhuantong",
-            "S. Sereenonchai"
+            "Kai-Kai Ma",
+            "Chang-Lin Xu",
+            "Yan-Zhu Chen"
           ],
-          "doi": "10.1007/s42832-026-0468-6",
-          "url": "https://www.semanticscholar.org/paper/51b2350006ebbc99af9a6d4c599aaf21c8a17739",
-          "citation_count": 2
+          "doi": "10.1007/s11104-026-08962-1",
+          "url": "https://www.semanticscholar.org/paper/dc572f46692edf43252a7dd54e16989c7b1da460",
+          "citation_count": 0
         },
         {
-          "id": "2044c7fa5ba8bcc82e3a3c3909a6fa9b790f0e98",
-          "title": "Dissolved oxygen concentrations influence microbial community structure and key players in an oxygen minimum zone",
+          "id": "0b5dce217de8784d9837068de80d2f0ec932d865",
+          "title": "Biochar application alters soil properties and microbial gene profiles in a continuous cassava cropping system",
           "year": 2026,
-          "journal": "Msphere",
+          "journal": "PeerJ",
           "authors": [
-            "Kaitlin R Dombroski",
-            "L. G. Campbell",
-            "Robert M. Morris"
+            "Yan-Mei Zhu",
+            "Jian-Bing Zhang",
+            "Yun-Dong Wei"
           ],
-          "doi": "10.1128/msphere.00751-25",
-          "url": "https://www.semanticscholar.org/paper/2044c7fa5ba8bcc82e3a3c3909a6fa9b790f0e98",
+          "doi": "10.7717/peerj.21731",
+          "url": "https://www.semanticscholar.org/paper/0b5dce217de8784d9837068de80d2f0ec932d865",
           "citation_count": 0
         }
       ],
@@ -42909,7 +43242,7 @@
         "water"
       ],
       "detail_enriched_at": "2026-10-03T23:48:24.759959+00:00",
-      "edges_enriched_at": "2026-09-06T22:56:33.913514+00:00"
+      "edges_enriched_at": "2026-10-09T01:14:48.378745+00:00"
     },
     {
       "id": "60408b1a036e4485c37240a0fbc0db419e447f2a",
@@ -45476,7 +45809,7 @@
       "url": "https://www.semanticscholar.org/paper/9f72f1e620cdcc3d77bd7462bc4b6701103d3c70",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9f72f1e620cdcc3d77bd7462bc4b6701103d3c70",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0160412020319449/pdf",
-      "citation_count": 152,
+      "citation_count": 153,
       "influential_citation_count": 4,
       "reference_count": 68,
       "references": [
@@ -45633,7 +45966,7 @@
         "Alexandre Pedrinho",
         "L. Mendes",
         "L. F. Merloti",
-        "F. D. Andreote",
+        "F. Andreote",
         "S. Tsai"
       ],
       "journal": "FEMS Microbiology Ecology",
@@ -46196,10 +46529,10 @@
       "doi": "10.1101/2020.06.23.167700",
       "title": "Metagenomic reconstruction of nitrogen and carbon cycling pathways in forest soil: Influence by different hardwood tree species",
       "authors": [
-        "Charlene Kelly",
+        "Charlene N. Kelly",
         "Geoffrey W. Schwaner",
         "J. Cumming",
-        "Timothy P. Driscoll"
+        "T. Driscoll"
       ],
       "journal": "bioRxiv",
       "publication_date": "2020-06-24",
@@ -46500,7 +46833,7 @@
       "abstract": "Tropical rainforests are the largest terrestrial sinks of atmospheric CO2 and the largest natural source of N2O emissions, two greenhouse gases that are critical for the climate. The microbial communities of rainforest soils that directly or indirectly, through affecting plant growth, contribute to these fluxes remain poorly described by cultured-independent methods. ABSTRACT The phylogenetic and functional diversities of microbial communities in tropical rainforests and how these differ from those of temperate communities remain poorly described but are directly related to the increased fluxes of greenhouse gases such as nitrous oxide (N2O) from the tropics. Toward closing these knowledge gaps, we analyzed replicated shotgun metagenomes representing distinct life zones and an elevation gradient from four locations in the Luquillo Experimental Forest (LEF), Puerto Rico. These soils had a distinct microbial community composition and lower species diversity compared to those of temperate grasslands or agricultural soils. In contrast to the overall distinct community composition, the relative abundances and nucleotide sequences of N2O reductases (nosZ) were highly similar between tropical forest and temperate soils. However, respiratory NO reductase (norB) was 2-fold more abundant in the tropical soils, which might be relatable to their greater N2O emissions. Nitrogen fixation (nifH) also showed higher relative abundance in rainforest than in temperate soils, i.e., 20% versus 0.1 to 0.3% of bacterial genomes in each soil type harbored the gene, respectively. Finally, unlike temperate soils, LEF soils showed little stratification with depth in the first 0 to 30 cm, with ∼45% of community composition differences explained solely by location. Collectively, these results advance our understanding of spatial diversity and metabolic repertoire of tropical rainforest soil communities and should facilitate future ecological studies of these ecosystems. IMPORTANCE Tropical rainforests are the largest terrestrial sinks of atmospheric CO2 and the largest natural source of N2O emissions, two greenhouse gases that are critical for the climate. The microbial communities of rainforest soils that directly or indirectly, through affecting plant growth, contribute to these fluxes remain poorly described by cultured-independent methods. To close this knowledge gap, the present study applied shotgun metagenomics to samples selected from three distinct life zones within the Puerto Rico rainforest. The results advance our understanding of microbial community diversity in rainforest soils and should facilitate future studies of natural or manipulated perturbations of these critical ecosystems.",
       "url": "https://www.semanticscholar.org/paper/7b82aee0958a62d26e686ab962804da5707122e7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7b82aee0958a62d26e686ab962804da5707122e7",
-      "pdf_url": "https://www.osti.gov/servlets/purl/1820753",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/06/16/2020.06.15.153866.full.pdf",
       "citation_count": 15,
       "influential_citation_count": 2,
       "reference_count": 102,
@@ -48424,7 +48757,7 @@
         "L. Liao",
         "Jie Wang",
         "Chao Zhang",
-        "Guo-bin Liu",
+        "Guo-Bin Liu",
         "Zilin Song"
       ],
       "journal": "Ying yong sheng tai xue bao = The journal of applied ecology",
@@ -51818,7 +52151,7 @@
         "L. Orellana",
         "L. M. Rodriguez-R.",
         "S. Higgins",
-        "J. C. Chee-Sanford",
+        "J. Chee-Sanford",
         "R. Sanford",
         "K. M. Ritalahti",
         "F. Löffler",
