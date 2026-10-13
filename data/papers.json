@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T00:34:18.276311+00:00",
+  "updated_at": "2026-10-13T02:36:42.424475+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -1620,37 +1620,41 @@
           "title": "Rhizosphere microbiome assembly and functional enrichment drive salt tolerance in wheat.",
           "year": 2026,
           "journal": "Journal of Environmental Management",
-          "authors": [],
+          "authors": [
+            "Yan-Wei Kan",
+            "Yu-Hao Fu",
+            "Wen-Liang Yang"
+          ],
           "doi": "10.1016/j.jenvman.2026.130869",
           "url": "https://www.semanticscholar.org/paper/a976b4d234390f7834af1bbb421922dfb8c4f324",
           "citation_count": 0
         },
         {
-          "id": "32623d42131db5cbbfcf7c43789ed3aed57fb036",
-          "title": "Host genotype modulates melatonin-associated drought resilience in citrus accompanied by rhizosphere microbiome restructuring.",
+          "id": "87dd545dd1a7dece672c39ef0d30c25704c5c2b7",
+          "title": "Long-Term Fertilisation Regimes, Crop Yield and Rhizosphere Microecology in a Wheat–Soybean Rotation System",
           "year": 2026,
-          "journal": "Plant physiology and biochemistry : PPB",
+          "journal": "Plants",
           "authors": [
-            "Yanqi Teng",
-            "Kai Zhu",
-            "Ke Fang"
+            "Jing-Yang Li",
+            "Qiu-Ju Wang",
+            "Xin-Yu Li"
           ],
-          "doi": "10.1016/j.plaphy.2026.111587",
-          "url": "https://www.semanticscholar.org/paper/32623d42131db5cbbfcf7c43789ed3aed57fb036",
+          "doi": "10.3390/plants15193034",
+          "url": "https://www.semanticscholar.org/paper/87dd545dd1a7dece672c39ef0d30c25704c5c2b7",
           "citation_count": 0
         },
         {
-          "id": "251b7448660110e41bc744dd45beb5290c894f21",
-          "title": "Rhizosphere Engineering by Root Exudates: High-Yielding Alfalfa Recruits Functional PGPR to Sustain Soil Nutrient Availability Under Long-Term Cultivation.",
+          "id": "f196481eb1db4796d9722ff6c555c6e28e5e55f8",
+          "title": "Effects of cultivation of herbaceous perennials on soil microbial community structure and nitrogen cycling functions",
           "year": 2026,
-          "journal": "Plant, Cell and Environment",
+          "journal": "Frontiers in Plant Science",
           "authors": [
-            "Yanliang Sun",
-            "Kongqin Wei",
-            "Kaixin Yang"
+            "Pu-Shun Bian",
+            "Bo Han",
+            "Hai-Feng Zhu"
           ],
-          "doi": "10.1111/pce.70631",
-          "url": "https://www.semanticscholar.org/paper/251b7448660110e41bc744dd45beb5290c894f21",
+          "doi": "10.3389/fpls.2026.1961532",
+          "url": "https://www.semanticscholar.org/paper/f196481eb1db4796d9722ff6c555c6e28e5e55f8",
           "citation_count": 0
         },
         {
@@ -1660,7 +1664,7 @@
           "journal": "Functional Plant Biology",
           "authors": [
             "B. Kossalbayev",
-            "Jingjing Wang",
+            "Jing-Jing Wang",
             "Mo Wei"
           ],
           "doi": "10.1071/FP26125",
@@ -1668,18 +1672,18 @@
           "citation_count": 0
         },
         {
-          "id": "f1872a1534d03dfa63497ba3d5a802333231c318",
-          "title": "Co-Inoculation of Rhizobia and a Multifunctional Microbial Consortium Is Associated with Improved Soybean Performance and Bacterial Community Reassembly in Soybean Fields",
+          "id": "8a1c9a7140f0c484226384b4f6bbe785373a28c9",
+          "title": "Fungal-augmented biofertilizer increases soil nutrient availability, alters rhizosphere community structure, and improves plant growth.",
           "year": 2026,
-          "journal": "Land",
+          "journal": "Bioresource Technology",
           "authors": [
-            "Tingting Hou",
-            "Chao Jiang",
-            "Xiang-Xiang Wang"
+            "Mei-Ting Sun",
+            "Hao-Long Qin",
+            "Zhen-Yu Cui"
           ],
-          "doi": "10.3390/land15071270",
-          "url": "https://www.semanticscholar.org/paper/f1872a1534d03dfa63497ba3d5a802333231c318",
-          "citation_count": 1
+          "doi": "10.1016/j.biortech.2026.135934",
+          "url": "https://www.semanticscholar.org/paper/8a1c9a7140f0c484226384b4f6bbe785373a28c9",
+          "citation_count": 0
         }
       ],
       "fields_of_study": [],
@@ -1696,8 +1700,8 @@
         "nitrogen_fixation",
         "soil"
       ],
-      "detail_enriched_at": "2026-09-12T23:04:29.752783+00:00",
-      "edges_enriched_at": "2026-09-12T23:04:30.551543+00:00"
+      "detail_enriched_at": "2026-10-13T02:36:37.674938+00:00",
+      "edges_enriched_at": "2026-10-13T02:36:38.300752+00:00"
     },
     {
       "id": "99d30d45a8d47c7dd63e49457da25af09688ef39",
@@ -3017,7 +3021,7 @@
       "source": "Semantic Scholar",
       "pmid": "",
       "doi": "10.1002/ldr.70838",
-      "title": "Long‐Term Nitrogen Addition Weakens the Linkage Between Phosphorus Cycling Gene Abundance and Phosphatase Activity Through Soil Acidification in a\n Larix gmelinii\n Plantation",
+      "title": "Long‐Term Nitrogen Addition Weakens the Linkage Between Phosphorus Cycling Gene Abundance and Phosphatase Activity Through Soil Acidification in a Larix gmelinii Plantation",
       "authors": [
         "Xiang Zhang",
         "Qiong Zhao",
@@ -3029,7 +3033,7 @@
       ],
       "journal": "Land Degradation &amp; Development",
       "publication_date": "2026-08-26",
-      "abstract": "\n \n Anthropogenic nitrogen (N) enrichment propels global forest ecosystems toward phosphorus (P) limitation, theoretically triggering the upregulation of microbial P‐acquisition capacity to maintain stoichiometric balance. However, the extent to which N addition regulates this adaptive capacity remains uncertain. Here, leveraging an 8‐year N addition experiment in a larch (\n \n Larix gmelinii\n \n ) plantation, we measured soil biochemistry, enzyme activities and microbial functional gene abundances involved in organic P mineralization to examine the microbial mineralization responses. Nitrogen addition caused significant soil acidification, reduction in\n 16S rRNA\n gene abundance and activities of enzymes hydrolyzing organic P, but increases in the relative abundance of P‐acquisition functional genes. Relative to the control plots, soil pH significantly reduced from 5.0 to 4.6, microbial biomass carbon and gene copy number of\n 16S rRNA\n reduced by 26.6% and 35.5%, acid phosphatase and phytase activities reduced by 32.6% and 51.1%, whereas relative abundance of\n appA\n gene increased by 29.2% in the N addition plots. Redundancy analysis identified that variation in soil pH explained 57.5% of N‐induced changes in organic P mineralization. Crucially, these findings decouple the assumed positive correlation between genetic potential and functional realization, revealing a stress‐induced functional mismatch that challenges the applicability of stoichiometric theory under severe acidification stress. Furthermore, it highlights a pitfall of relying solely on metagenomic metrics for diagnosing soil health. Consequently, promoting soil acid‐buffering capacity is essential to prevent functional decline of soil microorganisms in forest ecosystems in response to atmospheric N deposition.\n",
+      "abstract": "Anthropogenic nitrogen (N) enrichment propels global forest ecosystems toward phosphorus (P) limitation, theoretically triggering the upregulation of microbial P‐acquisition capacity to maintain stoichiometric balance. However, the extent to which N addition regulates this adaptive capacity remains uncertain. Here, leveraging an 8‐year N addition experiment in a larch ( Larix gmelinii ) plantation, we measured soil biochemistry, enzyme activities and microbial functional gene abundances involved in organic P mineralization to examine the microbial mineralization responses. Nitrogen addition caused significant soil acidification, reduction in 16S rRNA gene abundance and activities of enzymes hydrolyzing organic P, but increases in the relative abundance of P‐acquisition functional genes. Relative to the control plots, soil pH significantly reduced from 5.0 to 4.6, microbial biomass carbon and gene copy number of 16S rRNA reduced by 26.6% and 35.5%, acid phosphatase and phytase activities reduced by 32.6% and 51.1%, whereas relative abundance of appA gene increased by 29.2% in the N addition plots. Redundancy analysis identified that variation in soil pH explained 57.5% of N‐induced changes in organic P mineralization. Crucially, these findings decouple the assumed positive correlation between genetic potential and functional realization, revealing a stress‐induced functional mismatch that challenges the applicability of stoichiometric theory under severe acidification stress. Furthermore, it highlights a pitfall of relying solely on metagenomic metrics for diagnosing soil health. Consequently, promoting soil acid‐buffering capacity is essential to prevent functional decline of soil microorganisms in forest ecosystems in response to atmospheric N deposition.",
       "url": "https://www.semanticscholar.org/paper/9076d116baba28b1219685ae348fcfde49183cfa",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9076d116baba28b1219685ae348fcfde49183cfa",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ldr.70838",
@@ -5207,7 +5211,7 @@
       "abstract": "Soil N-cycling functional genes are easily modified by environmental changes, but insufficient information is available regarding the response of their elaborate associations to nitrogen (N) enrichment in estuarine marsh ecosystem. In this study, a field experiment with four N enrichment levels (NN, 0.0 g N m-2 yr-1; NL, 37.5 g N m-2 yr-1; NM, 50.0 g N m-2 yr-1; and NH, 100.0 g N m-2 yr-1) was conducted in a typical Cyperus malaccensis marsh in the Min River estuary of southeastern China. After 28 and 40 months of sustained N additions (represented by T28 and T40 periods, respectively), the potential impacts of N enrichment on soil N-cycling functional genes and their associations were investigated by metagenomic sequencing. Results showed that although the composition of functional microbial communities showed causality with N enrichment levels, its variation was primarily driven by N-enriched duration as evidenced by the higher interpretability (64.7%). With prolonged the experiment, the diversity of soil N-cycling microbial communities dropped markedly while their richness showed no statistically significant alteration. Within each sampling period, the relative abundances of functional genes involved in organic N metabolism (ONM, glnB, GDH2 and GLT1), assimilatory nitrate reduction (ANRA, narB, nirA, NR and NIT-6), denitrification (nirS, norC and napB), N fixation (nifK/D, vnfH/K/G and anfG), dissimilatory nitrate reduction (DNRA, nrfA and nirB/D), N transport (nrtC/B) and nitrification (pmoB/C-amoB/C) significantly increased with increasing N additions. Compared with the T28 period, the relative abundances of genes involved in ONM (GDH2 and K00261_gdhA), denitrification (narI and nirS), N fixation (nifD/H and vnf/H/K) and N transport (NRT2 and nrtA/C) elevated significantly at T40 period, while those participated in DNRA (nrfH), nitrification (hao) and anammox (hzsB/C) declined markedly. Under N-enriched conditions, the network complexity of functional genes displayed decreases in the LN and MN treatments, followed by a significant increase in the HN treatment. With prolonged the experiment, the positive correlations among functional genes were weakened and the succession of functional microbial communities was driven in a more functionally specialized direction by a few dominant species. This paper found that sustained N enrichment drove the phased reconstruction of gene networks with a continuous weakening of positive associations among functional genes. The findings can guide the policymaking of targeted N load control and estuarine marsh conservation.",
       "url": "https://www.semanticscholar.org/paper/d412b08e1b4ec825619e4f5848099144c14c4de3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d412b08e1b4ec825619e4f5848099144c14c4de3",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.2139/ssrn.6538520",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 93,
@@ -22254,7 +22258,7 @@
       "abstract": "Chinese fir forests play a significant role both economically and ecologically, contributing to soil and water conservation while also serving as an efficient timber-producing species that brings economic benefits. However, the issue of soil degradation due to continuous Chinese fir planting cannot be overlooked. Continuous planting leads to a decrease in soil nutrients, a reduction in microbial diversity, and changes in microbial community composition, which in turn affect the abundance of carbon and nitrogen cycle functional genes in Chinese fir forest soils. We utilized metagenomic sequencing technology to investigate the dynamics of microbial community composition and carbon and nitrogen-related functional genes in the soils of Chinese fir forests across different plantation generations, exploring their relationship with soil carbon and nitrogen nutrients. We found that the relative abundance of bacterial communities is dominant in both phylum and genus levels within microbial communities. The partial least squares path models (PLS-PM) indicated that planting generations had a negative effect on dissolved organic carbon (DOC), nitrate nitrogen (NO3--N), and microbial biomass nitrogen (MBN), with a significant negative impact on microbial residual carbon (MRC). Easily utilizable carbon nutrient (DOC) in Chinese fir forest soil showed a significant positive effect on the abundance of carbon fixation functional genes (direct effect = 0.91, p < 0.01), and on the abundance of methane metabolism functional genes (direct effect = 1.27, p < 0.01). Nitrogen nutrients (NO3--N, MBN) in the soil also had a significant positive effect on the abundance of carbon fixation functional genes (direct effect = 0.90, p < 0.01). Bacterial communities (Acidobacteria and Verrucomicrobia) had significant negative effects on carbon and nitrogen cycling processes. The abundance of nasA and nirA genes generally showed a decreasing trend with increasing plantation generations. The decrease in available nitrogen nutrients with increased plantation generations was influenced by Assimilatory nitrogen reduction to ammonia (ANRA), an energy-consuming process. In summary, the continuous planting of Chinese fir had significant impacts on the carbon and nitrogen nutrient cycling processes, and it influenced the composition of microbial communities and the spatial distribution of functional genes. Clarifying the changes in carbon and nitrogen nutrient cycling processes in Chinese fir continuous planting provides a reference for maintaining the productivity of Chinese fir plantations.",
       "url": "https://www.semanticscholar.org/paper/3bc0e178a55f481488358030e956b5ff37c50ec2",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3bc0e178a55f481488358030e956b5ff37c50ec2",
-      "pdf_url": "",
+      "pdf_url": "http://doi.org/10.2139/ssrn.4865003",
       "citation_count": 14,
       "influential_citation_count": 0,
       "reference_count": 81,
@@ -22942,7 +22946,7 @@
       "abstract": "The soil microbial community and its driven nitrogen (N) conversion are the key processes in cotton production. However, the responses of soil microbial communities to changes in farming practices (e.g., tillage and straw returning) remain unknown. This study sampled soil from the 0–20 cm and 20–40 cm layers of cotton fields under no‐tillage (NT), tillage (T), no‐tillage + straw returning (NT + SR), and tillage + straw returning (T + SR) practices, and high‐throughput sequencing approach method was used to investigate the effects of farming practices on soil physicochemical properties, microbial community structure, and N metabolism pathways, as well as their associations with cotton yield. The survival rate (90.44% ± 0.90%) and yield (5314.0 ± 57.04 kg/ha) of cotton were highest under T + SR, and T improved cotton yield more effectively than SR. T increased the relative abundance of beneficial microorganisms and mediated their assimilation of ammonium nitrogen (NH+ 4‐N) by improving the soil physical properties. In addition, the survival rate and yield of cotton were primarily related to the fungal communities and their pathways of assimilating NH+ 4‐N because fungi had more complex and stable networks. The core microbiota contained most of the taxa that were significantly associated with N cycling genes and cotton yield, and even rare taxa could play an important role in microbial function. This study improves our understanding of the microbial N mechanism; T combined with SR can improve soil quality and establish healthy soil microflora (fungal‐dominated type) to improve cotton production.",
       "url": "https://www.semanticscholar.org/paper/ab0a3eab96bb74e2446c181ba1a95b55129a9356",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ab0a3eab96bb74e2446c181ba1a95b55129a9356",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ldr.5428",
+      "pdf_url": "https://doi.org/10.2139/ssrn.4563701",
       "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 41,
@@ -29739,7 +29743,7 @@
       "url": "https://www.semanticscholar.org/paper/6ba78bb68d6e2b5fc3224b37071f1533455e1aa7",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/6ba78bb68d6e2b5fc3224b37071f1533455e1aa7",
       "pdf_url": "",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 52,
       "references": [],
@@ -30491,7 +30495,7 @@
       "abstract": "Inland alkaline wetlands play a crucial role in maintaining ecological functions. However, these wetlands are becoming more vulnerable to the effects of water level fluctuations caused by global climate change, especially concerning carbon (C) and nitrogen (N) cycling. Here, metagenomics sequencing was used to investigate microorganism diversity, C and N cycling gene abundance at three water level types (D (dry), MF (Middle flooded), HF (high flooded)) along an inland alkaline wetland. Our findings reveal that water level was the most important factor in regulating the microbial communities. Distinct shifts in community composition were found along the water level increases, without fundamentally altering their composition. With the increase of water level, the relative abundance of pmoA decreased from 2.5 × 10-5 to 5.1 × 10-6. The C cycling processes shift from predominantly CO2-generated processes under low water levels to CO2 and CH4 co-generated processes under high water levels. The relative abundance of nosZ reached 4.9 × 10-5 in HF, while in D and MF, it is recorded at 4.5 × 10-5 and 3.4 × 10-5, respectively. Water levels accelerate N cycling and generating N2O intermediates. Furthermore, our study highlights the dynamic competition and cooperation between C and N cycling processes. This research provides a comprehensive biological understanding of the influence of varying water levels on soil C and N cycling processes in wetland.",
       "url": "https://www.semanticscholar.org/paper/41493e05ccaa7883720fc6b7fa4b3c11521e44d9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/41493e05ccaa7883720fc6b7fa4b3c11521e44d9",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.2139/ssrn.4654340",
       "citation_count": 11,
       "influential_citation_count": 1,
       "reference_count": 0,
