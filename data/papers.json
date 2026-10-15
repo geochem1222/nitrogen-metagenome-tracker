@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T23:56:43.942522+00:00",
+  "updated_at": "2026-10-15T23:42:44.275196+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -414,6 +414,123 @@
       ],
       "detail_enriched_at": "2026-10-04T23:58:28.226360+00:00",
       "edges_enriched_at": "2026-10-04T23:58:28.954475+00:00"
+    },
+    {
+      "id": "3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
+      "semantic_scholar_id": "3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
+      "source": "Semantic Scholar",
+      "pmid": "42864071",
+      "doi": "10.1111/1462-2920.70450",
+      "title": "Metabolic Versatility Drives the Late-Successional Dominance of Ammonia-Oxidizing Archaea in Retreating Glacier Soils.",
+      "authors": [
+        "Sai-Fei Li",
+        "Yao-Dong Kong",
+        "Yang Liu",
+        "Yun-Jie Chen",
+        "Mu-Kan Ji",
+        "Yi-Han Yang",
+        "Yi-Ding Chen"
+      ],
+      "journal": "Environmental Microbiology",
+      "publication_date": "2026-10-01",
+      "abstract": "Climate warming accelerates glacier retreat, creating glacier forefields that serve as critical chronosequences for studying nitrogen cycling succession. Ammonia-oxidizing microorganisms (AOMs) play key roles in regulating nitrogen availability for organic carbon accumulation and plant colonization. However, the underlying metabolic mechanisms governing these successional shifts and their functional consequences for nitrification potential remain poorly understood. Here, we integrated soil physicochemical and nitrification potential measurements with a multi-omics approach (qPCR, amplicon and metagenomic sequencing) across four successional stages at the Kuoqionggangri Glacier forefield, Tibetan Plateau. Results revealed a shift from ammonia-oxidizing bacteria (AOB, primarily Nitrosospira) dominance in barren ground to ammonia-oxidizing archaea (AOA, Nitrososphaerales) dominance in meadows, driven by environmental filtering (lowered pH, increased moisture, carbon, nitrogen). Additionally, metagenomic binning showed that AOA possessed broad metabolic capacities for cycling carbon, nitrogen, sulphur and phosphorus. This metabolic versatility conferred a superior adaptive advantage, driving AOA dominance and a corresponding increase in nitrification potential. Furthermore, elevated nitrification potential was jointly driven by shifts in the AOM community and environmental variables. These findings suggest that environmental filtering and AOA metabolic versatility contribute to AOA success in late-successional soils, establishing a dual-mechanism framework for nitrification dynamics during proglacial ecosystem succession.",
+      "url": "https://www.semanticscholar.org/paper/3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.70450",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 39,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "8b7cfb79699ee0213aca1c1eca80b819762a0066",
+          "title": "Response of Soil Ammonia−Oxidizing Microorganisms to Biochar Amendment Under Continuous Cropping and Crop Rotation Systems",
+          "year": 2026,
+          "journal": "Sustainability",
+          "authors": [
+            "Shu-Bo Yan",
+            "Yue-Tong Zhang",
+            "Yong-Xia Guo"
+          ],
+          "doi": "10.3390/su181910154",
+          "url": "https://www.semanticscholar.org/paper/8b7cfb79699ee0213aca1c1eca80b819762a0066",
+          "citation_count": 0
+        },
+        {
+          "id": "34c64115b379b495efcedf5a274fd1bb8671021a",
+          "title": "Common Nitrification\nInhibitors Exhibit Distinct Mechanisms\non the Ammonia-Oxidizing Archaeon\n Nitrososphaera viennensis",
+          "year": 2026,
+          "journal": "Environmental Science &amp;\nTechnology",
+          "authors": [
+            "Dimitrios Dalkidis",
+            "Andrea Malits",
+            "M. Kerou"
+          ],
+          "doi": "10.1021/acs.est.6c08773",
+          "url": "https://www.semanticscholar.org/paper/34c64115b379b495efcedf5a274fd1bb8671021a",
+          "citation_count": 0
+        },
+        {
+          "id": "00e4c167c2365f43693a53abf0493b1ab3cb372a",
+          "title": "Gradual CO2 Increase More Strongly Boosts Nitrification and Ammonia Oxidizers in Paddy Soils Than Abrupt Increase.",
+          "year": 2026,
+          "journal": "Environmental Microbiology",
+          "authors": [
+            "Bingjie Ren",
+            "Yan-Ping Wang",
+            "Zhen-Fa Su"
+          ],
+          "doi": "10.1111/1462-2920.70424",
+          "url": "https://www.semanticscholar.org/paper/00e4c167c2365f43693a53abf0493b1ab3cb372a",
+          "citation_count": 0
+        },
+        {
+          "id": "2e9475ec1903096addcdc9bac36ee43734700172",
+          "title": "Nitrogen availability shifts the microbial drivers of post-drought N2O emissions in contrasting agricultural soils.",
+          "year": 2026,
+          "journal": "Journal of Environmental Management",
+          "authors": [
+            "Shuo-Shuo Wu",
+            "Zhen Liang",
+            "Zhao-Ying Chen"
+          ],
+          "doi": "10.1016/j.jenvman.2026.131022",
+          "url": "https://www.semanticscholar.org/paper/2e9475ec1903096addcdc9bac36ee43734700172",
+          "citation_count": 0
+        },
+        {
+          "id": "b322b1a0584ced13565e66eea13905e98ff7896a",
+          "title": "Nitrogen addition regulates post-drought N2O emissions by reshaping the resilience of canonical and complete ammonia oxidizers in subtropical red soil.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Zhen Liang",
+            "Shuo-Shuo Wu",
+            "Yue-Han Zhu"
+          ],
+          "doi": "10.1016/j.envres.2026.125784",
+          "url": "https://www.semanticscholar.org/paper/b322b1a0584ced13565e66eea13905e98ff7896a",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "It is suggested that environmental filtering and AOA metabolic versatility contribute to AOA success in late-successional soils, establishing a dual-mechanism framework for nitrification dynamics during proglacial ecosystem succession.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "soil",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-15T23:42:26.085158+00:00",
+      "edges_enriched_at": "2026-10-15T23:42:27.044939+00:00"
     },
     {
       "id": "f68232bf4abbb1eafb9b29da7a1408df05eaa494",
@@ -4216,7 +4333,7 @@
         "urban",
         "water"
       ],
-      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
+      "detail_enriched_at": "2026-10-15T23:42:26.085158+00:00",
       "edges_enriched_at": "2026-10-14T23:56:21.010761+00:00"
     },
     {
@@ -4340,7 +4457,7 @@
         "nitrogen",
         "water"
       ],
-      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
+      "detail_enriched_at": "2026-10-15T23:42:26.085158+00:00",
       "edges_enriched_at": "2026-10-14T23:56:21.010761+00:00"
     },
     {
@@ -4820,73 +4937,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "97dd4653cdb329971ab060acc523089ad707f852",
-          "title": "Concurrent Elevation of CO2 and Temperature Stimulates N2O Emissions from Rice Paddies in a Rice–Wheat Cropping System",
+          "id": "2e9475ec1903096addcdc9bac36ee43734700172",
+          "title": "Nitrogen availability shifts the microbial drivers of post-drought N2O emissions in contrasting agricultural soils.",
           "year": 2026,
-          "journal": "Agronomy",
+          "journal": "Journal of Environmental Management",
           "authors": [
-            "Jiu-Jie Liu",
-            "Qin Yi",
-            "Yu-Chen Song"
+            "Shuo-Shuo Wu",
+            "Zhen Liang",
+            "Zhao-Ying Chen"
           ],
-          "doi": "10.3390/agronomy16171722",
-          "url": "https://www.semanticscholar.org/paper/97dd4653cdb329971ab060acc523089ad707f852",
+          "doi": "10.1016/j.jenvman.2026.131022",
+          "url": "https://www.semanticscholar.org/paper/2e9475ec1903096addcdc9bac36ee43734700172",
           "citation_count": 0
         },
         {
-          "id": "497ebae47fc69256c0d6616b763c313c2bd5517b",
-          "title": "Environmentally aged microplastics alter archaeal and bacterial roles in ammonia oxidation of intertidal soils.",
+          "id": "b322b1a0584ced13565e66eea13905e98ff7896a",
+          "title": "Nitrogen addition regulates post-drought N2O emissions by reshaping the resilience of canonical and complete ammonia oxidizers in subtropical red soil.",
           "year": 2026,
-          "journal": "Marine Pollution Bulletin",
+          "journal": "Environmental Research",
           "authors": [
-            "Ru-Yuan Chen",
-            "Shujie Ruan",
-            "Cheng Liu"
+            "Zhen Liang",
+            "Shuo-Shuo Wu",
+            "Yue-Han Zhu"
           ],
-          "doi": "10.1016/j.marpolbul.2026.120270",
-          "url": "https://www.semanticscholar.org/paper/497ebae47fc69256c0d6616b763c313c2bd5517b",
+          "doi": "10.1016/j.envres.2026.125784",
+          "url": "https://www.semanticscholar.org/paper/b322b1a0584ced13565e66eea13905e98ff7896a",
           "citation_count": 0
         },
         {
-          "id": "841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
-          "title": "Seagrass-derived carbon suppresses nitrification and N2O emissions by Comammox and canonical nitrifier communities",
+          "id": "00e4c167c2365f43693a53abf0493b1ab3cb372a",
+          "title": "Gradual CO2 Increase More Strongly Boosts Nitrification and Ammonia Oxidizers in Paddy Soils Than Abrupt Increase.",
           "year": 2026,
-          "journal": "ISME Communications",
+          "journal": "Environmental Microbiology",
           "authors": [
-            "Ruilin Su",
-            "P. Chan",
-            "Xiao-Dong Zhang"
+            "Bingjie Ren",
+            "Yan-Ping Wang",
+            "Zhen-Fa Su"
           ],
-          "doi": "10.1093/ismeco/ycag220",
-          "url": "https://www.semanticscholar.org/paper/841d4db7ddfdcc8b74d77b3b42f1c4ed1a4f342f",
+          "doi": "10.1111/1462-2920.70424",
+          "url": "https://www.semanticscholar.org/paper/00e4c167c2365f43693a53abf0493b1ab3cb372a",
           "citation_count": 0
         },
         {
-          "id": "da70bf46ed293685b2985e48ad8b68819e8f2dda",
-          "title": "Root exudates stabilize denitrification yet amplify CO2 emissions by priming effect in constructed wetlands.",
+          "id": "8b7cfb79699ee0213aca1c1eca80b819762a0066",
+          "title": "Response of Soil Ammonia−Oxidizing Microorganisms to Biochar Amendment Under Continuous Cropping and Crop Rotation Systems",
           "year": 2026,
-          "journal": "Water Research",
+          "journal": "Sustainability",
           "authors": [
-            "Dongdong Yao",
-            "Huijun Xie",
-            "Zhen Hu"
+            "Shu-Bo Yan",
+            "Yue-Tong Zhang",
+            "Yong-Xia Guo"
           ],
-          "doi": "10.1016/j.watres.2026.126787",
-          "url": "https://www.semanticscholar.org/paper/da70bf46ed293685b2985e48ad8b68819e8f2dda",
+          "doi": "10.3390/su181910154",
+          "url": "https://www.semanticscholar.org/paper/8b7cfb79699ee0213aca1c1eca80b819762a0066",
           "citation_count": 0
         },
         {
-          "id": "48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
-          "title": "Methane-Derived Zero-Valent Carbon Solids Inhibit Nitrification and Decrease Nitrous Oxide Flux from Agricultural Soils",
+          "id": "3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
+          "title": "Metabolic Versatility Drives the Late-Successional Dominance of Ammonia-Oxidizing Archaea in Retreating Glacier Soils.",
           "year": 2026,
-          "journal": "ACS Agricultural Science &amp; Technology",
+          "journal": "Environmental Microbiology",
           "authors": [
-            "Johanna Bangala",
-            "C. Schwarz",
-            "Xiao-Dong Gao"
+            "Sai-Fei Li",
+            "Yao-Dong Kong",
+            "Yang Liu"
           ],
-          "doi": "10.1021/acsagscitech.6c00312",
-          "url": "https://www.semanticscholar.org/paper/48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
+          "doi": "10.1111/1462-2920.70450",
+          "url": "https://www.semanticscholar.org/paper/3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
           "citation_count": 0
         }
       ],
@@ -4905,8 +5022,8 @@
         "nitrogen",
         "soil"
       ],
-      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
-      "edges_enriched_at": "2026-09-15T23:33:21.777823+00:00"
+      "detail_enriched_at": "2026-10-15T23:42:26.085158+00:00",
+      "edges_enriched_at": "2026-10-15T23:42:27.044939+00:00"
     },
     {
       "id": "6ee237b3cc87fd9e59bca530fa683ebc65dfcba2",
@@ -5869,7 +5986,7 @@
       "similar_papers": [
         {
           "id": "c304aea49b3b905957b225e547d9aa6b3d225f96",
-          "title": "Effects of Perfluorooctanoic Acid on River Sediment Denitrification and Remediation by Sulfur Autotrophic Denitrification-Anammox Coupled Microbial Consortia.",
+          "title": "Effects of Perfluorooctanoic Acid on River Sediment Denitrification and Remediation by Sulfur Autotrophic Denitrification–Anammox Coupled Microbial Consortia",
           "year": 2026,
           "journal": "Water environment research",
           "authors": [
@@ -5882,59 +5999,59 @@
           "citation_count": 0
         },
         {
-          "id": "f4dbc01311b9fe8a351b2f8869d9e857854c7a65",
-          "title": "Electron acceptor-dependent duality of nitrous oxide metabolism in Thiobacillus during sulfur autotrophic denitrification",
+          "id": "954e4432f691a6e37fbe322cabfd7c68aad71f57",
+          "title": "Chlorite-Mediated Regulation of Nitrite Accumulation and Nitrogen Removal in Integrated Partial Denitrification/Anammox Biofilter.",
           "year": 2026,
-          "journal": "Frontiers in Microbiology",
+          "journal": "Environmental Research",
           "authors": [
-            "Mu-Chun Zhou",
-            "Shohei Yasuda",
-            "H. Miura"
+            "Yue Yue",
+            "Hai-Yan Liu",
+            "Zhan-Sheng Ma"
           ],
-          "doi": "10.3389/fmicb.2026.1903473",
-          "url": "https://www.semanticscholar.org/paper/f4dbc01311b9fe8a351b2f8869d9e857854c7a65",
+          "doi": "10.1016/j.envres.2026.125786",
+          "url": "https://www.semanticscholar.org/paper/954e4432f691a6e37fbe322cabfd7c68aad71f57",
           "citation_count": 0
         },
         {
-          "id": "c78381b3c35b36eb02106a0ad30589d1992d325d",
-          "title": "Advanced sulfur biological denitrification: a systematic assessment of S/N ratio on microbial activity and nitrogen conversion",
-          "year": 2026,
-          "journal": "Water Practice &amp; Technology",
-          "authors": [
-            "Mohammad Ishteyaque Ahmad",
-            "Farooq Ahmad Wani",
-            "Vikar Ahmed"
-          ],
-          "doi": "10.2166/wpt.2026.384",
-          "url": "https://www.semanticscholar.org/paper/c78381b3c35b36eb02106a0ad30589d1992d325d",
-          "citation_count": 0
-        },
-        {
-          "id": "e2820fc54487e053c30d32dd5f8d92260730a1f2",
-          "title": "Mechanism exploration of divergent partial denitrification performance under tetracycline stress: Insights from functional gene, electron transport and molecular docking.",
-          "year": 2026,
-          "journal": "Journal of Hazardous Materials",
-          "authors": [
-            "Biao Li",
-            "Yufei You",
-            "Ya-Jun Fan"
-          ],
-          "doi": "10.1016/j.jhazmat.2026.143220",
-          "url": "https://www.semanticscholar.org/paper/e2820fc54487e053c30d32dd5f8d92260730a1f2",
-          "citation_count": 0
-        },
-        {
-          "id": "b38bd377978ec0c2b78b5ca4a7d417413a59b3f5",
-          "title": "Concentration threshold for polyethylene microplastics impacting nitrogen transfor-mation in heterotrophic nitrification-aerobic denitrification systems.",
+          "id": "3a4f261dd6ff7cc53c61105a475bb4aab921828d",
+          "title": "Establishment and stable operation of sulfide-driven denitrification-Anammox process treating wastewater with minimal nitrous oxide emissions.",
           "year": 2026,
           "journal": "Bioresource Technology",
           "authors": [
-            "Xue Bai",
-            "Mengying Yi",
-            "Lang Ran"
+            "Yi-Fan Zhang",
+            "Matthew J. Rogers",
+            "Chuan-Sheng Wang"
           ],
-          "doi": "10.1016/j.biortech.2026.135639",
-          "url": "https://www.semanticscholar.org/paper/b38bd377978ec0c2b78b5ca4a7d417413a59b3f5",
+          "doi": "10.1016/j.biortech.2026.135848",
+          "url": "https://www.semanticscholar.org/paper/3a4f261dd6ff7cc53c61105a475bb4aab921828d",
+          "citation_count": 0
+        },
+        {
+          "id": "ae51f8610bd19c0bc7d571102a2804868b1abe8f",
+          "title": "Deciphering the effects of sulfonamide antibiotics on denitrification from a metagenomic perspective: Inhibition of nitrite reduction and succession patterns of functional microorganisms.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Qinmao Zhou",
+            "Yu-Yang Wang",
+            "Hebin Liang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143476",
+          "url": "https://www.semanticscholar.org/paper/ae51f8610bd19c0bc7d571102a2804868b1abe8f",
+          "citation_count": 0
+        },
+        {
+          "id": "113029bf3fce6d2bffbe54c17efa8fe11b26e629",
+          "title": "Abundance-transcription decoupling reveals functional partitioning in bioelectrochemical denitrification biofilms.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Hyejeong Kwon",
+            "Qing-Shi Wang",
+            "Adriana Riveros"
+          ],
+          "doi": "10.1016/j.envres.2026.125626",
+          "url": "https://www.semanticscholar.org/paper/113029bf3fce6d2bffbe54c17efa8fe11b26e629",
           "citation_count": 0
         }
       ],
@@ -5957,8 +6074,8 @@
         "urban",
         "water"
       ],
-      "detail_enriched_at": "2026-09-15T23:33:00.675191+00:00",
-      "edges_enriched_at": "2026-09-15T23:33:21.777823+00:00"
+      "detail_enriched_at": "2026-10-15T23:42:26.085158+00:00",
+      "edges_enriched_at": "2026-10-15T23:42:27.044939+00:00"
     },
     {
       "id": "7ca141329c242158c2d9866b207b090978b467c4",
@@ -25550,7 +25667,7 @@
       "url": "https://www.semanticscholar.org/paper/42f47e7de4371bb522ba6d77a064297baf4bcf8c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/42f47e7de4371bb522ba6d77a064297baf4bcf8c",
       "pdf_url": "",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
@@ -36107,7 +36224,7 @@
       "doi": "10.1128/aem.00047-23",
       "title": "Comammox Nitrospira and Ammonia-Oxidizing Archaea Are Dominant Ammonia Oxidizers in Sediments of an Acid Mine Lake Containing High Ammonium Concentrations",
       "authors": [
-        "Deyong Li",
+        "De-Yong Li",
         "Zhichang Ren",
         "Yangqi Zhou",
         "Lugao Jiang",
@@ -52228,7 +52345,7 @@
       "url": "https://www.semanticscholar.org/paper/00f83ca58f7a0c52d103f9ae79d75da8b868d878",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/00f83ca58f7a0c52d103f9ae79d75da8b868d878",
       "pdf_url": "https://doi.org/10.1128/mbio.01193-14",
-      "citation_count": 186,
+      "citation_count": 187,
       "influential_citation_count": 3,
       "reference_count": 42,
       "references": [
