@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:08:53.106565+00:00",
+  "updated_at": "2026-10-18T23:14:22.429204+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -2749,20 +2749,6 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "1bc796d0f2453a31c61a4de4bee16e038a9ef8df",
-          "title": "Hydrological inundation threshold regulates the carbon source-sink transition in unvegetated tidal flats.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Hui Wu",
-            "Ya-Song Chen",
-            "Shi-Yao Chen"
-          ],
-          "doi": "10.1016/j.watres.2026.126544",
-          "url": "https://www.semanticscholar.org/paper/1bc796d0f2453a31c61a4de4bee16e038a9ef8df",
-          "citation_count": 0
-        },
-        {
           "id": "727ae43b21bf9ddc5de822ace425d895b10a2b8b",
           "title": "A dual-solution for coastal cities: global potential of Ulva prolifera biochar in macroalgal waste disposal and wastewater nitrogen removal enhancement.",
           "year": 2026,
@@ -2777,17 +2763,31 @@
           "citation_count": 0
         },
         {
-          "id": "adbc448011759f6ad13199523582e0a907b069c8",
-          "title": "Benthic nitrogen cycle in a meromictic lake: nitrate delivered via sinking algae sustains denitrification under deep, anoxic waters",
+          "id": "2ec55f6bf901d105626ec00634b38ca72ed303a0",
+          "title": "Biochar amendments in a California salt marsh restoration reduced denitrification and supported distinct microbial community functions.",
           "year": 2026,
-          "journal": "Biogeochemistry",
+          "journal": "Journal of Environmental Management",
           "authors": [
-            "Leonardo Morini",
-            "G. Castaldelli",
-            "U. Marzocchi"
+            "Brittany P. Wilburn",
+            "R. Ikeh",
+            "Marina Potapova"
           ],
-          "doi": "10.1007/s10533-026-01366-4",
-          "url": "https://www.semanticscholar.org/paper/adbc448011759f6ad13199523582e0a907b069c8",
+          "doi": "10.1016/j.jenvman.2026.131078",
+          "url": "https://www.semanticscholar.org/paper/2ec55f6bf901d105626ec00634b38ca72ed303a0",
+          "citation_count": 0
+        },
+        {
+          "id": "62a6894a8283264b48488fadff45aeb0ff417e9e",
+          "title": "Carbon-sulfur regulation for deep nitrogen removal in Arundo donax straw/elemental sulfur-amended surface flow constructed wetlands: Metagenomic and metabolomic insights.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Yan-Jie Zhang",
+            "Huan Wang",
+            "Yu Ling"
+          ],
+          "doi": "10.1016/j.biortech.2026.135874",
+          "url": "https://www.semanticscholar.org/paper/62a6894a8283264b48488fadff45aeb0ff417e9e",
           "citation_count": 0
         },
         {
@@ -2805,17 +2805,17 @@
           "citation_count": 0
         },
         {
-          "id": "cff6ea00497add2016334234567ec7e8f6d4fecc",
-          "title": "Environmental aging alters microplastic effects on soil DNRA in estuarine and coastal wetlands.",
+          "id": "954e4432f691a6e37fbe322cabfd7c68aad71f57",
+          "title": "Chlorite-Mediated Regulation of Nitrite Accumulation and Nitrogen Removal in Integrated Partial Denitrification/Anammox Biofilter.",
           "year": 2026,
-          "journal": "Marine Environmental Research",
+          "journal": "Environmental Research",
           "authors": [
-            "Shujie Ruan",
-            "Ru-Yuan Chen",
-            "Cheng Liu"
+            "Yue Yue",
+            "Hai-Yan Liu",
+            "Zhan-Sheng Ma"
           ],
-          "doi": "10.1016/j.marenvres.2026.108339",
-          "url": "https://www.semanticscholar.org/paper/cff6ea00497add2016334234567ec7e8f6d4fecc",
+          "doi": "10.1016/j.envres.2026.125786",
+          "url": "https://www.semanticscholar.org/paper/954e4432f691a6e37fbe322cabfd7c68aad71f57",
           "citation_count": 0
         }
       ],
@@ -2838,8 +2838,8 @@
         "sediment",
         "water"
       ],
-      "detail_enriched_at": "2026-09-17T23:35:53.009431+00:00",
-      "edges_enriched_at": "2026-09-17T23:36:01.893554+00:00"
+      "detail_enriched_at": "2026-10-18T23:14:18.970336+00:00",
+      "edges_enriched_at": "2026-10-18T23:14:19.537130+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -44684,7 +44684,7 @@
       "url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/a8ae4f1fb61d2b0eb93ce63da783935342ef9447",
       "pdf_url": "",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 4,
       "reference_count": 51,
       "references": [],
@@ -48387,7 +48387,7 @@
       "url": "https://www.semanticscholar.org/paper/f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11356",
-      "citation_count": 77,
+      "citation_count": 78,
       "influential_citation_count": 1,
       "reference_count": 92,
       "references": [
@@ -53575,7 +53575,7 @@
       "url": "https://www.semanticscholar.org/paper/8641bab7d81b5517404ff2e17a33db592ff3bf5c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/8641bab7d81b5517404ff2e17a33db592ff3bf5c",
       "pdf_url": "",
-      "citation_count": 119,
+      "citation_count": 120,
       "influential_citation_count": 7,
       "reference_count": 19,
       "references": [],
