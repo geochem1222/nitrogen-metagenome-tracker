@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:14:22.429204+00:00",
+  "updated_at": "2026-10-20T00:22:56.059095+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -366,7 +366,7 @@
       "id": "f196481eb1db4796d9722ff6c555c6e28e5e55f8",
       "semantic_scholar_id": "f196481eb1db4796d9722ff6c555c6e28e5e55f8",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42890888",
       "doi": "10.3389/fpls.2026.1961532",
       "title": "Effects of cultivation of herbaceous perennials on soil microbial community structure and nitrogen cycling functions",
       "authors": [
@@ -381,7 +381,7 @@
       ],
       "journal": "Frontiers in Plant Science",
       "publication_date": "2026-10-02",
-      "abstract": "\n This study aimed to elucidate the impacts of cultivating different herbaceous perennials on the rhizosphere microenvironment, nitrogen-cycling microbial communities, and functional genes in black soils of urban green spaces in Northeast China, thereby providing a scientific basis for rational urban plant configuration and interspecific differences in soil nutrient cycling. Focusing on five commonly utilized herbaceous perennials in Changchun (\n Lycopus lucidus\n [P-LL],\n Salvia japonica\n [P-SJ],\n Hemerocallis fulva\n [P-HF],\n Hosta ensata\n [P-HE], and\n Pseudolysimachion spicatum\n [P-PS]), this study integrated conventional physicochemical analyses, metagenomic sequencing, co-occurrence networks, and Random Forest modeling to analyze rhizosphere soil nutrient profiles, nitrogen-cycling microbial community structures, and key functional gene abundances after two years of continuous cultivation. Different floral treatments significantly altered rhizosphere nutrient status and microbial community composition. The P-LL treatment exhibited relatively higher contents of total nitrogen (TN), soil microbial biomass nitrogen (SMBN), available phosphorus, and available potassium, demonstrating a high-level soil multifunctionality index (SMI). The P-PS treatment showed higher available nitrogen and ammonium nitrogen but lower SMBN, accompanied by a higher relative abundance of Actinomycetota and the assembly of a microbial co-occurrence network with enhanced connectivity and robustness, indicating a potent organic nitrogen mineralization potential in its rhizosphere. The composition of nitrogen-cycling genes remained broadly stable across treatments, dominated by ammonia assimilation genes (\n glnA\n and\n gltB\n ), with a relatively low abundance of denitrification genes (\n nirK\n ). Multivariate and Random Forest analyses revealed that SMBN exerted the strongest positive regulatory effect on nitrogen-sensing genes (e.g.,\n ntrY\n and\n ntrX\n ), whereas TN, nitrate nitrogen (NO\n 3\n -\n -N), and available potassium (AK) emerged as the paramount direct drivers determining the abundance variations of core ammonia assimilation genes. Different herbaceous perennials shaped species-specific rhizosphere nutrient and microbial functional profiles. P-LL and P-PS exhibited superior comprehensive nutrient traits and potential nitrogen mineralization characteristics, respectively, making them excellent candidate species for urban green space configuration and future mixed-planting trials in cold regions.\n",
+      "abstract": "This study aimed to elucidate the impacts of cultivating different herbaceous perennials on the rhizosphere microenvironment, nitrogen-cycling microbial communities, and functional genes in black soils of urban green spaces in Northeast China, thereby providing a scientific basis for rational urban plant configuration and interspecific differences in soil nutrient cycling. Focusing on five commonly utilized herbaceous perennials in Changchun (Lycopus lucidus [P-LL], Salvia japonica [P-SJ], Hemerocallis fulva [P-HF], Hosta ensata [P-HE], and Pseudolysimachion spicatum [P-PS]), this study integrated conventional physicochemical analyses, metagenomic sequencing, co-occurrence networks, and Random Forest modeling to analyze rhizosphere soil nutrient profiles, nitrogen-cycling microbial community structures, and key functional gene abundances after two years of continuous cultivation. Different floral treatments significantly altered rhizosphere nutrient status and microbial community composition. The P-LL treatment exhibited relatively higher contents of total nitrogen (TN), soil microbial biomass nitrogen (SMBN), available phosphorus, and available potassium, demonstrating a high-level soil multifunctionality index (SMI). The P-PS treatment showed higher available nitrogen and ammonium nitrogen but lower SMBN, accompanied by a higher relative abundance of Actinomycetota and the assembly of a microbial co-occurrence network with enhanced connectivity and robustness, indicating a potent organic nitrogen mineralization potential in its rhizosphere. The composition of nitrogen-cycling genes remained broadly stable across treatments, dominated by ammonia assimilation genes (glnA and gltB), with a relatively low abundance of denitrification genes (nirK). Multivariate and Random Forest analyses revealed that SMBN exerted the strongest positive regulatory effect on nitrogen-sensing genes (e.g., ntrY and ntrX), whereas TN, nitrate nitrogen (NO3--N), and available potassium (AK) emerged as the paramount direct drivers determining the abundance variations of core ammonia assimilation genes. Different herbaceous perennials shaped species-specific rhizosphere nutrient and microbial functional profiles. P-LL and P-PS exhibited superior comprehensive nutrient traits and potential nitrogen mineralization characteristics, respectively, making them excellent candidate species for urban green space configuration and future mixed-planting trials in cold regions.",
       "url": "https://www.semanticscholar.org/paper/f196481eb1db4796d9722ff6c555c6e28e5e55f8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f196481eb1db4796d9722ff6c555c6e28e5e55f8",
       "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1961532/pdf",
@@ -510,7 +510,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -3562,17 +3564,15 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "1499285ee6a6d7147ac0ead0532cb0e61481bd4e",
-          "title": "Water Availability Modulates Leaf Functional Trait Responses of Robinia pseudoacacia L. Seedlings to Nitrogen–Phosphorus Supply",
+          "id": "968bb17ab83232b2a12833a6c884dd12a6f00764",
+          "title": "Soil and Root-Associated Microbial Responses to Abiotic Stress under Climate Change: Implications for Carbon Cycling, Plant Resilience, and Microbial Bioinoculants",
           "year": 2026,
-          "journal": "Agronomy",
+          "journal": "Alqalam Journal of Science",
           "authors": [
-            "Bing-Qian Su",
-            "Yan-Yan Zi",
-            "Wen-Long Xu"
+            "Abu Bakr Alzahaf"
           ],
-          "doi": "10.3390/agronomy16151479",
-          "url": "https://www.semanticscholar.org/paper/1499285ee6a6d7147ac0ead0532cb0e61481bd4e",
+          "doi": "10.69667/ajs.261007",
+          "url": "https://www.semanticscholar.org/paper/968bb17ab83232b2a12833a6c884dd12a6f00764",
           "citation_count": 0
         },
         {
@@ -3590,17 +3590,17 @@
           "citation_count": 0
         },
         {
-          "id": "8249c3aed6503fa179b2e72ed052e86b4577dca2",
-          "title": "Drought stress adaptation in Ficus carica L.: Modulation of ROS scavenging, nitrogen uptake, and rhizosphere bacterial community assembly and functions.",
+          "id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+          "title": "Warming and Nitrogen Addition Induce Asynchronous Taxonomic and Functional Responses and Reorganize Microbial C, N, P Cycling Potential in an Alpine Wetland on the Qinghai–Tibet Plateau",
           "year": 2026,
-          "journal": "Microbiology Research",
+          "journal": "Microorganisms",
           "authors": [
-            "Yang Cao",
-            "Pei-Hua Du",
-            "Ruijin Zhai"
+            "Wen-Hua Chang",
+            "Wei-Wei Ma",
+            "Jia-Nan Du"
           ],
-          "doi": "10.1016/j.micres.2026.128678",
-          "url": "https://www.semanticscholar.org/paper/8249c3aed6503fa179b2e72ed052e86b4577dca2",
+          "doi": "10.3390/microorganisms14102151",
+          "url": "https://www.semanticscholar.org/paper/eb0e7d46d10d265a24eefc08026f4771dfcaad50",
           "citation_count": 0
         },
         {
@@ -3618,17 +3618,17 @@
           "citation_count": 0
         },
         {
-          "id": "765666ea9bf7d241647e8fbd76a8a277039a20cf",
-          "title": "Shifts in adaptive strategies of soil microbial communities during coral island revegetation",
+          "id": "46c1771551390f0cc2ab3b18a48463ad3a8a2012",
+          "title": "Activating Microbial Traits: Vitamin C Byproduct Alleviates Carbon Limitation and Enhances Plant-Soil-Microbe Coupling in Mine Dumps.",
           "year": 2026,
-          "journal": "Journal of Applied Ecology",
+          "journal": "Environmental Research",
           "authors": [
-            "Lu-Ping Huang",
-            "Mingxing Wang",
-            "An-Hui Ge"
+            "Hao-Tian Cheng",
+            "Wen-Yue Sun",
+            "Shu-Hui Bian"
           ],
-          "doi": "10.1111/1365-2664.70547",
-          "url": "https://www.semanticscholar.org/paper/765666ea9bf7d241647e8fbd76a8a277039a20cf",
+          "doi": "10.1016/j.envres.2026.125708",
+          "url": "https://www.semanticscholar.org/paper/46c1771551390f0cc2ab3b18a48463ad3a8a2012",
           "citation_count": 0
         }
       ],
@@ -3645,8 +3645,8 @@
         "soil",
         "water"
       ],
-      "detail_enriched_at": "2026-09-19T23:09:06.297071+00:00",
-      "edges_enriched_at": "2026-09-19T23:09:14.859570+00:00"
+      "detail_enriched_at": "2026-10-20T00:22:48.561921+00:00",
+      "edges_enriched_at": "2026-10-20T00:22:49.394956+00:00"
     },
     {
       "id": "39a2a40de575c71c045504e110a3df04ebb65a53",
@@ -4762,11 +4762,39 @@
       "url": "https://www.semanticscholar.org/paper/c03668c9ef0add1e1d97f2ac28d38551c45ff36b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c03668c9ef0add1e1d97f2ac28d38551c45ff36b",
       "pdf_url": "",
-      "citation_count": 3,
+      "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 58,
       "references": [],
       "similar_papers": [
+        {
+          "id": "fb27eb61b4addd2ca74072ac66c14507d6b5cd4f",
+          "title": "Methanotroph-Derived\nReactive Oxygen Species Facilitate\nArsenic Oxidation in Paddy Soils",
+          "year": 2026,
+          "journal": "Environmental Science &amp;\nTechnology",
+          "authors": [
+            "Wei-Xiao Yang",
+            "Wen-Kang Lu",
+            "Chun-Yu Lai"
+          ],
+          "doi": "10.1021/acs.est.6c08439",
+          "url": "https://www.semanticscholar.org/paper/fb27eb61b4addd2ca74072ac66c14507d6b5cd4f",
+          "citation_count": 0
+        },
+        {
+          "id": "6e73d592922fd78f19a77f0d8d0544b5318cc3eb",
+          "title": "Low-crystallinity iron oxide minerals generated from iron powder applied to rice paddy enhanced microbial nitrogen fixation in soil",
+          "year": 2026,
+          "journal": "Paddy and Water Environment",
+          "authors": [
+            "Sakura Sato",
+            "Yoko Masuda",
+            "Toshihiro Kogure"
+          ],
+          "doi": "10.1007/s10333-026-01103-5",
+          "url": "https://www.semanticscholar.org/paper/6e73d592922fd78f19a77f0d8d0544b5318cc3eb",
+          "citation_count": 0
+        },
         {
           "id": "edf833c04a76f468d1c9de572b5c72ea08b3f351",
           "title": "Co-utilization of manganous nitrate and pyrolusite enables concurrent mitigation of arsenic mobilization and greenhouse gas emissions in paddy-field wetlands.",
@@ -4782,59 +4810,31 @@
           "citation_count": 0
         },
         {
-          "id": "152fbaf123d34150e44cf1767c45c85f75227ef0",
-          "title": "Biodegradable and conventional microplastics differentially affected greenhouse gas emissions from a flooded paddy soil: Insight into metagenomic analysis.",
-          "year": 2026,
-          "journal": "Environmental Pollution",
-          "authors": [
-            "Wen-Fang Li",
-            "Zhi Yu",
-            "Jian Zhang"
-          ],
-          "doi": "10.1016/j.envpol.2026.128934",
-          "url": "https://www.semanticscholar.org/paper/152fbaf123d34150e44cf1767c45c85f75227ef0",
-          "citation_count": 0
-        },
-        {
-          "id": "5072ed272eac23d520a266f472471faf89aa67b4",
-          "title": "Smaller Nano-Silica Particles Promote Ammonium Dominance and Mitigate N2O Emissions in Flooded Tropical Paddy Soil",
-          "year": 2026,
-          "journal": "Agriculture",
-          "authors": [
-            "Xiaomeng Sun",
-            "Junjie Feng",
-            "Rui Zhang"
-          ],
-          "doi": "10.3390/agriculture16161739",
-          "url": "https://www.semanticscholar.org/paper/5072ed272eac23d520a266f472471faf89aa67b4",
-          "citation_count": 0
-        },
-        {
-          "id": "48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
-          "title": "Methane-Derived Zero-Valent Carbon Solids Inhibit Nitrification and Decrease Nitrous Oxide Flux from Agricultural Soils",
-          "year": 2026,
-          "journal": "ACS Agricultural Science &amp; Technology",
-          "authors": [
-            "Johanna Bangala",
-            "C. Schwarz",
-            "Xiao-Dong Gao"
-          ],
-          "doi": "10.1021/acsagscitech.6c00312",
-          "url": "https://www.semanticscholar.org/paper/48aefc8f35ffe7ec36c29e3739a8b7d425f5722b",
-          "citation_count": 0
-        },
-        {
-          "id": "72076a27c7e86eeeef7d8261349a4092906c2a02",
-          "title": "Labile carbon supply modulates H2O2-mediated N2O emissions during sediment denitrification: Insights from metagenomics.",
+          "id": "2e9475ec1903096addcdc9bac36ee43734700172",
+          "title": "Nitrogen availability shifts the microbial drivers of post-drought N2O emissions in contrasting agricultural soils.",
           "year": 2026,
           "journal": "Journal of Environmental Management",
           "authors": [
-            "Pan Huo",
-            "Yue Li",
-            "Tian-Yi Han"
+            "Shuo-Shuo Wu",
+            "Zhen Liang",
+            "Zhao-Ying Chen"
           ],
-          "doi": "10.1016/j.jenvman.2026.130690",
-          "url": "https://www.semanticscholar.org/paper/72076a27c7e86eeeef7d8261349a4092906c2a02",
+          "doi": "10.1016/j.jenvman.2026.131022",
+          "url": "https://www.semanticscholar.org/paper/2e9475ec1903096addcdc9bac36ee43734700172",
+          "citation_count": 0
+        },
+        {
+          "id": "a4d46c3c7575d34fd9dd7d8c3d07cf8234aebba3",
+          "title": "Unveiling the overlooked nitrous oxide reduction enzyme in wastewater treatment systems.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Yong-Chao Wang",
+            "Yi-Fan Zhang",
+            "Guang-Shuo He"
+          ],
+          "doi": "10.1016/j.watres.2026.126987",
+          "url": "https://www.semanticscholar.org/paper/a4d46c3c7575d34fd9dd7d8c3d07cf8234aebba3",
           "citation_count": 0
         }
       ],
@@ -4855,8 +4855,8 @@
         "soil",
         "water"
       ],
-      "detail_enriched_at": "2026-09-18T23:20:52.785196+00:00",
-      "edges_enriched_at": "2026-09-19T23:09:14.859570+00:00"
+      "detail_enriched_at": "2026-10-20T00:22:48.561921+00:00",
+      "edges_enriched_at": "2026-10-20T00:22:49.394956+00:00"
     },
     {
       "id": "2e3ed89f2c0d177e6b1c6aa5fd9c53621b311b75",
@@ -12222,7 +12222,7 @@
       "url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1696238/pdf",
-      "citation_count": 10,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 232,
       "references": [
@@ -13096,7 +13096,7 @@
       "url": "https://www.semanticscholar.org/paper/f77bba242c96c6452f4d04e06f36e8905a07aeff",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f77bba242c96c6452f4d04e06f36e8905a07aeff",
       "pdf_url": "",
-      "citation_count": 9,
+      "citation_count": 10,
       "influential_citation_count": 0,
       "reference_count": 60,
       "references": [],
@@ -19114,7 +19114,7 @@
         "Hao Wu",
         "Wen Cheng",
         "Liang Zhao",
-        "Guofeng Yu",
+        "Guo-Feng Yu",
         "Jie-Hui Ren"
       ],
       "journal": "Water Research",
@@ -30446,7 +30446,7 @@
       "url": "https://www.semanticscholar.org/paper/03f6509c440fcf943638f3b89833bf82c609be99",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/03f6509c440fcf943638f3b89833bf82c609be99",
       "pdf_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1363775/pdf",
-      "citation_count": 20,
+      "citation_count": 21,
       "influential_citation_count": 1,
       "reference_count": 38,
       "references": [
@@ -30845,7 +30845,7 @@
       "url": "https://www.semanticscholar.org/paper/358a61acc87348c98202fa498b21161f502cd011",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/358a61acc87348c98202fa498b21161f502cd011",
       "pdf_url": "https://www.mdpi.com/2073-4441/16/3/461/pdf?version=1706692788",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 48,
       "references": [
@@ -33082,12 +33082,12 @@
       "doi": "10.1002/ldr.4927",
       "title": "Metagenomic insight into antagonistic effects of a nitrification inhibitor and phosphate‐solubilizing bacteria on soil protease activity",
       "authors": [
-        "Yaohui Liu",
+        "Yao-Hui Liu",
         "Weijin Wang",
         "A. Nessa",
         "Shengyou Yang",
         "Wenyuan Zhang",
-        "Manyun Zhang"
+        "Man-Yun Zhang"
       ],
       "journal": "Land Degradation &amp; Development",
       "publication_date": "2023-09-28",
@@ -39698,7 +39698,7 @@
       "url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/749ddfd02c4684a2a3149f47a7f2e9b3e17c4b67",
       "pdf_url": "https://doi.org/10.1016/j.geoderma.2022.115846",
-      "citation_count": 246,
+      "citation_count": 247,
       "influential_citation_count": 4,
       "reference_count": 78,
       "references": [
@@ -39911,7 +39911,7 @@
       "url": "https://www.semanticscholar.org/paper/c22ae7b71dadc3759ad56608b6cf6daa4d1192ff",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c22ae7b71dadc3759ad56608b6cf6daa4d1192ff",
       "pdf_url": "",
-      "citation_count": 80,
+      "citation_count": 81,
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
@@ -43115,7 +43115,7 @@
       "url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0160412021001471/pdf",
-      "citation_count": 197,
+      "citation_count": 198,
       "influential_citation_count": 6,
       "reference_count": 64,
       "references": [
@@ -44964,7 +44964,7 @@
         "M. Megharaj",
         "Qingqing Zhao",
         "Wen Zhang",
-        "Yanju Liu",
+        "Yan-Ju Liu",
         "Jia-Ning Wang",
         "R. Naidu"
       ],
@@ -44974,7 +44974,7 @@
       "url": "https://www.semanticscholar.org/paper/954b60f8dad5e143a5c4528ed7a5fa12e4c0b019",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/954b60f8dad5e143a5c4528ed7a5fa12e4c0b019",
       "pdf_url": "",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 1,
       "reference_count": 53,
       "references": [],
@@ -45360,7 +45360,7 @@
         "Man-Man Zheng",
         "Zehui Cai",
         "Boren Wang",
-        "R. Shen"
+        "Ren F. Shen"
       ],
       "journal": "Applied Soil Ecology",
       "publication_date": "2020-12-01",
@@ -46273,7 +46273,7 @@
       "url": "https://www.semanticscholar.org/paper/f4c241d659c2e0a36d76d04b32dd9ebe1619e33e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f4c241d659c2e0a36d76d04b32dd9ebe1619e33e",
       "pdf_url": "https://research.wur.nl/en/publications/the-natural-recovery-of-soil-microbial-community-and-nitrogen-fun",
-      "citation_count": 53,
+      "citation_count": 54,
       "influential_citation_count": 2,
       "reference_count": 76,
       "references": [],
@@ -49464,7 +49464,7 @@
       "url": "https://www.semanticscholar.org/paper/b6c91e104846bd469f936dcbdcdd27bd3b14a296",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b6c91e104846bd469f936dcbdcdd27bd3b14a296",
       "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0217431&type=printable",
-      "citation_count": 41,
+      "citation_count": 42,
       "influential_citation_count": 3,
       "reference_count": 74,
       "references": [
@@ -52281,7 +52281,7 @@
         "K. Zhalnina",
         "Raquel Dias",
         "Michael T Leonard",
-        "Patricia Dorr de Quadros",
+        "Patricia Dörr de Quadros",
         "F. Camargo",
         "Jennifer C. Drew",
         "W. Farmerie",
