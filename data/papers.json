@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:35:22.506831+00:00",
+  "updated_at": "2026-10-29T01:00:55.265501+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -246,6 +246,103 @@
     "groundwater estuary hzsA hao nxrA narG napA nrfA ureC DNRA nrfA dissimilatory nitrate reduction"
   ],
   "papers": [
+    {
+      "id": "b58f8b2d4995f8a504cb22b4e7dd2f2820818fab",
+      "semantic_scholar_id": "b58f8b2d4995f8a504cb22b4e7dd2f2820818fab",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.3390/microorganisms14112443",
+      "title": "Long-Term Nitrogen and Phosphorus Control and Microbial Responses by Tea-Bag-Encapsulated MgO-Modified Biochar at the Sediment–Water Interface",
+      "authors": [
+        "Yi Ding",
+        "Bei-Bei Chai",
+        "Yi-Jie Wang",
+        "Wen-Long Chen",
+        "Cheng Gao",
+        "Yan Liu",
+        "Ai-Qing Kang",
+        "Zhi-Gao Men",
+        "Xiao-Hui Lei",
+        "Shuai-Long Cheng",
+        "Li Li",
+        "Li-Xin He"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2026-10-24",
+      "abstract": "Internal phosphorus release from sediments is an important limiting factor in the remediation of eutrophic water bodies. Tea-bag-encapsulated MgO-modified biochar has advantages in phosphorus adsorption, microbial attachment, and convenient recovery, but its long-term phosphorus control effect and associated microbial responses at the sediment–water interface remain unclear. In this study, a 124-day sediment–water simulation experiment combined with metagenomic sequencing was conducted to evaluate its effects on nitrogen and phosphorus removal, water environmental changes, and microbial phosphorus-cycling functions. The results showed that the removal efficiencies of phosphate, total phosphorus, ammonia nitrogen, and total nitrogen in the treatment group reached 88%, 67%, 90%, and 40%, respectively. After application, the BET specific surface area of the material decreased from 47.85 to 20.18 m2/g, obvious surface deposits appeared, and phosphorus enrichment was detected, indicating that the material continuously participated in interfacial phosphorus fixation. Meanwhile, the relative abundances of Anaerolinea and Nitrospira increased from 5.71% to 10.08% and from 0.72% to 1.06%, respectively. Functional gene analysis showed that the relative abundances of genes related to phosphorus sensing, transport, and polyphosphate metabolism changed, suggesting that the functional potential related to phosphorus acquisition and storage was adjusted. Since this study was based on a small-scale long-term simulation system, the contribution of the material was mainly interpreted through the stage-specific differences between BC and BT, material characterization, and microbial functional responses, while the independent effects of time-varying factors such as temperature and redox conditions still require further controlled experiments. Overall, the sustained phosphorus control effect of tea-bag-encapsulated MgO-modified biochar was mainly associated with interfacial material fixation, microbial community changes, and adjustments in phosphorus cycling functional potential.",
+      "url": "https://www.semanticscholar.org/paper/b58f8b2d4995f8a504cb22b4e7dd2f2820818fab",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/b58f8b2d4995f8a504cb22b4e7dd2f2820818fab",
+      "pdf_url": "https://doi.org/10.3390/microorganisms14112443",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 30,
+      "references": [
+        {
+          "title": "Unraveling the Synergistic Mechanisms of Phosphorus Adsorption and Slow-Release on Low-Mg-Loaded Biochar Enabled by KOH Activation",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/540ecc5ab2c5f936e1b29a8a10a9cdb6872706c1",
+          "doi": "10.3390/ma18225214"
+        },
+        {
+          "title": "Biochar-enabled phosphorus recovery from aqueous: Advances, applications and challenges.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/55627d0d3ee45d1b24f447d673b29cddc7b56100",
+          "doi": "10.1016/j.envres.2025.122329"
+        },
+        {
+          "title": "Nitrogen and phosphorus in water-sediment system of eutrophic lake amended with biochar-supported Effective Microorganisms: Temporal variation and remediation.",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/4cb2068411d474edacd3af12391601cbc1c1897d",
+          "doi": "10.1016/j.jenvman.2025.124732"
+        },
+        {
+          "title": "Interactions between microbial extracellular polymeric substances and biochar, and their potential applications: a review",
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/ec7236015c7d5c92ac7322b216441062c638d9d0",
+          "doi": "10.1007/s42773-025-00452-4"
+        },
+        {
+          "title": "Effects of Trophic State on the Composition and Distribution of Bacteria in the Surface Sediments of Lake Taihu",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/9f8e0500541133a2dbab01689d8be3157c8f0a8b",
+          "doi": "10.1111/fwb.14367"
+        },
+        {
+          "title": "Influence of in situ biochar capping on microbial dynamics and ammonia nitrogen release in sediment.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/9b84e00d293dcac1629259b38d02507f897ae80b",
+          "doi": "10.1016/j.jenvman.2024.123524"
+        },
+        {
+          "title": "Engineered biochar for in-situ and ex-situ remediation of contaminants from soil and water.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/60b74e84db4824a2ba9aa927e91de176e2386a50",
+          "doi": "10.1016/j.scitotenv.2024.177384"
+        },
+        {
+          "title": "Remediation of biochar-supported effective microorganisms and microplastics on multiple forms of nitrogenous and phosphorous in eutrophic lake.",
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/1413453b1008c2f215abeddd28259fa4fc33657f",
+          "doi": "10.1016/j.scitotenv.2024.177142"
+        }
+      ],
+      "similar_papers": [],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-29T01:00:34.277646+00:00"
+    },
     {
       "id": "b57cb564d0eb58075063320a759f78f16f3a52fa",
       "semantic_scholar_id": "b57cb564d0eb58075063320a759f78f16f3a52fa",
@@ -894,7 +991,7 @@
       "id": "f68232bf4abbb1eafb9b29da7a1408df05eaa494",
       "semantic_scholar_id": "f68232bf4abbb1eafb9b29da7a1408df05eaa494",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42942211",
       "doi": "10.3390/life16101625",
       "title": "Effects of Arbuscular Mycorrhizal Fungi and Clay Minerals on Soil Nitrogen and Phosphorus Availability and Microbial Community Responses",
       "authors": [
@@ -1038,7 +1135,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -1058,7 +1157,7 @@
       "id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
       "semantic_scholar_id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
       "source": "Semantic Scholar",
-      "pmid": "",
+      "pmid": "42943391",
       "doi": "10.3390/microorganisms14102151",
       "title": "Warming and Nitrogen Addition Induce Asynchronous Taxonomic and Functional Responses and Reorganize Microbial C, N, P Cycling Potential in an Alpine Wetland on the Qinghai–Tibet Plateau",
       "authors": [
@@ -1199,7 +1298,9 @@
           "citation_count": 0
         }
       ],
-      "fields_of_study": [],
+      "fields_of_study": [
+        "Medicine"
+      ],
       "publication_types": [
         "JournalArticle"
       ],
@@ -2812,45 +2913,6 @@
       "edges_enriched_at": "2026-10-03T23:48:58.648385+00:00"
     },
     {
-      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1016/j.pedsph.2026.09.008",
-      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
-      "authors": [
-        "Takeshi Shoda",
-        "Miku Hayakawa",
-        "Ryoji Nakazato",
-        "Tomoyasu Nishizawa"
-      ],
-      "journal": "Pedosphere",
-      "publication_date": "2026-09-01",
-      "abstract": "",
-      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 59,
-      "references": [],
-      "similar_papers": [],
-      "fields_of_study": [],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrogen",
-        "sediment",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
-      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
-    },
-    {
       "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
       "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
       "source": "Semantic Scholar",
@@ -3084,6 +3146,45 @@
       ],
       "detail_enriched_at": "2026-10-18T23:14:18.970336+00:00",
       "edges_enriched_at": "2026-10-18T23:14:19.537130+00:00"
+    },
+    {
+      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1016/j.pedsph.2026.09.008",
+      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
+      "authors": [
+        "Takeshi Shoda",
+        "Miku Hayakawa",
+        "Ryoji Nakazato",
+        "Tomoyasu Nishizawa"
+      ],
+      "journal": "Pedosphere",
+      "publication_date": "2026-09-01",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 59,
+      "references": [],
+      "similar_papers": [],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrogen",
+        "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
+      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -11551,7 +11652,7 @@
       "url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0c3a92a62e51132e6aeb07f1205858f3c0d287b9",
       "pdf_url": "https://www.nature.com/articles/s41564-025-02213-2.pdf",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 97,
       "references": [
@@ -12464,7 +12565,7 @@
       "url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/722d4234ccea7936b2249ad429a9e0f6bf828a67",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1696238/pdf",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 232,
       "references": [
@@ -12752,7 +12853,7 @@
       "abstract": "Introduction In tobacco planting soil infected with root rot disease, the potential impacts of prothioconazole (T1), pyrisoxazole (T2), kasugamycin combined with Paenibacillus polymyxa (T3), and cyclobutrifluram (T4) on soil microecology remain unclear. This study examined their effects on soil microbial communities and nitrogen transformation processes. Methods By measuring soil nitrogen forms and enzyme activities, combined with metagenomic sequencing, we conducted a comprehensive assessment of the soil microecology, focusing on shifts in microbial community composition, xenobiotic degradation potential, and nitrogen cycling processes. Results and discussion The results revealed that pesticide application significantly changed the content of nitrogen forms and their transformation rate. T1 and T2 treatments significantly increased the accumulation of ammonium nitrogen (NH4+-N), while T2 and T4 markedly promoted the accumulation of nitrate nitrogen (NO3–-N). Microbial community analysis indicated that the T2 and T4 treatments significantly affected the microbial structure. Analysis of xenobiotic degradation pathways showed that multiple pathways were suppressed by the four pesticide treatments, with the T2 treatment exhibiting the broadest suppressive effect. Metagenomic analysis further revealed that the T2 treatment promoted the accumulation of both NH4+-N and NO3–-N by up-regulating the mineralization gene (gdh) and nitrification genes (hao and nxrAB), while the T4 treatment facilitated NO3–-N accumulation by up-regulating nitrification genes (hao and nxrAB). Correlation network analysis uncovered relationships between key nitrogen cycle genes and microbial genera, showing that nitrification genes (hao and nxrAB) in the T2 and T4 treatment groups exhibited positive correlations with Nitrobacter and Nitrosovibrio. This research clarifies the pathways through which these four pesticides influence the soil nitrogen cycle, providing an important theoretical basis for their ecological risk assessment and rational application.",
       "url": "https://www.semanticscholar.org/paper/7a823d3ff4676f241d04761f07491a75231cdd9f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/7a823d3ff4676f241d04761f07491a75231cdd9f",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.3389/fmicb.2025.1733977",
       "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 75,
@@ -13683,7 +13784,7 @@
       "abstract": "Introduction Microbial communities and their associated carbon, nitrogen, and phosphorus metabolic processes play a role in maintaining ecological functions and nutrient cycling in riparian zones. However, systematic research on the coupling mechanisms of carbon, nitrogen, and phosphorus biogeochemical processes in soil profiles of semi-arid riparian soil is still limited. Methods This study focused on the riparian zone of the Tuwei River, a typical semi-arid river. Metagenomic sequencing was used to analyze the composition of microbial communities and their carbon, nitrogen, and phosphorus metabolic functions across different soil depths along the river. Results The dominant taxa across all depths and river sections were Proteobacteria (average relative abundance 49.85%) and Serratia (11.23%). Results from ANOVA and Tukey–Kramer post-hoc multiple comparison tests showed that microbial diversity significantly decreased with increasing soil depth (p < 0.05). Gene families associated with carbon fixation (accC, pccB), denitrification (nosZ, nirK), and phosphorus metabolism (purC, guaB, pyrG) were significantly enriched in surface soils and showed clear depth-dependent declines (p < 0.05). Partial Mantel tests revealed that microbial metabolic functions were significantly correlated with porosity (p < 0.05), soil organic carbon, total nitrogen, and total phosphorus, confirming that nutrient availability and soil structure are key regulators of microbial biogeochemical functions. Conclusion Our findings reveal that nutrient availability and soil structure jointly regulate the vertical distribution of microbial metabolic functions. These insights provide a scientific basis for ecological restoration and soil management in semi-arid riparian zones, where optimizing surface structure and nutrient inputs can stimulate microbial-driven biogeochemical cycling. Key functional taxa and genes may also serve as sensitive indicators for evaluating restoration effectiveness under climate-induced stress.",
       "url": "https://www.semanticscholar.org/paper/06704d77044c3cb4332bbf52ad2032161b3811bc",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/06704d77044c3cb4332bbf52ad2032161b3811bc",
-      "pdf_url": "",
+      "pdf_url": "https://doi.org/10.3389/fmicb.2025.1717707",
       "citation_count": 3,
       "influential_citation_count": 0,
       "reference_count": 98,
@@ -14134,7 +14235,7 @@
         "Feng Zhou",
         "Jiang-Ning Zeng",
         "Meng Li",
-        "Dayu Zou",
+        "Da-Yu Zou",
         "Zhibing Jiang"
       ],
       "journal": "Frontiers in Microbiology",
@@ -14142,7 +14243,7 @@
       "abstract": "Coastal hypoxia, intensified by global warming and eutrophication, profoundly affects marine nitrogen cycling. However, its impact on diazotrophic communities in large river estuaries remains poorly understood. During an unprecedented hypoxia event (minimum dissolved oxygen at 2.70 μmol L−1) in August 2016 in the Changjiang Estuary, we sampled across a dissolved oxygen (DO) gradient spanning hypoxic and non-hypoxic waters. Using nifH gene amplicon sequencing, metagenomic binning, and multivariate statistical analyses, we found that higher diazotrophic biodiversity was observed in hypoxia zone, with non-cyanobacterial diazotrophs dominating the communities. The phylum Thermodesulfobacteriota (with relative abundance of 58.93% totally) exhibited significant hypoxia-specific enrichment. LEfSe analysis identified Thermodesulfobacteriota as potential hypoxia biomarkers, while network analysis revealed their keystone role, representing 68.6% of highly connected nodes. Environmental drivers, including low DO concentrations (7.50–61.88 μmol L−1 in hypoxic vs. 66.56–255.63 μmol L−1 in non-hypoxic zones), elevated salinity (30.67–34.50), increased dissolved reactive phosphorus (0.39–1.26 μmol L−1), and nitrate depletion (0.30–22.50 μmol L−1), collectively created favorable conditions for the development of the observed diazotrophic community under hypoxia. Metagenomic analysis revealed a hypoxia-driven increase in nifH gene abundance, with nifH-carrying metagenome-assembled genomes affiliated with Thermodesulfobacteriota showing approximately a 4.7-fold higher relative abundance in hypoxic zone compared to non-hypoxic zone. Reconstruction of metabolic pathways from metagenome-assembled genomes (MAGs) further suggested their potential involvement in both nitrogen fixation and carbon–sulfur cycling. Amplicon and metagenomic datasets consistently demonstrated Thermodesulfobacteriota’s predominant in hypoxia. These findings redefine estuarine nitrogen flux models by highlighting hypoxia-driven taxonomic and functional shifts in diazotrophic communities, and provide a foundation for assessing the potential microbial resilience and ecosystem risks in expanding coastal hypoxic zones. Our study underscores the genomic potential of Thermodesulfobacteriota as key players in the nitrogen cycle under hypoxia, a hypothesis that warrants future validation through direct activity measurements.",
       "url": "https://www.semanticscholar.org/paper/c4450945c421799cbec1d4555835b12cfcfa2a49",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c4450945c421799cbec1d4555835b12cfcfa2a49",
-      "pdf_url": "",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1671267/pdf",
       "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 94,
@@ -14470,7 +14571,7 @@
       "abstract": "Nitrogen (N) mineralization is a complex microbial-driven process that controls the supply of N for plants and microbes. The relative contribution of different microbial N-cycling species/genes to the variation in N mineralization rate (NMR) across contrasting forest biomes was unclear. Here, we investigate the linkages between soil metagenomes and N mineralization rates across 10 contrasting forest biomes (covering temperate, subtropical, and tropical forests) along a 3425 km north–south forest in China. We found that the NMR was higher in subtropical forests, and the variation in NMR can be explained by climate and soil environments, particularly for soil substrate NH4+. Similar to NMR, microbial N-cycling genes/species were also higher in subtropical forests, suggesting that the higher microbial N-cycling traits in warm regions may drive higher NMR. We also quantified the contribution of microbial N-cycling gene pathways to NMR across forest biomes and found that the microbial N-denitrification pathway (genes like norZ, narG, nirK, and norB) and nitrification pathway (genes like nxr) explained more variation in NMR than other pathways, such as N ammonification. Collectively, our work demonstrates the importance of microbial N-cycling traits to explain soil N mineralization rates across forest biomes and suggests that this information can be used to help improve the management of the N cycle in forests across biomes.",
       "url": "https://www.semanticscholar.org/paper/f8c0bde614d936b60ae08f4dae3e74a7ea3d893c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f8c0bde614d936b60ae08f4dae3e74a7ea3d893c",
-      "pdf_url": "",
+      "pdf_url": "https://www.mdpi.com/2076-2607/13/12/2799/pdf",
       "citation_count": 2,
       "influential_citation_count": 0,
       "reference_count": 46,
@@ -17140,7 +17241,7 @@
       "url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/af59cdcabc0e9b9fa8eb4c58862b21c3d1e6db23",
       "pdf_url": "",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 93,
       "references": [],
@@ -19247,7 +19348,7 @@
       "url": "https://www.semanticscholar.org/paper/54b3e5bb26dfc4025cb78abb1056c2a9476e9ca4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/54b3e5bb26dfc4025cb78abb1056c2a9476e9ca4",
       "pdf_url": "",
-      "citation_count": 5,
+      "citation_count": 6,
       "influential_citation_count": 0,
       "reference_count": 41,
       "references": [],
@@ -19823,7 +19924,7 @@
       "url": "https://www.semanticscholar.org/paper/0e95e944d7e6ba1fda387b04c967201929b91cf5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e95e944d7e6ba1fda387b04c967201929b91cf5",
       "pdf_url": "",
-      "citation_count": 11,
+      "citation_count": 12,
       "influential_citation_count": 0,
       "reference_count": 109,
       "references": [],
@@ -21378,7 +21479,7 @@
       "url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/40b8936e5a23c2a2fb1a813d050dfd7a86c7c0de",
       "pdf_url": "https://doi.org/10.1016/j.biotechadv.2025.108580",
-      "citation_count": 48,
+      "citation_count": 49,
       "influential_citation_count": 1,
       "reference_count": 372,
       "references": [
@@ -22489,7 +22590,7 @@
         "Liying Wu",
         "Xin Qi",
         "Si-Yu Sun",
-        "Zhengkui Li"
+        "Zheng-Kui Li"
       ],
       "journal": "Water Research",
       "publication_date": "2025-03-01",
@@ -22497,7 +22598,7 @@
       "url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3a9df04504c2f423f9694c0297bb89d6609a1e47",
       "pdf_url": "",
-      "citation_count": 34,
+      "citation_count": 35,
       "influential_citation_count": 1,
       "reference_count": 57,
       "references": [],
@@ -26828,7 +26929,7 @@
       "url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1411073/pdf",
-      "citation_count": 55,
+      "citation_count": 56,
       "influential_citation_count": 1,
       "reference_count": 72,
       "references": [
@@ -28948,6 +29049,124 @@
       "edges_enriched_at": "2026-10-04T23:58:28.954475+00:00"
     },
     {
+      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "source": "Semantic Scholar",
+      "pmid": "38749183",
+      "doi": "10.1016/j.watres.2024.121761",
+      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
+      "authors": [
+        "Lu-Tong Yang",
+        "Ping Han",
+        "Qiao-Juan Wang",
+        "Hui Lin",
+        "Donglin Wang",
+        "Jie Mao",
+        "Wei-Xiao Qi",
+        "Yaohui Bai",
+        "Jiu-Hui Qu"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2024-05-01",
+      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
+      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "pdf_url": "",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 65,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "34c64115b379b495efcedf5a274fd1bb8671021a",
+          "title": "Common Nitrification\nInhibitors Exhibit Distinct Mechanisms\non the Ammonia-Oxidizing Archaeon\n Nitrososphaera viennensis",
+          "year": 2026,
+          "journal": "Environmental Science &amp;\nTechnology",
+          "authors": [
+            "Dimitrios Dalkidis",
+            "Andrea Malits",
+            "M. Kerou"
+          ],
+          "doi": "10.1021/acs.est.6c08773",
+          "url": "https://www.semanticscholar.org/paper/34c64115b379b495efcedf5a274fd1bb8671021a",
+          "citation_count": 0
+        },
+        {
+          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Zhi-Qiang Zuo",
+            "Long-Kai Qiao",
+            "X. Cen"
+          ],
+          "doi": "10.1021/acs.est.6c03588",
+          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
+          "citation_count": 1
+        },
+        {
+          "id": "497ebae47fc69256c0d6616b763c313c2bd5517b",
+          "title": "Environmentally aged microplastics alter archaeal and bacterial roles in ammonia oxidation of intertidal soils.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Ru-Yuan Chen",
+            "Shujie Ruan",
+            "Cheng Liu"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.120270",
+          "url": "https://www.semanticscholar.org/paper/497ebae47fc69256c0d6616b763c313c2bd5517b",
+          "citation_count": 0
+        },
+        {
+          "id": "62044a5e1092be6150e3ec172fd5b6ec53fc8214",
+          "title": "Overlooked\nyet Critical: Unveiling the Impacts of\nEmerging Contaminants on the Phytoplankton Community Structure and\nFunction in an Urban River System",
+          "year": 2026,
+          "journal": "Environmental Science &amp; Technology",
+          "authors": [
+            "Yi-Min Feng",
+            "Shen-Yang Pan",
+            "Tian-Chang Huang"
+          ],
+          "doi": "10.1021/acs.est.6c11359",
+          "url": "https://www.semanticscholar.org/paper/62044a5e1092be6150e3ec172fd5b6ec53fc8214",
+          "citation_count": 0
+        },
+        {
+          "id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+          "title": "Warming and Nitrogen Addition Induce Asynchronous Taxonomic and Functional Responses and Reorganize Microbial C, N, P Cycling Potential in an Alpine Wetland on the Qinghai–Tibet Plateau",
+          "year": 2026,
+          "journal": "Microorganisms",
+          "authors": [
+            "Wen-Hua Chang",
+            "Wei-Wei Ma",
+            "Jia-Nan Du"
+          ],
+          "doi": "10.3390/microorganisms14102151",
+          "url": "https://www.semanticscholar.org/paper/eb0e7d46d10d265a24eefc08026f4771dfcaad50",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "urban",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-03T23:48:24.759959+00:00",
+      "edges_enriched_at": "2026-10-04T23:58:28.954475+00:00"
+    },
+    {
       "id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "semantic_scholar_id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "source": "Semantic Scholar",
@@ -29116,124 +29335,6 @@
         "nitrogen",
         "nitrogen_fixation",
         "sediment"
-      ],
-      "detail_enriched_at": "2026-10-03T23:48:24.759959+00:00",
-      "edges_enriched_at": "2026-10-04T23:58:28.954475+00:00"
-    },
-    {
-      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "source": "Semantic Scholar",
-      "pmid": "38749183",
-      "doi": "10.1016/j.watres.2024.121761",
-      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
-      "authors": [
-        "Lu-Tong Yang",
-        "Ping Han",
-        "Qiao-Juan Wang",
-        "Hui Lin",
-        "Donglin Wang",
-        "Jie Mao",
-        "Wei-Xiao Qi",
-        "Yaohui Bai",
-        "Jiu-Hui Qu"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2024-05-01",
-      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
-      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "pdf_url": "",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 65,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "34c64115b379b495efcedf5a274fd1bb8671021a",
-          "title": "Common Nitrification\nInhibitors Exhibit Distinct Mechanisms\non the Ammonia-Oxidizing Archaeon\n Nitrososphaera viennensis",
-          "year": 2026,
-          "journal": "Environmental Science &amp;\nTechnology",
-          "authors": [
-            "Dimitrios Dalkidis",
-            "Andrea Malits",
-            "M. Kerou"
-          ],
-          "doi": "10.1021/acs.est.6c08773",
-          "url": "https://www.semanticscholar.org/paper/34c64115b379b495efcedf5a274fd1bb8671021a",
-          "citation_count": 0
-        },
-        {
-          "id": "13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "title": "Wastewater-Derived Comammox Nitrospira for Next-Generation Wastewater Management.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Zhi-Qiang Zuo",
-            "Long-Kai Qiao",
-            "X. Cen"
-          ],
-          "doi": "10.1021/acs.est.6c03588",
-          "url": "https://www.semanticscholar.org/paper/13f7366113b5ea4a48b75f1cbea05367814a1591",
-          "citation_count": 1
-        },
-        {
-          "id": "497ebae47fc69256c0d6616b763c313c2bd5517b",
-          "title": "Environmentally aged microplastics alter archaeal and bacterial roles in ammonia oxidation of intertidal soils.",
-          "year": 2026,
-          "journal": "Marine Pollution Bulletin",
-          "authors": [
-            "Ru-Yuan Chen",
-            "Shujie Ruan",
-            "Cheng Liu"
-          ],
-          "doi": "10.1016/j.marpolbul.2026.120270",
-          "url": "https://www.semanticscholar.org/paper/497ebae47fc69256c0d6616b763c313c2bd5517b",
-          "citation_count": 0
-        },
-        {
-          "id": "62044a5e1092be6150e3ec172fd5b6ec53fc8214",
-          "title": "Overlooked\nyet Critical: Unveiling the Impacts of\nEmerging Contaminants on the Phytoplankton Community Structure and\nFunction in an Urban River System",
-          "year": 2026,
-          "journal": "Environmental Science &amp; Technology",
-          "authors": [
-            "Yi-Min Feng",
-            "Shen-Yang Pan",
-            "Tian-Chang Huang"
-          ],
-          "doi": "10.1021/acs.est.6c11359",
-          "url": "https://www.semanticscholar.org/paper/62044a5e1092be6150e3ec172fd5b6ec53fc8214",
-          "citation_count": 0
-        },
-        {
-          "id": "eb0e7d46d10d265a24eefc08026f4771dfcaad50",
-          "title": "Warming and Nitrogen Addition Induce Asynchronous Taxonomic and Functional Responses and Reorganize Microbial C, N, P Cycling Potential in an Alpine Wetland on the Qinghai–Tibet Plateau",
-          "year": 2026,
-          "journal": "Microorganisms",
-          "authors": [
-            "Wen-Hua Chang",
-            "Wei-Wei Ma",
-            "Jia-Nan Du"
-          ],
-          "doi": "10.3390/microorganisms14102151",
-          "url": "https://www.semanticscholar.org/paper/eb0e7d46d10d265a24eefc08026f4771dfcaad50",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "urban",
-        "water"
       ],
       "detail_enriched_at": "2026-10-03T23:48:24.759959+00:00",
       "edges_enriched_at": "2026-10-04T23:58:28.954475+00:00"
@@ -30446,7 +30547,7 @@
         "Jia-Hui Shao",
         "Zhi-Hui Xu",
         "Nan Zhang",
-        "Qirong Shen",
+        "Qi-Rong Shen",
         "Rui-Fu Zhang",
         "W. Xun"
       ],
@@ -30678,7 +30779,7 @@
         "Yu-Jia Zhai",
         "Ke-Gang Zhang",
         "Yaqi Wang",
-        "Ruoxuan Tang",
+        "Ruo-Xuan Tang",
         "Rong Xiao",
         "M. Jorquera"
       ],
@@ -30688,7 +30789,7 @@
       "url": "https://www.semanticscholar.org/paper/03f6509c440fcf943638f3b89833bf82c609be99",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/03f6509c440fcf943638f3b89833bf82c609be99",
       "pdf_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1363775/pdf",
-      "citation_count": 21,
+      "citation_count": 22,
       "influential_citation_count": 1,
       "reference_count": 38,
       "references": [
@@ -32151,7 +32252,7 @@
       "url": "https://www.semanticscholar.org/paper/2e29da3ccc4f094ab761fb33dd45a09bb35339b9",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2e29da3ccc4f094ab761fb33dd45a09bb35339b9",
       "pdf_url": "",
-      "citation_count": 35,
+      "citation_count": 36,
       "influential_citation_count": 0,
       "reference_count": 76,
       "references": [],
@@ -33454,7 +33555,7 @@
       "url": "https://www.semanticscholar.org/paper/cbcf8e58d8fe8344e1c9501bc92f1ca5cd71c3ea",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cbcf8e58d8fe8344e1c9501bc92f1ca5cd71c3ea",
       "pdf_url": "",
-      "citation_count": 38,
+      "citation_count": 39,
       "influential_citation_count": 1,
       "reference_count": 42,
       "references": [],
@@ -33578,7 +33679,7 @@
       "url": "https://www.semanticscholar.org/paper/c0b741884a1ad0ce8f4217ccf0e1d689c3404208",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c0b741884a1ad0ce8f4217ccf0e1d689c3404208",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.19252",
-      "citation_count": 39,
+      "citation_count": 40,
       "influential_citation_count": 0,
       "reference_count": 82,
       "references": [
@@ -34750,7 +34851,7 @@
       "url": "https://www.semanticscholar.org/paper/f4163ed73f955bb9aeb88cb6ab51a1d4ba6ef30e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f4163ed73f955bb9aeb88cb6ab51a1d4ba6ef30e",
       "pdf_url": "",
-      "citation_count": 39,
+      "citation_count": 40,
       "influential_citation_count": 2,
       "reference_count": 61,
       "references": [],
@@ -37148,7 +37249,7 @@
         "H. Grossart",
         "Peng Xing",
         "J. Priscu",
-        "S. Alymkulov",
+        "Salmor Alymkulov",
         "Michael Pester"
       ],
       "journal": "Science Advances",
@@ -37971,11 +38072,11 @@
         "Guan-Chu Zhang",
         "Bo Bai",
         "Yan Han",
-        "L. Xiao",
+        "Li-Na Xiao",
         "Yanqin Song",
         "Ying Li",
         "S. Wan",
-        "Guowei Li"
+        "Guo-Wei Li"
       ],
       "journal": "Journal of Hazardous Materials",
       "publication_date": "2022-11-01",
@@ -44429,7 +44530,7 @@
       "url": "https://www.semanticscholar.org/paper/9f406bebb55fc5a487aec62900fc9c0508580a68",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9f406bebb55fc5a487aec62900fc9c0508580a68",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0043135421001524/pdf",
-      "citation_count": 99,
+      "citation_count": 100,
       "influential_citation_count": 0,
       "reference_count": 85,
       "references": [
@@ -46066,7 +46167,7 @@
       "url": "https://www.semanticscholar.org/paper/da105134328325f911f362c9db411eab412dc33d",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/da105134328325f911f362c9db411eab412dc33d",
       "pdf_url": "",
-      "citation_count": 147,
+      "citation_count": 148,
       "influential_citation_count": 4,
       "reference_count": 70,
       "references": [],
@@ -46786,7 +46887,7 @@
       "doi": "10.1128/AEM.00736-20",
       "title": "Genomic Characteristics of a Novel Species of Ammonia-Oxidizing Archaea from the Jiulong River Estuary",
       "authors": [
-        "Dayu Zou",
+        "Da-Yu Zou",
         "Ruoqi Wan",
         "Li-min Han",
         "M. Xu",
@@ -46800,7 +46901,7 @@
       "abstract": "In this study, AOA communities along a river in southern China were characterized, and metagenome-assembled genomes (MAGs) of a novel AOA clade were also obtained. Based on the characterization of AOA genomes, the study suggests adaptation of the novel AOAs to estuarine environments, providing new information on the ecology of estuarine AOA and the nitrogen cycle in contaminated estuarine environments. ABSTRACT Ammonia-oxidizing archaea (AOA) are ubiquitous in diverse ecosystems and play a pivotal role in global nitrogen and carbon cycling. Although AOA diversity and distribution are widely studied, mainly based on the amoA (alpha subunit of ammonia monooxygenase) genotypes, only limited investigations have addressed the relationship between AOA genetic adaptation, metabolic features, and ecological niches, especially in estuaries. Here, we describe the AOA communities along the Jiulong River estuary in southern China. Nine high-quality AOA metagenome-assembled genomes (MAGs) were obtained by metagenomics. Five of the MAGs are proposed to constitute a new species, “Candidatus Nitrosopumilus aestuariumsis” sp. nov., based on the phylogenies of the 16S and 23S rRNA genes and concatenated ribosomal proteins, as well as the average amino acid identity. Comparative genomic analysis revealed unique features of the new species, including a high number of genes related to diverse carbohydrate-active enzymes, phosphatases, heavy-metal transport systems, flagellation, and chemotaxis. These genes may be crucial for AOA adaptation to the eutrophic and heavy-metal-contaminated Jiulong River estuary. The uncovered detailed genomic characteristics of the new estuarine AOA species highlight AOA contributions to ammonia oxidation in the Jiulong River estuary. IMPORTANCE In this study, AOA communities along a river in southern China were characterized, and metagenome-assembled genomes (MAGs) of a novel AOA clade were also obtained. Based on the characterization of AOA genomes, the study suggests adaptation of the novel AOAs to estuarine environments, providing new information on the ecology of estuarine AOA and the nitrogen cycle in contaminated estuarine environments.",
       "url": "https://www.semanticscholar.org/paper/81fe77d73594529af025d1df07fc50a0c10dbaaa",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe77d73594529af025d1df07fc50a0c10dbaaa",
-      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480389",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7480389",
       "citation_count": 21,
       "influential_citation_count": 2,
       "reference_count": 111,
@@ -47253,7 +47354,7 @@
       "url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/68f9688396650b0ce93d04a81c164593d7867626",
       "pdf_url": "https://doi.org/10.1021/acs.est.0c00036.s001",
-      "citation_count": 102,
+      "citation_count": 103,
       "influential_citation_count": 4,
       "reference_count": 58,
       "references": [],
@@ -51247,7 +51348,7 @@
       "url": "https://www.semanticscholar.org/paper/e9c240a13f974b6001f2c9cc09d0e31b504d4801",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/e9c240a13f974b6001f2c9cc09d0e31b504d4801",
       "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2018.00431/pdf",
-      "citation_count": 134,
+      "citation_count": 135,
       "influential_citation_count": 4,
       "reference_count": 72,
       "references": [
@@ -51850,8 +51951,8 @@
         }
       ],
       "fields_of_study": [
-        "Medicine",
         "Environmental Science",
+        "Medicine",
         "Biology"
       ],
       "publication_types": [
@@ -53150,7 +53251,7 @@
       "url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "pdf_url": "https://www.nature.com/articles/ismej2013160.pdf",
-      "citation_count": 643,
+      "citation_count": 644,
       "influential_citation_count": 25,
       "reference_count": 86,
       "references": [],
@@ -53705,7 +53806,7 @@
       "abstract": "",
       "url": "https://www.semanticscholar.org/paper/b1838f5568587651e5150726b09314412c2094b8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/b1838f5568587651e5150726b09314412c2094b8",
-      "pdf_url": "https://hal.inrae.fr/hal-02753844v1/document",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2620714",
       "citation_count": 71,
       "influential_citation_count": 3,
       "reference_count": 21,
