@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T01:00:55.265501+00:00",
+  "updated_at": "2026-10-30T01:03:29.512200+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -257,7 +257,7 @@
         "Yi Ding",
         "Bei-Bei Chai",
         "Yi-Jie Wang",
-        "Wen-Long Chen",
+        "Wenhong Chen",
         "Cheng Gao",
         "Yan Liu",
         "Ai-Qing Kang",
@@ -326,7 +326,78 @@
           "doi": "10.1016/j.scitotenv.2024.177142"
         }
       ],
-      "similar_papers": [],
+      "similar_papers": [
+        {
+          "id": "0dca7491908186198c8913089370fdc909a6f99a",
+          "title": "Coupled behaviors of antibiotics and antibiotic resistance genes in constructed wetlands: Mechanisms and impacts on nitrogen and phosphorus removal.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Ben-Tuo Xu",
+            "Zhe Qian",
+            "Hao-Wen Zhang"
+          ],
+          "doi": "10.1016/j.biortech.2026.135891",
+          "url": "https://www.semanticscholar.org/paper/0dca7491908186198c8913089370fdc909a6f99a",
+          "citation_count": 0
+        },
+        {
+          "id": "5c7420030a84d0586adfa7ac27167c8b867505bc",
+          "title": "Plant-derived carbon activates pyrite in tidal-flow constructed wetlands.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Xiao-Yi Xu",
+            "Chen-Xin Yan",
+            "Ying-Jie Zhao"
+          ],
+          "doi": "10.1016/j.biortech.2026.135914",
+          "url": "https://www.semanticscholar.org/paper/5c7420030a84d0586adfa7ac27167c8b867505bc",
+          "citation_count": 0
+        },
+        {
+          "id": "89ddd0b1055bca2999863255f11bdd79938c1317",
+          "title": "Enhancing nitrogen and phosphorus removal for surface water remediation using ecological floating beds via FeC-plant coupling and root microenvironment reconfiguration.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Zhi-Yi Zhang",
+            "Ye Qiu",
+            "Yao Li"
+          ],
+          "doi": "10.1016/j.watres.2026.127055",
+          "url": "https://www.semanticscholar.org/paper/89ddd0b1055bca2999863255f11bdd79938c1317",
+          "citation_count": 0
+        },
+        {
+          "id": "88ae12a4bcf9d5564326ea6e05ccb28ca30ae9dd",
+          "title": "[Mechanisms underlying the regulations of wetland vegetation on phosphorus migration and transformation at the sediment-water interface:A review.]",
+          "year": 2026,
+          "journal": "Ying yong sheng tai xue bao = The journal of applied ecology",
+          "authors": [
+            "Wei-Cheng Yu",
+            "Feng Li",
+            "Yong-Hong Xie"
+          ],
+          "doi": "10.13287/j.1001-9332.202609.039",
+          "url": "https://www.semanticscholar.org/paper/88ae12a4bcf9d5564326ea6e05ccb28ca30ae9dd",
+          "citation_count": 0
+        },
+        {
+          "id": "d0b4afb3e964d961096e64a5e08ab593ad2f036c",
+          "title": "Mixed carbon source strategy sustains long-term nutrient removal in pyrite-based bioretention systems: Insights into potential nitrogen-sulfur coordination.",
+          "year": 2026,
+          "journal": "Bioresource Technology",
+          "authors": [
+            "Hao Zheng",
+            "Hai-Yuan Ma",
+            "Xiao-Chuan Ran"
+          ],
+          "doi": "10.1016/j.biortech.2026.136059",
+          "url": "https://www.semanticscholar.org/paper/d0b4afb3e964d961096e64a5e08ab593ad2f036c",
+          "citation_count": 0
+        }
+      ],
       "fields_of_study": [],
       "publication_types": [
         "JournalArticle"
@@ -341,7 +412,8 @@
         "sediment",
         "water"
       ],
-      "detail_enriched_at": "2026-10-29T01:00:34.277646+00:00"
+      "detail_enriched_at": "2026-10-29T01:00:34.277646+00:00",
+      "edges_enriched_at": "2026-10-30T01:02:52.304734+00:00"
     },
     {
       "id": "b57cb564d0eb58075063320a759f78f16f3a52fa",
@@ -3029,6 +3101,45 @@
       "edges_enriched_at": "2026-10-12T00:34:01.285114+00:00"
     },
     {
+      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1016/j.pedsph.2026.09.008",
+      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
+      "authors": [
+        "Takeshi Shoda",
+        "Miku Hayakawa",
+        "R. Nakazato",
+        "Tomoyasu Nishizawa"
+      ],
+      "journal": "Pedosphere",
+      "publication_date": "2026-09-01",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 59,
+      "references": [],
+      "similar_papers": [],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrogen",
+        "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-30T01:02:51.542516+00:00",
+      "edges_enriched_at": "2026-10-30T01:02:52.304734+00:00"
+    },
+    {
       "id": "c43b98c543d6791fc085323e35785ad124d7c947",
       "semantic_scholar_id": "c43b98c543d6791fc085323e35785ad124d7c947",
       "source": "Semantic Scholar",
@@ -3146,45 +3257,6 @@
       ],
       "detail_enriched_at": "2026-10-18T23:14:18.970336+00:00",
       "edges_enriched_at": "2026-10-18T23:14:19.537130+00:00"
-    },
-    {
-      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1016/j.pedsph.2026.09.008",
-      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
-      "authors": [
-        "Takeshi Shoda",
-        "Miku Hayakawa",
-        "Ryoji Nakazato",
-        "Tomoyasu Nishizawa"
-      ],
-      "journal": "Pedosphere",
-      "publication_date": "2026-09-01",
-      "abstract": "",
-      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 59,
-      "references": [],
-      "similar_papers": [],
-      "fields_of_study": [],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrogen",
-        "sediment",
-        "water"
-      ],
-      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
-      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -3787,59 +3859,17 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
-          "title": "Small-sized biodegradable PLA microplastics inhibit plant nitrogen uptake by reshaping soil microbial communities and stimulating microbial metabolism.",
+          "id": "e83d94530203f689330993eafb184aae04307ae4",
+          "title": "Biochar-Straw Interaction Drives Soil Carbon Accrual by Modulating Microbial Metabolic Pathways.",
           "year": 2026,
-          "journal": "Journal of Hazardous Materials",
+          "journal": "Environmental Science and Technology",
           "authors": [
-            "Chuangye Zhang",
-            "Jie Chen",
-            "Wenlan Yang"
+            "R. Ma",
+            "Yi-Feng Zhang",
+            "Xiao-Dong Zheng"
           ],
-          "doi": "10.1016/j.jhazmat.2026.143209",
-          "url": "https://www.semanticscholar.org/paper/bcee0d3b3bfdae5519135d0cd56772fe7a30c4ab",
-          "citation_count": 0
-        },
-        {
-          "id": "94483881c14b7d070becfb9f4be8fcc9f6e1aa66",
-          "title": "Metagenomic Analysis of Soil Microbial Community Shifts Formed by 60-Day Exposure to Polylactic Acid Microplastics",
-          "year": 2026,
-          "journal": "E3S Web of Conferences",
-          "authors": [
-            "Haoran Liu",
-            "Zi-Xuan Zhang",
-            "Yani Wang"
-          ],
-          "doi": "10.1051/e3sconf/202673401018",
-          "url": "https://www.semanticscholar.org/paper/94483881c14b7d070becfb9f4be8fcc9f6e1aa66",
-          "citation_count": 0
-        },
-        {
-          "id": "497ebae47fc69256c0d6616b763c313c2bd5517b",
-          "title": "Environmentally aged microplastics alter archaeal and bacterial roles in ammonia oxidation of intertidal soils.",
-          "year": 2026,
-          "journal": "Marine Pollution Bulletin",
-          "authors": [
-            "Ru-Yuan Chen",
-            "Shujie Ruan",
-            "Cheng Liu"
-          ],
-          "doi": "10.1016/j.marpolbul.2026.120270",
-          "url": "https://www.semanticscholar.org/paper/497ebae47fc69256c0d6616b763c313c2bd5517b",
-          "citation_count": 0
-        },
-        {
-          "id": "cff6ea00497add2016334234567ec7e8f6d4fecc",
-          "title": "Environmental aging alters microplastic effects on soil DNRA in estuarine and coastal wetlands.",
-          "year": 2026,
-          "journal": "Marine Environmental Research",
-          "authors": [
-            "Shujie Ruan",
-            "Ru-Yuan Chen",
-            "Cheng Liu"
-          ],
-          "doi": "10.1016/j.marenvres.2026.108339",
-          "url": "https://www.semanticscholar.org/paper/cff6ea00497add2016334234567ec7e8f6d4fecc",
+          "doi": "10.1021/acs.est.6c03354",
+          "url": "https://www.semanticscholar.org/paper/e83d94530203f689330993eafb184aae04307ae4",
           "citation_count": 0
         },
         {
@@ -3850,10 +3880,52 @@
           "authors": [
             "Wajiha Sarfraz",
             "Munawar Hussain",
-            "Chengrong Chen"
+            "Cheng-Rong Chen"
           ],
           "doi": "10.1016/j.envpol.2026.129150",
           "url": "https://www.semanticscholar.org/paper/fca843b7df7b3656a7a021f85d50b74cde743578",
+          "citation_count": 0
+        },
+        {
+          "id": "bddbd8d4786ca2d319efdc198d9ee98cbab627c7",
+          "title": "Soil-Dependent Microbial Metabolic Strategies Shape\nMicroplastic-Induced Molecular Transformation of Dissolved Organic\nMatter",
+          "year": 2026,
+          "journal": "ACS Environmental Au",
+          "authors": [
+            "Li-Jia Lu",
+            "Zhuo-Ran Duan",
+            "Jia Shi"
+          ],
+          "doi": "10.1021/acsenvironau.6c00275",
+          "url": "https://www.semanticscholar.org/paper/bddbd8d4786ca2d319efdc198d9ee98cbab627c7",
+          "citation_count": 0
+        },
+        {
+          "id": "725424b2322f204862c7468032c13f2d785af7d5",
+          "title": "Polylactic acid microplastics enhance copper bioavailability and host-microbiome toxicity during black soldier fly bioconversion of food waste: Mechanisms and multi-level impacts.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Fang-Zheng Hu",
+            "Xuan Liu",
+            "Ying Zhang"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143654",
+          "url": "https://www.semanticscholar.org/paper/725424b2322f204862c7468032c13f2d785af7d5",
+          "citation_count": 0
+        },
+        {
+          "id": "084e39012026002e7450315dac3b3051dc7bc4ca",
+          "title": "Environmental effects of biodegradable microplastics in cadmium-contaminated soil and their regulation on cadmium bioavailability.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Xu Qin",
+            "Qing-Qing Huang",
+            "Li-Jie Zhao"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143946",
+          "url": "https://www.semanticscholar.org/paper/084e39012026002e7450315dac3b3051dc7bc4ca",
           "citation_count": 0
         }
       ],
@@ -3874,8 +3946,8 @@
         "nitrogen",
         "soil"
       ],
-      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
-      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
+      "detail_enriched_at": "2026-10-30T01:02:51.542516+00:00",
+      "edges_enriched_at": "2026-10-30T01:02:52.304734+00:00"
     },
     {
       "id": "ca0e6c354878e4e0da370825d7ba8a4c9dc04039",
@@ -4400,8 +4472,8 @@
         "Wenlan Yang",
         "Kai-Hui Du",
         "Wan-Jun Tao",
-        "Qiqian Lu",
-        "Mingkai Jiang",
+        "Qi-Qian Lu",
+        "Ming-Kai Jiang",
         "Jing Hu",
         "Qi-Lin Zhu",
         "A. Elrys",
@@ -5381,7 +5453,7 @@
         "Xiu-Feng Tang",
         "Jiayi Wang",
         "U. Klümper",
-        "Guitao Shi",
+        "Gui-Tao Shi",
         "Ping Han"
       ],
       "journal": "Environmental Science and Technology",
@@ -6162,73 +6234,73 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "8ee3be0082328d7af918eb668d798fbc9838d5a5",
-          "title": "Distinct pathways of straw management practices regulate soil water, salinity, fertility and barley productivity in coastal saline soil",
+          "id": "72de171f91f638d13018d1dbf08abc6cb622504c",
+          "title": "Irrigation regime modulates the effects of organic amendments on soil quality and microbial carbon-degrading gene composition in saline-alkali soils.",
           "year": 2026,
-          "journal": "Frontiers in Plant Science",
+          "journal": "Journal of Environmental Management",
           "authors": [
+            "Hao-Nan Qiu",
+            "Shi-Hong Yang",
+            "Guang-Mei Wang"
+          ],
+          "doi": "10.1016/j.jenvman.2026.131204",
+          "url": "https://www.semanticscholar.org/paper/72de171f91f638d13018d1dbf08abc6cb622504c",
+          "citation_count": 0
+        },
+        {
+          "id": "8c514ecaffbb1e831903b64da8ef5497b013aa2e",
+          "title": "[Meta-analysis of Straw Return Effects on Salt Regulation and Crop Yield Improvement in Saline Soils of China].",
+          "year": 2026,
+          "journal": "Huan jing ke xue= Huanjing kexue",
+          "authors": [
+            "Hao-Hao Bo",
             "M. Tang",
-            "Zhen-Yang Lin",
-            "Yu Liu"
+            "Chao Zhang"
           ],
-          "doi": "10.3389/fpls.2026.1969372",
-          "url": "https://www.semanticscholar.org/paper/8ee3be0082328d7af918eb668d798fbc9838d5a5",
+          "doi": "10.13227/j.hjkx.202507410",
+          "url": "https://www.semanticscholar.org/paper/8c514ecaffbb1e831903b64da8ef5497b013aa2e",
           "citation_count": 0
         },
         {
-          "id": "528d5dd3fb8a2293eea70acd6ecbd6bedf967103",
-          "title": "Combined application of organic and microbial amendments reshapes soil microbiome diversity and improves soybean growth performance",
+          "id": "18d9c447747b8a2e32754935f97c57ca0ec36566",
+          "title": "Characterization of cattle manure-derived biochar and its synergistic effects with inorganic and organic fertilizers on soil properties, microbial community, and forage maize yield",
           "year": 2026,
-          "journal": "Frontiers in Microbiology",
+          "journal": "Frontiers in Sustainable Food Systems",
           "authors": [
-            "Xuan-Qing Zhang",
-            "Wen-Jie Dou",
-            "Qin-Qin Cao"
+            "Yuan-Feng Zhao",
+            "Ruo-Fei Guan",
+            "Jiang Ran"
           ],
-          "doi": "10.3389/fmicb.2026.1939259",
-          "url": "https://www.semanticscholar.org/paper/528d5dd3fb8a2293eea70acd6ecbd6bedf967103",
+          "doi": "10.3389/fsufs.2026.1936002",
+          "url": "https://www.semanticscholar.org/paper/18d9c447747b8a2e32754935f97c57ca0ec36566",
           "citation_count": 0
         },
         {
-          "id": "07927ed9ea598e03ab466f99673a3223d1c8323b",
-          "title": "Co-Application of Biochar with Different Soil Amendments Regulates Bacterial Communities in Saline–Alkaline Soil and Promotes Oat Growth, Yield, and Quality",
+          "id": "de2120bd167975dc1bab4e176dac81a898f44e87",
+          "title": "γ‐PGA Enhances Wheat Productivity Through Coordinated Improvements in Root‐Zone Water Availability, Salinity Alleviation and Nitrogen Retention",
           "year": 2026,
-          "journal": "Land",
+          "journal": "Irrigation and Drainage",
           "authors": [
-            "Teng Wang",
-            "Zhen Li",
-            "Shilan Shao"
+            "Zhong-Min Zhai",
+            "Wen-Juan Shi",
+            "Tao Chen"
           ],
-          "doi": "10.3390/land15081474",
-          "url": "https://www.semanticscholar.org/paper/07927ed9ea598e03ab466f99673a3223d1c8323b",
+          "doi": "10.1002/ird.70221",
+          "url": "https://www.semanticscholar.org/paper/de2120bd167975dc1bab4e176dac81a898f44e87",
           "citation_count": 0
         },
         {
-          "id": "4b264c89ad6ccedf1be5d4d35196396951ce5089",
-          "title": "Trade-Offs of Soil Quality, Wheat Yield and Nutrient Efficiency Under Long-Term Combined Chemical and Manure Fertilization in Vertisols",
+          "id": "292337785a63f7888e7f5120163c8918964edb06",
+          "title": "SOIL SALINITY AND AGRICULTURAL PRODUCTIVITY: CAUSES, IMPACTS, AND SUSTAINABLE RECLAMATION STRATEGIES",
           "year": 2026,
-          "journal": "Agronomy",
+          "journal": "Jana Nexus: Journal of Agricultural, Veterinary and Environmental Sciences",
           "authors": [
-            "Jiacheng Gu",
-            "Yue-Kai Wang",
-            "Xun Xiao"
+            "Hibatur Rahman",
+            "Karan M. Joshi",
+            "Elena P. Morris"
           ],
-          "doi": "10.3390/agronomy16161588",
-          "url": "https://www.semanticscholar.org/paper/4b264c89ad6ccedf1be5d4d35196396951ce5089",
-          "citation_count": 0
-        },
-        {
-          "id": "cb29e6f14d41b7a6c45b702e8a3552b2e43b320f",
-          "title": "Interannual Covariation of Rhizosphere Microbiomes and Plant Performance in Coastal Saline–Alkali Soils Ameliorated by Nitraria tangutorum",
-          "year": 2026,
-          "journal": "Agriculture",
-          "authors": [
-            "Wen-Zhi Zhou",
-            "Rong-Song Zou",
-            "Hai-Wen Wu"
-          ],
-          "doi": "10.3390/agriculture16161710",
-          "url": "https://www.semanticscholar.org/paper/cb29e6f14d41b7a6c45b702e8a3552b2e43b320f",
+          "doi": "10.21474/jnaves01/152",
+          "url": "https://www.semanticscholar.org/paper/292337785a63f7888e7f5120163c8918964edb06",
           "citation_count": 0
         }
       ],
@@ -6252,8 +6324,8 @@
         "soil",
         "water"
       ],
-      "detail_enriched_at": "2026-09-29T01:02:27.736902+00:00",
-      "edges_enriched_at": "2026-09-29T01:02:28.413999+00:00"
+      "detail_enriched_at": "2026-10-30T01:02:51.542516+00:00",
+      "edges_enriched_at": "2026-10-30T01:02:52.304734+00:00"
     },
     {
       "id": "7ab43d37defbff22c1babd34dd819014272ab04d",
@@ -8993,7 +9065,7 @@
       "abstract": "Root-zone nitrogen fertilization (RZF) can increase crop N uptake and yield, yet the underlying rhizosphere N-cycling functional mechanisms remain insufficiently resolved. In a field experiment with winter oilseed rape (Brassica napus L.), RZF was compared with conventional fertilization (CF) under the same N input rates, alongside a zero-N control (N0). Compared with CF, RZF significantly increased seed yield (by 0.44 t ha−1) and aboveground N uptake (by 20.45 kg ha−1), while simultaneously enriching rhizosphere mineral N pools (NH4+–N and NO3−–N by 54.50% and 56.02%, respectively). Shotgun metagenomics revealed that RZF reprogrammed rhizosphere N-cycling functional potential, characterized by enhanced nitrogen fixation, reduced nitrification and denitrification, and a tendency toward increased assimilatory nitrate reduction. These module-level shifts were supported by concordant changes in key functional genes, indicating greater genetic potential for N retention and assimilation (nifD, glnA, gltB, nasA, napB, nrfA) and reduced potential for nitrification- and denitrification-driven N losses (amoB/C, narI, nirK, norB). Taxonomic composition analysis showed enrichment of Bradyrhizobium and suppression of key nitrifier taxa (Nitrosospira and a Nitrososphaeraceae-affiliated taxon) under RZF. Rhizosphere pH exhibited the strongest Mantel correlation with multiple N-cycling modules, and rhizosphere available N (AN; sum of NH4+–N and NO3−–N) was positively associated with plant N traits and yield. Structural equation modeling supported a pathway in which a functional balance index (retention/assimilation vs. loss/oxidation) increased AN (0.22), and AN strongly promoted yield (0.90). Collectively, these results elucidate a rhizosphere-centered mechanism whereby localized N placement strengthens soil–plant N coupling and enhances crop productivity through reprogramming microbial N-cycling functional potentials, positioning rhizosphere N processes as a key mechanistic bridge for microbiome-informed optimization of root-zone fertilization.",
       "url": "https://www.semanticscholar.org/paper/d8f37bd093e40ef76fcc4a912ff84554f014d03c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/d8f37bd093e40ef76fcc4a912ff84554f014d03c",
-      "pdf_url": "",
+      "pdf_url": "https://www.mdpi.com/2223-7747/15/8/1137/pdf?version=1775644983",
       "citation_count": 1,
       "influential_citation_count": 0,
       "reference_count": 60,
@@ -11809,7 +11881,7 @@
       "authors": [
         "Martin Siedt",
         "Amaru B. Ponton Paul",
-        "Matthias Franck",
+        "M. Franck",
         "Inga Brill",
         "Larissa K. Drews",
         "Alexander Nothbaum",
@@ -17531,7 +17603,7 @@
       "url": "https://www.semanticscholar.org/paper/ad6d9cb94485db7420d8a0164c16f9a9dcbea1be",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ad6d9cb94485db7420d8a0164c16f9a9dcbea1be",
       "pdf_url": "",
-      "citation_count": 10,
+      "citation_count": 11,
       "influential_citation_count": 0,
       "reference_count": 56,
       "references": [],
@@ -19924,7 +19996,7 @@
       "url": "https://www.semanticscholar.org/paper/0e95e944d7e6ba1fda387b04c967201929b91cf5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0e95e944d7e6ba1fda387b04c967201929b91cf5",
       "pdf_url": "",
-      "citation_count": 12,
+      "citation_count": 13,
       "influential_citation_count": 0,
       "reference_count": 109,
       "references": [],
@@ -22093,12 +22165,12 @@
       "doi": "10.3389/fmicb.2025.1537173",
       "title": "Divergent profiles of rhizosphere soil carbon and nitrogen cycling in Pinus massoniana provenances with different types of carbon storage",
       "authors": [
-        "Zichen Huang",
+        "Zi-Chen Huang",
         "Jian-Nan Wang",
         "Xin He",
         "Mengyang Zhang",
-        "Xingyue Ren",
-        "Wenya Yu",
+        "Xing-Yue Ren",
+        "Wen-Ya Yu",
         "Sheng Yao",
         "Kong-Shu Ji"
       ],
@@ -22953,7 +23025,7 @@
       "url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cabe386806f906693fdabb7951513cbf91557348",
       "pdf_url": "",
-      "citation_count": 67,
+      "citation_count": 68,
       "influential_citation_count": 1,
       "reference_count": 63,
       "references": [],
@@ -24755,7 +24827,7 @@
       "abstract": "Arsenic (As) metabolism pathways and their coupling to nitrogen (N) and carbon (C) cycling contribute to elemental biogeochemical cycling. However, how whole-microbial communities respond to As stress and which taxa are the predominant As-transforming bacteria or archaea in situ remains unclear. Hence, by constructing and applying ROCker profiles to precisely detect and quantify As oxidation (aioA, arxA) and reduction (arrA, arsC1, arsC2) genes in short-read metagenomic and metatranscriptomic datasets, we investigated the dominant microbial communities involved in arsenite (As(III)) oxidation and arsenate (As(V)) reduction and revealed their potential pathways for coupling As with N and C in situ in rice paddies. Five ROCker models were constructed to quantify the abundance and transcriptional activity of short-read sequences encoding As oxidation (aioA and arxA) and reduction (arrA, arsC1, arsC2) genes in paddy soils. Our results revealed that the sub-communities carrying the aioA and arsC2 genes were predominantly responsible for As(III) oxidation and As(V) reduction, respectively. Moreover, a newly identified As(III) oxidation gene, arxA, was detected in genomes assigned to various phyla and showed significantly increased transcriptional activity with increasing soil pH, indicating its important role in As(III) oxidation in alkaline soils. The significant correlation of the transcriptional activities of aioA with the narG and nirK denitrification genes, of arxA with the napA and nirS denitrification genes and of arrA/arsC2 with the pmoA and mcrA genes implied the coupling of As(III) oxidation with denitrification and As(V) reduction with methane oxidation. Various microbial taxa including Burkholderiales, Desulfatiglandales, and Hyphomicrobiales (formerly Rhizobiales) are involved in the coupling of As with N and C metabolism processes. Moreover, these correlated As and N/C genes often co-occur in the same genome and exhibit greater transcriptional activity in paddy soils with As contamination than in those without contamination. Our results revealed the comprehensive detection and typing of short-read sequences associated with As oxidation and reduction genes via custom-built ROCker models, and shed light on the various microbial taxa involved in the coupling of As and N and C metabolism in situ in paddy soils. The contribution of the arxA sub-communities to the coupling of As(III) oxidation with nitrate reduction and the arsC sub-communities to the coupling of As(V) reduction with methane oxidation expands our knowledge of the interrelationships among As, N, and C cycling in paddy soils. 5-kbCdqq-d7KqfyvRVSSUf Video Abstract Video Abstract",
       "url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/2abe620a4d2d2cf9eab3104677a0677341df16df",
-      "pdf_url": "",
+      "pdf_url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-024-01952-4",
       "citation_count": 52,
       "influential_citation_count": 0,
       "reference_count": 72,
@@ -25088,7 +25160,7 @@
       "authors": [
         "Yu Liu",
         "Ya-Jiao Wang",
-        "Wenchong Shi",
+        "Wen-Chong Shi",
         "Nan Wu",
         "Wen-Wen Liu",
         "Frédéric Francis",
@@ -25484,7 +25556,7 @@
         "Shudan Xue",
         "Xingyun Yi",
         "Jing-Jing Peng",
-        "Frederik Bak",
+        "F. Bak",
         "Li-Mei Zhang",
         "Guilan Duan",
         "Werner Liesack",
@@ -25844,7 +25916,7 @@
       "url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cbc9fddad5626be30aa6c66df82a636ac4f922d0",
       "pdf_url": "",
-      "citation_count": 16,
+      "citation_count": 17,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -25958,7 +26030,7 @@
       "abstract": "The objective of this study was to investigate the impact of various chemical nitrogen fertilizers on the profile of antibiotic resistance genes (ARGs) in soil. A microcosm experiment was conducted with four treatments, including CK (control with no nitrogen), AN (ammonium nitrogen), NN (nitrate nitrogen), and ON (urea nitrogen), and the abundance of ARGs was assessed over a 30-day period using a metagenomic sequencing approach. The levels of core ARGs varied between 0.16 and 0.22 copies per cell across different treatments over time. The abundance of core ARGs in the ON treatment closely resembled that of the CK treatment, suggesting that environmentally friendly nitrogen fertilizers, particularly those in controlled release formulations, may be preferable. The core ARG abundance in the AN and NN treatments exhibited noticeable fluctuations over time. Overall, chemical nitrogen fertilizers had minimal effects on the core ARG profile as determined by principal component analysis and clustering analyses. Conversely, distinct and significant changes in bacterial communities were observed with the use of different nitrogen fertilizers. However, the influence of nitrogen fertilizers on the core ARGs is limited due to the unaffected potential bacterial hosts. Nitrogen-cycling-related genes (NCRGs), such as those involved in nitrogen-fixing (nifK, nifD, nifH) and denitrification (narG, napA, nirK, norB, nosZ) processes, exhibit a positive correlation with ARGs (rosA, mexF, bacA, vanS), indicating a potential risk of ARG proliferation during intense denitrification activities. This study indicates that the application of chemical nitrogen has a minimal effect on the abundance of ARGs in soil, thereby alleviating concerns regarding the potential accumulation of ARGs due to the use of chemical nitrogen fertilizers.",
       "url": "https://www.semanticscholar.org/paper/27bf74b06d3c3a70e42a99651f2ab7e89bb0ad4f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/27bf74b06d3c3a70e42a99651f2ab7e89bb0ad4f",
-      "pdf_url": "https://doi.org/10.3389/fmicb.2024.1447782",
+      "pdf_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1447782/pdf",
       "citation_count": 4,
       "influential_citation_count": 0,
       "reference_count": 71,
@@ -27915,8 +27987,8 @@
       "authors": [
         "Hua-Wen Han",
         "Peizhi Song",
-        "Yuchao Jiang",
-        "Jingwen Fan",
+        "Yu-Chao Jiang",
+        "Jing-Wen Fan",
         "Aman Khan",
         "Pu Liu",
         "Ondřej Mašek",
@@ -28666,7 +28738,7 @@
       "url": "https://www.semanticscholar.org/paper/1d8a2f7335f1bb9e22c93c9d2ec3cee5ea6d37e3",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/1d8a2f7335f1bb9e22c93c9d2ec3cee5ea6d37e3",
       "pdf_url": "https://doi.org/10.1016/j.scitotenv.2024.172954",
-      "citation_count": 25,
+      "citation_count": 26,
       "influential_citation_count": 0,
       "reference_count": 86,
       "references": [
@@ -30669,7 +30741,7 @@
       "url": "https://www.semanticscholar.org/paper/cde1284db46ea79eedab8e6419fec163ea202571",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/cde1284db46ea79eedab8e6419fec163ea202571",
       "pdf_url": "",
-      "citation_count": 42,
+      "citation_count": 43,
       "influential_citation_count": 2,
       "reference_count": 73,
       "references": [],
@@ -32243,7 +32315,7 @@
         "Xiao-Dong Chen",
         "Bin Guo",
         "Jun-Li Liu",
-        "Gaoyang Qiu",
+        "Gao-Yang Qiu",
         "Hua Li"
       ],
       "journal": "Environmental Research",
@@ -32697,7 +32769,7 @@
         "Zhe Li",
         "Min Liu",
         "S. Lücker",
-        "Guitao Shi"
+        "Gui-Tao Shi"
       ],
       "journal": "bioRxiv",
       "publication_date": "2023-11-19",
@@ -33150,7 +33222,7 @@
         "Weiping Dong",
         "Chuqi Zhang",
         "Hai-Fei Liu",
-        "Yanwei Zhao"
+        "Yan-Wei Zhao"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2023-10-13",
@@ -36294,7 +36366,7 @@
       "url": "https://www.semanticscholar.org/paper/125286b0da3a8504808206c8167d9674cc9b3d7f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/125286b0da3a8504808206c8167d9674cc9b3d7f",
       "pdf_url": "",
-      "citation_count": 26,
+      "citation_count": 27,
       "influential_citation_count": 0,
       "reference_count": 0,
       "references": [],
@@ -39424,7 +39496,7 @@
         "Yu-Qin Wang",
         "Xiao-Xi Yang",
         "Jian-Cao Gao",
-        "Gangchun Xu",
+        "Gang-Chun Xu",
         "Ju-Lin Yuan"
       ],
       "journal": "Frontiers in Microbiology",
@@ -40254,7 +40326,7 @@
       "url": "https://www.semanticscholar.org/paper/c22ae7b71dadc3759ad56608b6cf6daa4d1192ff",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/c22ae7b71dadc3759ad56608b6cf6daa4d1192ff",
       "pdf_url": "",
-      "citation_count": 81,
+      "citation_count": 82,
       "influential_citation_count": 2,
       "reference_count": 0,
       "references": [],
@@ -41326,7 +41398,7 @@
       "url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/fd137c563fe0374538fc36678baee48ae0627a7e",
       "pdf_url": "https://doi.org/10.1128/msystems.01358-21",
-      "citation_count": 51,
+      "citation_count": 52,
       "influential_citation_count": 1,
       "reference_count": 116,
       "references": [
@@ -43458,7 +43530,7 @@
       "url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f2f427209626c1db1d7d10974228714b0e54d19f",
       "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0160412021001471/pdf",
-      "citation_count": 198,
+      "citation_count": 199,
       "influential_citation_count": 6,
       "reference_count": 64,
       "references": [
@@ -43620,7 +43692,7 @@
       "url": "https://www.semanticscholar.org/paper/46c3c2571948f81631e23bc221c901d5f57ab135",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/46c3c2571948f81631e23bc221c901d5f57ab135",
       "pdf_url": "https://doi.org/10.1016/j.soilbio.2021.108226",
-      "citation_count": 74,
+      "citation_count": 78,
       "influential_citation_count": 0,
       "reference_count": 72,
       "references": [],
@@ -45317,7 +45389,7 @@
       "url": "https://www.semanticscholar.org/paper/954b60f8dad5e143a5c4528ed7a5fa12e4c0b019",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/954b60f8dad5e143a5c4528ed7a5fa12e4c0b019",
       "pdf_url": "",
-      "citation_count": 56,
+      "citation_count": 57,
       "influential_citation_count": 1,
       "reference_count": 53,
       "references": [],
@@ -46153,7 +46225,7 @@
       "title": "Application of biofertilizer containing Bacillus subtilis reduced the nitrogen loss in agricultural soil",
       "authors": [
         "Bo Sun",
-        "Likun Gu",
+        "Li-Kun Gu",
         "Lijun Bao",
         "Shi-Wei Zhang",
         "Yingxue Wei",
@@ -47339,7 +47411,7 @@
         "Eleanor Spielman-Sun",
         "Jiang Xu",
         "Stephanie N. Laughton",
-        "J. Yun",
+        "Jie Yun",
         "Yi-Lin Zhang",
         "Garret D. Bland",
         "Ying Zhang",
@@ -50206,7 +50278,7 @@
       "url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f1412cdba0ec64882a01d1d211609a59bf8006e8",
       "pdf_url": "https://doi.org/10.1016/j.soilbio.2018.08.024",
-      "citation_count": 374,
+      "citation_count": 375,
       "influential_citation_count": 8,
       "reference_count": 72,
       "references": [],
@@ -51813,7 +51885,7 @@
         "E. Hester",
         "S. Harpenslager",
         "J. V. van Diggelen",
-        "Leon L. Lamers",
+        "L. Lamers",
         "M. Jetten",
         "C. Lüke",
         "S. Lücker",
@@ -51825,7 +51897,7 @@
       "url": "https://www.semanticscholar.org/paper/865f938911a9daba4c083438482560cd42c1741b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/865f938911a9daba4c083438482560cd42c1741b",
       "pdf_url": "https://msystems.asm.org/content/msys/3/1/e00214-17.full.pdf",
-      "citation_count": 82,
+      "citation_count": 83,
       "influential_citation_count": 2,
       "reference_count": 91,
       "references": [
@@ -52468,7 +52540,7 @@
       "url": "https://www.semanticscholar.org/paper/eb5bdd82042561099657acdc9a441f4010aae161",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/eb5bdd82042561099657acdc9a441f4010aae161",
       "pdf_url": "http://ir.rcees.ac.cn/handle/311016/32893",
-      "citation_count": 68,
+      "citation_count": 69,
       "influential_citation_count": 1,
       "reference_count": 68,
       "references": [
@@ -52804,7 +52876,7 @@
       "url": "https://www.semanticscholar.org/paper/00f83ca58f7a0c52d103f9ae79d75da8b868d878",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/00f83ca58f7a0c52d103f9ae79d75da8b868d878",
       "pdf_url": "https://doi.org/10.1128/mbio.01193-14",
-      "citation_count": 187,
+      "citation_count": 188,
       "influential_citation_count": 3,
       "reference_count": 42,
       "references": [
@@ -53251,7 +53323,7 @@
       "url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/9d2c211e4d2a84c7953bfa7ecee4ec1e10777003",
       "pdf_url": "https://www.nature.com/articles/ismej2013160.pdf",
-      "citation_count": 644,
+      "citation_count": 645,
       "influential_citation_count": 25,
       "reference_count": 86,
       "references": [],
