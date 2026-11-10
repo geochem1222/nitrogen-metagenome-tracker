@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:58:19.200633+00:00",
+  "updated_at": "2026-11-10T03:38:56.927192+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -4642,7 +4642,7 @@
         "Jing Hu",
         "Qi-Lin Zhu",
         "A. Elrys",
-        "Zu-Cong Cai",
+        "Z. Cai",
         "Lei Meng",
         "C. Müller",
         "Xiao-Qian Dan",
@@ -11242,7 +11242,7 @@
       "title": "Nitrogen pollution alters bacterial carbonate mineralization potential in karst river.",
       "authors": [
         "Jing Mo",
-        "Zining Guo",
+        "Zi-Ning Guo",
         "Mengqi Shao",
         "Zhibo Hu",
         "Fei Liu",
@@ -12127,7 +12127,7 @@
       "abstract": "ABSTRACT Fire is a major pulse disturbance to soil microbial communities, with broad implications for nutrient cycling; however, regular burning is also a natural and often-essential process maintaining biodiversity in unique and imperiled fire-dependent ecosystems. Prescribed fire is widely used to promote this biodiversity and simultaneously reduce wildfire risk. Although such repeated burning is known to alter surface biodiversity, belowground soil geochemistry, and soil microbial community structure, the functional consequences (i.e., the metabolic capabilities that underlie the ecosystem services soil microorganisms provide) remain underexplored. Here, we examined the effects of 30 years of repeated prescribed fire at the Albany Pine Bush—a fire-dependent, inland pitch pine barren ecosystem of the northeastern United States. Compared with the control stands, we observed that this long-term fire management has led to substantial depletion of inorganic soil nitrogen, specifically nitrate. We found no meaningful differences in the higher-level taxonomic composition of soil prokaryotic or fungal communities; however, analysis of metagenome-assembled genomes assembled from these soils revealed several differentially abundant populations. Furthermore, our metagenomic analysis revealed significant changes in the nitrogen-cycling functional potential, specifically decreased dissimilatory nitrate reduction and denitrification potential in repeatedly burned soils. These functional shifts have important implications for both nutrient cycling and emissions of trace nitrogen gases from these soils. Our results suggest that functionally meaningful changes in the soil microbiome can persist between burn events, even when higher-order community membership appears stable. This may imply that repeated fire can deplete reactive nitrogen emissions from soils by lowering the functional capacity of nitrogen-reducing microbes. IMPORTANCE Prescribed fire is widely used by land managers to reduce wildfire risk and promote biodiversity. While the effects of fire on aboveground processes are well understood, much less is known about how repeated burning influences soil biological properties—including the functional role that soil microorganisms play in nutrient cycling and greenhouse gas production. We addressed this gap by studying soils from the Albany Pine Bush, a rare and endangered ecosystem that has experienced regular prescribed fires for 30 years. Long-term fire management significantly altered soil chemistry, specifically lowering the amount of nitrogen in the soil. In addition, we found that fire management decreased the genetic potential of the soil microbial community to produce nitrogen oxides—potent contributors to climate change. Thus, prescribed fire’s contribution to greenhouse gas emissions may involve a complex relationship between direct fire-driven emissions, increased fire resilience of promoted vegetation, and—as suggested by our results—the reduced ability of soil microbes to produce greenhouse gases. Prescribed fire is widely used by land managers to reduce wildfire risk and promote biodiversity. While the effects of fire on aboveground processes are well understood, much less is known about how repeated burning influences soil biological properties—including the functional role that soil microorganisms play in nutrient cycling and greenhouse gas production. We addressed this gap by studying soils from the Albany Pine Bush, a rare and endangered ecosystem that has experienced regular prescribed fires for 30 years. Long-term fire management significantly altered soil chemistry, specifically lowering the amount of nitrogen in the soil. In addition, we found that fire management decreased the genetic potential of the soil microbial community to produce nitrogen oxides—potent contributors to climate change. Thus, prescribed fire’s contribution to greenhouse gas emissions may involve a complex relationship between direct fire-driven emissions, increased fire resilience of promoted vegetation, and—as suggested by our results—the reduced ability of soil microbes to produce greenhouse gases.",
       "url": "https://www.semanticscholar.org/paper/4766f1100b1003e65481650f4b83ae475d0d4f1f",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/4766f1100b1003e65481650f4b83ae475d0d4f1f",
-      "pdf_url": "https://doi.org/10.1128/msystems.00852-26",
+      "pdf_url": "https://journals.asm.org/doi/pdf/10.1128/msystems.00852-26?download=true",
       "citation_count": 0,
       "influential_citation_count": 0,
       "reference_count": 148,
@@ -18943,7 +18943,7 @@
         "Qiaoyu Wu",
         "Yiming Ma",
         "Saira Bano",
-        "Xiao-Jun Zhang"
+        "X. Zhang"
       ],
       "journal": "bioRxiv",
       "publication_date": "2025-07-21",
@@ -29130,124 +29130,6 @@
       "edges_enriched_at": "2026-11-04T01:25:31.056644+00:00"
     },
     {
-      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "source": "Semantic Scholar",
-      "pmid": "38749183",
-      "doi": "10.1016/j.watres.2024.121761",
-      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
-      "authors": [
-        "Lu-Tong Yang",
-        "Ping Han",
-        "Qiao-Juan Wang",
-        "Hui Lin",
-        "Donglin Wang",
-        "Jie Mao",
-        "Wei-Xiao Qi",
-        "Yaohui Bai",
-        "Jiu-Hui Qu"
-      ],
-      "journal": "Water Research",
-      "publication_date": "2024-05-01",
-      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
-      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
-      "pdf_url": "",
-      "citation_count": 2,
-      "influential_citation_count": 0,
-      "reference_count": 65,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "4c12fffb2e6bfd53013ad484ebe6fd835b858ca4",
-          "title": "Halogenated dissolved organic matter regulates bacterial community composition and organic carbon transformation in aquatic ecosystems.",
-          "year": 2026,
-          "journal": "Water Research",
-          "authors": [
-            "Zhen-Li Guo",
-            "Hua-Long Hong",
-            "Guang-Long Zhang"
-          ],
-          "doi": "10.1016/j.watres.2026.127077",
-          "url": "https://www.semanticscholar.org/paper/4c12fffb2e6bfd53013ad484ebe6fd835b858ca4",
-          "citation_count": 0
-        },
-        {
-          "id": "b855652bdc328cb8fc3147d7148764ad7aef74c3",
-          "title": "Microbial community multi-omic analysis of marsh sediment following enrichment with crustacean shell compost",
-          "year": 2026,
-          "journal": "ISME Communications",
-          "authors": [
-            "C. Yancey",
-            "Kyle D Brumfield",
-            "L. Ettwiller"
-          ],
-          "doi": "10.1093/ismeco/ycag307",
-          "url": "https://www.semanticscholar.org/paper/b855652bdc328cb8fc3147d7148764ad7aef74c3",
-          "citation_count": 0
-        },
-        {
-          "id": "3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
-          "title": "Metabolic Versatility Drives the Late-Successional Dominance of Ammonia-Oxidizing Archaea in Retreating Glacier Soils.",
-          "year": 2026,
-          "journal": "Environmental Microbiology",
-          "authors": [
-            "Sai-Fei Li",
-            "Yao-Dong Kong",
-            "Yang Liu"
-          ],
-          "doi": "10.1111/1462-2920.70450",
-          "url": "https://www.semanticscholar.org/paper/3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
-          "citation_count": 0
-        },
-        {
-          "id": "62044a5e1092be6150e3ec172fd5b6ec53fc8214",
-          "title": "Overlooked yet Critical: Unveiling the Impacts of Emerging Contaminants on the Phytoplankton Community Structure and Function in an Urban River System.",
-          "year": 2026,
-          "journal": "Environmental Science and Technology",
-          "authors": [
-            "Yi-Min Feng",
-            "Shen-Yang Pan",
-            "Tian-Chang Huang"
-          ],
-          "doi": "10.1021/acs.est.6c11359",
-          "url": "https://www.semanticscholar.org/paper/62044a5e1092be6150e3ec172fd5b6ec53fc8214",
-          "citation_count": 1
-        },
-        {
-          "id": "2d3aab00b20d36052974f2de8e73602924922ef1",
-          "title": "Combination-specific effects of antibiotic and disinfectant co-contamination on the enrichment of antibiotic resistance genes in sediments.",
-          "year": 2026,
-          "journal": "Journal of Hazardous Materials",
-          "authors": [
-            "Xi Li",
-            "Hao-Xiang Huang",
-            "Hai-Bin Chen"
-          ],
-          "doi": "10.1016/j.jhazmat.2026.143867",
-          "url": "https://www.semanticscholar.org/paper/2d3aab00b20d36052974f2de8e73602924922ef1",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Medicine"
-      ],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrification",
-        "nitrogen",
-        "urban",
-        "water"
-      ],
-      "detail_enriched_at": "2026-11-04T01:24:59.276630+00:00",
-      "edges_enriched_at": "2026-11-04T01:25:31.056644+00:00"
-    },
-    {
       "id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "semantic_scholar_id": "b7f04fbcf711c06f2e7b66c039239bdd41d3e503",
       "source": "Semantic Scholar",
@@ -29416,6 +29298,124 @@
         "nitrogen",
         "nitrogen_fixation",
         "sediment"
+      ],
+      "detail_enriched_at": "2026-11-04T01:24:59.276630+00:00",
+      "edges_enriched_at": "2026-11-04T01:25:31.056644+00:00"
+    },
+    {
+      "id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_id": "81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "source": "Semantic Scholar",
+      "pmid": "38749183",
+      "doi": "10.1016/j.watres.2024.121761",
+      "title": "Disinfectant-induced ammonia oxidation disruption in microbial N-cycling process in aquatic ecosystem after the COVID-19 outbreak.",
+      "authors": [
+        "Lu-Tong Yang",
+        "Ping Han",
+        "Qiao-Juan Wang",
+        "Hui Lin",
+        "Donglin Wang",
+        "Jie Mao",
+        "Wei-Xiao Qi",
+        "Yaohui Bai",
+        "Jiu-Hui Qu"
+      ],
+      "journal": "Water Research",
+      "publication_date": "2024-05-01",
+      "abstract": "Anthropogenic activities significantly impact the elemental cycles in aquatic ecosystems, with the N-cycling playing a critical role in potential nutrient turnover and substance cycling. We hypothesized that measures to prevent COVID-19 transmission profoundly altered the nitrogen cycle in riverine ecosystems. To investigate this, we re-analyzed metagenomic data and identified 60 N-cycling genes and 21 host metagenomes from four urban reaches (one upstream city, Wuhan, and two downstream cities) along the Yangtze River. Our analyses revealed a marked decrease in the abundance of bacterial ammonia monooxygenase genes, as well as in the host, ammonia-oxidizing autotrophic Nitrosomonas, followed by a substantial recovery post-pandemic. We posited that discharge of sodium hypochlorite (NaOCl) disinfectant may be a primary factor in the reduction of N-cycling process. To test this hypothesis, we exposed pure cultures of Nitrosomonas europaea to NaOCl to explore the microbial stress response. Results indicated that NaOCl exposure rapidly compromised the cell structure and inhibited ammonia oxidation of N. europaea, likely due to oxidative stress damage and reduced expression of nitrogen metabolism-related ammonia monooxygenase. Using the functional tagging technique, we determined that NaOCl directly destroyed the ammonia monooxygenase protein and DNA structure. This study highlights the negative impacts of chlorine disinfectants on the function of aquatic ecosystems and elucidates potential mechanisms of action.",
+      "url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/81fe0ab9764e0b4bd9bac131fc05016a3e013313",
+      "pdf_url": "",
+      "citation_count": 2,
+      "influential_citation_count": 0,
+      "reference_count": 65,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "4c12fffb2e6bfd53013ad484ebe6fd835b858ca4",
+          "title": "Halogenated dissolved organic matter regulates bacterial community composition and organic carbon transformation in aquatic ecosystems.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Zhen-Li Guo",
+            "Hua-Long Hong",
+            "Guang-Long Zhang"
+          ],
+          "doi": "10.1016/j.watres.2026.127077",
+          "url": "https://www.semanticscholar.org/paper/4c12fffb2e6bfd53013ad484ebe6fd835b858ca4",
+          "citation_count": 0
+        },
+        {
+          "id": "b855652bdc328cb8fc3147d7148764ad7aef74c3",
+          "title": "Microbial community multi-omic analysis of marsh sediment following enrichment with crustacean shell compost",
+          "year": 2026,
+          "journal": "ISME Communications",
+          "authors": [
+            "C. Yancey",
+            "Kyle D Brumfield",
+            "L. Ettwiller"
+          ],
+          "doi": "10.1093/ismeco/ycag307",
+          "url": "https://www.semanticscholar.org/paper/b855652bdc328cb8fc3147d7148764ad7aef74c3",
+          "citation_count": 0
+        },
+        {
+          "id": "3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
+          "title": "Metabolic Versatility Drives the Late-Successional Dominance of Ammonia-Oxidizing Archaea in Retreating Glacier Soils.",
+          "year": 2026,
+          "journal": "Environmental Microbiology",
+          "authors": [
+            "Sai-Fei Li",
+            "Yao-Dong Kong",
+            "Yang Liu"
+          ],
+          "doi": "10.1111/1462-2920.70450",
+          "url": "https://www.semanticscholar.org/paper/3f29f94b184a62e86f1199acc44e2fc7bf4225a4",
+          "citation_count": 0
+        },
+        {
+          "id": "62044a5e1092be6150e3ec172fd5b6ec53fc8214",
+          "title": "Overlooked yet Critical: Unveiling the Impacts of Emerging Contaminants on the Phytoplankton Community Structure and Function in an Urban River System.",
+          "year": 2026,
+          "journal": "Environmental Science and Technology",
+          "authors": [
+            "Yi-Min Feng",
+            "Shen-Yang Pan",
+            "Tian-Chang Huang"
+          ],
+          "doi": "10.1021/acs.est.6c11359",
+          "url": "https://www.semanticscholar.org/paper/62044a5e1092be6150e3ec172fd5b6ec53fc8214",
+          "citation_count": 1
+        },
+        {
+          "id": "2d3aab00b20d36052974f2de8e73602924922ef1",
+          "title": "Combination-specific effects of antibiotic and disinfectant co-contamination on the enrichment of antibiotic resistance genes in sediments.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Xi Li",
+            "Hao-Xiang Huang",
+            "Hai-Bin Chen"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143867",
+          "url": "https://www.semanticscholar.org/paper/2d3aab00b20d36052974f2de8e73602924922ef1",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "The negative impacts of chlorine disinfectants on the function of aquatic ecosystems is highlighted and potential mechanisms of action are elucidated.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrification",
+        "nitrogen",
+        "urban",
+        "water"
       ],
       "detail_enriched_at": "2026-11-04T01:24:59.276630+00:00",
       "edges_enriched_at": "2026-11-04T01:25:31.056644+00:00"
@@ -43457,20 +43457,6 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "b5ea59311109fac9128de19dc1eb65436fe763e6",
-          "title": "Forty-three years of partial organic substitution shapes microbial assembly and multifaceted network stability in a paddy soil.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Zhen-Ling Li",
-            "Min Li",
-            "Xiao-Kang He"
-          ],
-          "doi": "10.1016/j.biortech.2026.135760",
-          "url": "https://www.semanticscholar.org/paper/b5ea59311109fac9128de19dc1eb65436fe763e6",
-          "citation_count": 0
-        },
-        {
           "id": "cbc0a234ab7846a1daae6242afb25da9af19e1f5",
           "title": "Long-Term Fertilization Differentially Reshapes Bacterial CNPS Cycling Potential in Bulk and Rhizosphere Soils",
           "year": 2026,
@@ -43485,45 +43471,59 @@
           "citation_count": 0
         },
         {
-          "id": "917b0a45873705a5cc044c18d20557b5d2b1669d",
-          "title": "Partial manure substitution mitigates nitrogen environmental loss and improves maize yield via reconfiguring rhizosphere-bulk soil microbial functional differentiation.",
+          "id": "2dfadaad3f903fa7b932713616ccd1f368e8f968",
+          "title": "Metagenomic Analysis of Soil Microbial Communities under Regenerative and Conventional Agriculture",
           "year": 2026,
-          "journal": "Journal of Environmental Management",
+          "journal": "Public Health - Open Journal",
           "authors": [
-            "Mengxue Qu",
-            "Yinglong Chen",
-            "H. Ren"
+            "Rajen Chowdhury",
+            "G. Handique",
+            "Abhijit Debnath"
           ],
-          "doi": "10.1016/j.jenvman.2026.130771",
-          "url": "https://www.semanticscholar.org/paper/917b0a45873705a5cc044c18d20557b5d2b1669d",
+          "doi": "10.17140/phoj.11.01.363",
+          "url": "https://www.semanticscholar.org/paper/2dfadaad3f903fa7b932713616ccd1f368e8f968",
           "citation_count": 0
         },
         {
-          "id": "f196481eb1db4796d9722ff6c555c6e28e5e55f8",
-          "title": "Effects of cultivation of herbaceous perennials on soil microbial community structure and nitrogen cycling functions",
+          "id": "571d9b72fe94832577d300200a8d81035e7de527",
+          "title": "The Response of Soil Microbiome-Driven Carbon-Cycling Functional Potential to Continuous Greenhouse Tomato Cultivation",
           "year": 2026,
-          "journal": "Frontiers in Plant Science",
+          "journal": "Horticulturae",
           "authors": [
-            "Pu-Shun Bian",
-            "Bo Han",
-            "Hai-Feng Zhu"
+            "Zhuan Zheng",
+            "Ya-Nan Cheng",
+            "Fei Wang"
           ],
-          "doi": "10.3389/fpls.2026.1961532",
-          "url": "https://www.semanticscholar.org/paper/f196481eb1db4796d9722ff6c555c6e28e5e55f8",
+          "doi": "10.3390/horticulturae12111363",
+          "url": "https://www.semanticscholar.org/paper/571d9b72fe94832577d300200a8d81035e7de527",
           "citation_count": 0
         },
         {
-          "id": "22be1a2df304d00b8a8ef538adf87bf716b939b9",
-          "title": "The Rhizosphere Microbiome: A Key Mediator of Crop Responses to Fertilization Strategies",
+          "id": "5dc43d94899d64b8a2e93be93f6b88cc3bf934c7",
+          "title": "Flood-Induced Shifts in Nitrogen Speciation Alter Nitrogen-Transforming Microbial Communities and Functional Potentials in a Shallow Lake Ecosystem",
           "year": 2026,
-          "journal": "Plants",
+          "journal": "Water",
           "authors": [
-            "Zhi-Hui Zhao",
-            "Qi-Hua Wu",
-            "Ze-Rong Sun"
+            "Yan Zhang",
+            "Mi-Wei Shi",
+            "Ling-Yao Meng"
           ],
-          "doi": "10.3390/plants15172711",
-          "url": "https://www.semanticscholar.org/paper/22be1a2df304d00b8a8ef538adf87bf716b939b9",
+          "doi": "10.3390/w18182328",
+          "url": "https://www.semanticscholar.org/paper/5dc43d94899d64b8a2e93be93f6b88cc3bf934c7",
+          "citation_count": 0
+        },
+        {
+          "id": "8b7cfb79699ee0213aca1c1eca80b819762a0066",
+          "title": "Response of Soil Ammonia−Oxidizing Microorganisms to Biochar Amendment Under Continuous Cropping and Crop Rotation Systems",
+          "year": 2026,
+          "journal": "Sustainability",
+          "authors": [
+            "Shu-Bo Yan",
+            "Yue-Tong Zhang",
+            "Yong-Xia Guo"
+          ],
+          "doi": "10.3390/su181910154",
+          "url": "https://www.semanticscholar.org/paper/8b7cfb79699ee0213aca1c1eca80b819762a0066",
           "citation_count": 0
         }
       ],
@@ -43543,7 +43543,7 @@
         "soil"
       ],
       "detail_enriched_at": "2026-11-03T02:57:31.023180+00:00",
-      "edges_enriched_at": "2026-10-08T01:02:53.568053+00:00"
+      "edges_enriched_at": "2026-11-10T03:38:55.037549+00:00"
     },
     {
       "id": "f2f427209626c1db1d7d10974228714b0e54d19f",
@@ -45939,7 +45939,7 @@
         "J. Shan",
         "J. Adams",
         "Hua Qin",
-        "Baozhan Wang"
+        "Bao-Zhan Wang"
       ],
       "journal": "Frontiers in Microbiology",
       "publication_date": "2020-09-30",
@@ -47398,7 +47398,7 @@
       "doi": "10.1021/acs.est.0c00036",
       "title": "CuO nanoparticles alter the rhizospheric bacterial community and local nitrogen cycling for wheat grown in a calcareous soil.",
       "authors": [
-        "Xiangyu Guan",
+        "Xiang-Yu Guan",
         "Xiao-Yu Gao",
         "A. Avellan",
         "Eleanor Spielman-Sun",
@@ -48772,6 +48772,117 @@
       "edges_enriched_at": "2026-11-06T01:36:10.322329+00:00"
     },
     {
+      "id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "semantic_scholar_id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1002/lno.11243",
+      "title": "Non‐cyanobacterial diazotrophs dominate nitrogen‐fixing communities in permafrost thaw ponds",
+      "authors": [
+        "Leyden Fernández",
+        "S. Bertilsson",
+        "Sari Peura"
+      ],
+      "journal": "Limnology and Oceanography",
+      "publication_date": "2020-01-01",
+      "abstract": "There is a growing concern about the implications of accelerated thawing of permafrost for regional biogeochemical cycling of carbon and other bioreactive elements. One such element of concern is nitrogen, and in this study, we investigated the diversity and biogeography of potential diazotrophs within a series of thaw ponds representing different ontogenetic stages in pond development. Using metagenomic sequence data from subarctic thaw ponds, we identified an array of nitrogenase genes across the ponds. The iron‐only nitrogenase gene (anfH) was positively correlated with sulfate, while there was no correlation with methane despite previous findings that organisms carrying anfH can simultaneously participate in nitrogen fixation and methanogenesis. Sulfate is known to inhibit microbial uptake of molybdate, an element essential for the activity of the nifH (molybdenum‐iron) nitrogenase and this may explain the high potential for nitrogen fixation utilizing anfH in sulfate‐rich ponds. NifH was particularly abundant in the hypolimnion of the deeper and older ponds, with Deltaproteobacteria and Chlorobi as the putative dominant diazotrophs. In the epilimnetic waters, nifH composition was more variable, with various Gammaproteobacteria as abundant representatives, while cyanobacterial diazotrophs were scarce. Interestingly, nifH gene abundance was significantly positively correlated with in situ methane concentration. Based on genome‐resolved metagenomics, we hypothesize that diazotrophs and methanogens engage in syntrophic interactions in anoxic waters, possibly via propionate oxidation or (in Geobacter) by interspecies electron transfer. Our results also suggest that nitrogen fixers may supply bioreactive nitrogen compounds to the thaw pond communities, thereby enhancing growth and activity of methanogens.",
+      "url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
+      "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11243",
+      "citation_count": 22,
+      "influential_citation_count": 1,
+      "reference_count": 74,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "0ed3c41e95e5861fa0dacb8974a03e3b4a0a5b43",
+          "title": "Depth-stratified boreal peatland microbiomes reveal recurring community organization and methane-cycling potential",
+          "year": 2026,
+          "journal": "FEMS Microbiology Ecology",
+          "authors": [
+            "Tong Liu",
+            "Jacob Smeds",
+            "M. Nilsson"
+          ],
+          "doi": "10.1093/femsec/fiag111",
+          "url": "https://www.semanticscholar.org/paper/0ed3c41e95e5861fa0dacb8974a03e3b4a0a5b43",
+          "citation_count": 0
+        },
+        {
+          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "title": "Shifts in vegetation impact estuary microbiomes",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "G. Aitolo",
+            "I. Rambo",
+            "R. Weisend"
+          ],
+          "doi": "10.1128/msystems.01071-26",
+          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
+          "citation_count": 0
+        },
+        {
+          "id": "ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
+          "title": "Microbial diversity and nitrogen cycling across oxygen gradients in the eastern tropical Pacific during two La Niña years",
+          "year": 2026,
+          "journal": "mSystems",
+          "authors": [
+            "Pei-Hang Xu",
+            "D. L. Arévalo-Martínez",
+            "M. Middelboe"
+          ],
+          "doi": "10.1128/msystems.00893-26",
+          "url": "https://www.semanticscholar.org/paper/ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
+          "citation_count": 0
+        },
+        {
+          "id": "6920ec983ca6218aabcca294ca89ec4f714bd52a",
+          "title": "A metagenomic snapshot of metabolic potentials in wintertime eutrophic sediments of Lake Taihu inferred from metagenome-assembled genomes",
+          "year": 2026,
+          "journal": "Frontiers in Microbiology",
+          "authors": [
+            "Qi Wei",
+            "Ya-Jie Li",
+            "Ai-Dong Ruan"
+          ],
+          "doi": "10.3389/fmicb.2026.1929411",
+          "url": "https://www.semanticscholar.org/paper/6920ec983ca6218aabcca294ca89ec4f714bd52a",
+          "citation_count": 0
+        },
+        {
+          "id": "44c7a105af443303abd089eafb49c94c357a9600",
+          "title": "Niche specialization and prevalence of comammox Nitrospira in the alkaline sediments of thermokarst lakes on the Tibetan Plateau",
+          "year": 2026,
+          "journal": "Nature Communications",
+          "authors": [
+            "K. Song",
+            "Yu-Ren Wang",
+            "Lu Li"
+          ],
+          "doi": "10.1038/s41467-026-77729-0",
+          "url": "https://www.semanticscholar.org/paper/44c7a105af443303abd089eafb49c94c357a9600",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "publication_types": [],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "functional_gene",
+        "metagenome",
+        "nitrogen",
+        "nitrogen_fixation",
+        "water"
+      ],
+      "detail_enriched_at": "2026-11-04T01:24:59.276630+00:00",
+      "edges_enriched_at": "2026-11-07T00:58:13.550206+00:00"
+    },
+    {
       "id": "f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "semantic_scholar_id": "f12b7564d448ec8d25fec68f23c7121fa3327cb1",
       "source": "Semantic Scholar",
@@ -48939,117 +49050,6 @@
       ],
       "detail_enriched_at": "2026-11-03T02:57:31.023180+00:00",
       "edges_enriched_at": "2026-11-06T01:36:10.322329+00:00"
-    },
-    {
-      "id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "semantic_scholar_id": "c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1002/lno.11243",
-      "title": "Non‐cyanobacterial diazotrophs dominate nitrogen‐fixing communities in permafrost thaw ponds",
-      "authors": [
-        "Leyden Fernández",
-        "S. Bertilsson",
-        "Sari Peura"
-      ],
-      "journal": "Limnology and Oceanography",
-      "publication_date": "2020-01-01",
-      "abstract": "There is a growing concern about the implications of accelerated thawing of permafrost for regional biogeochemical cycling of carbon and other bioreactive elements. One such element of concern is nitrogen, and in this study, we investigated the diversity and biogeography of potential diazotrophs within a series of thaw ponds representing different ontogenetic stages in pond development. Using metagenomic sequence data from subarctic thaw ponds, we identified an array of nitrogenase genes across the ponds. The iron‐only nitrogenase gene (anfH) was positively correlated with sulfate, while there was no correlation with methane despite previous findings that organisms carrying anfH can simultaneously participate in nitrogen fixation and methanogenesis. Sulfate is known to inhibit microbial uptake of molybdate, an element essential for the activity of the nifH (molybdenum‐iron) nitrogenase and this may explain the high potential for nitrogen fixation utilizing anfH in sulfate‐rich ponds. NifH was particularly abundant in the hypolimnion of the deeper and older ponds, with Deltaproteobacteria and Chlorobi as the putative dominant diazotrophs. In the epilimnetic waters, nifH composition was more variable, with various Gammaproteobacteria as abundant representatives, while cyanobacterial diazotrophs were scarce. Interestingly, nifH gene abundance was significantly positively correlated with in situ methane concentration. Based on genome‐resolved metagenomics, we hypothesize that diazotrophs and methanogens engage in syntrophic interactions in anoxic waters, possibly via propionate oxidation or (in Geobacter) by interspecies electron transfer. Our results also suggest that nitrogen fixers may supply bioreactive nitrogen compounds to the thaw pond communities, thereby enhancing growth and activity of methanogens.",
-      "url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/c1654b75632c321c5e05daff5abaf6ffedf888ef",
-      "pdf_url": "https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11243",
-      "citation_count": 22,
-      "influential_citation_count": 1,
-      "reference_count": 74,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "0ed3c41e95e5861fa0dacb8974a03e3b4a0a5b43",
-          "title": "Depth-stratified boreal peatland microbiomes reveal recurring community organization and methane-cycling potential",
-          "year": 2026,
-          "journal": "FEMS Microbiology Ecology",
-          "authors": [
-            "Tong Liu",
-            "Jacob Smeds",
-            "M. Nilsson"
-          ],
-          "doi": "10.1093/femsec/fiag111",
-          "url": "https://www.semanticscholar.org/paper/0ed3c41e95e5861fa0dacb8974a03e3b4a0a5b43",
-          "citation_count": 0
-        },
-        {
-          "id": "177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
-          "title": "Shifts in vegetation impact estuary microbiomes",
-          "year": 2026,
-          "journal": "mSystems",
-          "authors": [
-            "G. Aitolo",
-            "I. Rambo",
-            "R. Weisend"
-          ],
-          "doi": "10.1128/msystems.01071-26",
-          "url": "https://www.semanticscholar.org/paper/177f02f12a793574ce12cb7c7bd2e7acc2ed4f96",
-          "citation_count": 0
-        },
-        {
-          "id": "ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
-          "title": "Microbial diversity and nitrogen cycling across oxygen gradients in the eastern tropical Pacific during two La Niña years",
-          "year": 2026,
-          "journal": "mSystems",
-          "authors": [
-            "Pei-Hang Xu",
-            "D. L. Arévalo-Martínez",
-            "M. Middelboe"
-          ],
-          "doi": "10.1128/msystems.00893-26",
-          "url": "https://www.semanticscholar.org/paper/ef2c4d91bd4b52eed42138e9cf9866f6c90bce42",
-          "citation_count": 0
-        },
-        {
-          "id": "6920ec983ca6218aabcca294ca89ec4f714bd52a",
-          "title": "A metagenomic snapshot of metabolic potentials in wintertime eutrophic sediments of Lake Taihu inferred from metagenome-assembled genomes",
-          "year": 2026,
-          "journal": "Frontiers in Microbiology",
-          "authors": [
-            "Qi Wei",
-            "Ya-Jie Li",
-            "Ai-Dong Ruan"
-          ],
-          "doi": "10.3389/fmicb.2026.1929411",
-          "url": "https://www.semanticscholar.org/paper/6920ec983ca6218aabcca294ca89ec4f714bd52a",
-          "citation_count": 0
-        },
-        {
-          "id": "44c7a105af443303abd089eafb49c94c357a9600",
-          "title": "Niche specialization and prevalence of comammox Nitrospira in the alkaline sediments of thermokarst lakes on the Tibetan Plateau",
-          "year": 2026,
-          "journal": "Nature Communications",
-          "authors": [
-            "K. Song",
-            "Yu-Ren Wang",
-            "Lu Li"
-          ],
-          "doi": "10.1038/s41467-026-77729-0",
-          "url": "https://www.semanticscholar.org/paper/44c7a105af443303abd089eafb49c94c357a9600",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [
-        "Biology",
-        "Environmental Science"
-      ],
-      "publication_types": [],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "functional_gene",
-        "metagenome",
-        "nitrogen",
-        "nitrogen_fixation",
-        "water"
-      ],
-      "detail_enriched_at": "2026-11-04T01:24:59.276630+00:00",
-      "edges_enriched_at": "2026-11-07T00:58:13.550206+00:00"
     },
     {
       "id": "6f3c8b0ddd77bf629f5372b7d133e2c2801c736a",
@@ -51571,7 +51571,7 @@
         "Siu-Kin Ng",
         "Chee Kent Lim",
         "Hongyuan Lu",
-        "Yangyang Jia",
+        "Yang-Yang Jia",
         "Patrick K. H. Lee"
       ],
       "journal": "Frontiers in Microbiology",
