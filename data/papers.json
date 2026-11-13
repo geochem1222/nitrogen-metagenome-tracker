@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T02:17:30.650617+00:00",
+  "updated_at": "2026-11-13T01:54:00.345047+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -414,6 +414,122 @@
       ],
       "detail_enriched_at": "2026-11-12T02:17:17.635738+00:00",
       "edges_enriched_at": "2026-11-12T02:17:18.151913+00:00"
+    },
+    {
+      "id": "abfddeebe7f10be81c9b2aebbc30614338ed376d",
+      "semantic_scholar_id": "abfddeebe7f10be81c9b2aebbc30614338ed376d",
+      "source": "Semantic Scholar",
+      "pmid": "43008439",
+      "doi": "10.1016/j.jhazmat.2026.144167",
+      "title": "Dissolved organic nitrogen and ammonium trigger distinct pathways of geogenic Mn mobilization in groundwater.",
+      "authors": [
+        "Yu Liu",
+        "Bao-Cai Tong",
+        "Hong Lu",
+        "Xu Han",
+        "Jin-Sheng Wang",
+        "Liu-Ting Song",
+        "R. Zuo",
+        "Yuan-Zheng Zhai"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "publication_date": "2026-11-01",
+      "abstract": "Nitrogen (N) is a key groundwater quality indicator and an important component of biogeochemical cycleing. Existing evidence indicates that elevated manganese (Mn) concentrations in groundwater are closely associated with increases in dissolved organic nitrogen (DON) and ammonium nitrogen (NH4+-N). However, the mechanisms by which N influences Mn mobilization in aquifer sediment remain poorly understood. In this study, through microcosm experiments, 16S rRNA analysis, and metagenomic techniques, we elucidated the effects of exogenous DON and NH4+-N inputs on dissolved Mn release from aquifer sediments and the underlying microbial mechanisms. At the same N loading, proteinaceous DON induced greater dissolved Mn release than amino acid DON; relative to day 0, dissolved Mn concentrations in the G and B groups increased by 278.5% and 994.7% at day 30, respectively, and this process was mainly associated with microbial processes. In the NH4+-N system, dissolved Mn release was likely driven by both biotic and abiotic processes. Relative to day 0, dissolved Mn increased by 70.3% in the N group at day 30, and by 111.9% with AQDS addition at day 30. These findings demonstrate that distinct N-driven Mn mobilization pathways in aquifer sediments, providing mechanistic insights into geogenic Mn release under high-N-loading conditions.",
+      "url": "https://www.semanticscholar.org/paper/abfddeebe7f10be81c9b2aebbc30614338ed376d",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/abfddeebe7f10be81c9b2aebbc30614338ed376d",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 67,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "cc5c8b29d2003b013529ff0ccc37818f6409caa0",
+          "title": "Organic Carbon\nInputs from Lakes and Septic Systems\nIncrease Manganese Exposure Risk in Lakeside Private Wells",
+          "year": 2026,
+          "journal": "ACS ES&amp;T Water",
+          "authors": [
+            "Md. Muhyminul Islam",
+            "Janie Masse-Dufresne",
+            "J. Roy"
+          ],
+          "doi": "10.1021/acsestwater.6c00435",
+          "url": "https://www.semanticscholar.org/paper/cc5c8b29d2003b013529ff0ccc37818f6409caa0",
+          "citation_count": 0
+        },
+        {
+          "id": "5860c868108531159343b9c9c3dd01604baf56bf",
+          "title": "Dual drivers of groundwater ammonium enrichment in marine organic-rich riparian zones: Exogenous nitrate reduction and geological organic nitrogen mineralization.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Lin-Na Jia",
+            "Jia Xin",
+            "Wen-Lin Ren"
+          ],
+          "doi": "10.1016/j.watres.2026.127251",
+          "url": "https://www.semanticscholar.org/paper/5860c868108531159343b9c9c3dd01604baf56bf",
+          "citation_count": 0
+        },
+        {
+          "id": "54277091993a4836d9c092452ec492fc478d12f8",
+          "title": "Dissolved organic matter drives fraction-specific mobilization and transformation of redox-sensitive constituents in groundwater.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Lin-Mei Liu",
+            "Bao-Cai Tong",
+            "Yi-Han Cui"
+          ],
+          "doi": "10.1016/j.watres.2026.127169",
+          "url": "https://www.semanticscholar.org/paper/54277091993a4836d9c092452ec492fc478d12f8",
+          "citation_count": 0
+        },
+        {
+          "id": "3abe4dbb972553fc2720bc42c5ec34e9273e915a",
+          "title": "Nitrogen cycling regulates arsenic mobilization in alluvial-lacustrine aquifer systems: DOM molecular signatures and thermodynamic constraints.",
+          "year": 2026,
+          "journal": "Journal of Hazardous Materials",
+          "authors": [
+            "Qing-Feng Chen",
+            "Yi-Jun Yang",
+            "Chen-Hao Dong"
+          ],
+          "doi": "10.1016/j.jhazmat.2026.143803",
+          "url": "https://www.semanticscholar.org/paper/3abe4dbb972553fc2720bc42c5ec34e9273e915a",
+          "citation_count": 0
+        },
+        {
+          "id": "a4a2a1d1b0526e31796667bf4ff91b1069ddd0e0",
+          "title": "Nitrate Removal\nand Geogenic Contaminant Mobilization\nduring Oxic–Anoxic Cycling of Managed Aquifer Recharge Basin\nSoils",
+          "year": 2026,
+          "journal": "ACS ES&amp;T Water",
+          "authors": [
+            "Ben Maki",
+            "Miranda L. Aiken",
+            "Macon J. Abernathy"
+          ],
+          "doi": "10.1021/acsestwater.6c00664",
+          "url": "https://www.semanticscholar.org/paper/a4a2a1d1b0526e31796667bf4ff91b1069ddd0e0",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [
+        "Medicine"
+      ],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrogen",
+        "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-11-13T01:53:35.391756+00:00",
+      "edges_enriched_at": "2026-11-13T01:53:56.249058+00:00"
     },
     {
       "id": "b58f8b2d4995f8a504cb22b4e7dd2f2820818fab",
@@ -2433,59 +2549,17 @@
       ],
       "similar_papers": [
         {
-          "id": "a976b4d234390f7834af1bbb421922dfb8c4f324",
-          "title": "Rhizosphere microbiome assembly and functional enrichment drive salt tolerance in wheat.",
+          "id": "219cb9c14e945a51e463172918ae03063417964e",
+          "title": "Effect of Microbial Inoculants on Rhizosphere Soil Microbial Community Structure in Melon",
           "year": 2026,
-          "journal": "Journal of Environmental Management",
+          "journal": "Life",
           "authors": [
-            "Yan-Wei Kan",
-            "Yu-Hao Fu",
-            "Wen-Liang Yang"
+            "Jian Sun",
+            "Mei-Xia Liang",
+            "Ming-Mei Zhai"
           ],
-          "doi": "10.1016/j.jenvman.2026.130869",
-          "url": "https://www.semanticscholar.org/paper/a976b4d234390f7834af1bbb421922dfb8c4f324",
-          "citation_count": 0
-        },
-        {
-          "id": "87dd545dd1a7dece672c39ef0d30c25704c5c2b7",
-          "title": "Long-Term Fertilisation Regimes, Crop Yield and Rhizosphere Microecology in a Wheat–Soybean Rotation System",
-          "year": 2026,
-          "journal": "Plants",
-          "authors": [
-            "Jing-Yang Li",
-            "Qiu-Ju Wang",
-            "Xin-Yu Li"
-          ],
-          "doi": "10.3390/plants15193034",
-          "url": "https://www.semanticscholar.org/paper/87dd545dd1a7dece672c39ef0d30c25704c5c2b7",
-          "citation_count": 0
-        },
-        {
-          "id": "f196481eb1db4796d9722ff6c555c6e28e5e55f8",
-          "title": "Effects of cultivation of herbaceous perennials on soil microbial community structure and nitrogen cycling functions",
-          "year": 2026,
-          "journal": "Frontiers in Plant Science",
-          "authors": [
-            "Pu-Shun Bian",
-            "Bo Han",
-            "Hai-Feng Zhu"
-          ],
-          "doi": "10.3389/fpls.2026.1961532",
-          "url": "https://www.semanticscholar.org/paper/f196481eb1db4796d9722ff6c555c6e28e5e55f8",
-          "citation_count": 0
-        },
-        {
-          "id": "737d0ef3e67008f3a0efa6532c077e84d88e0bfb",
-          "title": "Effects of single and synthetic microbial community inoculants on the rhizosphere soil and root microbiomes of rice (Oryza sativa).",
-          "year": 2026,
-          "journal": "Functional Plant Biology",
-          "authors": [
-            "B. Kossalbayev",
-            "Jing-Jing Wang",
-            "Mo Wei"
-          ],
-          "doi": "10.1071/FP26125",
-          "url": "https://www.semanticscholar.org/paper/737d0ef3e67008f3a0efa6532c077e84d88e0bfb",
+          "doi": "10.3390/life16111810",
+          "url": "https://www.semanticscholar.org/paper/219cb9c14e945a51e463172918ae03063417964e",
           "citation_count": 0
         },
         {
@@ -2500,6 +2574,48 @@
           ],
           "doi": "10.1016/j.biortech.2026.135934",
           "url": "https://www.semanticscholar.org/paper/8a1c9a7140f0c484226384b4f6bbe785373a28c9",
+          "citation_count": 1
+        },
+        {
+          "id": "daa372abac9482f9f1f27ea3763151b2fb726b94",
+          "title": "Cultivar and Soil Properties Jointly Shape the Rhizosphere Microbial Communities and Biochemical Properties Associated with Ginger (Zingiber officinale) Productivity",
+          "year": 2026,
+          "journal": "International Journal of Molecular Sciences",
+          "authors": [
+            "Pan-Pan Yu",
+            "Liu Huang",
+            "Xin-Ju Wang"
+          ],
+          "doi": "10.3390/ijms27188428",
+          "url": "https://www.semanticscholar.org/paper/daa372abac9482f9f1f27ea3763151b2fb726b94",
+          "citation_count": 0
+        },
+        {
+          "id": "cbc0a234ab7846a1daae6242afb25da9af19e1f5",
+          "title": "Long-Term Fertilization Differentially Reshapes Bacterial CNPS Cycling Potential in Bulk and Rhizosphere Soils",
+          "year": 2026,
+          "journal": "Agronomy",
+          "authors": [
+            "Hao Chen",
+            "Lu-Yao Li",
+            "Wan-Ning Zheng"
+          ],
+          "doi": "10.3390/agronomy16191902",
+          "url": "https://www.semanticscholar.org/paper/cbc0a234ab7846a1daae6242afb25da9af19e1f5",
+          "citation_count": 0
+        },
+        {
+          "id": "f876f40a069068d219d4cbffff78f92a68055fb1",
+          "title": "Rhizosphere Microbiome Dynamics of BNI-Enriched Wheat Genotypes Across Contrasting Nitrogen Levels",
+          "year": 2026,
+          "journal": "Environments",
+          "authors": [
+            "C. N. Mishra",
+            "Swati Sharma",
+            "Sabhyata"
+          ],
+          "doi": "10.3390/environments13110597",
+          "url": "https://www.semanticscholar.org/paper/f876f40a069068d219d4cbffff78f92a68055fb1",
           "citation_count": 0
         }
       ],
@@ -2517,8 +2633,8 @@
         "nitrogen_fixation",
         "soil"
       ],
-      "detail_enriched_at": "2026-10-13T02:36:37.674938+00:00",
-      "edges_enriched_at": "2026-10-13T02:36:38.300752+00:00"
+      "detail_enriched_at": "2026-11-13T01:53:35.391756+00:00",
+      "edges_enriched_at": "2026-11-13T01:53:56.249058+00:00"
     },
     {
       "id": "99d30d45a8d47c7dd63e49457da25af09688ef39",
@@ -3154,122 +3270,6 @@
       "edges_enriched_at": "2026-11-03T02:58:48.524452+00:00"
     },
     {
-      "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1111/fwb.70301",
-      "title": "Microbial Communities, Resistome Risk and Nitrogen Metabolism‐Related Genes in Particle‐Attached and Free‐Living Microbial Fractions of Yunnan‐Guizhou Plateau Lakes",
-      "authors": [
-        "Cheng-Zhi Mao",
-        "Jie Huang",
-        "H. Grossart",
-        "Ramiro Logares",
-        "Li Chen",
-        "Qi Li",
-        "Tao Li"
-      ],
-      "journal": "Freshwater Biology",
-      "publication_date": "2026-09-01",
-      "abstract": "\n \n \n \n Plateau freshwater lakes are ecologically sensitive ecosystems that provide valuable opportunities to study relationships among microbial diversity, antibiotic resistance genes (ARGs), and nitrogen metabolism in aquatic environments. In this study, we investigated whether microbial community composition, resistance profiles, and nitrogen transformation functions are associated in freshwater lakes of the Yunnan‐Guizhou Plateau.\n \n \n This study analysed microbial community structure and functional diversity in eight freshwater lakes, with explicit comparisons between particle‐attached (PA) and free‐living (FL) microbial lifestyles. ARG profiles were characterised using metagenomic sequencing and bioinformatics analyses, and co‐occurrence patterns among ARGs, mobile genetic elements (MGEs), and nitrogen metabolism‐related genes were statistically evaluated.\n \n \n Particle‐attached microorganisms exhibited significantly higher community diversity, whereas free‐living fractions showed higher functional gene diversity, indicating clear niche partitioning between microbial lifestyles. Multiresistance genes, macrolide‐lincosamide‐streptogramin (MLS) resistance genes, and tetracycline resistance genes constituted the dominant resistance spectrum across the studied lakes. MGEs were strongly positively correlated with ARG abundance. Dissimilatory nitrate reduction to ammonium (DNRA) was the dominant nitrogen transformation pathway, and DNRA‐related genes were significantly positively correlated with ARGs. Members of Gammaproteobacteria were identified as major taxa associated with both DNRA‐related genes and ARGs.\n \n \n These results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes. In particular, the consistent correlations between ARGs and DNRA‐related genes suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear. Our findings highlight the importance of evaluating antimicrobial resistance risks in freshwater ecosystems within their broader biogeochemical context.\n \n \n",
-      "url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
-      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.70301",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 68,
-      "references": [],
-      "similar_papers": [
-        {
-          "id": "4e87d31c27da867c1e14e2b3d2f4e8aa34a71573",
-          "title": "Enriched multifunctional microbes coupling antibiotic resistance risk and nitrogen metabolic potential in eutrophic lakes.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Hao Li",
-            "Jia-Wen Wang",
-            "Ying-Hao Li"
-          ],
-          "doi": "10.1016/j.envres.2026.125764",
-          "url": "https://www.semanticscholar.org/paper/4e87d31c27da867c1e14e2b3d2f4e8aa34a71573",
-          "citation_count": 0
-        },
-        {
-          "id": "4de3424ac22fa432227bbd28867cd0af1c5accd3",
-          "title": "Substantial antibiotic resistance invasion of pristine river biofilms without specific alteration of the dominant community structure.",
-          "year": 2026,
-          "journal": "Environmental Pollution",
-          "authors": [
-            "Nicolas Hamiaux",
-            "F. Changey",
-            "Maï-Lan Tran"
-          ],
-          "doi": "10.1016/j.envpol.2026.129307",
-          "url": "https://www.semanticscholar.org/paper/4de3424ac22fa432227bbd28867cd0af1c5accd3",
-          "citation_count": 0
-        },
-        {
-          "id": "6cea0a944e528ac6df4ac67641b051f514d2d89b",
-          "title": "Plastisphere and Planktonic Communities in Italian Lakes: Distribution of Antibiotic Resistance Genes and Potential Pathogenic Taxa",
-          "year": 2026,
-          "journal": "Microplastics",
-          "authors": [
-            "V. Bocci",
-            "Simona Crognale",
-            "S. Amalfitano"
-          ],
-          "doi": "10.3390/microplastics5040193",
-          "url": "https://www.semanticscholar.org/paper/6cea0a944e528ac6df4ac67641b051f514d2d89b",
-          "citation_count": 0
-        },
-        {
-          "id": "1b4f2ee3ac3c5a2223a3c7db80d4c9f3707bdf49",
-          "title": "Marine particulate matter serves as a hotspot for enriching pathogenic bacteria and disseminating antibiotic resistance genes.",
-          "year": 2026,
-          "journal": "Marine Pollution Bulletin",
-          "authors": [
-            "Chao Wu",
-            "Xiao-Mei Shang",
-            "Zheng-Guo Cui"
-          ],
-          "doi": "10.1016/j.marpolbul.2026.120360",
-          "url": "https://www.semanticscholar.org/paper/1b4f2ee3ac3c5a2223a3c7db80d4c9f3707bdf49",
-          "citation_count": 0
-        },
-        {
-          "id": "7c111ba4f0e12b13a6ac5b8c7b6e7eb99f1843b3",
-          "title": "Antibiotic resistance profiles and associated factors in aquatic ecosystems with contrasting hydrodynamic settings.",
-          "year": 2026,
-          "journal": "Environmental Research",
-          "authors": [
-            "Jian-Hao Wang",
-            "Ze-Jun Lin",
-            "Yu-Xin Wang"
-          ],
-          "doi": "10.1016/j.envres.2026.125877",
-          "url": "https://www.semanticscholar.org/paper/7c111ba4f0e12b13a6ac5b8c7b6e7eb99f1843b3",
-          "citation_count": 0
-        }
-      ],
-      "fields_of_study": [],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "Results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes and suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear.",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "denitrification",
-        "dnra",
-        "functional_gene",
-        "metagenome",
-        "microbiome",
-        "nitrogen",
-        "water"
-      ],
-      "detail_enriched_at": "2026-11-11T01:16:57.592767+00:00",
-      "edges_enriched_at": "2026-11-11T01:17:18.628825+00:00"
-    },
-    {
       "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
       "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
       "source": "Semantic Scholar",
@@ -3426,6 +3426,122 @@
       ],
       "detail_enriched_at": "2026-10-18T23:14:18.970336+00:00",
       "edges_enriched_at": "2026-10-18T23:14:19.537130+00:00"
+    },
+    {
+      "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1111/fwb.70301",
+      "title": "Microbial Communities, Resistome Risk and Nitrogen Metabolism‐Related Genes in Particle‐Attached and Free‐Living Microbial Fractions of Yunnan‐Guizhou Plateau Lakes",
+      "authors": [
+        "Cheng-Zhi Mao",
+        "Jie Huang",
+        "H. Grossart",
+        "Ramiro Logares",
+        "Li Chen",
+        "Qi Li",
+        "Tao Li"
+      ],
+      "journal": "Freshwater Biology",
+      "publication_date": "2026-09-01",
+      "abstract": "\n \n \n \n Plateau freshwater lakes are ecologically sensitive ecosystems that provide valuable opportunities to study relationships among microbial diversity, antibiotic resistance genes (ARGs), and nitrogen metabolism in aquatic environments. In this study, we investigated whether microbial community composition, resistance profiles, and nitrogen transformation functions are associated in freshwater lakes of the Yunnan‐Guizhou Plateau.\n \n \n This study analysed microbial community structure and functional diversity in eight freshwater lakes, with explicit comparisons between particle‐attached (PA) and free‐living (FL) microbial lifestyles. ARG profiles were characterised using metagenomic sequencing and bioinformatics analyses, and co‐occurrence patterns among ARGs, mobile genetic elements (MGEs), and nitrogen metabolism‐related genes were statistically evaluated.\n \n \n Particle‐attached microorganisms exhibited significantly higher community diversity, whereas free‐living fractions showed higher functional gene diversity, indicating clear niche partitioning between microbial lifestyles. Multiresistance genes, macrolide‐lincosamide‐streptogramin (MLS) resistance genes, and tetracycline resistance genes constituted the dominant resistance spectrum across the studied lakes. MGEs were strongly positively correlated with ARG abundance. Dissimilatory nitrate reduction to ammonium (DNRA) was the dominant nitrogen transformation pathway, and DNRA‐related genes were significantly positively correlated with ARGs. Members of Gammaproteobacteria were identified as major taxa associated with both DNRA‐related genes and ARGs.\n \n \n These results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes. In particular, the consistent correlations between ARGs and DNRA‐related genes suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear. Our findings highlight the importance of evaluating antimicrobial resistance risks in freshwater ecosystems within their broader biogeochemical context.\n \n \n",
+      "url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.70301",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 68,
+      "references": [],
+      "similar_papers": [
+        {
+          "id": "4e87d31c27da867c1e14e2b3d2f4e8aa34a71573",
+          "title": "Enriched multifunctional microbes coupling antibiotic resistance risk and nitrogen metabolic potential in eutrophic lakes.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Hao Li",
+            "Jia-Wen Wang",
+            "Ying-Hao Li"
+          ],
+          "doi": "10.1016/j.envres.2026.125764",
+          "url": "https://www.semanticscholar.org/paper/4e87d31c27da867c1e14e2b3d2f4e8aa34a71573",
+          "citation_count": 0
+        },
+        {
+          "id": "4de3424ac22fa432227bbd28867cd0af1c5accd3",
+          "title": "Substantial antibiotic resistance invasion of pristine river biofilms without specific alteration of the dominant community structure.",
+          "year": 2026,
+          "journal": "Environmental Pollution",
+          "authors": [
+            "Nicolas Hamiaux",
+            "F. Changey",
+            "Maï-Lan Tran"
+          ],
+          "doi": "10.1016/j.envpol.2026.129307",
+          "url": "https://www.semanticscholar.org/paper/4de3424ac22fa432227bbd28867cd0af1c5accd3",
+          "citation_count": 0
+        },
+        {
+          "id": "6cea0a944e528ac6df4ac67641b051f514d2d89b",
+          "title": "Plastisphere and Planktonic Communities in Italian Lakes: Distribution of Antibiotic Resistance Genes and Potential Pathogenic Taxa",
+          "year": 2026,
+          "journal": "Microplastics",
+          "authors": [
+            "V. Bocci",
+            "Simona Crognale",
+            "S. Amalfitano"
+          ],
+          "doi": "10.3390/microplastics5040193",
+          "url": "https://www.semanticscholar.org/paper/6cea0a944e528ac6df4ac67641b051f514d2d89b",
+          "citation_count": 0
+        },
+        {
+          "id": "1b4f2ee3ac3c5a2223a3c7db80d4c9f3707bdf49",
+          "title": "Marine particulate matter serves as a hotspot for enriching pathogenic bacteria and disseminating antibiotic resistance genes.",
+          "year": 2026,
+          "journal": "Marine Pollution Bulletin",
+          "authors": [
+            "Chao Wu",
+            "Xiao-Mei Shang",
+            "Zheng-Guo Cui"
+          ],
+          "doi": "10.1016/j.marpolbul.2026.120360",
+          "url": "https://www.semanticscholar.org/paper/1b4f2ee3ac3c5a2223a3c7db80d4c9f3707bdf49",
+          "citation_count": 0
+        },
+        {
+          "id": "7c111ba4f0e12b13a6ac5b8c7b6e7eb99f1843b3",
+          "title": "Antibiotic resistance profiles and associated factors in aquatic ecosystems with contrasting hydrodynamic settings.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Jian-Hao Wang",
+            "Ze-Jun Lin",
+            "Yu-Xin Wang"
+          ],
+          "doi": "10.1016/j.envres.2026.125877",
+          "url": "https://www.semanticscholar.org/paper/7c111ba4f0e12b13a6ac5b8c7b6e7eb99f1843b3",
+          "citation_count": 0
+        }
+      ],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "Results demonstrate previously underappreciated associations between antibiotic resistance and nitrogen‐cycling functions in Plateau freshwater lakes and suggest a potential ecological linkage between these functions, although the underlying mechanisms remain unclear.",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "denitrification",
+        "dnra",
+        "functional_gene",
+        "metagenome",
+        "microbiome",
+        "nitrogen",
+        "water"
+      ],
+      "detail_enriched_at": "2026-11-11T01:16:57.592767+00:00",
+      "edges_enriched_at": "2026-11-11T01:17:18.628825+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -6050,7 +6166,7 @@
         "nitrogen_fixation",
         "soil"
       ],
-      "detail_enriched_at": "2026-10-14T00:20:05.448286+00:00",
+      "detail_enriched_at": "2026-11-13T01:53:35.391756+00:00",
       "edges_enriched_at": "2026-10-14T23:56:21.010761+00:00"
     },
     {
@@ -18953,7 +19069,7 @@
       "url": "https://www.semanticscholar.org/paper/ff4d05baec8d7b495746d70662a0a8f34a2b66e5",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/ff4d05baec8d7b495746d70662a0a8f34a2b66e5",
       "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1615520/pdf",
-      "citation_count": 6,
+      "citation_count": 7,
       "influential_citation_count": 0,
       "reference_count": 44,
       "references": [
@@ -25637,7 +25753,7 @@
       "url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0fbc85824864b4107d519ebc56bbc7b00238503c",
       "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.14431",
-      "citation_count": 39,
+      "citation_count": 40,
       "influential_citation_count": 0,
       "reference_count": 105,
       "references": [],
@@ -27183,7 +27299,7 @@
       "url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/17dfbfe60f32937aaf74bee5bbf5e32133c8820b",
       "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1411073/pdf",
-      "citation_count": 57,
+      "citation_count": 58,
       "influential_citation_count": 1,
       "reference_count": 72,
       "references": [
@@ -32373,7 +32489,7 @@
       "doi": "10.1007/s11427-023-2432-9",
       "title": "Green manuring relocates microbiomes in driving the soil functionality of nitrogen cycling to obtain preferable grain yields in thirty years",
       "authors": [
-        "Guopeng Zhou",
+        "Guo-Peng Zhou",
         "Kun-Kun Fan",
         "Song-Juan Gao",
         "D. Chang",
@@ -34375,7 +34491,7 @@
       "doi": "10.1016/j.jenvman.2023.118733",
       "title": "Patters of reactive nitrogen removal at the waters in the semi-constructed wetland.",
       "authors": [
-        "Ai-Ju You",
+        "A. You",
         "L. Hua",
         "Jing-Wen Hu",
         "Junsong Tian",
@@ -42708,7 +42824,7 @@
       "url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/3f313e1193a6d56680fabc3947d9fade5b7f66b4",
       "pdf_url": "",
-      "citation_count": 38,
+      "citation_count": 39,
       "influential_citation_count": 1,
       "reference_count": 0,
       "references": [],
