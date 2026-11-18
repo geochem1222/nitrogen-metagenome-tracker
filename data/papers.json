@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T03:59:30.122612+00:00",
+  "updated_at": "2026-11-18T02:57:17.543725+00:00",
   "sources": [
     "Semantic Scholar"
   ],
@@ -261,7 +261,7 @@
         "Jin Li",
         "Chen Li",
         "Jian-Gen Zhang",
-        "Qiao Shuang",
+        "Qiao-Yun Shuang",
         "Jun Le",
         "Xin-Feng Jiang"
       ],
@@ -2880,7 +2880,7 @@
         "W. Wanek",
         "Xiang-De Yang",
         "K. Marsden",
-        "David R. Chadwick",
+        "D. Chadwick",
         "A. Gregory",
         "Yong-Chao Liang",
         "Liang-Huan Wu",
@@ -3272,45 +3272,6 @@
       "edges_enriched_at": "2026-11-03T02:58:48.524452+00:00"
     },
     {
-      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "source": "Semantic Scholar",
-      "pmid": "",
-      "doi": "10.1016/j.pedsph.2026.09.008",
-      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
-      "authors": [
-        "Takeshi Shoda",
-        "Miku Hayakawa",
-        "R. Nakazato",
-        "Tomoyasu Nishizawa"
-      ],
-      "journal": "Pedosphere",
-      "publication_date": "2026-09-01",
-      "abstract": "",
-      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
-      "pdf_url": "",
-      "citation_count": 0,
-      "influential_citation_count": 0,
-      "reference_count": 59,
-      "references": [],
-      "similar_papers": [],
-      "fields_of_study": [],
-      "publication_types": [
-        "JournalArticle"
-      ],
-      "tldr": "",
-      "metrics_source": "Semantic Scholar",
-      "tags": [
-        "metagenome",
-        "nitrogen",
-        "sediment",
-        "water"
-      ],
-      "detail_enriched_at": "2026-10-30T01:02:51.542516+00:00",
-      "edges_enriched_at": "2026-10-30T01:02:52.304734+00:00"
-    },
-    {
       "id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
       "semantic_scholar_id": "a97cbe0aa18e720c16bd3695d9ce0b4b8c89d65d",
       "source": "Semantic Scholar",
@@ -3321,7 +3282,7 @@
         "Cheng-Zhi Mao",
         "Jie Huang",
         "H. Grossart",
-        "Ramiro Logares",
+        "R. Logares",
         "Li Chen",
         "Qi Li",
         "Tao Li"
@@ -3427,6 +3388,45 @@
       "edges_enriched_at": "2026-11-11T01:17:18.628825+00:00"
     },
     {
+      "id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_id": "38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "source": "Semantic Scholar",
+      "pmid": "",
+      "doi": "10.1016/j.pedsph.2026.09.008",
+      "title": "Microbial metagenomics of nitrogen cycle in the eutrophic lake Kasumigaura (Kitaura) sediments under summer hypoxic conditions",
+      "authors": [
+        "Takeshi Shoda",
+        "Miku Hayakawa",
+        "R. Nakazato",
+        "T. Nishizawa"
+      ],
+      "journal": "Pedosphere",
+      "publication_date": "2026-09-01",
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "semantic_scholar_url": "https://www.semanticscholar.org/paper/38a351d37a00a39831f2e5a27b0afa2c38d66b50",
+      "pdf_url": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "reference_count": 59,
+      "references": [],
+      "similar_papers": [],
+      "fields_of_study": [],
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "tldr": "",
+      "metrics_source": "Semantic Scholar",
+      "tags": [
+        "metagenome",
+        "nitrogen",
+        "sediment",
+        "water"
+      ],
+      "detail_enriched_at": "2026-10-30T01:02:51.542516+00:00",
+      "edges_enriched_at": "2026-10-30T01:02:52.304734+00:00"
+    },
+    {
       "id": "c43b98c543d6791fc085323e35785ad124d7c947",
       "semantic_scholar_id": "c43b98c543d6791fc085323e35785ad124d7c947",
       "source": "Semantic Scholar",
@@ -3453,17 +3453,17 @@
       "references": [],
       "similar_papers": [
         {
-          "id": "727ae43b21bf9ddc5de822ace425d895b10a2b8b",
-          "title": "A dual-solution for coastal cities: global potential of Ulva prolifera biochar in macroalgal waste disposal and wastewater nitrogen removal enhancement.",
+          "id": "ae30be04c2ad88d43e0f61d5f1869f5459033c95",
+          "title": "Phenology-Dependent Reorganization of Nitrate Reduction Pathways in Rice Paddy Periphyton.",
           "year": 2026,
-          "journal": "Bioresource Technology",
+          "journal": "Environmental Microbiology",
           "authors": [
-            "Peng Guo",
-            "Xian-Biao Lin",
-            "Min Li"
+            "Peng-Fei Sun",
+            "Yong-Hong Wu",
+            "Pei-Fang Wang"
           ],
-          "doi": "10.1016/j.biortech.2026.135830",
-          "url": "https://www.semanticscholar.org/paper/727ae43b21bf9ddc5de822ace425d895b10a2b8b",
+          "doi": "10.1111/1462-2920.70432",
+          "url": "https://www.semanticscholar.org/paper/ae30be04c2ad88d43e0f61d5f1869f5459033c95",
           "citation_count": 0
         },
         {
@@ -3474,52 +3474,52 @@
           "authors": [
             "Brittany P. Wilburn",
             "R. Ikeh",
-            "Marina Potapova"
+            "M. Potapova"
           ],
           "doi": "10.1016/j.jenvman.2026.131078",
           "url": "https://www.semanticscholar.org/paper/2ec55f6bf901d105626ec00634b38ca72ed303a0",
           "citation_count": 0
         },
         {
-          "id": "62a6894a8283264b48488fadff45aeb0ff417e9e",
-          "title": "Carbon-sulfur regulation for deep nitrogen removal in Arundo donax straw/elemental sulfur-amended surface flow constructed wetlands: Metagenomic and metabolomic insights.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Yan-Jie Zhang",
-            "Huan Wang",
-            "Yu Ling"
-          ],
-          "doi": "10.1016/j.biortech.2026.135874",
-          "url": "https://www.semanticscholar.org/paper/62a6894a8283264b48488fadff45aeb0ff417e9e",
-          "citation_count": 0
-        },
-        {
-          "id": "4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
-          "title": "Pyrolusite-mediated denitrifying anaerobic methane oxidation for simultaneous enhancement of nitrogen removal and greenhouse gas mitigation in wetlands.",
-          "year": 2026,
-          "journal": "Bioresource Technology",
-          "authors": [
-            "Qing-Yuan Tian",
-            "Wen-Huai Wang",
-            "Bo-Wen Liu"
-          ],
-          "doi": "10.1016/j.biortech.2026.135814",
-          "url": "https://www.semanticscholar.org/paper/4a62d68a07fba2eea770b90294a9ce8f1e4718d5",
-          "citation_count": 0
-        },
-        {
-          "id": "954e4432f691a6e37fbe322cabfd7c68aad71f57",
-          "title": "Chlorite-Mediated Regulation of Nitrite Accumulation and Nitrogen Removal in Integrated Partial Denitrification/Anammox Biofilter.",
+          "id": "a2f69aa2ebd6eee499b81154e4ab955b8d00cdb9",
+          "title": "Plant-driven microbiome reorganization sustains multifunctionality of iron-biochar constructed wetlands under chronic PFOA exposure.",
           "year": 2026,
           "journal": "Environmental Research",
           "authors": [
-            "Yue Yue",
-            "Hai-Yan Liu",
-            "Zhan-Sheng Ma"
+            "Xiu-Wen Qian",
+            "Juan Huang",
+            "Zhi-Shui Liang"
           ],
-          "doi": "10.1016/j.envres.2026.125786",
-          "url": "https://www.semanticscholar.org/paper/954e4432f691a6e37fbe322cabfd7c68aad71f57",
+          "doi": "10.1016/j.envres.2026.125826",
+          "url": "https://www.semanticscholar.org/paper/a2f69aa2ebd6eee499b81154e4ab955b8d00cdb9",
+          "citation_count": 0
+        },
+        {
+          "id": "5860c868108531159343b9c9c3dd01604baf56bf",
+          "title": "Dual drivers of groundwater ammonium enrichment in marine organic-rich riparian zones: Exogenous nitrate reduction and geological organic nitrogen mineralization.",
+          "year": 2026,
+          "journal": "Water Research",
+          "authors": [
+            "Lin-Na Jia",
+            "Jia Xin",
+            "Wen-Lin Ren"
+          ],
+          "doi": "10.1016/j.watres.2026.127251",
+          "url": "https://www.semanticscholar.org/paper/5860c868108531159343b9c9c3dd01604baf56bf",
+          "citation_count": 0
+        },
+        {
+          "id": "3a978d6b06e9d9c62722f50eea36af925eca5ff2",
+          "title": "Nitrate accumulation and transformation processes within a karst conduit system: Insights from hydrochemistry, stable isotopes, metagenomics, and tracer tests.",
+          "year": 2026,
+          "journal": "Environmental Research",
+          "authors": [
+            "Hui Dong",
+            "Kun Ren",
+            "Jia-Cheng Lan"
+          ],
+          "doi": "10.1016/j.envres.2026.125870",
+          "url": "https://www.semanticscholar.org/paper/3a978d6b06e9d9c62722f50eea36af925eca5ff2",
           "citation_count": 0
         }
       ],
@@ -3542,8 +3542,8 @@
         "sediment",
         "water"
       ],
-      "detail_enriched_at": "2026-10-18T23:14:18.970336+00:00",
-      "edges_enriched_at": "2026-10-18T23:14:19.537130+00:00"
+      "detail_enriched_at": "2026-11-18T02:57:14.955654+00:00",
+      "edges_enriched_at": "2026-11-18T02:57:15.512999+00:00"
     },
     {
       "id": "b40feb38ac7c1140c133ef434cf1423ea8e6cece",
@@ -5208,7 +5208,7 @@
       "doi": "10.1016/j.jenvman.2026.130690",
       "title": "Labile carbon supply modulates H2O2-mediated N2O emissions during sediment denitrification: Insights from metagenomics.",
       "authors": [
-        "Pan Huo",
+        "P. Huo",
         "Yue Li",
         "Tian-Yi Han",
         "Tian-Yi Zhang",
@@ -6019,7 +6019,7 @@
         "Kaitlyn M. Van der Zwan",
         "J. Singh",
         "Matthew Coghill",
-        "M. Akin‐Fajiye",
+        "M. Akin-Fajiye",
         "Lauchlan H. Fraser"
       ],
       "journal": "Journal of Environmental Management",
@@ -7634,7 +7634,7 @@
         "Yuan-Yuan Shen",
         "Yun-Zhi Qian",
         "Liping Wang",
-        "Bo-Tao Nie",
+        "Bo Nie",
         "Shi-Long He"
       ],
       "journal": "Journal of Environmental Chemical Engineering",
@@ -12064,7 +12064,7 @@
         "A. Sharrar",
         "M. Tfaily",
         "Jason G. Toyoda",
-        "Nikola Tolić",
+        "N. Toliċ",
         "Shi Wang",
         "Allison R Wong",
         "K. Williams",
@@ -13970,7 +13970,7 @@
         "Meili Xu",
         "Changjun Gao",
         "Chunyi Zheng",
-        "Kunshan Bao",
+        "K. Bao",
         "Jiao-Jiao Ma"
       ],
       "journal": "Environmental Research",
@@ -14537,7 +14537,7 @@
         "W. Wong",
         "Pok M. Leung",
         "Adam J. Kessler",
-        "C. Greening",
+        "Chris Greening",
         "Perran L. M. Cook"
       ],
       "journal": "Science of the Total Environment",
@@ -15563,7 +15563,7 @@
         "Yue-Feng Yu",
         "Hai-Fu Liang",
         "Yong-Cheng Mo",
-        "Huiping Ou",
+        "Hui-Ping Ou",
         "Tieguang He",
         "Hong-Qin Tang",
         "Mao-Yan Tang"
@@ -17366,14 +17366,14 @@
       "authors": [
         "Ya-Ping Liu",
         "Yuta Ise",
-        "Hideto Takami",
+        "H. Takami",
         "R. Urakawa",
         "R. Tateno",
-        "Atsushi Toyoda",
-        "Nobuhito Ohte",
+        "A. Toyoda",
+        "N. Ohte",
         "Wei-Yu Shi",
         "Lin-Feng Jiang",
-        "Kazuo Isobe"
+        "K. Isobe"
       ],
       "journal": "iMetaOmics",
       "publication_date": "2025-09-18",
@@ -18128,7 +18128,7 @@
       "url": "https://www.semanticscholar.org/paper/0658e44edb979bf5e226333e81de54335ca14177",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/0658e44edb979bf5e226333e81de54335ca14177",
       "pdf_url": "",
-      "citation_count": 7,
+      "citation_count": 8,
       "influential_citation_count": 0,
       "reference_count": 51,
       "references": [],
@@ -19400,7 +19400,7 @@
         "Min Zhang",
         "Jianwu Jiang",
         "Caihua Li",
-        "Ou Fang",
+        "O. Fang",
         "Wenbing Wang",
         "Jin Zhang",
         "Nicholas Clarke",
@@ -21894,13 +21894,13 @@
         "D. Pranowo",
         "C. Martasari",
         "M. Kosmiatin",
-        "Cece Suhara",
-        "Tri Sudaryono",
+        "C. Suhara",
+        "T. Sudaryono",
         "Y. Prayogo",
         "Krishna Kumar Yadav",
         "K. Muzammil",
         "L. Eltayeb",
-        "M. Alreshidi",
+        "M. A. Alreshidi",
         "Reena Singh"
       ],
       "journal": "Biotechnology Advances",
@@ -22012,7 +22012,7 @@
         "M. Barriga",
         "A. Nelson",
         "Peter M. Homyak",
-        "Michael J. Wilkins",
+        "M. Wilkins",
         "S. Glassman"
       ],
       "journal": "bioRxiv",
@@ -23485,7 +23485,7 @@
       "title": "Spatial Distribution of Potential Nitrogen Reduction Rates and Associated Microbial Communities Revealed by Metagenomic Analysis in Yangtze River Sediments.",
       "authors": [
         "Jia-Xun Guo",
-        "Aomei Guan",
+        "Ao-Mei Guan",
         "Min Chen",
         "Yufeng Chen",
         "Wei-Xiao Qi",
@@ -24726,7 +24726,7 @@
       "title": "MOLECULAR ASSESSMENT OF SOIL NITROGEN CYCLE UNDER ORGANIC AMENDMENTS IN COTTON BROAD-ACREAGE PRODUCTION",
       "authors": [
         "Sind Aldorri",
-        "Hamid Gehad Abd Oun",
+        "Hamid Abdoun",
         "Alicia Morugán-Coronado",
         "L. Pereg"
       ],
@@ -24839,7 +24839,7 @@
       "doi": "10.3390/genes15121532",
       "title": "Metagenomic Insights into the Enhancement of Bioavailable Nitrogen in Continuous Cropping Soil Through the Application of Traditional Chinese Medicine Residue Following Fumigation",
       "authors": [
-        "Xiangqin Xu",
+        "Xiang-Qin Xu",
         "Xi Gao",
         "Cheng Gui",
         "Hang Wang",
@@ -25121,7 +25121,7 @@
         "Xin-Di Zhao",
         "Zi-Yu Gao",
         "Jing-Jing Peng",
-        "Konstantinos T. Konstantinidis",
+        "K. Konstantinidis",
         "Si-Yu Zhang"
       ],
       "journal": "Microbiome",
@@ -25861,7 +25861,7 @@
         "F. Bak",
         "Li-Mei Zhang",
         "Gui-Lan Duan",
-        "Werner Liesack",
+        "W. Liesack",
         "Yong-Guan Zhu"
       ],
       "journal": "Environmental Science and Technology",
@@ -27457,11 +27457,11 @@
       "title": "Impact of elevated CO2 on soil microbiota: A meta-analytical review of carbon and nitrogen metabolism.",
       "authors": [
         "Maryam Tariq",
-        "Yuexian Liu",
+        "Yue-Xian Liu",
         "Ali Rizwan",
         "Ammara Shoukat",
         "Qudsia Aftab",
-        "Jinfeng Lu",
+        "Jin-Feng Lu",
         "Yuan-Xun Zhang"
       ],
       "journal": "Science of the Total Environment",
@@ -28290,7 +28290,7 @@
         "Jing-Wen Fan",
         "A. Khan",
         "Pu Liu",
-        "Ondřej Mašek",
+        "O. Mašek",
         "Xiang-Kai Li"
       ],
       "journal": "Journal of Hazardous Materials",
@@ -28742,7 +28742,7 @@
         "Qinglong Zhang",
         "Yunjung Park",
         "Stephanie J. Wilson",
-        "Craig R. Tobias",
+        "C. Tobias",
         "Soonmo An"
       ],
       "journal": "Frontiers in Marine Science",
@@ -29025,9 +29025,9 @@
         "Bei Liu",
         "Hauke Ahnemann",
         "D. Arlotti",
-        "Bruno Huyghebaert",
+        "B. Huyghebaert",
         "F. Cuperus",
-        "C. C. Tebbe"
+        "C. Tebbe"
       ],
       "journal": "Science of the Total Environment",
       "publication_date": "2024-05-07",
@@ -29892,7 +29892,7 @@
         "Ying Sun",
         "Rui Su",
         "Li-Hua Zhang",
-        "Sergei Lupakov",
+        "S. Lupakov",
         "Yan-Yu Song",
         "Chang-Chun Song",
         "Xiao-Feng Xu"
@@ -34040,7 +34040,7 @@
         "Kristina Pfeiffer-Zakharova",
         "G. Vestergaard",
         "K. Hartman",
-        "Eloi Parladé",
+        "E. Parladé",
         "J. Römbke",
         "Catherine J. Watson",
         "M. Schloter",
@@ -34376,7 +34376,7 @@
         "Xin-Wei Shi",
         "Weilan Tan",
         "Shu-Ting Tang",
-        "Qiujie Ling",
+        "Q. Ling",
         "Chi-Fung Tang",
         "Peiqing Qin",
         "Shi-Yu Luo",
@@ -34494,7 +34494,7 @@
       "doi": "10.1016/j.jenvman.2023.118733",
       "title": "Patters of reactive nitrogen removal at the waters in the semi-constructed wetland.",
       "authors": [
-        "A. You",
+        "Ai-Ju You",
         "L. Hua",
         "Jing-Wen Hu",
         "Junsong Tian",
@@ -37520,7 +37520,7 @@
         "M. Salcher",
         "A. Andrei",
         "R. Ghai",
-        "F. Klotz",
+        "Franziska Klotz",
         "M. Chiriac",
         "Danny Ionescu",
         "Petra Büsing",
@@ -40352,7 +40352,7 @@
         "Shumin Guo",
         "Yihe Zhang",
         "M. Huang",
-        "E. Valsami-Jones",
+        "E. Valsami-jones",
         "I. Lynch",
         "Xueyan Liu",
         "Jin-Yang Wang",
@@ -42085,7 +42085,7 @@
       "url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "semantic_scholar_url": "https://www.semanticscholar.org/paper/f71841c5bcdd3423364983e80d705ee0fd433742",
       "pdf_url": "https://www.nature.com/articles/s43705-021-00073-5.pdf",
-      "citation_count": 96,
+      "citation_count": 98,
       "influential_citation_count": 1,
       "reference_count": 65,
       "references": [
@@ -43217,7 +43217,7 @@
       "doi": "10.1038/s41396-022-01216-9",
       "title": "Quantification of archaea-driven freshwater nitrification from single cell to ecosystem levels",
       "authors": [
-        "F. Klotz",
+        "Franziska Klotz",
         "Katharina Kitzinger",
         "D. Ngugi",
         "Petra Büsing",
@@ -44294,12 +44294,12 @@
       "doi": "10.1016/J.PEDOBI.2021.150724",
       "title": "Effects of diversionary feeding on abundance of microbes involved in soil nitrogen cycling on a Mediterranean mountain",
       "authors": [
-        "R. Pascual‐Rico",
+        "R. Pascual-Rico",
         "Alicia Morugán-Coronado",
         "L. Pereg",
-        "S. S. Aldouri",
+        "Sind Shamel Aldouri",
         "F. García-Orenes",
-        "J. A. Sánchez-Zapata"
+        "J. Sánchez-Zapata"
       ],
       "journal": "Pedobiologia",
       "publication_date": "2021-03-08",
@@ -47407,7 +47407,7 @@
       "title": "Diazotroph Genomes and Their Seasonal Dynamics in a Stratified Humic Bog Lake",
       "authors": [
         "Leyden Fernández",
-        "Sari Peura",
+        "S. Peura",
         "A. Eiler",
         "A. Linz",
         "K. McMahon",
@@ -47988,7 +47988,7 @@
         "Jie Hou",
         "Kang Song",
         "Jie-Yun Chen",
-        "Jing-Yi Gou",
+        "Jing-Wei Gou",
         "Da-Peng Li",
         "Xu-Gang He"
       ],
@@ -48265,7 +48265,7 @@
       "doi": "10.1016/j.scitotenv.2020.138148",
       "title": "Riparian land-use systems impact soil microbial communities and nitrous oxide emissions in an agro-ecosystem.",
       "authors": [
-        "Tolulope Mafa-Attoye",
+        "Tolulope G. Mafa-Attoye",
         "M. Baskerville",
         "E. Ofosu",
         "M. Oelbermann",
@@ -48387,7 +48387,7 @@
       "doi": "10.5194/egusphere-egu2020-21605",
       "title": "Revealing how nitrogen fertilisation regulates the fluxes of COS and CO2 between soil communities and the atmosphere using a functional metagenomic and metatranscriptomic approach",
       "authors": [
-        "E. Van Schaik",
+        "Evert van Schaik",
         "Samuel Mondy",
         "M. Lelièvre",
         "M. Martín",
@@ -49238,7 +49238,7 @@
       "authors": [
         "Leyden Fernández",
         "S. Bertilsson",
-        "Sari Peura"
+        "S. Peura"
       ],
       "journal": "Limnology and Oceanography",
       "publication_date": "2020-01-01",
@@ -49634,7 +49634,7 @@
       "title": "Metagenomics coupled with biogeochemical rates measurements provide evidence that nitrate addition stimulates respiration in salt marsh sediments",
       "authors": [
         "Ashley N. Bulseco",
-        "Joseph H. Vineis",
+        "J. Vineis",
         "Anna E. Murphy",
         "A. Spivak",
         "A. Giblin",
@@ -52369,7 +52369,7 @@
       "title": "Reconstructing the Genetic Potential of the Microbially-Mediated Nitrogen Cycle in a Salt Marsh Ecosystem",
       "authors": [
         "F. Dini-Andreote",
-        "Maria Julia de L Brossi",
+        "M. J. de L Brossi",
         "J. van Elsas",
         "J. Salles"
       ],
@@ -52533,7 +52533,7 @@
       "doi": "10.1038/srep12102",
       "title": "Metagenomic insights into strategies of aerobic and anaerobic carbon and nitrogen transformation in boreal lakes",
       "authors": [
-        "Sari Peura",
+        "S. Peura",
         "Lucas Sinclair",
         "S. Bertilsson",
         "A. Eiler"
@@ -52974,7 +52974,7 @@
       "authors": [
         "K. Zhalnina",
         "Raquel Dias",
-        "Michael T Leonard",
+        "Michael T. Leonard",
         "Patricia Dörr de Quadros",
         "F. Camargo",
         "Jennifer C. Drew",
